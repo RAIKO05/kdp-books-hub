@@ -1,0 +1,47 @@
+================================================================================
+KDP LISTING METADATA: THE DETECTIVE'S CASE FILES • VOLUME 1
+================================================================================
+
+[BOOK TITLE]: Case Files & Clues: Volume 1
+[SUBTITLE]: 35 Multi-Game Murder Mystery Dossiers for Adults: Logic Grids, Ciphers, Forensic Sweeps & Arrest Warrants
+[SERIES NAME]: The Detective's Case Files
+[SERIES NUMBER]: 1
+[AUTHOR NAME]: Enter your preferred pen name or real name (e.g. Mouad Zitouni)
+
+[PRINT SETTINGS]:
+- Trim Size: 6" x 9" (15.24 x 22.86 cm)
+- Page Count: 176 Pages
+- Interior: Black & white interior with white paper
+- Bleed Settings: No bleed (for interior)
+- Cover Finish: Matte
+
+[PRICING]:
+- List Price: $12.99 USD
+- KDP Print Cost: $3.11 USD
+- Royalty per Sale: $4.68 USD (60% standard distribution)
+
+[CATEGORIES]:
+1. Crafts, Hobbies & Home > Crafts & Hobbies > Activity Books
+2. Humor & Entertainment > Puzzles & Games > Logic & Brain Teasers
+3. Mystery, Thriller & Suspense > Mystery > Traditional Detective
+
+[7 BACKEND KEYWORDS]:
+1. murder mystery logic puzzles for adults
+2. detective puzzle book crime solving games
+3. whodunit logic grid brain teasers
+4. forensic investigation case files book
+5. cozy mystery mind games for seniors
+6. escape room in a book cryptograms
+7. crime scene activity book for adults
+
+[BOOK DESCRIPTION (HTML)]:
+<h2>Can you outthink the criminal mind?</h2>
+<p>Welcome to <b>The Detective's Case Files: Volume 1</b>, an enhanced interactive crime-solving experience engineered for true mystery buffs, logic lovers, and armchair sleuths.</p>
+<p>Unlike ordinary puzzle books that repeat the same grid on every page, every investigation in this volume is an immersive <b>4-stage case file</b>:</p>
+<ul>
+  <li><b>Stage 1: Forensic Evidence Sweep:</b> 10x10 crime scene word search to recover physical evidence.</li>
+  <li><b>Stage 2: The Encrypted Dispatch:</b> Decrypt the killer's secret cipher message.</li>
+  <li><b>Stage 3: The Alibi & Motive Matrix:</b> Airtight logic deduction grid verified to yield 1 unique solution.</li>
+  <li><b>Stage 4: The Official Arrest Warrant:</b> Synthesize your evidence and indict the true perpetrator!</li>
+</ul>
+<p><b>Sharpen your pencil, assemble the evidence, and crack the case today!</b></p>

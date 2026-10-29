@@ -1,0 +1,47 @@
+================================================================================
+KDP LISTING METADATA: THE DETECTIVE'S CASE FILES • VOLUME 2
+================================================================================
+
+[BOOK TITLE]: Case Files & Clues: Volume 2
+[SUBTITLE]: 35 All-New Multi-Game Murder Mystery Dossiers: Airships, Grand Operas, Botanical Gardens & Ancient Tombs
+[SERIES NAME]: The Detective's Case Files
+[SERIES NUMBER]: 2
+[AUTHOR NAME]: Same author name used in Volume 1
+
+[PRINT SETTINGS]:
+- Trim Size: 6" x 9" (15.24 x 22.86 cm)
+- Page Count: 176 Pages
+- Interior: Black & white interior with white paper
+- Bleed Settings: No bleed (for interior)
+- Cover Finish: Matte
+
+[PRICING]:
+- List Price: $12.99 USD
+- KDP Print Cost: $3.11 USD
+- Royalty per Sale: $4.68 USD (60% standard distribution)
+
+[CATEGORIES]:
+1. Crafts, Hobbies & Home > Crafts & Hobbies > Activity Books
+2. Humor & Entertainment > Puzzles & Games > Logic & Brain Teasers
+3. Mystery, Thriller & Suspense > Mystery > Traditional Detective
+
+[7 BACKEND KEYWORDS]:
+1. adult murder mystery game in a book
+2. 1920s detective logic puzzle book
+3. airship and opera house crime dossiers
+4. escape room activity book cryptograms
+5. forensic investigation grid puzzles
+6. deductive reasoning mystery games
+7. cold case files activity book for adults
+
+[BOOK DESCRIPTION (HTML)]:
+<h2>The investigation continues...</h2>
+<p>Welcome back, Inspector! <b>The Detective's Case Files: Volume 2</b> presents 35 all-new high-stakes investigations spanning transatlantic zeppelins, backstage opera murders, venomous botanical conservatories, and ancient Egyptian archaeological digs.</p>
+<p>Every case is an authentic <b>4-stage crime file</b>:</p>
+<ul>
+  <li><b>Stage 1: Forensic Evidence Sweep:</b> Scour the crime scene matrix for physical clues.</li>
+  <li><b>Stage 2: The Encrypted Dispatch:</b> Crack the suspect's coded message to reveal crucial testimony.</li>
+  <li><b>Stage 3: The Alibi Matrix:</b> Pure logic deduction grid mathematically proven to have 1 unique solution.</li>
+  <li><b>Stage 4: The Official Arrest Warrant:</b> Close the case and convict the true culprit!</li>
+</ul>
+<p><b>Continue your detective career—claim Volume 2 today!</b></p>

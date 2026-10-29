@@ -1,0 +1,6874 @@
+[
+  {
+    "case_number": 1,
+    "title": "Case #001: The Mystery of The Wine Cellar",
+    "theme": "The Blackwood Manor Murders",
+    "briefing": "A major incident has been declared at The Blackwood Manor Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "T",
+          "P",
+          "E",
+          "T",
+          "F",
+          "I",
+          "B",
+          "E",
+          "R",
+          "X"
+        ],
+        [
+          "G",
+          "N",
+          "Z",
+          "Y",
+          "I",
+          "J",
+          "E",
+          "Y",
+          "G",
+          "T"
+        ],
+        [
+          "T",
+          "O",
+          "D",
+          "M",
+          "P",
+          "R",
+          "I",
+          "N",
+          "T",
+          "S"
+        ],
+        [
+          "R",
+          "Q",
+          "O",
+          "S",
+          "D",
+          "X",
+          "V",
+          "X",
+          "H",
+          "H"
+        ],
+        [
+          "A",
+          "T",
+          "F",
+          "Z",
+          "B",
+          "D",
+          "K",
+          "A",
+          "A",
+          "W"
+        ],
+        [
+          "C",
+          "L",
+          "K",
+          "I",
+          "L",
+          "P",
+          "S",
+          "U",
+          "I",
+          "Q"
+        ],
+        [
+          "K",
+          "O",
+          "Z",
+          "B",
+          "O",
+          "H",
+          "U",
+          "U",
+          "R",
+          "M"
+        ],
+        [
+          "S",
+          "D",
+          "A",
+          "R",
+          "O",
+          "W",
+          "P",
+          "F",
+          "S",
+          "P"
+        ],
+        [
+          "Q",
+          "K",
+          "X",
+          "I",
+          "D",
+          "J",
+          "O",
+          "W",
+          "H",
+          "T"
+        ],
+        [
+          "R",
+          "U",
+          "Y",
+          "C",
+          "U",
+          "T",
+          "D",
+          "F",
+          "B",
+          "P"
+        ]
+      ],
+      "words_to_find": [
+        "FIBER",
+        "HAIRS",
+        "PRINTS",
+        "BLOOD",
+        "TRACKS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "PHHW PH LQ WKH ZLQH FHOODU DW PLGQLJKW",
+      "plaintext": "MEET ME IN THE WINE CELLAR AT MIDNIGHT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "Lord Harrington",
+        "The Head Butler",
+        "The Estate Gardener",
+        "The Antiquarian"
+      ],
+      "rooms": [
+        "The Trophy Room",
+        "The Conservatory",
+        "The Billiard Room",
+        "The Wine Cellar"
+      ],
+      "weapons": [
+        "Silver Letter Opener",
+        "Heavy Brass Candlestick",
+        "Arsenic Vial",
+        "Silk Cravat"
+      ],
+      "clues": [
+        "The Head Butler was confirmed to be in The Trophy Room.",
+        "The Estate Gardener was discovered carrying the Arsenic Vial.",
+        "The investigator found the Silver Letter Opener inside The Conservatory.",
+        "Lord Harrington was never seen near The Trophy Room.",
+        "Lord Harrington had no access to the Silver Letter Opener.",
+        "The weapon recovered from The Trophy Room was definitely not the Arsenic Vial.",
+        "Neither Lord Harrington nor The Antiquarian had ever visited The Trophy Room.",
+        "The lethal strike occurred in The Wine Cellar, leaving behind the deadly Heavy Brass Candlestick."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "Lord Harrington",
+      "murder_room": "The Wine Cellar",
+      "murder_weapon": "Heavy Brass Candlestick",
+      "full_mapping": {
+        "Lord Harrington": {
+          "room": "The Wine Cellar",
+          "weapon": "Heavy Brass Candlestick"
+        },
+        "The Head Butler": {
+          "room": "The Trophy Room",
+          "weapon": "Silk Cravat"
+        },
+        "The Estate Gardener": {
+          "room": "The Billiard Room",
+          "weapon": "Arsenic Vial"
+        },
+        "The Antiquarian": {
+          "room": "The Conservatory",
+          "weapon": "Silver Letter Opener"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 2,
+    "title": "Case #002: The Mystery of Observation Lounge",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A major incident has been declared at The Midnight Express Mysteries. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "N",
+          "C",
+          "V",
+          "G",
+          "C",
+          "G",
+          "C",
+          "S",
+          "N",
+          "N"
+        ],
+        [
+          "O",
+          "U",
+          "U",
+          "C",
+          "I",
+          "T",
+          "I",
+          "Z",
+          "I",
+          "U"
+        ],
+        [
+          "C",
+          "T",
+          "O",
+          "T",
+          "F",
+          "B",
+          "G",
+          "J",
+          "T",
+          "T"
+        ],
+        [
+          "I",
+          "W",
+          "Z",
+          "P",
+          "V",
+          "U",
+          "A",
+          "S",
+          "S",
+          "I"
+        ],
+        [
+          "Z",
+          "J",
+          "C",
+          "O",
+          "B",
+          "T",
+          "R",
+          "G",
+          "Y",
+          "C"
+        ],
+        [
+          "B",
+          "I",
+          "W",
+          "W",
+          "S",
+          "T",
+          "G",
+          "A",
+          "K",
+          "K"
+        ],
+        [
+          "A",
+          "Q",
+          "Z",
+          "D",
+          "V",
+          "O",
+          "U",
+          "L",
+          "X",
+          "E"
+        ],
+        [
+          "S",
+          "O",
+          "V",
+          "E",
+          "K",
+          "N",
+          "G",
+          "E",
+          "V",
+          "T"
+        ],
+        [
+          "H",
+          "Q",
+          "E",
+          "R",
+          "D",
+          "V",
+          "G",
+          "M",
+          "F",
+          "I"
+        ],
+        [
+          "G",
+          "L",
+          "E",
+          "T",
+          "T",
+          "E",
+          "R",
+          "O",
+          "S",
+          "A"
+        ]
+      ],
+      "words_to_find": [
+        "LETTER",
+        "TICKET",
+        "BUTTON",
+        "POWDER",
+        "CIGAR"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "FKHFN WKH HQJLQH FDE IRU WKH NQLIH",
+      "plaintext": "CHECK THE ENGINE CAB FOR THE KNIFE",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Jewel Merchant",
+        "The Retired General",
+        "The French Diplomat",
+        "The Train Conductor"
+      ],
+      "rooms": [
+        "Private Salon",
+        "Engine Cab",
+        "Observation Lounge",
+        "First-Class Sleeper A"
+      ],
+      "weapons": [
+        "Engraved Pocket Pistol",
+        "Chloroform Rag",
+        "Steel Pocket Knife",
+        "Heavy Crystal Decanter"
+      ],
+      "clues": [
+        "The Retired General was confirmed to be in First-Class Sleeper A.",
+        "The French Diplomat was discovered carrying the Heavy Crystal Decanter.",
+        "The investigator found the Engraved Pocket Pistol inside Private Salon.",
+        "The Jewel Merchant was never seen near Private Salon.",
+        "The Jewel Merchant had no access to the Engraved Pocket Pistol.",
+        "The weapon recovered from Private Salon was definitely not the Heavy Crystal Decanter.",
+        "Neither The Jewel Merchant nor The Train Conductor had ever visited First-Class Sleeper A.",
+        "The lethal strike occurred in Observation Lounge, leaving behind the deadly Steel Pocket Knife."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Jewel Merchant",
+      "murder_room": "Observation Lounge",
+      "murder_weapon": "Steel Pocket Knife",
+      "full_mapping": {
+        "The Jewel Merchant": {
+          "room": "Observation Lounge",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The Retired General": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Chloroform Rag"
+        },
+        "The French Diplomat": {
+          "room": "Engine Cab",
+          "weapon": "Heavy Crystal Decanter"
+        },
+        "The Train Conductor": {
+          "room": "Private Salon",
+          "weapon": "Engraved Pocket Pistol"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 3,
+    "title": "Case #003: The Mystery of Basement Conservation Lab",
+    "theme": "The Metropolitan Museum Heists & Murders",
+    "briefing": "A major incident has been declared at The Metropolitan Museum Heists & Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "S",
+          "O",
+          "L",
+          "V",
+          "E",
+          "N",
+          "T",
+          "R",
+          "W",
+          "U"
+        ],
+        [
+          "X",
+          "D",
+          "P",
+          "I",
+          "G",
+          "M",
+          "E",
+          "N",
+          "T",
+          "R"
+        ],
+        [
+          "U",
+          "A",
+          "R",
+          "A",
+          "R",
+          "E",
+          "P",
+          "W",
+          "X",
+          "R"
+        ],
+        [
+          "Q",
+          "C",
+          "T",
+          "D",
+          "Y",
+          "G",
+          "H",
+          "U",
+          "R",
+          "J"
+        ],
+        [
+          "P",
+          "L",
+          "H",
+          "F",
+          "J",
+          "I",
+          "R",
+          "N",
+          "F",
+          "D"
+        ],
+        [
+          "N",
+          "Z",
+          "C",
+          "H",
+          "I",
+          "S",
+          "E",
+          "L",
+          "A",
+          "I"
+        ],
+        [
+          "S",
+          "T",
+          "A",
+          "T",
+          "U",
+          "E",
+          "S",
+          "N",
+          "W",
+          "O"
+        ],
+        [
+          "L",
+          "S",
+          "H",
+          "N",
+          "G",
+          "L",
+          "O",
+          "V",
+          "E",
+          "S"
+        ],
+        [
+          "M",
+          "B",
+          "D",
+          "M",
+          "L",
+          "H",
+          "Q",
+          "R",
+          "X",
+          "E"
+        ],
+        [
+          "A",
+          "E",
+          "Q",
+          "Z",
+          "V",
+          "D",
+          "G",
+          "C",
+          "K",
+          "W"
+        ]
+      ],
+      "words_to_find": [
+        "SOLVENT",
+        "PIGMENT",
+        "CHISEL",
+        "STATUE",
+        "GLOVES"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "PHHW LQ WKH PHGLHYDO DUPRUB WRQLJKW",
+      "plaintext": "MEET IN THE MEDIEVAL ARMORY TONIGHT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Auctioneer",
+        "The Chief Curator",
+        "The Night Guard",
+        "The Visiting Professor"
+      ],
+      "rooms": [
+        "Basement Conservation Lab",
+        "Curator's Office",
+        "Medieval Armory",
+        "Egyptian Antiquities"
+      ],
+      "weapons": [
+        "Venomous Specimen",
+        "Restoration Solvent",
+        "Iron Flanged Mace",
+        "Broken Marble Shard"
+      ],
+      "clues": [
+        "The Chief Curator was confirmed to be in Curator's Office.",
+        "The Night Guard was discovered carrying the Iron Flanged Mace.",
+        "The investigator found the Venomous Specimen inside Medieval Armory.",
+        "The Auctioneer was never seen near Curator's Office.",
+        "The Auctioneer had no access to the Venomous Specimen.",
+        "The weapon recovered from Basement Conservation Lab was definitely not the Iron Flanged Mace.",
+        "Neither The Auctioneer nor The Visiting Professor had ever visited Curator's Office.",
+        "The lethal strike occurred in Basement Conservation Lab, leaving behind the deadly Restoration Solvent."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Auctioneer",
+      "murder_room": "Basement Conservation Lab",
+      "murder_weapon": "Restoration Solvent",
+      "full_mapping": {
+        "The Auctioneer": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Restoration Solvent"
+        },
+        "The Chief Curator": {
+          "room": "Curator's Office",
+          "weapon": "Broken Marble Shard"
+        },
+        "The Night Guard": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Iron Flanged Mace"
+        },
+        "The Visiting Professor": {
+          "room": "Medieval Armory",
+          "weapon": "Venomous Specimen"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 4,
+    "title": "Case #004: The Mystery of Radio Telegraph Shack",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A major incident has been declared at The Coastal & Lighthouse Conspiracies. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "O",
+          "I",
+          "L",
+          "F",
+          "L",
+          "A",
+          "S",
+          "K",
+          "L",
+          "Q"
+        ],
+        [
+          "H",
+          "M",
+          "S",
+          "C",
+          "W",
+          "V",
+          "W",
+          "B",
+          "M",
+          "U"
+        ],
+        [
+          "A",
+          "V",
+          "E",
+          "O",
+          "X",
+          "N",
+          "S",
+          "R",
+          "W",
+          "D"
+        ],
+        [
+          "R",
+          "G",
+          "A",
+          "M",
+          "O",
+          "H",
+          "P",
+          "A",
+          "P",
+          "E"
+        ],
+        [
+          "P",
+          "R",
+          "W",
+          "P",
+          "E",
+          "Z",
+          "D",
+          "S",
+          "Z",
+          "Y"
+        ],
+        [
+          "O",
+          "R",
+          "E",
+          "A",
+          "I",
+          "P",
+          "L",
+          "S",
+          "F",
+          "Z"
+        ],
+        [
+          "O",
+          "K",
+          "E",
+          "S",
+          "Q",
+          "B",
+          "A",
+          "K",
+          "G",
+          "D"
+        ],
+        [
+          "N",
+          "W",
+          "D",
+          "S",
+          "X",
+          "M",
+          "B",
+          "E",
+          "D",
+          "X"
+        ],
+        [
+          "Z",
+          "N",
+          "G",
+          "F",
+          "R",
+          "Z",
+          "C",
+          "Y",
+          "V",
+          "P"
+        ],
+        [
+          "F",
+          "M",
+          "J",
+          "O",
+          "A",
+          "D",
+          "E",
+          "N",
+          "B",
+          "H"
+        ]
+      ],
+      "words_to_find": [
+        "HARPOON",
+        "COMPASS",
+        "BRASSKEY",
+        "OILFLASK",
+        "SEAWEED"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH UDGLR WHOHJUDSK ZLUH ZDV VHYHUHG",
+      "plaintext": "THE RADIO TELEGRAPH WIRE WAS SEVERED",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Harbor Master",
+        "The Marine Biologist",
+        "The Lighthouse Keeper",
+        "The Smuggler's Mate"
+      ],
+      "rooms": [
+        "Foghorn Shed",
+        "Radio Telegraph Shack",
+        "Rocky Cove",
+        "Lantern Room"
+      ],
+      "weapons": [
+        "Lead Sounding Weight",
+        "Iron Harpoon Tip",
+        "Heavy Brass Flare Gun",
+        "Divers' Knife"
+      ],
+      "clues": [
+        "The Marine Biologist was confirmed to be in Rocky Cove.",
+        "The Lighthouse Keeper was discovered carrying the Divers' Knife.",
+        "The investigator found the Iron Harpoon Tip inside Foghorn Shed.",
+        "The Harbor Master was never seen near Foghorn Shed.",
+        "The Harbor Master had no access to the Iron Harpoon Tip.",
+        "The weapon recovered from Foghorn Shed was definitely not the Divers' Knife.",
+        "Neither The Harbor Master nor The Smuggler's Mate had ever visited Rocky Cove.",
+        "The lethal strike occurred in Radio Telegraph Shack, leaving behind the deadly Lead Sounding Weight."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Harbor Master",
+      "murder_room": "Radio Telegraph Shack",
+      "murder_weapon": "Lead Sounding Weight",
+      "full_mapping": {
+        "The Harbor Master": {
+          "room": "Radio Telegraph Shack",
+          "weapon": "Lead Sounding Weight"
+        },
+        "The Marine Biologist": {
+          "room": "Rocky Cove",
+          "weapon": "Heavy Brass Flare Gun"
+        },
+        "The Lighthouse Keeper": {
+          "room": "Lantern Room",
+          "weapon": "Divers' Knife"
+        },
+        "The Smuggler's Mate": {
+          "room": "Foghorn Shed",
+          "weapon": "Iron Harpoon Tip"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 5,
+    "title": "Case #005: The Mystery of The Trophy Room",
+    "theme": "The Blackwood Manor Murders",
+    "briefing": "A major incident has been declared at The Blackwood Manor Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "Q",
+          "T",
+          "P",
+          "Y",
+          "W",
+          "T",
+          "S",
+          "W",
+          "Y",
+          "X"
+        ],
+        [
+          "J",
+          "K",
+          "K",
+          "V",
+          "O",
+          "G",
+          "Q",
+          "D",
+          "Z",
+          "J"
+        ],
+        [
+          "T",
+          "R",
+          "A",
+          "C",
+          "K",
+          "S",
+          "G",
+          "M",
+          "Y",
+          "C"
+        ],
+        [
+          "S",
+          "H",
+          "W",
+          "A",
+          "X",
+          "S",
+          "E",
+          "A",
+          "L",
+          "W"
+        ],
+        [
+          "C",
+          "D",
+          "N",
+          "V",
+          "A",
+          "E",
+          "P",
+          "Y",
+          "V",
+          "E"
+        ],
+        [
+          "R",
+          "B",
+          "O",
+          "A",
+          "C",
+          "U",
+          "U",
+          "F",
+          "U",
+          "R"
+        ],
+        [
+          "A",
+          "Q",
+          "P",
+          "D",
+          "F",
+          "I",
+          "B",
+          "E",
+          "R",
+          "T"
+        ],
+        [
+          "T",
+          "H",
+          "E",
+          "U",
+          "P",
+          "L",
+          "H",
+          "E",
+          "O",
+          "J"
+        ],
+        [
+          "C",
+          "B",
+          "L",
+          "O",
+          "O",
+          "D",
+          "Z",
+          "P",
+          "U",
+          "I"
+        ],
+        [
+          "H",
+          "F",
+          "Y",
+          "M",
+          "L",
+          "C",
+          "X",
+          "J",
+          "D",
+          "E"
+        ]
+      ],
+      "words_to_find": [
+        "FIBER",
+        "BLOOD",
+        "TRACKS",
+        "WAXSEAL",
+        "SCRATCH"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "EHZDUH RI WKH GRFWRU DQG KLV ERWWOH",
+      "plaintext": "BEWARE OF THE DOCTOR AND HIS BOTTLE",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Antiquarian",
+        "The Estate Gardener",
+        "The Head Butler",
+        "Dr. Sterling"
+      ],
+      "rooms": [
+        "The Grand Library",
+        "The Trophy Room",
+        "The Clock Tower",
+        "The Conservatory"
+      ],
+      "weapons": [
+        "Silk Cravat",
+        "Heavy Brass Candlestick",
+        "Fountain Pen with Poison",
+        "Arsenic Vial"
+      ],
+      "clues": [
+        "The Estate Gardener was confirmed to be in The Clock Tower.",
+        "The Head Butler was discovered carrying the Heavy Brass Candlestick.",
+        "The investigator found the Silk Cravat inside The Conservatory.",
+        "The Antiquarian was never seen near The Grand Library.",
+        "The Antiquarian had no access to the Silk Cravat.",
+        "The weapon recovered from The Trophy Room was definitely not the Heavy Brass Candlestick.",
+        "Neither The Antiquarian nor Dr. Sterling had ever visited The Clock Tower.",
+        "The lethal strike occurred in The Trophy Room, leaving behind the deadly Fountain Pen with Poison."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Antiquarian",
+      "murder_room": "The Trophy Room",
+      "murder_weapon": "Fountain Pen with Poison",
+      "full_mapping": {
+        "The Antiquarian": {
+          "room": "The Trophy Room",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "The Estate Gardener": {
+          "room": "The Clock Tower",
+          "weapon": "Arsenic Vial"
+        },
+        "The Head Butler": {
+          "room": "The Grand Library",
+          "weapon": "Heavy Brass Candlestick"
+        },
+        "Dr. Sterling": {
+          "room": "The Conservatory",
+          "weapon": "Silk Cravat"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 6,
+    "title": "Case #006: The Mystery of Dining Car",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A major incident has been declared at The Midnight Express Mysteries. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "L",
+          "O",
+          "C",
+          "K",
+          "P",
+          "I",
+          "C",
+          "K",
+          "Z",
+          "Q"
+        ],
+        [
+          "Y",
+          "S",
+          "W",
+          "R",
+          "N",
+          "Q",
+          "J",
+          "S",
+          "W",
+          "U"
+        ],
+        [
+          "L",
+          "B",
+          "C",
+          "I",
+          "G",
+          "A",
+          "R",
+          "R",
+          "U",
+          "K"
+        ],
+        [
+          "F",
+          "U",
+          "U",
+          "Z",
+          "E",
+          "S",
+          "H",
+          "A",
+          "R",
+          "D"
+        ],
+        [
+          "B",
+          "T",
+          "F",
+          "J",
+          "D",
+          "O",
+          "Q",
+          "B",
+          "T",
+          "U"
+        ],
+        [
+          "A",
+          "T",
+          "A",
+          "G",
+          "R",
+          "Q",
+          "X",
+          "R",
+          "I",
+          "V"
+        ],
+        [
+          "E",
+          "O",
+          "L",
+          "W",
+          "P",
+          "U",
+          "Y",
+          "F",
+          "C",
+          "O"
+        ],
+        [
+          "E",
+          "N",
+          "G",
+          "S",
+          "W",
+          "B",
+          "A",
+          "F",
+          "K",
+          "V"
+        ],
+        [
+          "W",
+          "J",
+          "S",
+          "K",
+          "U",
+          "W",
+          "J",
+          "N",
+          "E",
+          "N"
+        ],
+        [
+          "P",
+          "B",
+          "M",
+          "I",
+          "Q",
+          "N",
+          "T",
+          "N",
+          "T",
+          "E"
+        ]
+      ],
+      "words_to_find": [
+        "SHARD",
+        "BUTTON",
+        "LOCKPICK",
+        "TICKET",
+        "CIGAR"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "FKHFN WKH HQJLQH FDE IRU WKH NQLIH",
+      "plaintext": "CHECK THE ENGINE CAB FOR THE KNIFE",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Card Sharp",
+        "The French Diplomat",
+        "The Train Conductor",
+        "The Jewel Merchant"
+      ],
+      "rooms": [
+        "First-Class Sleeper A",
+        "Engine Cab",
+        "Luggage Van",
+        "Dining Car"
+      ],
+      "weapons": [
+        "Dosed Champagne",
+        "Steel Pocket Knife",
+        "Heavy Crystal Decanter",
+        "Luggage Strap"
+      ],
+      "clues": [
+        "The French Diplomat was confirmed to be in Engine Cab.",
+        "The Train Conductor was discovered carrying the Dosed Champagne.",
+        "The investigator found the Luggage Strap inside First-Class Sleeper A.",
+        "The Card Sharp was never seen near First-Class Sleeper A.",
+        "The Card Sharp had no access to the Dosed Champagne.",
+        "The weapon recovered from First-Class Sleeper A was definitely not the Dosed Champagne.",
+        "Neither The Card Sharp nor The Jewel Merchant had ever visited Engine Cab.",
+        "The lethal strike occurred in Dining Car, leaving behind the deadly Steel Pocket Knife."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Card Sharp",
+      "murder_room": "Dining Car",
+      "murder_weapon": "Steel Pocket Knife",
+      "full_mapping": {
+        "The Card Sharp": {
+          "room": "Dining Car",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The French Diplomat": {
+          "room": "Engine Cab",
+          "weapon": "Heavy Crystal Decanter"
+        },
+        "The Train Conductor": {
+          "room": "Luggage Van",
+          "weapon": "Dosed Champagne"
+        },
+        "The Jewel Merchant": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Luggage Strap"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 7,
+    "title": "Case #007: The Mystery of Egyptian Antiquities",
+    "theme": "The Metropolitan Museum Heists & Murders",
+    "briefing": "A major incident has been declared at The Metropolitan Museum Heists & Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "U",
+          "B",
+          "G",
+          "L",
+          "O",
+          "V",
+          "E",
+          "S",
+          "Y",
+          "S"
+        ],
+        [
+          "I",
+          "S",
+          "S",
+          "T",
+          "A",
+          "T",
+          "U",
+          "E",
+          "I",
+          "P"
+        ],
+        [
+          "D",
+          "G",
+          "J",
+          "B",
+          "S",
+          "M",
+          "C",
+          "G",
+          "K",
+          "L"
+        ],
+        [
+          "R",
+          "E",
+          "J",
+          "F",
+          "C",
+          "F",
+          "U",
+          "L",
+          "H",
+          "A"
+        ],
+        [
+          "W",
+          "Y",
+          "C",
+          "A",
+          "H",
+          "L",
+          "R",
+          "P",
+          "H",
+          "S"
+        ],
+        [
+          "L",
+          "Y",
+          "A",
+          "P",
+          "I",
+          "G",
+          "M",
+          "E",
+          "N",
+          "T"
+        ],
+        [
+          "E",
+          "W",
+          "N",
+          "B",
+          "Y",
+          "Y",
+          "U",
+          "A",
+          "N",
+          "E"
+        ],
+        [
+          "B",
+          "M",
+          "V",
+          "E",
+          "D",
+          "Y",
+          "B",
+          "N",
+          "H",
+          "R"
+        ],
+        [
+          "P",
+          "B",
+          "A",
+          "P",
+          "E",
+          "F",
+          "A",
+          "S",
+          "I",
+          "F"
+        ],
+        [
+          "A",
+          "Y",
+          "S",
+          "W",
+          "M",
+          "Q",
+          "Q",
+          "W",
+          "A",
+          "U"
+        ]
+      ],
+      "words_to_find": [
+        "PIGMENT",
+        "PLASTER",
+        "CANVAS",
+        "GLOVES",
+        "STATUE"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "VROYHQW ZDV WDNHQ IURP WKH EDVHPHQW",
+      "plaintext": "SOLVENT WAS TAKEN FROM THE BASEMENT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Visiting Professor",
+        "The Auctioneer",
+        "The Wealthy Benefactor",
+        "The Art Restorer"
+      ],
+      "rooms": [
+        "Roof Terrace",
+        "Egyptian Antiquities",
+        "Basement Conservation Lab",
+        "Curator's Office"
+      ],
+      "weapons": [
+        "Restoration Solvent",
+        "Broken Marble Shard",
+        "Venomous Specimen",
+        "Cast Bronze Statuette"
+      ],
+      "clues": [
+        "The Auctioneer was confirmed to be in Curator's Office.",
+        "The Wealthy Benefactor was discovered carrying the Restoration Solvent.",
+        "The investigator found the Venomous Specimen inside Roof Terrace.",
+        "The Visiting Professor was never seen near Roof Terrace.",
+        "The Visiting Professor had no access to the Restoration Solvent.",
+        "The weapon recovered from Roof Terrace was definitely not the Restoration Solvent.",
+        "Neither The Visiting Professor nor The Art Restorer had ever visited Curator's Office.",
+        "The lethal strike occurred in Egyptian Antiquities, leaving behind the deadly Cast Bronze Statuette."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Visiting Professor",
+      "murder_room": "Egyptian Antiquities",
+      "murder_weapon": "Cast Bronze Statuette",
+      "full_mapping": {
+        "The Visiting Professor": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Auctioneer": {
+          "room": "Curator's Office",
+          "weapon": "Broken Marble Shard"
+        },
+        "The Wealthy Benefactor": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Restoration Solvent"
+        },
+        "The Art Restorer": {
+          "room": "Roof Terrace",
+          "weapon": "Venomous Specimen"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 8,
+    "title": "Case #008: The Mystery of Tavern Cellar",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A major incident has been declared at The Coastal & Lighthouse Conspiracies. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "B",
+          "K",
+          "H",
+          "Q",
+          "V",
+          "H",
+          "M",
+          "C",
+          "O",
+          "F"
+        ],
+        [
+          "B",
+          "U",
+          "T",
+          "C",
+          "C",
+          "A",
+          "F",
+          "B",
+          "I",
+          "S"
+        ],
+        [
+          "W",
+          "T",
+          "M",
+          "O",
+          "G",
+          "R",
+          "Z",
+          "R",
+          "L",
+          "E"
+        ],
+        [
+          "Q",
+          "D",
+          "I",
+          "M",
+          "U",
+          "P",
+          "B",
+          "A",
+          "F",
+          "A"
+        ],
+        [
+          "K",
+          "F",
+          "R",
+          "P",
+          "M",
+          "O",
+          "Z",
+          "S",
+          "L",
+          "W"
+        ],
+        [
+          "T",
+          "M",
+          "F",
+          "A",
+          "R",
+          "O",
+          "V",
+          "S",
+          "A",
+          "E"
+        ],
+        [
+          "A",
+          "A",
+          "N",
+          "S",
+          "U",
+          "N",
+          "B",
+          "K",
+          "S",
+          "E"
+        ],
+        [
+          "T",
+          "O",
+          "B",
+          "S",
+          "D",
+          "X",
+          "N",
+          "E",
+          "K",
+          "D"
+        ],
+        [
+          "Q",
+          "E",
+          "M",
+          "H",
+          "F",
+          "I",
+          "U",
+          "Y",
+          "A",
+          "I"
+        ],
+        [
+          "R",
+          "B",
+          "M",
+          "O",
+          "S",
+          "R",
+          "F",
+          "K",
+          "Z",
+          "X"
+        ]
+      ],
+      "words_to_find": [
+        "OILFLASK",
+        "COMPASS",
+        "HARPOON",
+        "BRASSKEY",
+        "SEAWEED"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "ORRN LQVLGH WKH IRJKRUQ VKHG IRU EORRG",
+      "plaintext": "LOOK INSIDE THE FOGHORN SHED FOR BLOOD",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Salvage Captain",
+        "The Island Innkeeper",
+        "The Marine Biologist",
+        "The Smuggler's Mate"
+      ],
+      "rooms": [
+        "Tavern Cellar",
+        "Lantern Room",
+        "Foghorn Shed",
+        "Dry Dock"
+      ],
+      "weapons": [
+        "Nautical Rigging Line",
+        "Heavy Brass Flare Gun",
+        "Lead Sounding Weight",
+        "Iron Harpoon Tip"
+      ],
+      "clues": [
+        "The Island Innkeeper was confirmed to be in Dry Dock.",
+        "The Marine Biologist was discovered carrying the Heavy Brass Flare Gun.",
+        "The investigator found the Nautical Rigging Line inside Foghorn Shed.",
+        "The Salvage Captain was never seen near Lantern Room.",
+        "The Salvage Captain had no access to the Nautical Rigging Line.",
+        "The weapon recovered from Tavern Cellar was definitely not the Heavy Brass Flare Gun.",
+        "Neither The Salvage Captain nor The Smuggler's Mate had ever visited Dry Dock.",
+        "The lethal strike occurred in Tavern Cellar, leaving behind the deadly Iron Harpoon Tip."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Salvage Captain",
+      "murder_room": "Tavern Cellar",
+      "murder_weapon": "Iron Harpoon Tip",
+      "full_mapping": {
+        "The Salvage Captain": {
+          "room": "Tavern Cellar",
+          "weapon": "Iron Harpoon Tip"
+        },
+        "The Island Innkeeper": {
+          "room": "Dry Dock",
+          "weapon": "Lead Sounding Weight"
+        },
+        "The Marine Biologist": {
+          "room": "Lantern Room",
+          "weapon": "Heavy Brass Flare Gun"
+        },
+        "The Smuggler's Mate": {
+          "room": "Foghorn Shed",
+          "weapon": "Nautical Rigging Line"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 9,
+    "title": "Case #009: The Mystery of The Billiard Room",
+    "theme": "The Blackwood Manor Murders",
+    "briefing": "A major incident has been declared at The Blackwood Manor Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "B",
+          "L",
+          "O",
+          "O",
+          "D",
+          "P",
+          "T",
+          "D",
+          "P",
+          "T"
+        ],
+        [
+          "Q",
+          "A",
+          "V",
+          "R",
+          "A",
+          "F",
+          "R",
+          "F",
+          "R",
+          "G"
+        ],
+        [
+          "J",
+          "A",
+          "S",
+          "H",
+          "E",
+          "S",
+          "A",
+          "S",
+          "U",
+          "Y"
+        ],
+        [
+          "Q",
+          "C",
+          "D",
+          "F",
+          "W",
+          "M",
+          "C",
+          "R",
+          "F",
+          "Q"
+        ],
+        [
+          "E",
+          "T",
+          "B",
+          "R",
+          "Q",
+          "J",
+          "K",
+          "G",
+          "I",
+          "F"
+        ],
+        [
+          "P",
+          "R",
+          "I",
+          "N",
+          "T",
+          "S",
+          "S",
+          "Y",
+          "B",
+          "U"
+        ],
+        [
+          "A",
+          "B",
+          "H",
+          "I",
+          "E",
+          "T",
+          "R",
+          "D",
+          "E",
+          "M"
+        ],
+        [
+          "N",
+          "N",
+          "L",
+          "S",
+          "C",
+          "T",
+          "L",
+          "L",
+          "R",
+          "C"
+        ],
+        [
+          "F",
+          "C",
+          "W",
+          "A",
+          "A",
+          "Z",
+          "A",
+          "U",
+          "D",
+          "U"
+        ],
+        [
+          "Y",
+          "M",
+          "A",
+          "W",
+          "Q",
+          "A",
+          "G",
+          "V",
+          "S",
+          "N"
+        ]
+      ],
+      "words_to_find": [
+        "BLOOD",
+        "FIBER",
+        "TRACKS",
+        "PRINTS",
+        "ASHES"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FDQGOHVWLFN ZDV PRYHG EHIRUH QRRQ",
+      "plaintext": "THE CANDLESTICK WAS MOVED BEFORE NOON",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Head Butler",
+        "The Antiquarian",
+        "The Estate Gardener",
+        "Dr. Sterling"
+      ],
+      "rooms": [
+        "The Clock Tower",
+        "The Billiard Room",
+        "The Grand Library",
+        "The Trophy Room"
+      ],
+      "weapons": [
+        "Vintage Hunting Rifle",
+        "Fountain Pen with Poison",
+        "Heavy Brass Candlestick",
+        "Silver Letter Opener"
+      ],
+      "clues": [
+        "The Antiquarian was confirmed to be in The Clock Tower.",
+        "The Estate Gardener was discovered carrying the Heavy Brass Candlestick.",
+        "The investigator found the Vintage Hunting Rifle inside The Grand Library.",
+        "The Head Butler was never seen near The Clock Tower.",
+        "The Head Butler had no access to the Vintage Hunting Rifle.",
+        "The weapon recovered from The Clock Tower was definitely not the Heavy Brass Candlestick.",
+        "Neither The Head Butler nor Dr. Sterling had ever visited The Clock Tower.",
+        "The lethal strike occurred in The Billiard Room, leaving behind the deadly Fountain Pen with Poison."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Head Butler",
+      "murder_room": "The Billiard Room",
+      "murder_weapon": "Fountain Pen with Poison",
+      "full_mapping": {
+        "The Head Butler": {
+          "room": "The Billiard Room",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "The Antiquarian": {
+          "room": "The Clock Tower",
+          "weapon": "Silver Letter Opener"
+        },
+        "The Estate Gardener": {
+          "room": "The Trophy Room",
+          "weapon": "Heavy Brass Candlestick"
+        },
+        "Dr. Sterling": {
+          "room": "The Grand Library",
+          "weapon": "Vintage Hunting Rifle"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 10,
+    "title": "Case #010: The Mystery of Dining Car",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A major incident has been declared at The Midnight Express Mysteries. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "S",
+          "H",
+          "A",
+          "R",
+          "D",
+          "T",
+          "V",
+          "Y",
+          "A",
+          "V"
+        ],
+        [
+          "D",
+          "Q",
+          "O",
+          "L",
+          "H",
+          "I",
+          "F",
+          "V",
+          "Q",
+          "B"
+        ],
+        [
+          "L",
+          "U",
+          "D",
+          "E",
+          "U",
+          "C",
+          "V",
+          "K",
+          "C",
+          "W"
+        ],
+        [
+          "O",
+          "J",
+          "R",
+          "T",
+          "J",
+          "K",
+          "O",
+          "I",
+          "X",
+          "M"
+        ],
+        [
+          "C",
+          "W",
+          "M",
+          "T",
+          "W",
+          "E",
+          "T",
+          "Y",
+          "L",
+          "O"
+        ],
+        [
+          "K",
+          "P",
+          "L",
+          "E",
+          "C",
+          "T",
+          "V",
+          "U",
+          "P",
+          "X"
+        ],
+        [
+          "P",
+          "H",
+          "E",
+          "R",
+          "I",
+          "Y",
+          "R",
+          "P",
+          "S",
+          "G"
+        ],
+        [
+          "I",
+          "T",
+          "L",
+          "E",
+          "G",
+          "E",
+          "D",
+          "Q",
+          "B",
+          "E"
+        ],
+        [
+          "C",
+          "Q",
+          "W",
+          "N",
+          "A",
+          "K",
+          "J",
+          "S",
+          "M",
+          "W"
+        ],
+        [
+          "K",
+          "P",
+          "U",
+          "W",
+          "R",
+          "D",
+          "F",
+          "V",
+          "L",
+          "Q"
+        ]
+      ],
+      "words_to_find": [
+        "LETTER",
+        "TICKET",
+        "LOCKPICK",
+        "SHARD",
+        "CIGAR"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FRQGXFWRU KHDUG WKH VKRW ILUHG",
+      "plaintext": "THE CONDUCTOR HEARD THE SHOT FIRED",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The French Diplomat",
+        "The Jewel Merchant",
+        "The Card Sharp",
+        "The Opera Soprano"
+      ],
+      "rooms": [
+        "Observation Lounge",
+        "Dining Car",
+        "Engine Cab",
+        "First-Class Sleeper A"
+      ],
+      "weapons": [
+        "Engraved Pocket Pistol",
+        "Chloroform Rag",
+        "Steel Pocket Knife",
+        "Dosed Champagne"
+      ],
+      "clues": [
+        "The Jewel Merchant was confirmed to be in Engine Cab.",
+        "The Card Sharp was discovered carrying the Chloroform Rag.",
+        "The investigator found the Engraved Pocket Pistol inside First-Class Sleeper A.",
+        "The French Diplomat was never seen near Observation Lounge.",
+        "The French Diplomat had no access to the Engraved Pocket Pistol.",
+        "The weapon recovered from Dining Car was definitely not the Chloroform Rag.",
+        "Neither The French Diplomat nor The Opera Soprano had ever visited Engine Cab.",
+        "The lethal strike occurred in Dining Car, leaving behind the deadly Steel Pocket Knife."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The French Diplomat",
+      "murder_room": "Dining Car",
+      "murder_weapon": "Steel Pocket Knife",
+      "full_mapping": {
+        "The French Diplomat": {
+          "room": "Dining Car",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The Jewel Merchant": {
+          "room": "Engine Cab",
+          "weapon": "Dosed Champagne"
+        },
+        "The Card Sharp": {
+          "room": "Observation Lounge",
+          "weapon": "Chloroform Rag"
+        },
+        "The Opera Soprano": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Engraved Pocket Pistol"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 11,
+    "title": "Case #011: The Mystery of Curator's Office",
+    "theme": "The Metropolitan Museum Heists & Murders",
+    "briefing": "A major incident has been declared at The Metropolitan Museum Heists & Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "R",
+          "A",
+          "L",
+          "H",
+          "C",
+          "O",
+          "S",
+          "B",
+          "P",
+          "Q"
+        ],
+        [
+          "F",
+          "V",
+          "W",
+          "X",
+          "H",
+          "Z",
+          "C",
+          "V",
+          "K",
+          "T"
+        ],
+        [
+          "Y",
+          "C",
+          "K",
+          "P",
+          "I",
+          "G",
+          "M",
+          "E",
+          "N",
+          "T"
+        ],
+        [
+          "X",
+          "A",
+          "E",
+          "S",
+          "S",
+          "L",
+          "M",
+          "U",
+          "H",
+          "S"
+        ],
+        [
+          "J",
+          "N",
+          "Y",
+          "O",
+          "E",
+          "S",
+          "N",
+          "F",
+          "F",
+          "W"
+        ],
+        [
+          "P",
+          "V",
+          "C",
+          "L",
+          "L",
+          "L",
+          "E",
+          "Y",
+          "I",
+          "Z"
+        ],
+        [
+          "A",
+          "A",
+          "A",
+          "V",
+          "P",
+          "Y",
+          "R",
+          "J",
+          "O",
+          "P"
+        ],
+        [
+          "N",
+          "S",
+          "R",
+          "E",
+          "Y",
+          "J",
+          "T",
+          "U",
+          "W",
+          "U"
+        ],
+        [
+          "P",
+          "Q",
+          "D",
+          "N",
+          "T",
+          "U",
+          "H",
+          "F",
+          "Z",
+          "G"
+        ],
+        [
+          "I",
+          "K",
+          "P",
+          "T",
+          "T",
+          "B",
+          "U",
+          "J",
+          "C",
+          "Z"
+        ]
+      ],
+      "words_to_find": [
+        "PIGMENT",
+        "CANVAS",
+        "KEYCARD",
+        "SOLVENT",
+        "CHISEL"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH SURIHVVRU FRQFHDOHG WKH GDJJHU",
+      "plaintext": "THE PROFESSOR CONCEALED THE DAGGER",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Wealthy Benefactor",
+        "The Art Restorer",
+        "The Visiting Professor",
+        "The Chief Curator"
+      ],
+      "rooms": [
+        "Roof Terrace",
+        "Curator's Office",
+        "Egyptian Antiquities",
+        "Basement Conservation Lab"
+      ],
+      "weapons": [
+        "Cast Bronze Statuette",
+        "Venomous Specimen",
+        "Ceremonial Dagger",
+        "Restoration Solvent"
+      ],
+      "clues": [
+        "The Art Restorer was confirmed to be in Roof Terrace.",
+        "The Visiting Professor was discovered carrying the Restoration Solvent.",
+        "The investigator found the Venomous Specimen inside Basement Conservation Lab.",
+        "The Wealthy Benefactor was never seen near Roof Terrace.",
+        "The Wealthy Benefactor had no access to the Cast Bronze Statuette.",
+        "The weapon recovered from Roof Terrace was definitely not the Restoration Solvent.",
+        "Neither The Wealthy Benefactor nor The Chief Curator had ever visited Roof Terrace.",
+        "The lethal strike occurred in Curator's Office, leaving behind the deadly Ceremonial Dagger.",
+        "The Wealthy Benefactor had no access to the Venomous Specimen."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Wealthy Benefactor",
+      "murder_room": "Curator's Office",
+      "murder_weapon": "Ceremonial Dagger",
+      "full_mapping": {
+        "The Wealthy Benefactor": {
+          "room": "Curator's Office",
+          "weapon": "Ceremonial Dagger"
+        },
+        "The Art Restorer": {
+          "room": "Roof Terrace",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Visiting Professor": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Restoration Solvent"
+        },
+        "The Chief Curator": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Venomous Specimen"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 12,
+    "title": "Case #012: The Mystery of Radio Telegraph Shack",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A major incident has been declared at The Coastal & Lighthouse Conspiracies. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "K",
+          "J",
+          "U",
+          "Y",
+          "Z",
+          "Y",
+          "M",
+          "U",
+          "W",
+          "X"
+        ],
+        [
+          "O",
+          "B",
+          "Y",
+          "G",
+          "A",
+          "V",
+          "E",
+          "R",
+          "E",
+          "P"
+        ],
+        [
+          "L",
+          "R",
+          "K",
+          "I",
+          "S",
+          "S",
+          "F",
+          "W",
+          "Q",
+          "K"
+        ],
+        [
+          "S",
+          "A",
+          "Q",
+          "A",
+          "E",
+          "F",
+          "G",
+          "A",
+          "E",
+          "N"
+        ],
+        [
+          "A",
+          "S",
+          "A",
+          "C",
+          "A",
+          "B",
+          "L",
+          "E",
+          "M",
+          "Q"
+        ],
+        [
+          "N",
+          "S",
+          "V",
+          "T",
+          "W",
+          "X",
+          "D",
+          "J",
+          "O",
+          "N"
+        ],
+        [
+          "D",
+          "K",
+          "T",
+          "G",
+          "E",
+          "T",
+          "E",
+          "E",
+          "O",
+          "Y"
+        ],
+        [
+          "V",
+          "E",
+          "H",
+          "B",
+          "E",
+          "X",
+          "G",
+          "K",
+          "P",
+          "S"
+        ],
+        [
+          "K",
+          "Y",
+          "I",
+          "J",
+          "D",
+          "H",
+          "G",
+          "T",
+          "Z",
+          "M"
+        ],
+        [
+          "K",
+          "C",
+          "O",
+          "M",
+          "P",
+          "A",
+          "S",
+          "S",
+          "K",
+          "E"
+        ]
+      ],
+      "words_to_find": [
+        "SEAWEED",
+        "CABLE",
+        "SAND",
+        "COMPASS",
+        "BRASSKEY"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH KDUSRRQ FDPH IURP WKH GUB GRFN",
+      "plaintext": "THE HARPOON CAME FROM THE DRY DOCK",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Smuggler's Mate",
+        "The Harbor Master",
+        "The Marine Biologist",
+        "The Salvage Captain"
+      ],
+      "rooms": [
+        "Dry Dock",
+        "Foghorn Shed",
+        "Lantern Room",
+        "Radio Telegraph Shack"
+      ],
+      "weapons": [
+        "Divers' Knife",
+        "Nautical Rigging Line",
+        "Lead Sounding Weight",
+        "Heavy Brass Flare Gun"
+      ],
+      "clues": [
+        "The Harbor Master was confirmed to be in Foghorn Shed.",
+        "The Marine Biologist was discovered carrying the Heavy Brass Flare Gun.",
+        "The investigator found the Divers' Knife inside Dry Dock.",
+        "The Smuggler's Mate was never seen near Dry Dock.",
+        "The Smuggler's Mate had no access to the Divers' Knife.",
+        "The weapon recovered from Dry Dock was definitely not the Heavy Brass Flare Gun.",
+        "Neither The Smuggler's Mate nor The Salvage Captain had ever visited Foghorn Shed.",
+        "The lethal strike occurred in Radio Telegraph Shack, leaving behind the deadly Lead Sounding Weight."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Smuggler's Mate",
+      "murder_room": "Radio Telegraph Shack",
+      "murder_weapon": "Lead Sounding Weight",
+      "full_mapping": {
+        "The Smuggler's Mate": {
+          "room": "Radio Telegraph Shack",
+          "weapon": "Lead Sounding Weight"
+        },
+        "The Harbor Master": {
+          "room": "Foghorn Shed",
+          "weapon": "Nautical Rigging Line"
+        },
+        "The Marine Biologist": {
+          "room": "Lantern Room",
+          "weapon": "Heavy Brass Flare Gun"
+        },
+        "The Salvage Captain": {
+          "room": "Dry Dock",
+          "weapon": "Divers' Knife"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 13,
+    "title": "Case #013: The Mystery of The Grand Library",
+    "theme": "The Blackwood Manor Murders",
+    "briefing": "A major incident has been declared at The Blackwood Manor Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "J",
+          "H",
+          "H",
+          "L",
+          "M",
+          "R",
+          "C",
+          "M",
+          "E",
+          "M"
+        ],
+        [
+          "T",
+          "H",
+          "R",
+          "R",
+          "O",
+          "L",
+          "H",
+          "L",
+          "G",
+          "Q"
+        ],
+        [
+          "R",
+          "S",
+          "H",
+          "A",
+          "I",
+          "R",
+          "S",
+          "W",
+          "R",
+          "P"
+        ],
+        [
+          "A",
+          "J",
+          "G",
+          "L",
+          "W",
+          "F",
+          "H",
+          "P",
+          "H",
+          "R"
+        ],
+        [
+          "C",
+          "Z",
+          "E",
+          "F",
+          "A",
+          "V",
+          "X",
+          "H",
+          "D",
+          "I"
+        ],
+        [
+          "K",
+          "U",
+          "G",
+          "N",
+          "X",
+          "M",
+          "X",
+          "N",
+          "F",
+          "N"
+        ],
+        [
+          "S",
+          "N",
+          "F",
+          "B",
+          "S",
+          "L",
+          "I",
+          "U",
+          "E",
+          "T"
+        ],
+        [
+          "N",
+          "M",
+          "F",
+          "M",
+          "E",
+          "Y",
+          "O",
+          "O",
+          "D",
+          "S"
+        ],
+        [
+          "X",
+          "O",
+          "J",
+          "J",
+          "A",
+          "A",
+          "S",
+          "H",
+          "E",
+          "S"
+        ],
+        [
+          "E",
+          "Y",
+          "K",
+          "U",
+          "L",
+          "M",
+          "P",
+          "Q",
+          "O",
+          "R"
+        ]
+      ],
+      "words_to_find": [
+        "ASHES",
+        "WAXSEAL",
+        "PRINTS",
+        "HAIRS",
+        "TRACKS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "PHHW PH LQ WKH ZLQH FHOODU DW PLGQLJKW",
+      "plaintext": "MEET ME IN THE WINE CELLAR AT MIDNIGHT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "Lord Harrington",
+        "The Antiquarian",
+        "Dr. Sterling",
+        "The Estate Gardener"
+      ],
+      "rooms": [
+        "The Grand Library",
+        "The Trophy Room",
+        "The Conservatory",
+        "The Billiard Room"
+      ],
+      "weapons": [
+        "Silver Letter Opener",
+        "Arsenic Vial",
+        "Silk Cravat",
+        "Fountain Pen with Poison"
+      ],
+      "clues": [
+        "The Antiquarian was confirmed to be in The Billiard Room.",
+        "Dr. Sterling was discovered carrying the Fountain Pen with Poison.",
+        "The investigator found the Arsenic Vial inside The Trophy Room.",
+        "Lord Harrington was never seen near The Trophy Room.",
+        "Lord Harrington had no access to the Silver Letter Opener.",
+        "The weapon recovered from The Grand Library was definitely not the Fountain Pen with Poison.",
+        "Neither Lord Harrington nor The Estate Gardener had ever visited The Billiard Room.",
+        "The lethal strike occurred in The Grand Library, leaving behind the deadly Silk Cravat."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "Lord Harrington",
+      "murder_room": "The Grand Library",
+      "murder_weapon": "Silk Cravat",
+      "full_mapping": {
+        "Lord Harrington": {
+          "room": "The Grand Library",
+          "weapon": "Silk Cravat"
+        },
+        "The Antiquarian": {
+          "room": "The Billiard Room",
+          "weapon": "Silver Letter Opener"
+        },
+        "Dr. Sterling": {
+          "room": "The Conservatory",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "The Estate Gardener": {
+          "room": "The Trophy Room",
+          "weapon": "Arsenic Vial"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 14,
+    "title": "Case #014: The Mystery of Observation Lounge",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A major incident has been declared at The Midnight Express Mysteries. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "O",
+          "M",
+          "A",
+          "L",
+          "E",
+          "T",
+          "T",
+          "E",
+          "R",
+          "I"
+        ],
+        [
+          "K",
+          "L",
+          "O",
+          "C",
+          "K",
+          "P",
+          "I",
+          "C",
+          "K",
+          "X"
+        ],
+        [
+          "B",
+          "U",
+          "T",
+          "T",
+          "O",
+          "N",
+          "R",
+          "G",
+          "A",
+          "K"
+        ],
+        [
+          "Z",
+          "C",
+          "Y",
+          "Z",
+          "K",
+          "G",
+          "S",
+          "I",
+          "J",
+          "X"
+        ],
+        [
+          "V",
+          "A",
+          "K",
+          "B",
+          "E",
+          "T",
+          "H",
+          "P",
+          "D",
+          "F"
+        ],
+        [
+          "Y",
+          "T",
+          "J",
+          "R",
+          "Y",
+          "D",
+          "A",
+          "H",
+          "U",
+          "N"
+        ],
+        [
+          "H",
+          "G",
+          "N",
+          "B",
+          "G",
+          "I",
+          "R",
+          "C",
+          "C",
+          "L"
+        ],
+        [
+          "S",
+          "W",
+          "J",
+          "H",
+          "O",
+          "W",
+          "D",
+          "U",
+          "P",
+          "A"
+        ],
+        [
+          "Q",
+          "D",
+          "I",
+          "A",
+          "M",
+          "O",
+          "N",
+          "D",
+          "M",
+          "G"
+        ],
+        [
+          "F",
+          "A",
+          "D",
+          "W",
+          "S",
+          "Z",
+          "D",
+          "W",
+          "G",
+          "I"
+        ]
+      ],
+      "words_to_find": [
+        "SHARD",
+        "BUTTON",
+        "DIAMOND",
+        "LETTER",
+        "LOCKPICK"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FRQGXFWRU KHDUG WKH VKRW ILUHG",
+      "plaintext": "THE CONDUCTOR HEARD THE SHOT FIRED",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The French Diplomat",
+        "The Retired General",
+        "The Opera Soprano",
+        "The Train Conductor"
+      ],
+      "rooms": [
+        "Private Salon",
+        "Observation Lounge",
+        "Dining Car",
+        "Luggage Van"
+      ],
+      "weapons": [
+        "Engraved Pocket Pistol",
+        "Chloroform Rag",
+        "Luggage Strap",
+        "Steel Pocket Knife"
+      ],
+      "clues": [
+        "The Retired General was confirmed to be in Dining Car.",
+        "The Opera Soprano was discovered carrying the Steel Pocket Knife.",
+        "The investigator found the Chloroform Rag inside Luggage Van.",
+        "The French Diplomat was never seen near Private Salon.",
+        "The French Diplomat had no access to the Chloroform Rag.",
+        "The weapon recovered from Observation Lounge was definitely not the Steel Pocket Knife.",
+        "Neither The French Diplomat nor The Train Conductor had ever visited Dining Car.",
+        "The lethal strike occurred in Observation Lounge, leaving behind the deadly Engraved Pocket Pistol."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The French Diplomat",
+      "murder_room": "Observation Lounge",
+      "murder_weapon": "Engraved Pocket Pistol",
+      "full_mapping": {
+        "The French Diplomat": {
+          "room": "Observation Lounge",
+          "weapon": "Engraved Pocket Pistol"
+        },
+        "The Retired General": {
+          "room": "Dining Car",
+          "weapon": "Luggage Strap"
+        },
+        "The Opera Soprano": {
+          "room": "Private Salon",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The Train Conductor": {
+          "room": "Luggage Van",
+          "weapon": "Chloroform Rag"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 15,
+    "title": "Case #015: The Mystery of Roof Terrace",
+    "theme": "The Metropolitan Museum Heists & Murders",
+    "briefing": "A major incident has been declared at The Metropolitan Museum Heists & Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "R",
+          "P",
+          "Z",
+          "T",
+          "J",
+          "L",
+          "Z",
+          "N",
+          "Z",
+          "A"
+        ],
+        [
+          "H",
+          "S",
+          "O",
+          "L",
+          "V",
+          "E",
+          "N",
+          "T",
+          "C",
+          "A"
+        ],
+        [
+          "G",
+          "L",
+          "E",
+          "J",
+          "C",
+          "A",
+          "N",
+          "V",
+          "A",
+          "S"
+        ],
+        [
+          "B",
+          "U",
+          "V",
+          "R",
+          "J",
+          "I",
+          "T",
+          "F",
+          "Y",
+          "M"
+        ],
+        [
+          "F",
+          "U",
+          "P",
+          "I",
+          "G",
+          "M",
+          "E",
+          "N",
+          "T",
+          "Q"
+        ],
+        [
+          "O",
+          "R",
+          "C",
+          "U",
+          "H",
+          "F",
+          "C",
+          "J",
+          "Y",
+          "G"
+        ],
+        [
+          "L",
+          "G",
+          "Y",
+          "A",
+          "L",
+          "R",
+          "O",
+          "R",
+          "U",
+          "E"
+        ],
+        [
+          "P",
+          "L",
+          "A",
+          "S",
+          "T",
+          "E",
+          "R",
+          "G",
+          "M",
+          "O"
+        ],
+        [
+          "J",
+          "R",
+          "A",
+          "A",
+          "J",
+          "J",
+          "C",
+          "P",
+          "R",
+          "A"
+        ],
+        [
+          "C",
+          "H",
+          "I",
+          "S",
+          "E",
+          "L",
+          "R",
+          "Z",
+          "U",
+          "W"
+        ]
+      ],
+      "words_to_find": [
+        "PLASTER",
+        "PIGMENT",
+        "CANVAS",
+        "CHISEL",
+        "SOLVENT"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "PHHW LQ WKH PHGLHYDO DUPRUB WRQLJKW",
+      "plaintext": "MEET IN THE MEDIEVAL ARMORY TONIGHT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Art Restorer",
+        "The Auctioneer",
+        "The Wealthy Benefactor",
+        "The Visiting Professor"
+      ],
+      "rooms": [
+        "Roof Terrace",
+        "Medieval Armory",
+        "Egyptian Antiquities",
+        "Curator's Office"
+      ],
+      "weapons": [
+        "Venomous Specimen",
+        "Iron Flanged Mace",
+        "Ceremonial Dagger",
+        "Cast Bronze Statuette"
+      ],
+      "clues": [
+        "The Auctioneer was confirmed to be in Curator's Office.",
+        "The Wealthy Benefactor was discovered carrying the Venomous Specimen.",
+        "The investigator found the Ceremonial Dagger inside Egyptian Antiquities.",
+        "The Art Restorer was never seen near Medieval Armory.",
+        "The Art Restorer had no access to the Venomous Specimen.",
+        "The weapon recovered from Roof Terrace was definitely not the Venomous Specimen.",
+        "Neither The Art Restorer nor The Visiting Professor had ever visited Curator's Office.",
+        "The lethal strike occurred in Roof Terrace, leaving behind the deadly Iron Flanged Mace.",
+        "The Art Restorer had no access to the Ceremonial Dagger."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Art Restorer",
+      "murder_room": "Roof Terrace",
+      "murder_weapon": "Iron Flanged Mace",
+      "full_mapping": {
+        "The Art Restorer": {
+          "room": "Roof Terrace",
+          "weapon": "Iron Flanged Mace"
+        },
+        "The Auctioneer": {
+          "room": "Curator's Office",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Wealthy Benefactor": {
+          "room": "Medieval Armory",
+          "weapon": "Venomous Specimen"
+        },
+        "The Visiting Professor": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Ceremonial Dagger"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 16,
+    "title": "Case #016: The Mystery of Lantern Room",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A major incident has been declared at The Coastal & Lighthouse Conspiracies. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "K",
+          "B",
+          "F",
+          "N",
+          "N",
+          "U",
+          "O",
+          "X",
+          "T",
+          "S"
+        ],
+        [
+          "O",
+          "O",
+          "I",
+          "L",
+          "F",
+          "L",
+          "A",
+          "S",
+          "K",
+          "A"
+        ],
+        [
+          "E",
+          "S",
+          "O",
+          "Q",
+          "R",
+          "C",
+          "R",
+          "V",
+          "R",
+          "M"
+        ],
+        [
+          "Z",
+          "D",
+          "Q",
+          "F",
+          "Y",
+          "W",
+          "O",
+          "S",
+          "K",
+          "P"
+        ],
+        [
+          "Q",
+          "P",
+          "J",
+          "B",
+          "D",
+          "W",
+          "P",
+          "P",
+          "B",
+          "G"
+        ],
+        [
+          "S",
+          "S",
+          "E",
+          "A",
+          "W",
+          "E",
+          "E",
+          "D",
+          "R",
+          "B"
+        ],
+        [
+          "P",
+          "C",
+          "O",
+          "M",
+          "P",
+          "A",
+          "S",
+          "S",
+          "J",
+          "V"
+        ],
+        [
+          "M",
+          "Z",
+          "C",
+          "A",
+          "W",
+          "N",
+          "Q",
+          "J",
+          "D",
+          "S"
+        ],
+        [
+          "X",
+          "J",
+          "N",
+          "C",
+          "Z",
+          "E",
+          "J",
+          "F",
+          "Z",
+          "E"
+        ],
+        [
+          "X",
+          "O",
+          "C",
+          "A",
+          "B",
+          "L",
+          "E",
+          "S",
+          "A",
+          "N"
+        ]
+      ],
+      "words_to_find": [
+        "COMPASS",
+        "SEAWEED",
+        "ROPE",
+        "OILFLASK",
+        "CABLE"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH KDUSRRQ FDPH IURP WKH GUB GRFN",
+      "plaintext": "THE HARPOON CAME FROM THE DRY DOCK",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Lighthouse Keeper",
+        "The Island Innkeeper",
+        "The Harbor Master",
+        "The Smuggler's Mate"
+      ],
+      "rooms": [
+        "Tavern Cellar",
+        "Rocky Cove",
+        "Lantern Room",
+        "Foghorn Shed"
+      ],
+      "weapons": [
+        "Heavy Brass Flare Gun",
+        "Lead Sounding Weight",
+        "Whale Oil Flask",
+        "Iron Harpoon Tip"
+      ],
+      "clues": [
+        "The Island Innkeeper was confirmed to be in Rocky Cove.",
+        "The Harbor Master was discovered carrying the Iron Harpoon Tip.",
+        "The investigator found the Whale Oil Flask inside Foghorn Shed.",
+        "The Lighthouse Keeper was never seen near Tavern Cellar.",
+        "The Lighthouse Keeper had no access to the Heavy Brass Flare Gun.",
+        "The weapon recovered from Rocky Cove was definitely not the Iron Harpoon Tip.",
+        "Neither The Lighthouse Keeper nor The Smuggler's Mate had ever visited Rocky Cove.",
+        "The lethal strike occurred in Lantern Room, leaving behind the deadly Lead Sounding Weight.",
+        "The Lighthouse Keeper had no access to the Whale Oil Flask."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Lighthouse Keeper",
+      "murder_room": "Lantern Room",
+      "murder_weapon": "Lead Sounding Weight",
+      "full_mapping": {
+        "The Lighthouse Keeper": {
+          "room": "Lantern Room",
+          "weapon": "Lead Sounding Weight"
+        },
+        "The Island Innkeeper": {
+          "room": "Rocky Cove",
+          "weapon": "Heavy Brass Flare Gun"
+        },
+        "The Harbor Master": {
+          "room": "Tavern Cellar",
+          "weapon": "Iron Harpoon Tip"
+        },
+        "The Smuggler's Mate": {
+          "room": "Foghorn Shed",
+          "weapon": "Whale Oil Flask"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 17,
+    "title": "Case #017: The Mystery of The Clock Tower",
+    "theme": "The Blackwood Manor Murders",
+    "briefing": "A major incident has been declared at The Blackwood Manor Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "V",
+          "Q",
+          "R",
+          "U",
+          "R",
+          "R",
+          "Y",
+          "G",
+          "O",
+          "N"
+        ],
+        [
+          "N",
+          "I",
+          "R",
+          "A",
+          "S",
+          "H",
+          "E",
+          "S",
+          "U",
+          "A"
+        ],
+        [
+          "R",
+          "M",
+          "R",
+          "U",
+          "J",
+          "S",
+          "T",
+          "H",
+          "W",
+          "S"
+        ],
+        [
+          "S",
+          "Q",
+          "N",
+          "G",
+          "K",
+          "F",
+          "F",
+          "U",
+          "T",
+          "A"
+        ],
+        [
+          "C",
+          "F",
+          "W",
+          "M",
+          "L",
+          "X",
+          "B",
+          "B",
+          "R",
+          "A"
+        ],
+        [
+          "R",
+          "I",
+          "O",
+          "H",
+          "C",
+          "J",
+          "I",
+          "H",
+          "A",
+          "X"
+        ],
+        [
+          "A",
+          "B",
+          "W",
+          "F",
+          "I",
+          "G",
+          "J",
+          "A",
+          "C",
+          "O"
+        ],
+        [
+          "T",
+          "E",
+          "R",
+          "P",
+          "B",
+          "Z",
+          "Y",
+          "I",
+          "K",
+          "X"
+        ],
+        [
+          "C",
+          "R",
+          "D",
+          "W",
+          "W",
+          "X",
+          "A",
+          "R",
+          "S",
+          "M"
+        ],
+        [
+          "H",
+          "W",
+          "F",
+          "D",
+          "B",
+          "E",
+          "C",
+          "S",
+          "H",
+          "I"
+        ]
+      ],
+      "words_to_find": [
+        "ASHES",
+        "FIBER",
+        "SCRATCH",
+        "HAIRS",
+        "TRACKS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH ZLOO ZDV IRUJHG EB WKH EXWOHU",
+      "plaintext": "THE WILL WAS FORGED BY THE BUTLER",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "Dr. Sterling",
+        "The Antiquarian",
+        "Duchess Eleanor",
+        "The Head Butler"
+      ],
+      "rooms": [
+        "The Trophy Room",
+        "The Wine Cellar",
+        "The Clock Tower",
+        "The Conservatory"
+      ],
+      "weapons": [
+        "Vintage Hunting Rifle",
+        "Arsenic Vial",
+        "Silk Cravat",
+        "Fountain Pen with Poison"
+      ],
+      "clues": [
+        "The Antiquarian was confirmed to be in The Wine Cellar.",
+        "Duchess Eleanor was discovered carrying the Fountain Pen with Poison.",
+        "The investigator found the Arsenic Vial inside The Conservatory.",
+        "Dr. Sterling was never seen near The Trophy Room.",
+        "Dr. Sterling had no access to the Vintage Hunting Rifle.",
+        "The weapon recovered from The Wine Cellar was definitely not the Fountain Pen with Poison.",
+        "Neither Dr. Sterling nor The Head Butler had ever visited The Wine Cellar.",
+        "The lethal strike occurred in The Clock Tower, leaving behind the deadly Silk Cravat.",
+        "Dr. Sterling had no access to the Arsenic Vial."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "Dr. Sterling",
+      "murder_room": "The Clock Tower",
+      "murder_weapon": "Silk Cravat",
+      "full_mapping": {
+        "Dr. Sterling": {
+          "room": "The Clock Tower",
+          "weapon": "Silk Cravat"
+        },
+        "The Antiquarian": {
+          "room": "The Wine Cellar",
+          "weapon": "Vintage Hunting Rifle"
+        },
+        "Duchess Eleanor": {
+          "room": "The Trophy Room",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "The Head Butler": {
+          "room": "The Conservatory",
+          "weapon": "Arsenic Vial"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 18,
+    "title": "Case #018: The Mystery of Private Salon",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A major incident has been declared at The Midnight Express Mysteries. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "G",
+          "B",
+          "T",
+          "L",
+          "X",
+          "W",
+          "Q",
+          "H",
+          "B",
+          "R"
+        ],
+        [
+          "L",
+          "Q",
+          "K",
+          "S",
+          "V",
+          "V",
+          "K",
+          "A",
+          "U",
+          "T"
+        ],
+        [
+          "O",
+          "P",
+          "G",
+          "R",
+          "Q",
+          "D",
+          "J",
+          "P",
+          "T",
+          "A"
+        ],
+        [
+          "C",
+          "P",
+          "Q",
+          "Y",
+          "T",
+          "G",
+          "W",
+          "K",
+          "T",
+          "O"
+        ],
+        [
+          "K",
+          "C",
+          "C",
+          "F",
+          "W",
+          "P",
+          "Y",
+          "V",
+          "O",
+          "K"
+        ],
+        [
+          "P",
+          "L",
+          "E",
+          "T",
+          "T",
+          "E",
+          "R",
+          "R",
+          "N",
+          "K"
+        ],
+        [
+          "I",
+          "R",
+          "F",
+          "P",
+          "O",
+          "W",
+          "D",
+          "E",
+          "R",
+          "S"
+        ],
+        [
+          "C",
+          "O",
+          "D",
+          "I",
+          "A",
+          "M",
+          "O",
+          "N",
+          "D",
+          "K"
+        ],
+        [
+          "K",
+          "A",
+          "Y",
+          "Z",
+          "W",
+          "Z",
+          "D",
+          "O",
+          "P",
+          "I"
+        ],
+        [
+          "C",
+          "G",
+          "Z",
+          "V",
+          "A",
+          "G",
+          "E",
+          "C",
+          "O",
+          "X"
+        ]
+      ],
+      "words_to_find": [
+        "LETTER",
+        "BUTTON",
+        "LOCKPICK",
+        "POWDER",
+        "DIAMOND"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH SRXFK LV LQ WKH OXJJDJH YDQ",
+      "plaintext": "THE POUCH IS IN THE LUGGAGE VAN",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Card Sharp",
+        "The Opera Soprano",
+        "The Jewel Merchant",
+        "The French Diplomat"
+      ],
+      "rooms": [
+        "Private Salon",
+        "Dining Car",
+        "Observation Lounge",
+        "First-Class Sleeper A"
+      ],
+      "weapons": [
+        "Steel Pocket Knife",
+        "Dosed Champagne",
+        "Heavy Crystal Decanter",
+        "Chloroform Rag"
+      ],
+      "clues": [
+        "The Opera Soprano was confirmed to be in Observation Lounge.",
+        "The Jewel Merchant was discovered carrying the Chloroform Rag.",
+        "The investigator found the Dosed Champagne inside First-Class Sleeper A.",
+        "The Card Sharp was never seen near Dining Car.",
+        "The Card Sharp had no access to the Dosed Champagne.",
+        "The weapon recovered from Private Salon was definitely not the Chloroform Rag.",
+        "Neither The Card Sharp nor The French Diplomat had ever visited Observation Lounge.",
+        "The lethal strike occurred in Private Salon, leaving behind the deadly Steel Pocket Knife."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Card Sharp",
+      "murder_room": "Private Salon",
+      "murder_weapon": "Steel Pocket Knife",
+      "full_mapping": {
+        "The Card Sharp": {
+          "room": "Private Salon",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The Opera Soprano": {
+          "room": "Observation Lounge",
+          "weapon": "Heavy Crystal Decanter"
+        },
+        "The Jewel Merchant": {
+          "room": "Dining Car",
+          "weapon": "Chloroform Rag"
+        },
+        "The French Diplomat": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Dosed Champagne"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 19,
+    "title": "Case #019: The Mystery of Egyptian Antiquities",
+    "theme": "The Metropolitan Museum Heists & Murders",
+    "briefing": "A major incident has been declared at The Metropolitan Museum Heists & Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "T",
+          "L",
+          "L",
+          "Y",
+          "W",
+          "V",
+          "R",
+          "V",
+          "S",
+          "O"
+        ],
+        [
+          "B",
+          "C",
+          "L",
+          "S",
+          "O",
+          "L",
+          "V",
+          "E",
+          "N",
+          "T"
+        ],
+        [
+          "W",
+          "A",
+          "X",
+          "G",
+          "G",
+          "Q",
+          "E",
+          "S",
+          "C",
+          "G"
+        ],
+        [
+          "P",
+          "N",
+          "B",
+          "L",
+          "F",
+          "E",
+          "F",
+          "L",
+          "H",
+          "W"
+        ],
+        [
+          "L",
+          "V",
+          "V",
+          "O",
+          "U",
+          "U",
+          "L",
+          "O",
+          "I",
+          "L"
+        ],
+        [
+          "A",
+          "A",
+          "F",
+          "V",
+          "W",
+          "G",
+          "F",
+          "L",
+          "S",
+          "H"
+        ],
+        [
+          "S",
+          "S",
+          "L",
+          "E",
+          "I",
+          "S",
+          "U",
+          "O",
+          "E",
+          "D"
+        ],
+        [
+          "T",
+          "U",
+          "F",
+          "S",
+          "Q",
+          "Y",
+          "R",
+          "P",
+          "L",
+          "H"
+        ],
+        [
+          "E",
+          "C",
+          "C",
+          "T",
+          "S",
+          "K",
+          "W",
+          "L",
+          "C",
+          "H"
+        ],
+        [
+          "R",
+          "J",
+          "A",
+          "I",
+          "A",
+          "F",
+          "U",
+          "O",
+          "P",
+          "A"
+        ]
+      ],
+      "words_to_find": [
+        "PLASTER",
+        "GLOVES",
+        "CHISEL",
+        "SOLVENT",
+        "CANVAS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "VROYHQW ZDV WDNHQ IURP WKH EDVHPHQW",
+      "plaintext": "SOLVENT WAS TAKEN FROM THE BASEMENT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Chief Curator",
+        "The Wealthy Benefactor",
+        "The Visiting Professor",
+        "The Night Guard"
+      ],
+      "rooms": [
+        "Egyptian Antiquities",
+        "Renaissance Gallery",
+        "Curator's Office",
+        "Roof Terrace"
+      ],
+      "weapons": [
+        "Iron Flanged Mace",
+        "Restoration Solvent",
+        "Cast Bronze Statuette",
+        "Ceremonial Dagger"
+      ],
+      "clues": [
+        "The Wealthy Benefactor was confirmed to be in Roof Terrace.",
+        "The Visiting Professor was discovered carrying the Restoration Solvent.",
+        "The investigator found the Iron Flanged Mace inside Curator's Office.",
+        "The Chief Curator was never seen near Renaissance Gallery.",
+        "The Chief Curator had no access to the Iron Flanged Mace.",
+        "The weapon recovered from Egyptian Antiquities was definitely not the Restoration Solvent.",
+        "Neither The Chief Curator nor The Night Guard had ever visited Roof Terrace.",
+        "The lethal strike occurred in Egyptian Antiquities, leaving behind the deadly Cast Bronze Statuette."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Chief Curator",
+      "murder_room": "Egyptian Antiquities",
+      "murder_weapon": "Cast Bronze Statuette",
+      "full_mapping": {
+        "The Chief Curator": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Wealthy Benefactor": {
+          "room": "Roof Terrace",
+          "weapon": "Ceremonial Dagger"
+        },
+        "The Visiting Professor": {
+          "room": "Renaissance Gallery",
+          "weapon": "Restoration Solvent"
+        },
+        "The Night Guard": {
+          "room": "Curator's Office",
+          "weapon": "Iron Flanged Mace"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 20,
+    "title": "Case #020: The Mystery of Tavern Cellar",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A major incident has been declared at The Coastal & Lighthouse Conspiracies. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "Z",
+          "S",
+          "K",
+          "T",
+          "O",
+          "F",
+          "Q",
+          "P",
+          "P",
+          "K"
+        ],
+        [
+          "A",
+          "A",
+          "V",
+          "C",
+          "A",
+          "B",
+          "L",
+          "E",
+          "W",
+          "T"
+        ],
+        [
+          "H",
+          "N",
+          "W",
+          "I",
+          "K",
+          "V",
+          "R",
+          "L",
+          "V",
+          "S"
+        ],
+        [
+          "P",
+          "D",
+          "C",
+          "O",
+          "M",
+          "P",
+          "A",
+          "S",
+          "S",
+          "T"
+        ],
+        [
+          "V",
+          "R",
+          "V",
+          "K",
+          "A",
+          "Z",
+          "I",
+          "E",
+          "J",
+          "G"
+        ],
+        [
+          "S",
+          "E",
+          "A",
+          "W",
+          "E",
+          "E",
+          "D",
+          "J",
+          "T",
+          "X"
+        ],
+        [
+          "O",
+          "I",
+          "L",
+          "F",
+          "L",
+          "A",
+          "S",
+          "K",
+          "Z",
+          "M"
+        ],
+        [
+          "I",
+          "R",
+          "F",
+          "J",
+          "H",
+          "O",
+          "W",
+          "B",
+          "N",
+          "X"
+        ],
+        [
+          "K",
+          "S",
+          "Z",
+          "S",
+          "M",
+          "K",
+          "D",
+          "C",
+          "S",
+          "D"
+        ],
+        [
+          "C",
+          "M",
+          "R",
+          "D",
+          "K",
+          "E",
+          "K",
+          "F",
+          "C",
+          "G"
+        ]
+      ],
+      "words_to_find": [
+        "SAND",
+        "OILFLASK",
+        "SEAWEED",
+        "CABLE",
+        "COMPASS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH VDOYDJH FDSWDLQ OLHG DERXW WKH VWRUP",
+      "plaintext": "THE SALVAGE CAPTAIN LIED ABOUT THE STORM",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Lighthouse Keeper",
+        "The Island Innkeeper",
+        "The Harbor Master",
+        "The Smuggler's Mate"
+      ],
+      "rooms": [
+        "Lantern Room",
+        "Tavern Cellar",
+        "Dry Dock",
+        "Foghorn Shed"
+      ],
+      "weapons": [
+        "Divers' Knife",
+        "Whale Oil Flask",
+        "Heavy Brass Flare Gun",
+        "Nautical Rigging Line"
+      ],
+      "clues": [
+        "The Island Innkeeper was confirmed to be in Foghorn Shed.",
+        "The Harbor Master was discovered carrying the Heavy Brass Flare Gun.",
+        "The investigator found the Whale Oil Flask inside Dry Dock.",
+        "The Lighthouse Keeper was never seen near Lantern Room.",
+        "The Lighthouse Keeper had no access to the Whale Oil Flask.",
+        "The weapon recovered from Tavern Cellar was definitely not the Heavy Brass Flare Gun.",
+        "Neither The Lighthouse Keeper nor The Smuggler's Mate had ever visited Foghorn Shed.",
+        "The lethal strike occurred in Tavern Cellar, leaving behind the deadly Divers' Knife."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Lighthouse Keeper",
+      "murder_room": "Tavern Cellar",
+      "murder_weapon": "Divers' Knife",
+      "full_mapping": {
+        "The Lighthouse Keeper": {
+          "room": "Tavern Cellar",
+          "weapon": "Divers' Knife"
+        },
+        "The Island Innkeeper": {
+          "room": "Foghorn Shed",
+          "weapon": "Nautical Rigging Line"
+        },
+        "The Harbor Master": {
+          "room": "Lantern Room",
+          "weapon": "Heavy Brass Flare Gun"
+        },
+        "The Smuggler's Mate": {
+          "room": "Dry Dock",
+          "weapon": "Whale Oil Flask"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 21,
+    "title": "Case #021: The Mystery of The Billiard Room",
+    "theme": "The Blackwood Manor Murders",
+    "briefing": "A major incident has been declared at The Blackwood Manor Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "T",
+          "G",
+          "J",
+          "L",
+          "G",
+          "S",
+          "M",
+          "Q",
+          "S",
+          "M"
+        ],
+        [
+          "R",
+          "K",
+          "H",
+          "A",
+          "X",
+          "C",
+          "B",
+          "F",
+          "S",
+          "I"
+        ],
+        [
+          "A",
+          "F",
+          "D",
+          "A",
+          "F",
+          "R",
+          "H",
+          "Z",
+          "C",
+          "N"
+        ],
+        [
+          "C",
+          "I",
+          "T",
+          "V",
+          "I",
+          "A",
+          "S",
+          "Z",
+          "I",
+          "W"
+        ],
+        [
+          "K",
+          "B",
+          "Z",
+          "G",
+          "B",
+          "T",
+          "F",
+          "U",
+          "N",
+          "A"
+        ],
+        [
+          "S",
+          "E",
+          "W",
+          "F",
+          "M",
+          "C",
+          "G",
+          "B",
+          "X",
+          "X"
+        ],
+        [
+          "C",
+          "R",
+          "K",
+          "D",
+          "H",
+          "H",
+          "Q",
+          "W",
+          "M",
+          "S"
+        ],
+        [
+          "U",
+          "J",
+          "T",
+          "R",
+          "L",
+          "M",
+          "Z",
+          "N",
+          "X",
+          "E"
+        ],
+        [
+          "Y",
+          "K",
+          "W",
+          "B",
+          "U",
+          "R",
+          "R",
+          "J",
+          "J",
+          "A"
+        ],
+        [
+          "B",
+          "O",
+          "C",
+          "H",
+          "A",
+          "I",
+          "R",
+          "S",
+          "D",
+          "L"
+        ]
+      ],
+      "words_to_find": [
+        "SCRATCH",
+        "TRACKS",
+        "HAIRS",
+        "FIBER",
+        "WAXSEAL"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "KHOHQD NQHZ ZKR EURXJKW WKH SRLVRQ",
+      "plaintext": "HELENA KNEW WHO BROUGHT THE POISON",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Antiquarian",
+        "The Head Butler",
+        "Lord Harrington",
+        "The Estate Gardener"
+      ],
+      "rooms": [
+        "The Clock Tower",
+        "The Billiard Room",
+        "The Grand Library",
+        "The Trophy Room"
+      ],
+      "weapons": [
+        "Arsenic Vial",
+        "Silver Letter Opener",
+        "Vintage Hunting Rifle",
+        "Fountain Pen with Poison"
+      ],
+      "clues": [
+        "The Head Butler was confirmed to be in The Grand Library.",
+        "Lord Harrington was discovered carrying the Fountain Pen with Poison.",
+        "The investigator found the Vintage Hunting Rifle inside The Trophy Room.",
+        "The Antiquarian was never seen near The Clock Tower.",
+        "The Antiquarian had no access to the Arsenic Vial.",
+        "The weapon recovered from The Billiard Room was definitely not the Fountain Pen with Poison.",
+        "Neither The Antiquarian nor The Estate Gardener had ever visited The Grand Library.",
+        "The lethal strike occurred in The Billiard Room, leaving behind the deadly Silver Letter Opener.",
+        "The Antiquarian had no access to the Vintage Hunting Rifle."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Antiquarian",
+      "murder_room": "The Billiard Room",
+      "murder_weapon": "Silver Letter Opener",
+      "full_mapping": {
+        "The Antiquarian": {
+          "room": "The Billiard Room",
+          "weapon": "Silver Letter Opener"
+        },
+        "The Head Butler": {
+          "room": "The Grand Library",
+          "weapon": "Arsenic Vial"
+        },
+        "Lord Harrington": {
+          "room": "The Clock Tower",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "The Estate Gardener": {
+          "room": "The Trophy Room",
+          "weapon": "Vintage Hunting Rifle"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 22,
+    "title": "Case #022: The Mystery of First-Class Sleeper A",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A major incident has been declared at The Midnight Express Mysteries. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "F",
+          "W",
+          "D",
+          "F",
+          "C",
+          "I",
+          "G",
+          "A",
+          "R",
+          "S"
+        ],
+        [
+          "Y",
+          "T",
+          "N",
+          "U",
+          "Q",
+          "Z",
+          "O",
+          "Z",
+          "J",
+          "T"
+        ],
+        [
+          "B",
+          "P",
+          "H",
+          "M",
+          "P",
+          "R",
+          "F",
+          "J",
+          "N",
+          "I"
+        ],
+        [
+          "L",
+          "O",
+          "I",
+          "Y",
+          "M",
+          "Q",
+          "C",
+          "L",
+          "P",
+          "C"
+        ],
+        [
+          "L",
+          "W",
+          "S",
+          "H",
+          "A",
+          "R",
+          "D",
+          "Q",
+          "R",
+          "K"
+        ],
+        [
+          "E",
+          "D",
+          "L",
+          "O",
+          "F",
+          "N",
+          "H",
+          "H",
+          "F",
+          "E"
+        ],
+        [
+          "T",
+          "E",
+          "H",
+          "F",
+          "Y",
+          "X",
+          "E",
+          "S",
+          "Z",
+          "T"
+        ],
+        [
+          "T",
+          "R",
+          "I",
+          "A",
+          "K",
+          "A",
+          "F",
+          "T",
+          "F",
+          "Z"
+        ],
+        [
+          "E",
+          "M",
+          "O",
+          "L",
+          "E",
+          "E",
+          "M",
+          "P",
+          "D",
+          "O"
+        ],
+        [
+          "R",
+          "A",
+          "O",
+          "Q",
+          "U",
+          "L",
+          "E",
+          "G",
+          "Q",
+          "G"
+        ]
+      ],
+      "words_to_find": [
+        "POWDER",
+        "TICKET",
+        "SHARD",
+        "CIGAR",
+        "LETTER"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FRQGXFWRU KHDUG WKH VKRW ILUHG",
+      "plaintext": "THE CONDUCTOR HEARD THE SHOT FIRED",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The French Diplomat",
+        "The Card Sharp",
+        "The Retired General",
+        "The Train Conductor"
+      ],
+      "rooms": [
+        "Luggage Van",
+        "Dining Car",
+        "First-Class Sleeper A",
+        "Engine Cab"
+      ],
+      "weapons": [
+        "Steel Pocket Knife",
+        "Heavy Crystal Decanter",
+        "Dosed Champagne",
+        "Chloroform Rag"
+      ],
+      "clues": [
+        "The Card Sharp was confirmed to be in Dining Car.",
+        "The Retired General was discovered carrying the Chloroform Rag.",
+        "The investigator found the Heavy Crystal Decanter inside Luggage Van.",
+        "The French Diplomat was never seen near Luggage Van.",
+        "The French Diplomat had no access to the Heavy Crystal Decanter.",
+        "The weapon recovered from Luggage Van was definitely not the Chloroform Rag.",
+        "Neither The French Diplomat nor The Train Conductor had ever visited Dining Car.",
+        "The lethal strike occurred in First-Class Sleeper A, leaving behind the deadly Steel Pocket Knife."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The French Diplomat",
+      "murder_room": "First-Class Sleeper A",
+      "murder_weapon": "Steel Pocket Knife",
+      "full_mapping": {
+        "The French Diplomat": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The Card Sharp": {
+          "room": "Dining Car",
+          "weapon": "Dosed Champagne"
+        },
+        "The Retired General": {
+          "room": "Engine Cab",
+          "weapon": "Chloroform Rag"
+        },
+        "The Train Conductor": {
+          "room": "Luggage Van",
+          "weapon": "Heavy Crystal Decanter"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 23,
+    "title": "Case #023: The Mystery of Renaissance Gallery",
+    "theme": "The Metropolitan Museum Heists & Murders",
+    "briefing": "A major incident has been declared at The Metropolitan Museum Heists & Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "D",
+          "E",
+          "J",
+          "W",
+          "D",
+          "N",
+          "Q",
+          "C",
+          "V",
+          "A"
+        ],
+        [
+          "H",
+          "V",
+          "P",
+          "F",
+          "U",
+          "U",
+          "M",
+          "S",
+          "U",
+          "O"
+        ],
+        [
+          "Y",
+          "C",
+          "I",
+          "S",
+          "B",
+          "X",
+          "F",
+          "T",
+          "C",
+          "G"
+        ],
+        [
+          "N",
+          "H",
+          "G",
+          "J",
+          "X",
+          "Y",
+          "T",
+          "A",
+          "B",
+          "M"
+        ],
+        [
+          "Y",
+          "I",
+          "M",
+          "P",
+          "L",
+          "A",
+          "S",
+          "T",
+          "E",
+          "R"
+        ],
+        [
+          "R",
+          "S",
+          "E",
+          "U",
+          "F",
+          "I",
+          "K",
+          "U",
+          "N",
+          "H"
+        ],
+        [
+          "Y",
+          "E",
+          "N",
+          "G",
+          "U",
+          "S",
+          "M",
+          "E",
+          "V",
+          "X"
+        ],
+        [
+          "E",
+          "L",
+          "T",
+          "N",
+          "G",
+          "Y",
+          "V",
+          "J",
+          "X",
+          "A"
+        ],
+        [
+          "U",
+          "C",
+          "A",
+          "N",
+          "V",
+          "A",
+          "S",
+          "Q",
+          "G",
+          "Y"
+        ],
+        [
+          "T",
+          "T",
+          "M",
+          "T",
+          "T",
+          "D",
+          "G",
+          "F",
+          "D",
+          "B"
+        ]
+      ],
+      "words_to_find": [
+        "CHISEL",
+        "PIGMENT",
+        "PLASTER",
+        "STATUE",
+        "CANVAS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "PHHW LQ WKH PHGLHYDO DUPRUB WRQLJKW",
+      "plaintext": "MEET IN THE MEDIEVAL ARMORY TONIGHT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Wealthy Benefactor",
+        "The Visiting Professor",
+        "The Night Guard",
+        "The Auctioneer"
+      ],
+      "rooms": [
+        "Egyptian Antiquities",
+        "Curator's Office",
+        "Renaissance Gallery",
+        "Roof Terrace"
+      ],
+      "weapons": [
+        "Venomous Specimen",
+        "Broken Marble Shard",
+        "Cast Bronze Statuette",
+        "Ceremonial Dagger"
+      ],
+      "clues": [
+        "The Visiting Professor was confirmed to be in Roof Terrace.",
+        "The Night Guard was discovered carrying the Ceremonial Dagger.",
+        "The investigator found the Broken Marble Shard inside Curator's Office.",
+        "The Wealthy Benefactor was never seen near Egyptian Antiquities.",
+        "The Wealthy Benefactor had no access to the Venomous Specimen.",
+        "The weapon recovered from Curator's Office was definitely not the Ceremonial Dagger.",
+        "Neither The Wealthy Benefactor nor The Auctioneer had ever visited Roof Terrace.",
+        "The lethal strike occurred in Renaissance Gallery, leaving behind the deadly Cast Bronze Statuette.",
+        "The Wealthy Benefactor had no access to the Broken Marble Shard."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Wealthy Benefactor",
+      "murder_room": "Renaissance Gallery",
+      "murder_weapon": "Cast Bronze Statuette",
+      "full_mapping": {
+        "The Wealthy Benefactor": {
+          "room": "Renaissance Gallery",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Visiting Professor": {
+          "room": "Roof Terrace",
+          "weapon": "Venomous Specimen"
+        },
+        "The Night Guard": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Ceremonial Dagger"
+        },
+        "The Auctioneer": {
+          "room": "Curator's Office",
+          "weapon": "Broken Marble Shard"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 24,
+    "title": "Case #024: The Mystery of Tavern Cellar",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A major incident has been declared at The Coastal & Lighthouse Conspiracies. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "D",
+          "Z",
+          "S",
+          "F",
+          "M",
+          "J",
+          "Q",
+          "O",
+          "L",
+          "N"
+        ],
+        [
+          "L",
+          "U",
+          "S",
+          "I",
+          "J",
+          "T",
+          "K",
+          "U",
+          "X",
+          "J"
+        ],
+        [
+          "H",
+          "T",
+          "A",
+          "Z",
+          "I",
+          "Y",
+          "U",
+          "J",
+          "M",
+          "S"
+        ],
+        [
+          "C",
+          "Y",
+          "N",
+          "N",
+          "G",
+          "I",
+          "X",
+          "G",
+          "K",
+          "D"
+        ],
+        [
+          "V",
+          "Z",
+          "D",
+          "Y",
+          "J",
+          "B",
+          "J",
+          "L",
+          "C",
+          "U"
+        ],
+        [
+          "Z",
+          "B",
+          "C",
+          "A",
+          "B",
+          "L",
+          "E",
+          "R",
+          "Y",
+          "C"
+        ],
+        [
+          "N",
+          "M",
+          "O",
+          "A",
+          "C",
+          "X",
+          "D",
+          "Z",
+          "G",
+          "E"
+        ],
+        [
+          "Z",
+          "R",
+          "O",
+          "P",
+          "E",
+          "U",
+          "P",
+          "E",
+          "Y",
+          "Q"
+        ],
+        [
+          "H",
+          "A",
+          "R",
+          "P",
+          "O",
+          "O",
+          "N",
+          "Q",
+          "D",
+          "O"
+        ],
+        [
+          "N",
+          "F",
+          "C",
+          "O",
+          "M",
+          "P",
+          "A",
+          "S",
+          "S",
+          "Q"
+        ]
+      ],
+      "words_to_find": [
+        "SAND",
+        "COMPASS",
+        "HARPOON",
+        "CABLE",
+        "ROPE"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH EHDFRQ ZDV FXW DW HOHYHQ SP",
+      "plaintext": "THE BEACON WAS CUT AT ELEVEN PM",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Marine Biologist",
+        "The Smuggler's Mate",
+        "The Harbor Master",
+        "The Salvage Captain"
+      ],
+      "rooms": [
+        "Lantern Room",
+        "Radio Telegraph Shack",
+        "Foghorn Shed",
+        "Tavern Cellar"
+      ],
+      "weapons": [
+        "Iron Harpoon Tip",
+        "Heavy Brass Flare Gun",
+        "Lead Sounding Weight",
+        "Nautical Rigging Line"
+      ],
+      "clues": [
+        "The Smuggler's Mate was confirmed to be in Lantern Room.",
+        "The Harbor Master was discovered carrying the Heavy Brass Flare Gun.",
+        "The investigator found the Iron Harpoon Tip inside Foghorn Shed.",
+        "The Marine Biologist was never seen near Lantern Room.",
+        "The Marine Biologist had no access to the Iron Harpoon Tip.",
+        "The weapon recovered from Lantern Room was definitely not the Heavy Brass Flare Gun.",
+        "Neither The Marine Biologist nor The Salvage Captain had ever visited Lantern Room.",
+        "The lethal strike occurred in Tavern Cellar, leaving behind the deadly Lead Sounding Weight."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Marine Biologist",
+      "murder_room": "Tavern Cellar",
+      "murder_weapon": "Lead Sounding Weight",
+      "full_mapping": {
+        "The Marine Biologist": {
+          "room": "Tavern Cellar",
+          "weapon": "Lead Sounding Weight"
+        },
+        "The Smuggler's Mate": {
+          "room": "Lantern Room",
+          "weapon": "Nautical Rigging Line"
+        },
+        "The Harbor Master": {
+          "room": "Radio Telegraph Shack",
+          "weapon": "Heavy Brass Flare Gun"
+        },
+        "The Salvage Captain": {
+          "room": "Foghorn Shed",
+          "weapon": "Iron Harpoon Tip"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 25,
+    "title": "Case #025: The Mystery of The Grand Library",
+    "theme": "The Blackwood Manor Murders",
+    "briefing": "A major incident has been declared at The Blackwood Manor Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "U",
+          "D",
+          "O",
+          "N",
+          "A",
+          "A",
+          "S",
+          "H",
+          "E",
+          "S"
+        ],
+        [
+          "K",
+          "I",
+          "S",
+          "C",
+          "R",
+          "A",
+          "T",
+          "C",
+          "H",
+          "B"
+        ],
+        [
+          "C",
+          "H",
+          "T",
+          "A",
+          "N",
+          "G",
+          "Y",
+          "U",
+          "T",
+          "T"
+        ],
+        [
+          "F",
+          "Z",
+          "R",
+          "T",
+          "R",
+          "A",
+          "G",
+          "I",
+          "H",
+          "Q"
+        ],
+        [
+          "H",
+          "P",
+          "A",
+          "Z",
+          "R",
+          "H",
+          "R",
+          "E",
+          "V",
+          "O"
+        ],
+        [
+          "A",
+          "R",
+          "C",
+          "G",
+          "O",
+          "U",
+          "M",
+          "M",
+          "X",
+          "P"
+        ],
+        [
+          "I",
+          "I",
+          "K",
+          "L",
+          "Q",
+          "K",
+          "F",
+          "U",
+          "W",
+          "M"
+        ],
+        [
+          "R",
+          "N",
+          "S",
+          "G",
+          "T",
+          "R",
+          "I",
+          "V",
+          "Q",
+          "E"
+        ],
+        [
+          "S",
+          "T",
+          "Z",
+          "D",
+          "L",
+          "O",
+          "C",
+          "E",
+          "E",
+          "O"
+        ],
+        [
+          "H",
+          "S",
+          "F",
+          "W",
+          "R",
+          "B",
+          "Q",
+          "U",
+          "H",
+          "M"
+        ]
+      ],
+      "words_to_find": [
+        "TRACKS",
+        "PRINTS",
+        "ASHES",
+        "HAIRS",
+        "SCRATCH"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH ZLOO ZDV IRUJHG EB WKH EXWOHU",
+      "plaintext": "THE WILL WAS FORGED BY THE BUTLER",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Estate Gardener",
+        "Duchess Eleanor",
+        "Dr. Sterling",
+        "Lord Harrington"
+      ],
+      "rooms": [
+        "The Grand Library",
+        "The Clock Tower",
+        "The Billiard Room",
+        "The Trophy Room"
+      ],
+      "weapons": [
+        "Arsenic Vial",
+        "Fountain Pen with Poison",
+        "Vintage Hunting Rifle",
+        "Silver Letter Opener"
+      ],
+      "clues": [
+        "Duchess Eleanor was confirmed to be in The Trophy Room.",
+        "Dr. Sterling was discovered carrying the Arsenic Vial.",
+        "The investigator found the Silver Letter Opener inside The Billiard Room.",
+        "The Estate Gardener was never seen near The Clock Tower.",
+        "The Estate Gardener had no access to the Arsenic Vial.",
+        "The weapon recovered from The Grand Library was definitely not the Arsenic Vial.",
+        "Neither The Estate Gardener nor Lord Harrington had ever visited The Trophy Room.",
+        "The lethal strike occurred in The Grand Library, leaving behind the deadly Fountain Pen with Poison.",
+        "The Estate Gardener had no access to the Silver Letter Opener."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Estate Gardener",
+      "murder_room": "The Grand Library",
+      "murder_weapon": "Fountain Pen with Poison",
+      "full_mapping": {
+        "The Estate Gardener": {
+          "room": "The Grand Library",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "Duchess Eleanor": {
+          "room": "The Trophy Room",
+          "weapon": "Vintage Hunting Rifle"
+        },
+        "Dr. Sterling": {
+          "room": "The Clock Tower",
+          "weapon": "Arsenic Vial"
+        },
+        "Lord Harrington": {
+          "room": "The Billiard Room",
+          "weapon": "Silver Letter Opener"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 26,
+    "title": "Case #026: The Mystery of Engine Cab",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A major incident has been declared at The Midnight Express Mysteries. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "I",
+          "T",
+          "P",
+          "D",
+          "F",
+          "T",
+          "N",
+          "D",
+          "T",
+          "A"
+        ],
+        [
+          "M",
+          "Q",
+          "O",
+          "H",
+          "P",
+          "P",
+          "D",
+          "Q",
+          "L",
+          "Q"
+        ],
+        [
+          "Y",
+          "V",
+          "W",
+          "Y",
+          "S",
+          "X",
+          "I",
+          "M",
+          "O",
+          "V"
+        ],
+        [
+          "K",
+          "F",
+          "D",
+          "P",
+          "J",
+          "K",
+          "A",
+          "R",
+          "C",
+          "Q"
+        ],
+        [
+          "Y",
+          "C",
+          "E",
+          "A",
+          "U",
+          "F",
+          "M",
+          "X",
+          "K",
+          "Y"
+        ],
+        [
+          "H",
+          "W",
+          "R",
+          "R",
+          "L",
+          "C",
+          "O",
+          "H",
+          "P",
+          "S"
+        ],
+        [
+          "I",
+          "Q",
+          "Q",
+          "J",
+          "S",
+          "V",
+          "N",
+          "X",
+          "I",
+          "H"
+        ],
+        [
+          "R",
+          "W",
+          "I",
+          "H",
+          "Q",
+          "N",
+          "D",
+          "G",
+          "C",
+          "A"
+        ],
+        [
+          "T",
+          "I",
+          "C",
+          "K",
+          "E",
+          "T",
+          "E",
+          "Z",
+          "K",
+          "R"
+        ],
+        [
+          "T",
+          "L",
+          "I",
+          "L",
+          "K",
+          "S",
+          "K",
+          "Y",
+          "D",
+          "D"
+        ]
+      ],
+      "words_to_find": [
+        "LOCKPICK",
+        "SHARD",
+        "DIAMOND",
+        "TICKET",
+        "POWDER"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH SRXFK LV LQ WKH OXJJDJH YDQ",
+      "plaintext": "THE POUCH IS IN THE LUGGAGE VAN",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Retired General",
+        "The Card Sharp",
+        "The Jewel Merchant",
+        "The Train Conductor"
+      ],
+      "rooms": [
+        "Private Salon",
+        "Observation Lounge",
+        "Engine Cab",
+        "First-Class Sleeper A"
+      ],
+      "weapons": [
+        "Steel Pocket Knife",
+        "Chloroform Rag",
+        "Engraved Pocket Pistol",
+        "Heavy Crystal Decanter"
+      ],
+      "clues": [
+        "The Card Sharp was confirmed to be in Private Salon.",
+        "The Jewel Merchant was discovered carrying the Chloroform Rag.",
+        "The investigator found the Engraved Pocket Pistol inside First-Class Sleeper A.",
+        "The Retired General was never seen near Private Salon.",
+        "The Retired General had no access to the Chloroform Rag.",
+        "The weapon recovered from Private Salon was definitely not the Chloroform Rag.",
+        "Neither The Retired General nor The Train Conductor had ever visited Private Salon.",
+        "The lethal strike occurred in Engine Cab, leaving behind the deadly Steel Pocket Knife.",
+        "The Retired General had no access to the Engraved Pocket Pistol."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Retired General",
+      "murder_room": "Engine Cab",
+      "murder_weapon": "Steel Pocket Knife",
+      "full_mapping": {
+        "The Retired General": {
+          "room": "Engine Cab",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The Card Sharp": {
+          "room": "Private Salon",
+          "weapon": "Heavy Crystal Decanter"
+        },
+        "The Jewel Merchant": {
+          "room": "Observation Lounge",
+          "weapon": "Chloroform Rag"
+        },
+        "The Train Conductor": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Engraved Pocket Pistol"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 27,
+    "title": "Case #027: The Mystery of Medieval Armory",
+    "theme": "The Metropolitan Museum Heists & Murders",
+    "briefing": "A major incident has been declared at The Metropolitan Museum Heists & Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "Z",
+          "P",
+          "K",
+          "E",
+          "Y",
+          "C",
+          "A",
+          "R",
+          "D",
+          "H"
+        ],
+        [
+          "N",
+          "I",
+          "Y",
+          "A",
+          "S",
+          "A",
+          "G",
+          "E",
+          "L",
+          "Z"
+        ],
+        [
+          "T",
+          "G",
+          "R",
+          "P",
+          "C",
+          "G",
+          "B",
+          "S",
+          "J",
+          "C"
+        ],
+        [
+          "X",
+          "M",
+          "V",
+          "I",
+          "L",
+          "Y",
+          "X",
+          "S",
+          "A",
+          "W"
+        ],
+        [
+          "B",
+          "E",
+          "B",
+          "N",
+          "E",
+          "U",
+          "J",
+          "M",
+          "U",
+          "D"
+        ],
+        [
+          "Q",
+          "N",
+          "C",
+          "H",
+          "I",
+          "S",
+          "E",
+          "L",
+          "A",
+          "O"
+        ],
+        [
+          "X",
+          "T",
+          "A",
+          "C",
+          "X",
+          "K",
+          "E",
+          "R",
+          "V",
+          "C"
+        ],
+        [
+          "W",
+          "I",
+          "D",
+          "H",
+          "K",
+          "G",
+          "P",
+          "K",
+          "L",
+          "H"
+        ],
+        [
+          "M",
+          "S",
+          "O",
+          "L",
+          "V",
+          "E",
+          "N",
+          "T",
+          "D",
+          "Z"
+        ],
+        [
+          "K",
+          "W",
+          "Y",
+          "S",
+          "T",
+          "A",
+          "T",
+          "U",
+          "E",
+          "A"
+        ]
+      ],
+      "words_to_find": [
+        "PIGMENT",
+        "CHISEL",
+        "KEYCARD",
+        "SOLVENT",
+        "STATUE"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH UHQDLVVDQFH SDLQWLQJ ZDV FXW RXW",
+      "plaintext": "THE RENAISSANCE PAINTING WAS CUT OUT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Night Guard",
+        "The Visiting Professor",
+        "The Chief Curator",
+        "The Art Restorer"
+      ],
+      "rooms": [
+        "Renaissance Gallery",
+        "Medieval Armory",
+        "Roof Terrace",
+        "Egyptian Antiquities"
+      ],
+      "weapons": [
+        "Broken Marble Shard",
+        "Iron Flanged Mace",
+        "Ceremonial Dagger",
+        "Cast Bronze Statuette"
+      ],
+      "clues": [
+        "The Visiting Professor was confirmed to be in Renaissance Gallery.",
+        "The Chief Curator was discovered carrying the Cast Bronze Statuette.",
+        "The investigator found the Broken Marble Shard inside Egyptian Antiquities.",
+        "The Night Guard was never seen near Renaissance Gallery.",
+        "The Night Guard had no access to the Broken Marble Shard.",
+        "The weapon recovered from Renaissance Gallery was definitely not the Cast Bronze Statuette.",
+        "Neither The Night Guard nor The Art Restorer had ever visited Renaissance Gallery.",
+        "The lethal strike occurred in Medieval Armory, leaving behind the deadly Iron Flanged Mace."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Night Guard",
+      "murder_room": "Medieval Armory",
+      "murder_weapon": "Iron Flanged Mace",
+      "full_mapping": {
+        "The Night Guard": {
+          "room": "Medieval Armory",
+          "weapon": "Iron Flanged Mace"
+        },
+        "The Visiting Professor": {
+          "room": "Renaissance Gallery",
+          "weapon": "Ceremonial Dagger"
+        },
+        "The Chief Curator": {
+          "room": "Roof Terrace",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Art Restorer": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Broken Marble Shard"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 28,
+    "title": "Case #028: The Mystery of Dry Dock",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A major incident has been declared at The Coastal & Lighthouse Conspiracies. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "E",
+          "C",
+          "X",
+          "W",
+          "C",
+          "E",
+          "I",
+          "C",
+          "S",
+          "U"
+        ],
+        [
+          "B",
+          "O",
+          "P",
+          "O",
+          "C",
+          "H",
+          "W",
+          "G",
+          "W",
+          "H"
+        ],
+        [
+          "A",
+          "M",
+          "V",
+          "E",
+          "F",
+          "V",
+          "Q",
+          "W",
+          "C",
+          "U"
+        ],
+        [
+          "P",
+          "P",
+          "A",
+          "T",
+          "X",
+          "G",
+          "T",
+          "B",
+          "N",
+          "T"
+        ],
+        [
+          "X",
+          "A",
+          "X",
+          "J",
+          "R",
+          "X",
+          "K",
+          "R",
+          "K",
+          "Y"
+        ],
+        [
+          "F",
+          "S",
+          "S",
+          "A",
+          "N",
+          "D",
+          "J",
+          "O",
+          "M",
+          "P"
+        ],
+        [
+          "F",
+          "S",
+          "G",
+          "J",
+          "C",
+          "U",
+          "L",
+          "P",
+          "X",
+          "F"
+        ],
+        [
+          "A",
+          "Y",
+          "F",
+          "G",
+          "D",
+          "G",
+          "Q",
+          "E",
+          "Z",
+          "X"
+        ],
+        [
+          "W",
+          "F",
+          "W",
+          "S",
+          "E",
+          "A",
+          "W",
+          "E",
+          "E",
+          "D"
+        ],
+        [
+          "H",
+          "A",
+          "R",
+          "P",
+          "O",
+          "O",
+          "N",
+          "L",
+          "I",
+          "F"
+        ]
+      ],
+      "words_to_find": [
+        "SEAWEED",
+        "HARPOON",
+        "SAND",
+        "COMPASS",
+        "ROPE"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH UDGLR WHOHJUDSK ZLUH ZDV VHYHUHG",
+      "plaintext": "THE RADIO TELEGRAPH WIRE WAS SEVERED",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Island Innkeeper",
+        "The Smuggler's Mate",
+        "The Harbor Master",
+        "The Marine Biologist"
+      ],
+      "rooms": [
+        "Foghorn Shed",
+        "Tavern Cellar",
+        "Radio Telegraph Shack",
+        "Dry Dock"
+      ],
+      "weapons": [
+        "Heavy Brass Flare Gun",
+        "Lead Sounding Weight",
+        "Iron Harpoon Tip",
+        "Divers' Knife"
+      ],
+      "clues": [
+        "The Smuggler's Mate was confirmed to be in Radio Telegraph Shack.",
+        "The Harbor Master was discovered carrying the Iron Harpoon Tip.",
+        "The investigator found the Divers' Knife inside Foghorn Shed.",
+        "The Island Innkeeper was never seen near Foghorn Shed.",
+        "The Island Innkeeper had no access to the Lead Sounding Weight.",
+        "The weapon recovered from Foghorn Shed was definitely not the Iron Harpoon Tip.",
+        "Neither The Island Innkeeper nor The Marine Biologist had ever visited Radio Telegraph Shack.",
+        "The lethal strike occurred in Dry Dock, leaving behind the deadly Heavy Brass Flare Gun."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Island Innkeeper",
+      "murder_room": "Dry Dock",
+      "murder_weapon": "Heavy Brass Flare Gun",
+      "full_mapping": {
+        "The Island Innkeeper": {
+          "room": "Dry Dock",
+          "weapon": "Heavy Brass Flare Gun"
+        },
+        "The Smuggler's Mate": {
+          "room": "Radio Telegraph Shack",
+          "weapon": "Lead Sounding Weight"
+        },
+        "The Harbor Master": {
+          "room": "Tavern Cellar",
+          "weapon": "Iron Harpoon Tip"
+        },
+        "The Marine Biologist": {
+          "room": "Foghorn Shed",
+          "weapon": "Divers' Knife"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 29,
+    "title": "Case #029: The Mystery of The Clock Tower",
+    "theme": "The Blackwood Manor Murders",
+    "briefing": "A major incident has been declared at The Blackwood Manor Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "A",
+          "O",
+          "O",
+          "Z",
+          "O",
+          "X",
+          "L",
+          "K",
+          "B",
+          "U"
+        ],
+        [
+          "W",
+          "N",
+          "K",
+          "I",
+          "P",
+          "W",
+          "N",
+          "B",
+          "R",
+          "L"
+        ],
+        [
+          "D",
+          "J",
+          "G",
+          "J",
+          "Y",
+          "A",
+          "D",
+          "C",
+          "R",
+          "U"
+        ],
+        [
+          "A",
+          "S",
+          "H",
+          "E",
+          "S",
+          "X",
+          "F",
+          "R",
+          "Z",
+          "Q"
+        ],
+        [
+          "O",
+          "I",
+          "A",
+          "X",
+          "O",
+          "S",
+          "I",
+          "A",
+          "I",
+          "N"
+        ],
+        [
+          "J",
+          "Y",
+          "I",
+          "N",
+          "T",
+          "E",
+          "B",
+          "E",
+          "I",
+          "H"
+        ],
+        [
+          "T",
+          "I",
+          "A",
+          "L",
+          "S",
+          "A",
+          "E",
+          "U",
+          "M",
+          "A"
+        ],
+        [
+          "V",
+          "R",
+          "Y",
+          "E",
+          "J",
+          "L",
+          "R",
+          "I",
+          "P",
+          "I"
+        ],
+        [
+          "B",
+          "I",
+          "B",
+          "L",
+          "O",
+          "O",
+          "D",
+          "N",
+          "V",
+          "R"
+        ],
+        [
+          "O",
+          "D",
+          "B",
+          "G",
+          "D",
+          "B",
+          "G",
+          "J",
+          "K",
+          "S"
+        ]
+      ],
+      "words_to_find": [
+        "WAXSEAL",
+        "FIBER",
+        "ASHES",
+        "HAIRS",
+        "BLOOD"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FDQGOHVWLFN ZDV PRYHG EHIRUH QRRQ",
+      "plaintext": "THE CANDLESTICK WAS MOVED BEFORE NOON",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Head Butler",
+        "The Antiquarian",
+        "Lord Harrington",
+        "The Estate Gardener"
+      ],
+      "rooms": [
+        "The Clock Tower",
+        "The Billiard Room",
+        "The Conservatory",
+        "The Trophy Room"
+      ],
+      "weapons": [
+        "Fountain Pen with Poison",
+        "Heavy Brass Candlestick",
+        "Silver Letter Opener",
+        "Arsenic Vial"
+      ],
+      "clues": [
+        "The Antiquarian was confirmed to be in The Billiard Room.",
+        "Lord Harrington was discovered carrying the Fountain Pen with Poison.",
+        "The investigator found the Arsenic Vial inside The Conservatory.",
+        "The Head Butler was never seen near The Billiard Room.",
+        "The Head Butler had no access to the Fountain Pen with Poison.",
+        "The weapon recovered from The Clock Tower was definitely not the Fountain Pen with Poison.",
+        "Neither The Head Butler nor The Estate Gardener had ever visited The Billiard Room.",
+        "The lethal strike occurred in The Clock Tower, leaving behind the deadly Silver Letter Opener.",
+        "The Head Butler had no access to the Arsenic Vial."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Head Butler",
+      "murder_room": "The Clock Tower",
+      "murder_weapon": "Silver Letter Opener",
+      "full_mapping": {
+        "The Head Butler": {
+          "room": "The Clock Tower",
+          "weapon": "Silver Letter Opener"
+        },
+        "The Antiquarian": {
+          "room": "The Billiard Room",
+          "weapon": "Heavy Brass Candlestick"
+        },
+        "Lord Harrington": {
+          "room": "The Trophy Room",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "The Estate Gardener": {
+          "room": "The Conservatory",
+          "weapon": "Arsenic Vial"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 30,
+    "title": "Case #030: The Mystery of Dining Car",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A major incident has been declared at The Midnight Express Mysteries. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "F",
+          "W",
+          "Y",
+          "Z",
+          "L",
+          "M",
+          "D",
+          "S",
+          "Q",
+          "C"
+        ],
+        [
+          "R",
+          "Y",
+          "Y",
+          "O",
+          "V",
+          "H",
+          "D",
+          "G",
+          "V",
+          "O"
+        ],
+        [
+          "G",
+          "H",
+          "O",
+          "S",
+          "P",
+          "B",
+          "I",
+          "J",
+          "T",
+          "U"
+        ],
+        [
+          "T",
+          "F",
+          "S",
+          "C",
+          "G",
+          "R",
+          "A",
+          "S",
+          "D",
+          "O"
+        ],
+        [
+          "U",
+          "C",
+          "I",
+          "G",
+          "A",
+          "R",
+          "M",
+          "F",
+          "A",
+          "T"
+        ],
+        [
+          "L",
+          "N",
+          "D",
+          "Q",
+          "A",
+          "W",
+          "O",
+          "R",
+          "N",
+          "I"
+        ],
+        [
+          "U",
+          "Z",
+          "A",
+          "M",
+          "L",
+          "N",
+          "N",
+          "G",
+          "R",
+          "C"
+        ],
+        [
+          "P",
+          "O",
+          "W",
+          "D",
+          "E",
+          "R",
+          "D",
+          "U",
+          "S",
+          "K"
+        ],
+        [
+          "Z",
+          "P",
+          "N",
+          "M",
+          "G",
+          "I",
+          "G",
+          "B",
+          "L",
+          "E"
+        ],
+        [
+          "X",
+          "S",
+          "H",
+          "A",
+          "R",
+          "D",
+          "W",
+          "Q",
+          "X",
+          "T"
+        ]
+      ],
+      "words_to_find": [
+        "POWDER",
+        "TICKET",
+        "DIAMOND",
+        "CIGAR",
+        "SHARD"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "FKHFN WKH HQJLQH FDE IRU WKH NQLIH",
+      "plaintext": "CHECK THE ENGINE CAB FOR THE KNIFE",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Opera Soprano",
+        "The Card Sharp",
+        "The French Diplomat",
+        "The Jewel Merchant"
+      ],
+      "rooms": [
+        "Dining Car",
+        "First-Class Sleeper A",
+        "Luggage Van",
+        "Private Salon"
+      ],
+      "weapons": [
+        "Steel Pocket Knife",
+        "Dosed Champagne",
+        "Luggage Strap",
+        "Chloroform Rag"
+      ],
+      "clues": [
+        "The Card Sharp was confirmed to be in Private Salon.",
+        "The French Diplomat was discovered carrying the Luggage Strap.",
+        "The investigator found the Chloroform Rag inside Luggage Van.",
+        "The Opera Soprano was never seen near First-Class Sleeper A.",
+        "The Opera Soprano had no access to the Dosed Champagne.",
+        "The weapon recovered from Dining Car was definitely not the Luggage Strap.",
+        "Neither The Opera Soprano nor The Jewel Merchant had ever visited Private Salon.",
+        "The lethal strike occurred in Dining Car, leaving behind the deadly Steel Pocket Knife.",
+        "The Opera Soprano had no access to the Chloroform Rag."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Opera Soprano",
+      "murder_room": "Dining Car",
+      "murder_weapon": "Steel Pocket Knife",
+      "full_mapping": {
+        "The Opera Soprano": {
+          "room": "Dining Car",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The Card Sharp": {
+          "room": "Private Salon",
+          "weapon": "Dosed Champagne"
+        },
+        "The French Diplomat": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Luggage Strap"
+        },
+        "The Jewel Merchant": {
+          "room": "Luggage Van",
+          "weapon": "Chloroform Rag"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 31,
+    "title": "Case #031: The Mystery of Curator's Office",
+    "theme": "The Metropolitan Museum Heists & Murders",
+    "briefing": "A major incident has been declared at The Metropolitan Museum Heists & Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "F",
+          "Y",
+          "X",
+          "W",
+          "X",
+          "Y",
+          "C",
+          "K",
+          "G",
+          "D"
+        ],
+        [
+          "X",
+          "Q",
+          "P",
+          "Z",
+          "N",
+          "N",
+          "Y",
+          "W",
+          "L",
+          "L"
+        ],
+        [
+          "K",
+          "S",
+          "L",
+          "C",
+          "R",
+          "C",
+          "K",
+          "G",
+          "E",
+          "N"
+        ],
+        [
+          "A",
+          "I",
+          "A",
+          "A",
+          "P",
+          "H",
+          "V",
+          "L",
+          "T",
+          "L"
+        ],
+        [
+          "T",
+          "O",
+          "S",
+          "N",
+          "I",
+          "I",
+          "I",
+          "O",
+          "O",
+          "H"
+        ],
+        [
+          "U",
+          "R",
+          "T",
+          "V",
+          "G",
+          "S",
+          "B",
+          "V",
+          "C",
+          "D"
+        ],
+        [
+          "L",
+          "R",
+          "E",
+          "A",
+          "M",
+          "E",
+          "J",
+          "E",
+          "I",
+          "I"
+        ],
+        [
+          "T",
+          "G",
+          "R",
+          "S",
+          "E",
+          "L",
+          "A",
+          "S",
+          "H",
+          "H"
+        ],
+        [
+          "L",
+          "V",
+          "D",
+          "P",
+          "N",
+          "J",
+          "F",
+          "R",
+          "B",
+          "J"
+        ],
+        [
+          "U",
+          "I",
+          "H",
+          "I",
+          "T",
+          "V",
+          "A",
+          "J",
+          "N",
+          "L"
+        ]
+      ],
+      "words_to_find": [
+        "CANVAS",
+        "PIGMENT",
+        "CHISEL",
+        "GLOVES",
+        "PLASTER"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "PHHW LQ WKH PHGLHYDO DUPRUB WRQLJKW",
+      "plaintext": "MEET IN THE MEDIEVAL ARMORY TONIGHT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Wealthy Benefactor",
+        "The Chief Curator",
+        "The Visiting Professor",
+        "The Night Guard"
+      ],
+      "rooms": [
+        "Curator's Office",
+        "Egyptian Antiquities",
+        "Medieval Armory",
+        "Basement Conservation Lab"
+      ],
+      "weapons": [
+        "Broken Marble Shard",
+        "Venomous Specimen",
+        "Cast Bronze Statuette",
+        "Restoration Solvent"
+      ],
+      "clues": [
+        "The Chief Curator was confirmed to be in Basement Conservation Lab.",
+        "The Visiting Professor was discovered carrying the Venomous Specimen.",
+        "The investigator found the Broken Marble Shard inside Medieval Armory.",
+        "The Wealthy Benefactor was never seen near Egyptian Antiquities.",
+        "The Wealthy Benefactor had no access to the Broken Marble Shard.",
+        "The weapon recovered from Curator's Office was definitely not the Venomous Specimen.",
+        "Neither The Wealthy Benefactor nor The Night Guard had ever visited Basement Conservation Lab.",
+        "The lethal strike occurred in Curator's Office, leaving behind the deadly Restoration Solvent."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Wealthy Benefactor",
+      "murder_room": "Curator's Office",
+      "murder_weapon": "Restoration Solvent",
+      "full_mapping": {
+        "The Wealthy Benefactor": {
+          "room": "Curator's Office",
+          "weapon": "Restoration Solvent"
+        },
+        "The Chief Curator": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Visiting Professor": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Venomous Specimen"
+        },
+        "The Night Guard": {
+          "room": "Medieval Armory",
+          "weapon": "Broken Marble Shard"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 32,
+    "title": "Case #032: The Mystery of Dry Dock",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A major incident has been declared at The Coastal & Lighthouse Conspiracies. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "L",
+          "C",
+          "M",
+          "T",
+          "K",
+          "Y",
+          "Y",
+          "Q",
+          "F",
+          "L"
+        ],
+        [
+          "O",
+          "Q",
+          "A",
+          "U",
+          "N",
+          "Q",
+          "K",
+          "O",
+          "L",
+          "E"
+        ],
+        [
+          "I",
+          "Q",
+          "X",
+          "Y",
+          "W",
+          "B",
+          "H",
+          "Y",
+          "Z",
+          "L"
+        ],
+        [
+          "L",
+          "H",
+          "C",
+          "S",
+          "Z",
+          "R",
+          "M",
+          "X",
+          "A",
+          "I"
+        ],
+        [
+          "F",
+          "A",
+          "O",
+          "E",
+          "Q",
+          "A",
+          "Y",
+          "K",
+          "F",
+          "C"
+        ],
+        [
+          "L",
+          "R",
+          "M",
+          "L",
+          "U",
+          "S",
+          "R",
+          "O",
+          "P",
+          "E"
+        ],
+        [
+          "A",
+          "P",
+          "P",
+          "Y",
+          "M",
+          "S",
+          "C",
+          "V",
+          "L",
+          "P"
+        ],
+        [
+          "S",
+          "O",
+          "A",
+          "Q",
+          "S",
+          "K",
+          "S",
+          "B",
+          "X",
+          "U"
+        ],
+        [
+          "K",
+          "O",
+          "S",
+          "P",
+          "W",
+          "E",
+          "M",
+          "S",
+          "P",
+          "W"
+        ],
+        [
+          "P",
+          "N",
+          "S",
+          "D",
+          "K",
+          "Y",
+          "H",
+          "X",
+          "R",
+          "Z"
+        ]
+      ],
+      "words_to_find": [
+        "ROPE",
+        "HARPOON",
+        "COMPASS",
+        "OILFLASK",
+        "BRASSKEY"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH EHDFRQ ZDV FXW DW HOHYHQ SP",
+      "plaintext": "THE BEACON WAS CUT AT ELEVEN PM",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Salvage Captain",
+        "The Marine Biologist",
+        "The Harbor Master",
+        "The Smuggler's Mate"
+      ],
+      "rooms": [
+        "Lantern Room",
+        "Dry Dock",
+        "Tavern Cellar",
+        "Radio Telegraph Shack"
+      ],
+      "weapons": [
+        "Iron Harpoon Tip",
+        "Whale Oil Flask",
+        "Heavy Brass Flare Gun",
+        "Lead Sounding Weight"
+      ],
+      "clues": [
+        "The Marine Biologist was confirmed to be in Lantern Room.",
+        "The Harbor Master was discovered carrying the Iron Harpoon Tip.",
+        "The investigator found the Heavy Brass Flare Gun inside Radio Telegraph Shack.",
+        "The Salvage Captain was never seen near Lantern Room.",
+        "The Salvage Captain had no access to the Iron Harpoon Tip.",
+        "The weapon recovered from Lantern Room was definitely not the Iron Harpoon Tip.",
+        "Neither The Salvage Captain nor The Smuggler's Mate had ever visited Lantern Room.",
+        "The lethal strike occurred in Dry Dock, leaving behind the deadly Whale Oil Flask.",
+        "The Salvage Captain had no access to the Heavy Brass Flare Gun."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Salvage Captain",
+      "murder_room": "Dry Dock",
+      "murder_weapon": "Whale Oil Flask",
+      "full_mapping": {
+        "The Salvage Captain": {
+          "room": "Dry Dock",
+          "weapon": "Whale Oil Flask"
+        },
+        "The Marine Biologist": {
+          "room": "Lantern Room",
+          "weapon": "Lead Sounding Weight"
+        },
+        "The Harbor Master": {
+          "room": "Tavern Cellar",
+          "weapon": "Iron Harpoon Tip"
+        },
+        "The Smuggler's Mate": {
+          "room": "Radio Telegraph Shack",
+          "weapon": "Heavy Brass Flare Gun"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 33,
+    "title": "Case #033: The Mystery of The Grand Library",
+    "theme": "The Blackwood Manor Murders",
+    "briefing": "A major incident has been declared at The Blackwood Manor Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "R",
+          "A",
+          "V",
+          "J",
+          "O",
+          "N",
+          "S",
+          "P",
+          "O",
+          "M"
+        ],
+        [
+          "U",
+          "T",
+          "H",
+          "F",
+          "E",
+          "B",
+          "Z",
+          "R",
+          "N",
+          "F"
+        ],
+        [
+          "X",
+          "P",
+          "A",
+          "S",
+          "E",
+          "K",
+          "U",
+          "I",
+          "T",
+          "U"
+        ],
+        [
+          "C",
+          "T",
+          "I",
+          "C",
+          "V",
+          "I",
+          "G",
+          "N",
+          "T",
+          "F"
+        ],
+        [
+          "S",
+          "E",
+          "R",
+          "G",
+          "K",
+          "G",
+          "C",
+          "T",
+          "R",
+          "I"
+        ],
+        [
+          "G",
+          "G",
+          "S",
+          "T",
+          "P",
+          "N",
+          "G",
+          "S",
+          "A",
+          "B"
+        ],
+        [
+          "E",
+          "P",
+          "I",
+          "U",
+          "H",
+          "R",
+          "U",
+          "B",
+          "C",
+          "E"
+        ],
+        [
+          "I",
+          "C",
+          "T",
+          "M",
+          "N",
+          "B",
+          "T",
+          "Z",
+          "K",
+          "R"
+        ],
+        [
+          "F",
+          "H",
+          "V",
+          "Q",
+          "X",
+          "U",
+          "V",
+          "O",
+          "S",
+          "B"
+        ],
+        [
+          "Z",
+          "U",
+          "O",
+          "S",
+          "C",
+          "R",
+          "A",
+          "T",
+          "C",
+          "H"
+        ]
+      ],
+      "words_to_find": [
+        "PRINTS",
+        "FIBER",
+        "HAIRS",
+        "SCRATCH",
+        "TRACKS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "KHOHQD NQHZ ZKR EURXJKW WKH SRLVRQ",
+      "plaintext": "HELENA KNEW WHO BROUGHT THE POISON",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "Duchess Eleanor",
+        "Lord Harrington",
+        "The Estate Gardener",
+        "The Antiquarian"
+      ],
+      "rooms": [
+        "The Clock Tower",
+        "The Wine Cellar",
+        "The Grand Library",
+        "The Conservatory"
+      ],
+      "weapons": [
+        "Silk Cravat",
+        "Fountain Pen with Poison",
+        "Vintage Hunting Rifle",
+        "Arsenic Vial"
+      ],
+      "clues": [
+        "Lord Harrington was confirmed to be in The Clock Tower.",
+        "The Estate Gardener was discovered carrying the Arsenic Vial.",
+        "The investigator found the Fountain Pen with Poison inside The Conservatory.",
+        "Duchess Eleanor was never seen near The Clock Tower.",
+        "Duchess Eleanor had no access to the Fountain Pen with Poison.",
+        "The weapon recovered from The Clock Tower was definitely not the Arsenic Vial.",
+        "Neither Duchess Eleanor nor The Antiquarian had ever visited The Clock Tower.",
+        "The lethal strike occurred in The Grand Library, leaving behind the deadly Silk Cravat."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "Duchess Eleanor",
+      "murder_room": "The Grand Library",
+      "murder_weapon": "Silk Cravat",
+      "full_mapping": {
+        "Duchess Eleanor": {
+          "room": "The Grand Library",
+          "weapon": "Silk Cravat"
+        },
+        "Lord Harrington": {
+          "room": "The Clock Tower",
+          "weapon": "Vintage Hunting Rifle"
+        },
+        "The Estate Gardener": {
+          "room": "The Wine Cellar",
+          "weapon": "Arsenic Vial"
+        },
+        "The Antiquarian": {
+          "room": "The Conservatory",
+          "weapon": "Fountain Pen with Poison"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 34,
+    "title": "Case #034: The Mystery of Private Salon",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A major incident has been declared at The Midnight Express Mysteries. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "C",
+          "B",
+          "F",
+          "T",
+          "I",
+          "H",
+          "P",
+          "W",
+          "N",
+          "F"
+        ],
+        [
+          "N",
+          "Q",
+          "U",
+          "I",
+          "L",
+          "N",
+          "B",
+          "I",
+          "P",
+          "F"
+        ],
+        [
+          "J",
+          "M",
+          "B",
+          "C",
+          "E",
+          "L",
+          "B",
+          "J",
+          "O",
+          "B"
+        ],
+        [
+          "L",
+          "C",
+          "H",
+          "K",
+          "T",
+          "O",
+          "U",
+          "N",
+          "W",
+          "H"
+        ],
+        [
+          "U",
+          "Z",
+          "A",
+          "E",
+          "T",
+          "C",
+          "T",
+          "R",
+          "D",
+          "Z"
+        ],
+        [
+          "C",
+          "M",
+          "O",
+          "T",
+          "E",
+          "K",
+          "T",
+          "N",
+          "E",
+          "S"
+        ],
+        [
+          "Y",
+          "C",
+          "C",
+          "A",
+          "R",
+          "P",
+          "O",
+          "J",
+          "R",
+          "H"
+        ],
+        [
+          "J",
+          "S",
+          "I",
+          "V",
+          "L",
+          "I",
+          "N",
+          "P",
+          "O",
+          "Q"
+        ],
+        [
+          "F",
+          "X",
+          "F",
+          "T",
+          "C",
+          "C",
+          "Y",
+          "H",
+          "X",
+          "W"
+        ],
+        [
+          "S",
+          "R",
+          "N",
+          "L",
+          "E",
+          "K",
+          "K",
+          "R",
+          "V",
+          "A"
+        ]
+      ],
+      "words_to_find": [
+        "LETTER",
+        "LOCKPICK",
+        "POWDER",
+        "BUTTON",
+        "TICKET"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FRQGXFWRU KHDUG WKH VKRW ILUHG",
+      "plaintext": "THE CONDUCTOR HEARD THE SHOT FIRED",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Retired General",
+        "The Jewel Merchant",
+        "The Train Conductor",
+        "The Opera Soprano"
+      ],
+      "rooms": [
+        "Private Salon",
+        "Dining Car",
+        "Luggage Van",
+        "Engine Cab"
+      ],
+      "weapons": [
+        "Luggage Strap",
+        "Dosed Champagne",
+        "Heavy Crystal Decanter",
+        "Engraved Pocket Pistol"
+      ],
+      "clues": [
+        "The Jewel Merchant was confirmed to be in Dining Car.",
+        "The Train Conductor was discovered carrying the Heavy Crystal Decanter.",
+        "The investigator found the Engraved Pocket Pistol inside Engine Cab.",
+        "The Retired General was never seen near Dining Car.",
+        "The Retired General had no access to the Luggage Strap.",
+        "The weapon recovered from Private Salon was definitely not the Heavy Crystal Decanter.",
+        "Neither The Retired General nor The Opera Soprano had ever visited Dining Car.",
+        "The lethal strike occurred in Private Salon, leaving behind the deadly Dosed Champagne.",
+        "The Retired General had no access to the Engraved Pocket Pistol."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Retired General",
+      "murder_room": "Private Salon",
+      "murder_weapon": "Dosed Champagne",
+      "full_mapping": {
+        "The Retired General": {
+          "room": "Private Salon",
+          "weapon": "Dosed Champagne"
+        },
+        "The Jewel Merchant": {
+          "room": "Dining Car",
+          "weapon": "Luggage Strap"
+        },
+        "The Train Conductor": {
+          "room": "Luggage Van",
+          "weapon": "Heavy Crystal Decanter"
+        },
+        "The Opera Soprano": {
+          "room": "Engine Cab",
+          "weapon": "Engraved Pocket Pistol"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 35,
+    "title": "Case #035: The Mystery of Egyptian Antiquities",
+    "theme": "The Metropolitan Museum Heists & Murders",
+    "briefing": "A major incident has been declared at The Metropolitan Museum Heists & Murders. The victim was found deceased in suspicious circumstances. Four primary persons of interest are detained on the premises. Follow standard detective protocol: conduct a forensic evidence sweep, decrypt the intercepted dispatch, analyze alibis on the deduction matrix, and sign the official arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "W",
+          "K",
+          "E",
+          "Y",
+          "C",
+          "A",
+          "R",
+          "D",
+          "T",
+          "W"
+        ],
+        [
+          "Z",
+          "G",
+          "Y",
+          "I",
+          "P",
+          "S",
+          "K",
+          "R",
+          "Y",
+          "C"
+        ],
+        [
+          "W",
+          "M",
+          "Q",
+          "V",
+          "I",
+          "V",
+          "G",
+          "W",
+          "G",
+          "G"
+        ],
+        [
+          "U",
+          "M",
+          "S",
+          "Q",
+          "G",
+          "A",
+          "L",
+          "W",
+          "N",
+          "Q"
+        ],
+        [
+          "H",
+          "B",
+          "O",
+          "R",
+          "M",
+          "J",
+          "O",
+          "A",
+          "C",
+          "Y"
+        ],
+        [
+          "R",
+          "K",
+          "L",
+          "Z",
+          "E",
+          "P",
+          "V",
+          "X",
+          "A",
+          "L"
+        ],
+        [
+          "P",
+          "L",
+          "V",
+          "N",
+          "N",
+          "I",
+          "E",
+          "Q",
+          "N",
+          "R"
+        ],
+        [
+          "U",
+          "D",
+          "E",
+          "D",
+          "T",
+          "F",
+          "S",
+          "X",
+          "V",
+          "K"
+        ],
+        [
+          "K",
+          "X",
+          "N",
+          "U",
+          "M",
+          "U",
+          "N",
+          "H",
+          "A",
+          "U"
+        ],
+        [
+          "H",
+          "S",
+          "T",
+          "S",
+          "P",
+          "H",
+          "E",
+          "C",
+          "S",
+          "O"
+        ]
+      ],
+      "words_to_find": [
+        "KEYCARD",
+        "SOLVENT",
+        "GLOVES",
+        "CANVAS",
+        "PIGMENT"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "VROYHQW ZDV WDNHQ IURP WKH EDVHPHQW",
+      "plaintext": "SOLVENT WAS TAKEN FROM THE BASEMENT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet (D -> A, E -> B).",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Visiting Professor",
+        "The Wealthy Benefactor",
+        "The Night Guard",
+        "The Auctioneer"
+      ],
+      "rooms": [
+        "Egyptian Antiquities",
+        "Basement Conservation Lab",
+        "Roof Terrace",
+        "Renaissance Gallery"
+      ],
+      "weapons": [
+        "Restoration Solvent",
+        "Iron Flanged Mace",
+        "Venomous Specimen",
+        "Broken Marble Shard"
+      ],
+      "clues": [
+        "The Wealthy Benefactor was confirmed to be in Roof Terrace.",
+        "The Night Guard was discovered carrying the Broken Marble Shard.",
+        "The investigator found the Restoration Solvent inside Renaissance Gallery.",
+        "The Visiting Professor was never seen near Basement Conservation Lab.",
+        "The Visiting Professor had no access to the Restoration Solvent.",
+        "The weapon recovered from Egyptian Antiquities was definitely not the Broken Marble Shard.",
+        "Neither The Visiting Professor nor The Auctioneer had ever visited Roof Terrace.",
+        "The lethal strike occurred in Egyptian Antiquities, leaving behind the deadly Iron Flanged Mace."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Visiting Professor",
+      "murder_room": "Egyptian Antiquities",
+      "murder_weapon": "Iron Flanged Mace",
+      "full_mapping": {
+        "The Visiting Professor": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Iron Flanged Mace"
+        },
+        "The Wealthy Benefactor": {
+          "room": "Roof Terrace",
+          "weapon": "Venomous Specimen"
+        },
+        "The Night Guard": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Broken Marble Shard"
+        },
+        "The Auctioneer": {
+          "room": "Renaissance Gallery",
+          "weapon": "Restoration Solvent"
+        }
+      }
+    }
+  }
+]

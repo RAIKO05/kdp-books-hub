@@ -1,0 +1,6877 @@
+[
+  {
+    "case_number": 1,
+    "title": "Case #001: The Mystery of The Grand Ballroom",
+    "theme": "The Venetian Masquerade Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Venetian Masquerade Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "P",
+          "M",
+          "Q",
+          "D",
+          "D",
+          "K",
+          "N",
+          "K",
+          "V",
+          "A"
+        ],
+        [
+          "R",
+          "X",
+          "O",
+          "W",
+          "C",
+          "W",
+          "M",
+          "A",
+          "S",
+          "K"
+        ],
+        [
+          "G",
+          "O",
+          "N",
+          "D",
+          "O",
+          "L",
+          "A",
+          "X",
+          "W",
+          "F"
+        ],
+        [
+          "P",
+          "F",
+          "D",
+          "A",
+          "G",
+          "G",
+          "E",
+          "R",
+          "Y",
+          "A"
+        ],
+        [
+          "J",
+          "I",
+          "L",
+          "W",
+          "K",
+          "P",
+          "I",
+          "F",
+          "T",
+          "F"
+        ],
+        [
+          "F",
+          "V",
+          "I",
+          "A",
+          "L",
+          "G",
+          "L",
+          "A",
+          "S",
+          "S"
+        ],
+        [
+          "A",
+          "L",
+          "S",
+          "X",
+          "H",
+          "M",
+          "Z",
+          "K",
+          "P",
+          "R"
+        ],
+        [
+          "F",
+          "Y",
+          "B",
+          "Y",
+          "A",
+          "H",
+          "Z",
+          "M",
+          "H",
+          "A"
+        ],
+        [
+          "X",
+          "S",
+          "G",
+          "G",
+          "Q",
+          "T",
+          "R",
+          "V",
+          "Q",
+          "H"
+        ],
+        [
+          "H",
+          "N",
+          "O",
+          "Q",
+          "O",
+          "X",
+          "S",
+          "P",
+          "V",
+          "K"
+        ]
+      ],
+      "words_to_find": [
+        "GLASS",
+        "DAGGER",
+        "MASK",
+        "GONDOLA",
+        "VIAL"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FRQWHVVD OHIW KHU PDVN LQ VHFUHW DOFRYH",
+      "plaintext": "THE CONTESSA LEFT HER MASK IN SECRET ALCOVE",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Harlequin Actor",
+        "The Silk Merchant",
+        "The Gondola Pilot",
+        "The Glass Maestro"
+      ],
+      "rooms": [
+        "The Grand Ballroom",
+        "The Secret Alcove",
+        "Bridge of Sighs Chamber",
+        "The Gondola Mooring"
+      ],
+      "weapons": [
+        "Murano Glass Dagger",
+        "Venetian Belladonna",
+        "Stiletto Rapier",
+        "Poisoned Carnival Mask"
+      ],
+      "clues": [
+        "The Silk Merchant was confirmed to be in The Gondola Mooring.",
+        "The Gondola Pilot was discovered carrying the Venetian Belladonna.",
+        "The investigator found the Stiletto Rapier inside Bridge of Sighs Chamber.",
+        "The Harlequin Actor was never seen near The Secret Alcove.",
+        "The Harlequin Actor had no access to the Murano Glass Dagger.",
+        "The weapon recovered from The Grand Ballroom was definitely not the Venetian Belladonna.",
+        "Neither The Harlequin Actor nor The Glass Maestro had ever visited The Gondola Mooring.",
+        "The lethal strike occurred in The Grand Ballroom, leaving behind the deadly Poisoned Carnival Mask.",
+        "The Harlequin Actor had no access to the Stiletto Rapier."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Harlequin Actor",
+      "murder_room": "The Grand Ballroom",
+      "murder_weapon": "Poisoned Carnival Mask",
+      "full_mapping": {
+        "The Harlequin Actor": {
+          "room": "The Grand Ballroom",
+          "weapon": "Poisoned Carnival Mask"
+        },
+        "The Silk Merchant": {
+          "room": "The Gondola Mooring",
+          "weapon": "Murano Glass Dagger"
+        },
+        "The Gondola Pilot": {
+          "room": "The Secret Alcove",
+          "weapon": "Venetian Belladonna"
+        },
+        "The Glass Maestro": {
+          "room": "Bridge of Sighs Chamber",
+          "weapon": "Stiletto Rapier"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 2,
+    "title": "Case #002: The Mystery of The Clan Library",
+    "theme": "The Scottish Highland Castle Mystery",
+    "briefing": "An urgent homicide dispatch has arrived from The Scottish Highland Castle Mystery. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "B",
+          "I",
+          "M",
+          "Z",
+          "A",
+          "K",
+          "J",
+          "S",
+          "X",
+          "Q"
+        ],
+        [
+          "O",
+          "H",
+          "S",
+          "K",
+          "R",
+          "W",
+          "Y",
+          "I",
+          "C",
+          "G"
+        ],
+        [
+          "V",
+          "A",
+          "H",
+          "M",
+          "R",
+          "P",
+          "E",
+          "A",
+          "T",
+          "O"
+        ],
+        [
+          "K",
+          "H",
+          "I",
+          "Y",
+          "O",
+          "L",
+          "P",
+          "Y",
+          "E",
+          "L"
+        ],
+        [
+          "E",
+          "Y",
+          "E",
+          "D",
+          "W",
+          "E",
+          "S",
+          "W",
+          "O",
+          "W"
+        ],
+        [
+          "P",
+          "A",
+          "L",
+          "L",
+          "I",
+          "F",
+          "T",
+          "C",
+          "Z",
+          "P"
+        ],
+        [
+          "H",
+          "R",
+          "D",
+          "D",
+          "Z",
+          "H",
+          "O",
+          "X",
+          "T",
+          "M"
+        ],
+        [
+          "Q",
+          "H",
+          "O",
+          "R",
+          "N",
+          "R",
+          "N",
+          "Q",
+          "E",
+          "N"
+        ],
+        [
+          "H",
+          "W",
+          "U",
+          "S",
+          "O",
+          "H",
+          "E",
+          "L",
+          "H",
+          "S"
+        ],
+        [
+          "M",
+          "V",
+          "A",
+          "G",
+          "Y",
+          "B",
+          "J",
+          "N",
+          "G",
+          "D"
+        ]
+      ],
+      "words_to_find": [
+        "PEAT",
+        "SHIELD",
+        "HORN",
+        "STONE",
+        "ARROW"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH SLSHU ZDV VHHQ QHDU WKH WXUUHW WRZHU",
+      "plaintext": "THE PIPER WAS SEEN NEAR THE TURRET TOWER",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Castle Archivist",
+        "The Ghillie Hunter",
+        "The Clan Physician",
+        "The Bagpipe Piper"
+      ],
+      "rooms": [
+        "The Heather Moors",
+        "The Turret Lookout",
+        "The Clan Library",
+        "The Dungeon Vaults"
+      ],
+      "weapons": [
+        "Iron Fire Poker",
+        "Antique Flintlock",
+        "Heavy Plaid Rope",
+        "Spiked Stag Antler"
+      ],
+      "clues": [
+        "The Ghillie Hunter was confirmed to be in The Heather Moors.",
+        "The Clan Physician was discovered carrying the Spiked Stag Antler.",
+        "The investigator found the Iron Fire Poker inside The Turret Lookout.",
+        "The Castle Archivist was never seen near The Heather Moors.",
+        "The Castle Archivist had no access to the Iron Fire Poker.",
+        "The weapon recovered from The Heather Moors was definitely not the Spiked Stag Antler.",
+        "Neither The Castle Archivist nor The Bagpipe Piper had ever visited The Heather Moors.",
+        "The lethal strike occurred in The Clan Library, leaving behind the deadly Heavy Plaid Rope."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Castle Archivist",
+      "murder_room": "The Clan Library",
+      "murder_weapon": "Heavy Plaid Rope",
+      "full_mapping": {
+        "The Castle Archivist": {
+          "room": "The Clan Library",
+          "weapon": "Heavy Plaid Rope"
+        },
+        "The Ghillie Hunter": {
+          "room": "The Heather Moors",
+          "weapon": "Antique Flintlock"
+        },
+        "The Clan Physician": {
+          "room": "The Dungeon Vaults",
+          "weapon": "Spiked Stag Antler"
+        },
+        "The Bagpipe Piper": {
+          "room": "The Turret Lookout",
+          "weapon": "Iron Fire Poker"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 3,
+    "title": "Case #003: The Mystery of The Engine Tender",
+    "theme": "The Trans-Siberian Winter Express",
+    "briefing": "An urgent homicide dispatch has arrived from The Trans-Siberian Winter Express. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "K",
+          "Q",
+          "G",
+          "A",
+          "O",
+          "F",
+          "L",
+          "O",
+          "W",
+          "Z"
+        ],
+        [
+          "S",
+          "H",
+          "S",
+          "D",
+          "X",
+          "R",
+          "M",
+          "P",
+          "P",
+          "P"
+        ],
+        [
+          "K",
+          "H",
+          "Z",
+          "A",
+          "C",
+          "O",
+          "Z",
+          "L",
+          "H",
+          "D"
+        ],
+        [
+          "T",
+          "P",
+          "G",
+          "N",
+          "O",
+          "S",
+          "B",
+          "S",
+          "J",
+          "R"
+        ],
+        [
+          "W",
+          "K",
+          "L",
+          "W",
+          "M",
+          "T",
+          "A",
+          "H",
+          "S",
+          "N"
+        ],
+        [
+          "N",
+          "A",
+          "O",
+          "A",
+          "P",
+          "S",
+          "R",
+          "G",
+          "B",
+          "D"
+        ],
+        [
+          "M",
+          "I",
+          "V",
+          "T",
+          "A",
+          "O",
+          "F",
+          "J",
+          "S",
+          "R"
+        ],
+        [
+          "J",
+          "B",
+          "E",
+          "C",
+          "S",
+          "S",
+          "K",
+          "Y",
+          "R",
+          "E"
+        ],
+        [
+          "S",
+          "F",
+          "S",
+          "H",
+          "S",
+          "O",
+          "N",
+          "P",
+          "E",
+          "O"
+        ],
+        [
+          "H",
+          "F",
+          "C",
+          "C",
+          "O",
+          "A",
+          "L",
+          "I",
+          "S",
+          "N"
+        ]
+      ],
+      "words_to_find": [
+        "COMPASS",
+        "COAL",
+        "WATCH",
+        "GLOVES",
+        "FROST"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FKHVV PDVWHU UHFHLYHG D WHOHJUDP",
+      "plaintext": "THE CHESS MASTER RECEIVED A TELEGRAM",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Chess Master",
+        "The Train Conductor",
+        "The Siberian Trader",
+        "The Locomotive Stoker"
+      ],
+      "rooms": [
+        "The Dining Saloon",
+        "The Engine Tender",
+        "The Smoking Lounge",
+        "The Luggage Van"
+      ],
+      "weapons": [
+        "Silver Ice Pick",
+        "Ether Handkerchief",
+        "Pocket Revolver",
+        "Arsenic Caviar"
+      ],
+      "clues": [
+        "The Train Conductor was confirmed to be in The Smoking Lounge.",
+        "The Siberian Trader was discovered carrying the Pocket Revolver.",
+        "The investigator found the Arsenic Caviar inside The Dining Saloon.",
+        "The Chess Master was never seen near The Dining Saloon.",
+        "The Chess Master had no access to the Silver Ice Pick.",
+        "The weapon recovered from The Dining Saloon was definitely not the Pocket Revolver.",
+        "Neither The Chess Master nor The Locomotive Stoker had ever visited The Smoking Lounge.",
+        "The lethal strike occurred in The Engine Tender, leaving behind the deadly Ether Handkerchief."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Chess Master",
+      "murder_room": "The Engine Tender",
+      "murder_weapon": "Ether Handkerchief",
+      "full_mapping": {
+        "The Chess Master": {
+          "room": "The Engine Tender",
+          "weapon": "Ether Handkerchief"
+        },
+        "The Train Conductor": {
+          "room": "The Smoking Lounge",
+          "weapon": "Silver Ice Pick"
+        },
+        "The Siberian Trader": {
+          "room": "The Luggage Van",
+          "weapon": "Pocket Revolver"
+        },
+        "The Locomotive Stoker": {
+          "room": "The Dining Saloon",
+          "weapon": "Arsenic Caviar"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 4,
+    "title": "Case #004: The Mystery of Pendulum Clock Vault",
+    "theme": "The Royal Observatory & Planetarium",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Observatory & Planetarium. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "L",
+          "R",
+          "G",
+          "K",
+          "I",
+          "L",
+          "Q",
+          "H",
+          "H",
+          "I"
+        ],
+        [
+          "M",
+          "E",
+          "T",
+          "E",
+          "O",
+          "R",
+          "W",
+          "H",
+          "O",
+          "C"
+        ],
+        [
+          "Z",
+          "E",
+          "M",
+          "O",
+          "W",
+          "N",
+          "N",
+          "D",
+          "F",
+          "U"
+        ],
+        [
+          "S",
+          "Q",
+          "N",
+          "Z",
+          "B",
+          "X",
+          "B",
+          "E",
+          "M",
+          "Y"
+        ],
+        [
+          "T",
+          "M",
+          "P",
+          "W",
+          "R",
+          "V",
+          "N",
+          "D",
+          "P",
+          "Y"
+        ],
+        [
+          "A",
+          "J",
+          "A",
+          "Q",
+          "A",
+          "O",
+          "R",
+          "B",
+          "I",
+          "T"
+        ],
+        [
+          "R",
+          "V",
+          "F",
+          "Y",
+          "S",
+          "D",
+          "D",
+          "V",
+          "E",
+          "H"
+        ],
+        [
+          "P",
+          "Z",
+          "B",
+          "B",
+          "S",
+          "J",
+          "B",
+          "R",
+          "E",
+          "H"
+        ],
+        [
+          "B",
+          "D",
+          "P",
+          "R",
+          "I",
+          "S",
+          "M",
+          "H",
+          "D",
+          "G"
+        ],
+        [
+          "O",
+          "R",
+          "D",
+          "P",
+          "Y",
+          "W",
+          "A",
+          "I",
+          "A",
+          "K"
+        ]
+      ],
+      "words_to_find": [
+        "METEOR",
+        "STAR",
+        "PRISM",
+        "ORBIT",
+        "BRASS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FDUWRJUDSKHU EXUQW WKH VWDU FKDUWV",
+      "plaintext": "THE CARTOGRAPHER BURNT THE STAR CHARTS",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Academy Dean",
+        "The Royal Astronomer",
+        "The Master Clockmaker",
+        "The Meteorite Hunter"
+      ],
+      "rooms": [
+        "Meteorite Laboratory",
+        "The Great Dome",
+        "Pendulum Clock Vault",
+        "Star Chart Archive"
+      ],
+      "weapons": [
+        "Iron Meteorite Core",
+        "Weighted Pendulum Rod",
+        "Brass Astrolabe",
+        "Heavy Brass Compass"
+      ],
+      "clues": [
+        "The Royal Astronomer was confirmed to be in Meteorite Laboratory.",
+        "The Master Clockmaker was discovered carrying the Brass Astrolabe.",
+        "The investigator found the Heavy Brass Compass inside The Great Dome.",
+        "The Academy Dean was never seen near Meteorite Laboratory.",
+        "The Academy Dean had no access to the Iron Meteorite Core.",
+        "The weapon recovered from Meteorite Laboratory was definitely not the Brass Astrolabe.",
+        "Neither The Academy Dean nor The Meteorite Hunter had ever visited Meteorite Laboratory.",
+        "The lethal strike occurred in Pendulum Clock Vault, leaving behind the deadly Weighted Pendulum Rod.",
+        "The Academy Dean had no access to the Heavy Brass Compass."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Academy Dean",
+      "murder_room": "Pendulum Clock Vault",
+      "murder_weapon": "Weighted Pendulum Rod",
+      "full_mapping": {
+        "The Academy Dean": {
+          "room": "Pendulum Clock Vault",
+          "weapon": "Weighted Pendulum Rod"
+        },
+        "The Royal Astronomer": {
+          "room": "Meteorite Laboratory",
+          "weapon": "Iron Meteorite Core"
+        },
+        "The Master Clockmaker": {
+          "room": "Star Chart Archive",
+          "weapon": "Brass Astrolabe"
+        },
+        "The Meteorite Hunter": {
+          "room": "The Great Dome",
+          "weapon": "Heavy Brass Compass"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 5,
+    "title": "Case #005: The Mystery of The Doge's Private Study",
+    "theme": "The Venetian Masquerade Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Venetian Masquerade Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "I",
+          "Y",
+          "T",
+          "R",
+          "I",
+          "B",
+          "B",
+          "O",
+          "N",
+          "J"
+        ],
+        [
+          "W",
+          "W",
+          "A",
+          "J",
+          "A",
+          "M",
+          "S",
+          "K",
+          "J",
+          "B"
+        ],
+        [
+          "M",
+          "I",
+          "E",
+          "D",
+          "O",
+          "Z",
+          "P",
+          "C",
+          "H",
+          "E"
+        ],
+        [
+          "R",
+          "Q",
+          "I",
+          "Q",
+          "U",
+          "Q",
+          "Z",
+          "V",
+          "K",
+          "F"
+        ],
+        [
+          "X",
+          "V",
+          "T",
+          "S",
+          "J",
+          "M",
+          "X",
+          "Q",
+          "H",
+          "E"
+        ],
+        [
+          "U",
+          "Z",
+          "R",
+          "A",
+          "U",
+          "M",
+          "A",
+          "S",
+          "K",
+          "A"
+        ],
+        [
+          "O",
+          "X",
+          "V",
+          "D",
+          "M",
+          "H",
+          "N",
+          "B",
+          "T",
+          "T"
+        ],
+        [
+          "J",
+          "B",
+          "V",
+          "I",
+          "A",
+          "L",
+          "R",
+          "L",
+          "Z",
+          "H"
+        ],
+        [
+          "I",
+          "Z",
+          "M",
+          "K",
+          "K",
+          "M",
+          "R",
+          "Q",
+          "L",
+          "E"
+        ],
+        [
+          "D",
+          "G",
+          "O",
+          "N",
+          "D",
+          "O",
+          "L",
+          "A",
+          "M",
+          "R"
+        ]
+      ],
+      "words_to_find": [
+        "MASK",
+        "VIAL",
+        "FEATHER",
+        "RIBBON",
+        "GONDOLA"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH EHOODGRQQD YLDO ZDV VWROHQ IURP ULDOWR",
+      "plaintext": "THE BELLADONNA VIAL WAS STOLEN FROM RIALTO",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "Contessa di Rialto",
+        "The Harlequin Actor",
+        "The Gondola Pilot",
+        "The Glass Maestro"
+      ],
+      "rooms": [
+        "The Grand Ballroom",
+        "Bridge of Sighs Chamber",
+        "The Doge's Private Study",
+        "The Gondola Mooring"
+      ],
+      "weapons": [
+        "Poisoned Carnival Mask",
+        "Gilded Silk Garrote",
+        "Stiletto Rapier",
+        "Venetian Belladonna"
+      ],
+      "clues": [
+        "The Harlequin Actor was confirmed to be in The Gondola Mooring.",
+        "The Gondola Pilot was discovered carrying the Gilded Silk Garrote.",
+        "The investigator found the Venetian Belladonna inside The Grand Ballroom.",
+        "Contessa di Rialto was never seen near The Grand Ballroom.",
+        "Contessa di Rialto had no access to the Poisoned Carnival Mask.",
+        "The weapon recovered from The Grand Ballroom was definitely not the Gilded Silk Garrote.",
+        "Neither Contessa di Rialto nor The Glass Maestro had ever visited The Gondola Mooring.",
+        "The lethal strike occurred in The Doge's Private Study, leaving behind the deadly Stiletto Rapier."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "Contessa di Rialto",
+      "murder_room": "The Doge's Private Study",
+      "murder_weapon": "Stiletto Rapier",
+      "full_mapping": {
+        "Contessa di Rialto": {
+          "room": "The Doge's Private Study",
+          "weapon": "Stiletto Rapier"
+        },
+        "The Harlequin Actor": {
+          "room": "The Gondola Mooring",
+          "weapon": "Poisoned Carnival Mask"
+        },
+        "The Gondola Pilot": {
+          "room": "Bridge of Sighs Chamber",
+          "weapon": "Gilded Silk Garrote"
+        },
+        "The Glass Maestro": {
+          "room": "The Grand Ballroom",
+          "weapon": "Venetian Belladonna"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 6,
+    "title": "Case #006: The Mystery of The Great Tartan Hall",
+    "theme": "The Scottish Highland Castle Mystery",
+    "briefing": "An urgent homicide dispatch has arrived from The Scottish Highland Castle Mystery. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "P",
+          "I",
+          "W",
+          "P",
+          "C",
+          "Y",
+          "O",
+          "B",
+          "R",
+          "Q"
+        ],
+        [
+          "A",
+          "N",
+          "B",
+          "Z",
+          "L",
+          "L",
+          "B",
+          "S",
+          "R",
+          "M"
+        ],
+        [
+          "R",
+          "R",
+          "X",
+          "I",
+          "O",
+          "K",
+          "R",
+          "M",
+          "P",
+          "P"
+        ],
+        [
+          "R",
+          "V",
+          "G",
+          "N",
+          "A",
+          "V",
+          "E",
+          "B",
+          "D",
+          "O"
+        ],
+        [
+          "O",
+          "G",
+          "Y",
+          "H",
+          "K",
+          "R",
+          "Y",
+          "R",
+          "W",
+          "H"
+        ],
+        [
+          "W",
+          "U",
+          "F",
+          "O",
+          "Y",
+          "S",
+          "L",
+          "O",
+          "U",
+          "I"
+        ],
+        [
+          "J",
+          "F",
+          "M",
+          "R",
+          "U",
+          "T",
+          "M",
+          "O",
+          "H",
+          "O"
+        ],
+        [
+          "C",
+          "V",
+          "R",
+          "N",
+          "I",
+          "O",
+          "B",
+          "C",
+          "S",
+          "L"
+        ],
+        [
+          "Y",
+          "Q",
+          "C",
+          "H",
+          "J",
+          "N",
+          "H",
+          "H",
+          "D",
+          "S"
+        ],
+        [
+          "P",
+          "L",
+          "E",
+          "X",
+          "D",
+          "E",
+          "O",
+          "T",
+          "M",
+          "I"
+        ]
+      ],
+      "words_to_find": [
+        "CLOAK",
+        "BROOCH",
+        "HORN",
+        "ARROW",
+        "STONE"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH SRLVRQ GUDP ZDV VHUYHG LQ WDUWDQ KDOO",
+      "plaintext": "THE POISON DRAM WAS SERVED IN TARTAN HALL",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Castle Archivist",
+        "The Clan Physician",
+        "The Clan Laird",
+        "The Ghillie Hunter"
+      ],
+      "rooms": [
+        "The Ancestral Armory",
+        "The Clan Library",
+        "The Great Tartan Hall",
+        "The Heather Moors"
+      ],
+      "weapons": [
+        "Iron Fire Poker",
+        "Strychnine Dram",
+        "Antique Flintlock",
+        "Heavy Plaid Rope"
+      ],
+      "clues": [
+        "The Clan Physician was confirmed to be in The Clan Library.",
+        "The Clan Laird was discovered carrying the Iron Fire Poker.",
+        "The investigator found the Strychnine Dram inside The Heather Moors.",
+        "The Castle Archivist was never seen near The Ancestral Armory.",
+        "The Castle Archivist had no access to the Iron Fire Poker.",
+        "The weapon recovered from The Clan Library was definitely not the Iron Fire Poker.",
+        "Neither The Castle Archivist nor The Ghillie Hunter had ever visited The Clan Library.",
+        "The lethal strike occurred in The Great Tartan Hall, leaving behind the deadly Antique Flintlock.",
+        "The Castle Archivist had no access to the Strychnine Dram."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Castle Archivist",
+      "murder_room": "The Great Tartan Hall",
+      "murder_weapon": "Antique Flintlock",
+      "full_mapping": {
+        "The Castle Archivist": {
+          "room": "The Great Tartan Hall",
+          "weapon": "Antique Flintlock"
+        },
+        "The Clan Physician": {
+          "room": "The Clan Library",
+          "weapon": "Heavy Plaid Rope"
+        },
+        "The Clan Laird": {
+          "room": "The Ancestral Armory",
+          "weapon": "Iron Fire Poker"
+        },
+        "The Ghillie Hunter": {
+          "room": "The Heather Moors",
+          "weapon": "Strychnine Dram"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 7,
+    "title": "Case #007: The Mystery of The Engine Tender",
+    "theme": "The Trans-Siberian Winter Express",
+    "briefing": "An urgent homicide dispatch has arrived from The Trans-Siberian Winter Express. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "V",
+          "P",
+          "V",
+          "C",
+          "T",
+          "E",
+          "O",
+          "U",
+          "J",
+          "P"
+        ],
+        [
+          "A",
+          "O",
+          "K",
+          "A",
+          "I",
+          "T",
+          "T",
+          "W",
+          "G",
+          "T"
+        ],
+        [
+          "C",
+          "O",
+          "M",
+          "P",
+          "A",
+          "S",
+          "S",
+          "A",
+          "Z",
+          "R"
+        ],
+        [
+          "L",
+          "F",
+          "I",
+          "X",
+          "M",
+          "V",
+          "F",
+          "T",
+          "I",
+          "A"
+        ],
+        [
+          "E",
+          "G",
+          "L",
+          "F",
+          "Q",
+          "W",
+          "D",
+          "C",
+          "U",
+          "C"
+        ],
+        [
+          "Q",
+          "L",
+          "K",
+          "P",
+          "K",
+          "J",
+          "F",
+          "H",
+          "V",
+          "K"
+        ],
+        [
+          "E",
+          "O",
+          "B",
+          "H",
+          "X",
+          "G",
+          "R",
+          "I",
+          "A",
+          "S"
+        ],
+        [
+          "M",
+          "V",
+          "D",
+          "N",
+          "Y",
+          "W",
+          "O",
+          "G",
+          "P",
+          "M"
+        ],
+        [
+          "C",
+          "E",
+          "K",
+          "L",
+          "R",
+          "M",
+          "S",
+          "D",
+          "A",
+          "G"
+        ],
+        [
+          "R",
+          "S",
+          "S",
+          "G",
+          "W",
+          "D",
+          "T",
+          "B",
+          "C",
+          "T"
+        ]
+      ],
+      "words_to_find": [
+        "FROST",
+        "GLOVES",
+        "WATCH",
+        "COMPASS",
+        "TRACKS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH JUDQG GXFKHVV VDZ WKH UHYROYHU",
+      "plaintext": "THE GRAND DUCHESS SAW THE REVOLVER",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Siberian Trader",
+        "The Imperial Courier",
+        "The Locomotive Stoker",
+        "The Train Conductor"
+      ],
+      "rooms": [
+        "The Engine Tender",
+        "The Dining Saloon",
+        "The Observation Deck",
+        "The Luggage Van"
+      ],
+      "weapons": [
+        "Steel Luggage Strap",
+        "Pocket Revolver",
+        "Arsenic Caviar",
+        "Silver Ice Pick"
+      ],
+      "clues": [
+        "The Imperial Courier was confirmed to be in The Dining Saloon.",
+        "The Locomotive Stoker was discovered carrying the Arsenic Caviar.",
+        "The investigator found the Silver Ice Pick inside The Observation Deck.",
+        "The Siberian Trader was never seen near The Dining Saloon.",
+        "The Siberian Trader had no access to the Pocket Revolver.",
+        "The weapon recovered from The Engine Tender was definitely not the Arsenic Caviar.",
+        "Neither The Siberian Trader nor The Train Conductor had ever visited The Dining Saloon.",
+        "The lethal strike occurred in The Engine Tender, leaving behind the deadly Steel Luggage Strap.",
+        "The Siberian Trader had no access to the Silver Ice Pick."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Siberian Trader",
+      "murder_room": "The Engine Tender",
+      "murder_weapon": "Steel Luggage Strap",
+      "full_mapping": {
+        "The Siberian Trader": {
+          "room": "The Engine Tender",
+          "weapon": "Steel Luggage Strap"
+        },
+        "The Imperial Courier": {
+          "room": "The Dining Saloon",
+          "weapon": "Pocket Revolver"
+        },
+        "The Locomotive Stoker": {
+          "room": "The Luggage Van",
+          "weapon": "Arsenic Caviar"
+        },
+        "The Train Conductor": {
+          "room": "The Observation Deck",
+          "weapon": "Silver Ice Pick"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 8,
+    "title": "Case #008: The Mystery of Observation Terrace",
+    "theme": "The Royal Observatory & Planetarium",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Observatory & Planetarium. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "H",
+          "X",
+          "C",
+          "L",
+          "O",
+          "C",
+          "K",
+          "Y",
+          "L",
+          "M"
+        ],
+        [
+          "I",
+          "F",
+          "W",
+          "Z",
+          "H",
+          "N",
+          "L",
+          "X",
+          "Z",
+          "I"
+        ],
+        [
+          "P",
+          "L",
+          "G",
+          "G",
+          "M",
+          "J",
+          "R",
+          "H",
+          "E",
+          "K"
+        ],
+        [
+          "E",
+          "K",
+          "W",
+          "I",
+          "M",
+          "J",
+          "D",
+          "N",
+          "P",
+          "L"
+        ],
+        [
+          "L",
+          "C",
+          "U",
+          "A",
+          "Y",
+          "T",
+          "L",
+          "F",
+          "R",
+          "G"
+        ],
+        [
+          "E",
+          "X",
+          "W",
+          "X",
+          "Y",
+          "J",
+          "N",
+          "H",
+          "I",
+          "S"
+        ],
+        [
+          "N",
+          "Q",
+          "D",
+          "P",
+          "Y",
+          "A",
+          "P",
+          "Y",
+          "S",
+          "T"
+        ],
+        [
+          "S",
+          "Y",
+          "B",
+          "K",
+          "A",
+          "Q",
+          "D",
+          "P",
+          "M",
+          "A"
+        ],
+        [
+          "H",
+          "Z",
+          "D",
+          "R",
+          "S",
+          "B",
+          "N",
+          "X",
+          "O",
+          "R"
+        ],
+        [
+          "O",
+          "L",
+          "Q",
+          "C",
+          "O",
+          "M",
+          "E",
+          "T",
+          "P",
+          "E"
+        ]
+      ],
+      "words_to_find": [
+        "PRISM",
+        "STAR",
+        "COMET",
+        "CLOCK",
+        "LENS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH DVWURQRPHU KLG LQ WKH SHQGXOXP YDXOW",
+      "plaintext": "THE ASTRONOMER HID IN THE PENDULUM VAULT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Star Cartographer",
+        "The Royal Astronomer",
+        "The Optical Artisan",
+        "The Academy Dean"
+      ],
+      "rooms": [
+        "The Great Dome",
+        "Meteorite Laboratory",
+        "Star Chart Archive",
+        "Observation Terrace"
+      ],
+      "weapons": [
+        "Leyden Jar Shock",
+        "Brass Astrolabe",
+        "Iron Meteorite Core",
+        "Cyanide Infusion"
+      ],
+      "clues": [
+        "The Royal Astronomer was confirmed to be in The Great Dome.",
+        "The Optical Artisan was discovered carrying the Leyden Jar Shock.",
+        "The investigator found the Iron Meteorite Core inside Star Chart Archive.",
+        "The Star Cartographer was never seen near The Great Dome.",
+        "The Star Cartographer had no access to the Leyden Jar Shock.",
+        "The weapon recovered from The Great Dome was definitely not the Leyden Jar Shock.",
+        "Neither The Star Cartographer nor The Academy Dean had ever visited The Great Dome.",
+        "The lethal strike occurred in Observation Terrace, leaving behind the deadly Cyanide Infusion.",
+        "The Star Cartographer had no access to the Iron Meteorite Core."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Star Cartographer",
+      "murder_room": "Observation Terrace",
+      "murder_weapon": "Cyanide Infusion",
+      "full_mapping": {
+        "The Star Cartographer": {
+          "room": "Observation Terrace",
+          "weapon": "Cyanide Infusion"
+        },
+        "The Royal Astronomer": {
+          "room": "The Great Dome",
+          "weapon": "Brass Astrolabe"
+        },
+        "The Optical Artisan": {
+          "room": "Meteorite Laboratory",
+          "weapon": "Leyden Jar Shock"
+        },
+        "The Academy Dean": {
+          "room": "Star Chart Archive",
+          "weapon": "Iron Meteorite Core"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 9,
+    "title": "Case #009: The Mystery of The Canal Water Gate",
+    "theme": "The Venetian Masquerade Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Venetian Masquerade Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "I",
+          "E",
+          "Q",
+          "I",
+          "V",
+          "H",
+          "L",
+          "B",
+          "C",
+          "R"
+        ],
+        [
+          "J",
+          "Y",
+          "Z",
+          "I",
+          "C",
+          "N",
+          "Z",
+          "U",
+          "A",
+          "I"
+        ],
+        [
+          "Z",
+          "I",
+          "P",
+          "V",
+          "E",
+          "J",
+          "B",
+          "B",
+          "B",
+          "B"
+        ],
+        [
+          "M",
+          "G",
+          "V",
+          "X",
+          "K",
+          "Q",
+          "E",
+          "G",
+          "U",
+          "B"
+        ],
+        [
+          "W",
+          "O",
+          "I",
+          "W",
+          "D",
+          "R",
+          "I",
+          "U",
+          "L",
+          "O"
+        ],
+        [
+          "A",
+          "N",
+          "A",
+          "X",
+          "M",
+          "T",
+          "U",
+          "B",
+          "L",
+          "N"
+        ],
+        [
+          "N",
+          "D",
+          "L",
+          "B",
+          "A",
+          "P",
+          "X",
+          "I",
+          "A",
+          "F"
+        ],
+        [
+          "J",
+          "O",
+          "D",
+          "M",
+          "S",
+          "O",
+          "M",
+          "B",
+          "C",
+          "X"
+        ],
+        [
+          "A",
+          "L",
+          "H",
+          "R",
+          "K",
+          "I",
+          "B",
+          "T",
+          "E",
+          "I"
+        ],
+        [
+          "L",
+          "A",
+          "B",
+          "J",
+          "L",
+          "U",
+          "A",
+          "R",
+          "M",
+          "L"
+        ]
+      ],
+      "words_to_find": [
+        "VIAL",
+        "GONDOLA",
+        "LACE",
+        "MASK",
+        "RIBBON"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FRQWHVVD OHIW KHU PDVN LQ VHFUHW DOFRYH",
+      "plaintext": "THE CONTESSA LEFT HER MASK IN SECRET ALCOVE",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Masked Doge",
+        "The Harlequin Actor",
+        "The Glass Maestro",
+        "The Gondola Pilot"
+      ],
+      "rooms": [
+        "The Secret Alcove",
+        "Bridge of Sighs Chamber",
+        "The Canal Water Gate",
+        "The Grand Ballroom"
+      ],
+      "weapons": [
+        "Poisoned Carnival Mask",
+        "Venetian Belladonna",
+        "Stiletto Rapier",
+        "Gilded Silk Garrote"
+      ],
+      "clues": [
+        "The Harlequin Actor was confirmed to be in The Grand Ballroom.",
+        "The Glass Maestro was discovered carrying the Gilded Silk Garrote.",
+        "The investigator found the Venetian Belladonna inside The Secret Alcove.",
+        "The Masked Doge was never seen near The Secret Alcove.",
+        "The Masked Doge had no access to the Venetian Belladonna.",
+        "The weapon recovered from The Secret Alcove was definitely not the Gilded Silk Garrote.",
+        "Neither The Masked Doge nor The Gondola Pilot had ever visited The Grand Ballroom.",
+        "The lethal strike occurred in The Canal Water Gate, leaving behind the deadly Poisoned Carnival Mask."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Masked Doge",
+      "murder_room": "The Canal Water Gate",
+      "murder_weapon": "Poisoned Carnival Mask",
+      "full_mapping": {
+        "The Masked Doge": {
+          "room": "The Canal Water Gate",
+          "weapon": "Poisoned Carnival Mask"
+        },
+        "The Harlequin Actor": {
+          "room": "The Grand Ballroom",
+          "weapon": "Stiletto Rapier"
+        },
+        "The Glass Maestro": {
+          "room": "Bridge of Sighs Chamber",
+          "weapon": "Gilded Silk Garrote"
+        },
+        "The Gondola Pilot": {
+          "room": "The Secret Alcove",
+          "weapon": "Venetian Belladonna"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 10,
+    "title": "Case #010: The Mystery of The Ancestral Armory",
+    "theme": "The Scottish Highland Castle Mystery",
+    "briefing": "An urgent homicide dispatch has arrived from The Scottish Highland Castle Mystery. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "S",
+          "K",
+          "S",
+          "H",
+          "I",
+          "E",
+          "L",
+          "D",
+          "X",
+          "Z"
+        ],
+        [
+          "V",
+          "P",
+          "E",
+          "A",
+          "T",
+          "X",
+          "Z",
+          "E",
+          "C",
+          "V"
+        ],
+        [
+          "F",
+          "Y",
+          "G",
+          "V",
+          "F",
+          "Q",
+          "W",
+          "T",
+          "L",
+          "E"
+        ],
+        [
+          "H",
+          "X",
+          "A",
+          "R",
+          "R",
+          "O",
+          "W",
+          "P",
+          "O",
+          "E"
+        ],
+        [
+          "E",
+          "R",
+          "K",
+          "O",
+          "E",
+          "E",
+          "E",
+          "N",
+          "A",
+          "J"
+        ],
+        [
+          "N",
+          "K",
+          "F",
+          "R",
+          "O",
+          "V",
+          "C",
+          "H",
+          "K",
+          "F"
+        ],
+        [
+          "S",
+          "Q",
+          "V",
+          "E",
+          "A",
+          "Q",
+          "R",
+          "X",
+          "T",
+          "U"
+        ],
+        [
+          "E",
+          "F",
+          "C",
+          "Q",
+          "H",
+          "J",
+          "I",
+          "Z",
+          "J",
+          "V"
+        ],
+        [
+          "A",
+          "O",
+          "N",
+          "L",
+          "F",
+          "P",
+          "K",
+          "C",
+          "G",
+          "A"
+        ],
+        [
+          "Z",
+          "B",
+          "R",
+          "O",
+          "O",
+          "C",
+          "H",
+          "R",
+          "K",
+          "E"
+        ]
+      ],
+      "words_to_find": [
+        "ARROW",
+        "PEAT",
+        "BROOCH",
+        "CLOAK",
+        "SHIELD"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH DUFKLYLVW FRQFHDOHG WKH ZLOO LQ GXQJHRQ",
+      "plaintext": "THE ARCHIVIST CONCEALED THE WILL IN DUNGEON",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Ghillie Hunter",
+        "The Castle Archivist",
+        "The Bagpipe Piper",
+        "The Clan Physician"
+      ],
+      "rooms": [
+        "The Turret Lookout",
+        "The Ancestral Armory",
+        "The Dungeon Vaults",
+        "The Great Tartan Hall"
+      ],
+      "weapons": [
+        "Damascus Dirk",
+        "Heavy Plaid Rope",
+        "Strychnine Dram",
+        "Iron Fire Poker"
+      ],
+      "clues": [
+        "The Castle Archivist was confirmed to be in The Turret Lookout.",
+        "The Bagpipe Piper was discovered carrying the Heavy Plaid Rope.",
+        "The investigator found the Strychnine Dram inside The Dungeon Vaults.",
+        "The Ghillie Hunter was never seen near The Turret Lookout.",
+        "The Ghillie Hunter had no access to the Damascus Dirk.",
+        "The weapon recovered from The Turret Lookout was definitely not the Heavy Plaid Rope.",
+        "Neither The Ghillie Hunter nor The Clan Physician had ever visited The Turret Lookout.",
+        "The lethal strike occurred in The Ancestral Armory, leaving behind the deadly Iron Fire Poker.",
+        "The Ghillie Hunter had no access to the Strychnine Dram."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Ghillie Hunter",
+      "murder_room": "The Ancestral Armory",
+      "murder_weapon": "Iron Fire Poker",
+      "full_mapping": {
+        "The Ghillie Hunter": {
+          "room": "The Ancestral Armory",
+          "weapon": "Iron Fire Poker"
+        },
+        "The Castle Archivist": {
+          "room": "The Turret Lookout",
+          "weapon": "Damascus Dirk"
+        },
+        "The Bagpipe Piper": {
+          "room": "The Great Tartan Hall",
+          "weapon": "Heavy Plaid Rope"
+        },
+        "The Clan Physician": {
+          "room": "The Dungeon Vaults",
+          "weapon": "Strychnine Dram"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 11,
+    "title": "Case #011: The Mystery of The Luggage Van",
+    "theme": "The Trans-Siberian Winter Express",
+    "briefing": "An urgent homicide dispatch has arrived from The Trans-Siberian Winter Express. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "M",
+          "J",
+          "Q",
+          "R",
+          "T",
+          "X",
+          "U",
+          "T",
+          "R",
+          "J"
+        ],
+        [
+          "J",
+          "L",
+          "X",
+          "P",
+          "I",
+          "P",
+          "G",
+          "Z",
+          "K",
+          "V"
+        ],
+        [
+          "F",
+          "T",
+          "F",
+          "H",
+          "C",
+          "D",
+          "L",
+          "Z",
+          "X",
+          "M"
+        ],
+        [
+          "U",
+          "Z",
+          "R",
+          "V",
+          "K",
+          "S",
+          "O",
+          "B",
+          "U",
+          "L"
+        ],
+        [
+          "V",
+          "N",
+          "O",
+          "E",
+          "E",
+          "Q",
+          "V",
+          "S",
+          "Z",
+          "A"
+        ],
+        [
+          "C",
+          "R",
+          "S",
+          "W",
+          "T",
+          "I",
+          "E",
+          "U",
+          "X",
+          "N"
+        ],
+        [
+          "B",
+          "V",
+          "T",
+          "L",
+          "H",
+          "R",
+          "S",
+          "B",
+          "Q",
+          "T"
+        ],
+        [
+          "J",
+          "N",
+          "I",
+          "B",
+          "W",
+          "M",
+          "I",
+          "Q",
+          "T",
+          "E"
+        ],
+        [
+          "P",
+          "T",
+          "C",
+          "Z",
+          "C",
+          "O",
+          "A",
+          "L",
+          "W",
+          "R"
+        ],
+        [
+          "T",
+          "Z",
+          "V",
+          "Y",
+          "D",
+          "M",
+          "X",
+          "D",
+          "Y",
+          "N"
+        ]
+      ],
+      "words_to_find": [
+        "TICKET",
+        "GLOVES",
+        "FROST",
+        "COAL",
+        "LANTERN"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH JUDQG GXFKHVV VDZ WKH UHYROYHU",
+      "plaintext": "THE GRAND DUCHESS SAW THE REVOLVER",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Siberian Trader",
+        "The Imperial Courier",
+        "The Train Conductor",
+        "The Locomotive Stoker"
+      ],
+      "rooms": [
+        "The Observation Deck",
+        "The Engine Tender",
+        "The Smoking Lounge",
+        "The Luggage Van"
+      ],
+      "weapons": [
+        "Steel Luggage Strap",
+        "Ether Handkerchief",
+        "Pocket Revolver",
+        "Silver Ice Pick"
+      ],
+      "clues": [
+        "The Imperial Courier was confirmed to be in The Smoking Lounge.",
+        "The Train Conductor was discovered carrying the Ether Handkerchief.",
+        "The investigator found the Pocket Revolver inside The Engine Tender.",
+        "The Siberian Trader was never seen near The Observation Deck.",
+        "The Siberian Trader had no access to the Ether Handkerchief.",
+        "The weapon recovered from The Engine Tender was definitely not the Ether Handkerchief.",
+        "Neither The Siberian Trader nor The Locomotive Stoker had ever visited The Smoking Lounge.",
+        "The lethal strike occurred in The Luggage Van, leaving behind the deadly Steel Luggage Strap.",
+        "The Siberian Trader had no access to the Pocket Revolver."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Siberian Trader",
+      "murder_room": "The Luggage Van",
+      "murder_weapon": "Steel Luggage Strap",
+      "full_mapping": {
+        "The Siberian Trader": {
+          "room": "The Luggage Van",
+          "weapon": "Steel Luggage Strap"
+        },
+        "The Imperial Courier": {
+          "room": "The Smoking Lounge",
+          "weapon": "Silver Ice Pick"
+        },
+        "The Train Conductor": {
+          "room": "The Observation Deck",
+          "weapon": "Ether Handkerchief"
+        },
+        "The Locomotive Stoker": {
+          "room": "The Engine Tender",
+          "weapon": "Pocket Revolver"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 12,
+    "title": "Case #012: The Mystery of Star Chart Archive",
+    "theme": "The Royal Observatory & Planetarium",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Observatory & Planetarium. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "B",
+          "Z",
+          "U",
+          "C",
+          "P",
+          "C",
+          "O",
+          "M",
+          "E",
+          "T"
+        ],
+        [
+          "I",
+          "I",
+          "Z",
+          "M",
+          "V",
+          "O",
+          "R",
+          "B",
+          "I",
+          "T"
+        ],
+        [
+          "S",
+          "X",
+          "Q",
+          "C",
+          "L",
+          "P",
+          "J",
+          "T",
+          "K",
+          "J"
+        ],
+        [
+          "H",
+          "Q",
+          "U",
+          "L",
+          "E",
+          "T",
+          "X",
+          "T",
+          "M",
+          "I"
+        ],
+        [
+          "E",
+          "G",
+          "I",
+          "O",
+          "N",
+          "Z",
+          "K",
+          "B",
+          "B",
+          "D"
+        ],
+        [
+          "W",
+          "A",
+          "B",
+          "C",
+          "S",
+          "S",
+          "S",
+          "K",
+          "R",
+          "D"
+        ],
+        [
+          "V",
+          "P",
+          "L",
+          "K",
+          "O",
+          "E",
+          "W",
+          "Q",
+          "A",
+          "A"
+        ],
+        [
+          "A",
+          "F",
+          "K",
+          "T",
+          "O",
+          "B",
+          "K",
+          "J",
+          "S",
+          "C"
+        ],
+        [
+          "T",
+          "H",
+          "W",
+          "X",
+          "N",
+          "G",
+          "E",
+          "O",
+          "S",
+          "T"
+        ],
+        [
+          "Y",
+          "T",
+          "A",
+          "F",
+          "F",
+          "G",
+          "D",
+          "H",
+          "M",
+          "M"
+        ]
+      ],
+      "words_to_find": [
+        "CLOCK",
+        "LENS",
+        "COMET",
+        "ORBIT",
+        "BRASS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH OHQV PDNHU FRQFHDOHG WKH EUDVV FRPSDVV",
+      "plaintext": "THE LENS MAKER CONCEALED THE BRASS COMPASS",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Master Clockmaker",
+        "The Royal Astronomer",
+        "The Optical Artisan",
+        "The Meteorite Hunter"
+      ],
+      "rooms": [
+        "Observation Terrace",
+        "The Great Dome",
+        "Pendulum Clock Vault",
+        "Star Chart Archive"
+      ],
+      "weapons": [
+        "Iron Meteorite Core",
+        "Weighted Pendulum Rod",
+        "Cyanide Infusion",
+        "Heavy Brass Compass"
+      ],
+      "clues": [
+        "The Royal Astronomer was confirmed to be in The Great Dome.",
+        "The Optical Artisan was discovered carrying the Cyanide Infusion.",
+        "The investigator found the Iron Meteorite Core inside Observation Terrace.",
+        "The Master Clockmaker was never seen near Observation Terrace.",
+        "The Master Clockmaker had no access to the Iron Meteorite Core.",
+        "The weapon recovered from Observation Terrace was definitely not the Cyanide Infusion.",
+        "Neither The Master Clockmaker nor The Meteorite Hunter had ever visited The Great Dome.",
+        "The lethal strike occurred in Star Chart Archive, leaving behind the deadly Heavy Brass Compass."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Master Clockmaker",
+      "murder_room": "Star Chart Archive",
+      "murder_weapon": "Heavy Brass Compass",
+      "full_mapping": {
+        "The Master Clockmaker": {
+          "room": "Star Chart Archive",
+          "weapon": "Heavy Brass Compass"
+        },
+        "The Royal Astronomer": {
+          "room": "The Great Dome",
+          "weapon": "Weighted Pendulum Rod"
+        },
+        "The Optical Artisan": {
+          "room": "Pendulum Clock Vault",
+          "weapon": "Cyanide Infusion"
+        },
+        "The Meteorite Hunter": {
+          "room": "Observation Terrace",
+          "weapon": "Iron Meteorite Core"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 13,
+    "title": "Case #013: The Mystery of The Canal Water Gate",
+    "theme": "The Venetian Masquerade Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Venetian Masquerade Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "F",
+          "C",
+          "E",
+          "C",
+          "S",
+          "F",
+          "D",
+          "A",
+          "D",
+          "X"
+        ],
+        [
+          "C",
+          "L",
+          "A",
+          "C",
+          "E",
+          "E",
+          "M",
+          "X",
+          "A",
+          "B"
+        ],
+        [
+          "D",
+          "V",
+          "J",
+          "N",
+          "W",
+          "A",
+          "A",
+          "X",
+          "G",
+          "N"
+        ],
+        [
+          "N",
+          "C",
+          "R",
+          "H",
+          "S",
+          "T",
+          "S",
+          "Y",
+          "G",
+          "V"
+        ],
+        [
+          "C",
+          "F",
+          "F",
+          "Q",
+          "D",
+          "H",
+          "K",
+          "A",
+          "E",
+          "O"
+        ],
+        [
+          "T",
+          "I",
+          "B",
+          "S",
+          "B",
+          "E",
+          "S",
+          "D",
+          "R",
+          "F"
+        ],
+        [
+          "J",
+          "I",
+          "F",
+          "V",
+          "D",
+          "R",
+          "L",
+          "V",
+          "W",
+          "Q"
+        ],
+        [
+          "G",
+          "M",
+          "H",
+          "O",
+          "R",
+          "D",
+          "I",
+          "I",
+          "C",
+          "P"
+        ],
+        [
+          "Z",
+          "V",
+          "X",
+          "K",
+          "Z",
+          "M",
+          "F",
+          "A",
+          "Z",
+          "D"
+        ],
+        [
+          "J",
+          "O",
+          "I",
+          "P",
+          "S",
+          "E",
+          "N",
+          "L",
+          "M",
+          "Y"
+        ]
+      ],
+      "words_to_find": [
+        "FEATHER",
+        "LACE",
+        "VIAL",
+        "MASK",
+        "DAGGER"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "PHHW WKH PDVNHG GRJH DW ZDWHU JDWH PLGQLJKW",
+      "plaintext": "MEET THE MASKED DOGE AT WATER GATE MIDNIGHT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Harlequin Actor",
+        "Contessa di Rialto",
+        "The Gondola Pilot",
+        "The Masked Doge"
+      ],
+      "rooms": [
+        "The Doge's Private Study",
+        "The Grand Ballroom",
+        "The Secret Alcove",
+        "The Canal Water Gate"
+      ],
+      "weapons": [
+        "Stiletto Rapier",
+        "Gilded Silk Garrote",
+        "Heavy Bronze Torch",
+        "Poisoned Carnival Mask"
+      ],
+      "clues": [
+        "Contessa di Rialto was confirmed to be in The Secret Alcove.",
+        "The Gondola Pilot was discovered carrying the Gilded Silk Garrote.",
+        "The investigator found the Stiletto Rapier inside The Grand Ballroom.",
+        "The Harlequin Actor was never seen near The Doge's Private Study.",
+        "The Harlequin Actor had no access to the Stiletto Rapier.",
+        "The weapon recovered from The Grand Ballroom was definitely not the Gilded Silk Garrote.",
+        "Neither The Harlequin Actor nor The Masked Doge had ever visited The Secret Alcove.",
+        "The lethal strike occurred in The Canal Water Gate, leaving behind the deadly Poisoned Carnival Mask."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Harlequin Actor",
+      "murder_room": "The Canal Water Gate",
+      "murder_weapon": "Poisoned Carnival Mask",
+      "full_mapping": {
+        "The Harlequin Actor": {
+          "room": "The Canal Water Gate",
+          "weapon": "Poisoned Carnival Mask"
+        },
+        "Contessa di Rialto": {
+          "room": "The Secret Alcove",
+          "weapon": "Heavy Bronze Torch"
+        },
+        "The Gondola Pilot": {
+          "room": "The Doge's Private Study",
+          "weapon": "Gilded Silk Garrote"
+        },
+        "The Masked Doge": {
+          "room": "The Grand Ballroom",
+          "weapon": "Stiletto Rapier"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 14,
+    "title": "Case #014: The Mystery of The Dungeon Vaults",
+    "theme": "The Scottish Highland Castle Mystery",
+    "briefing": "An urgent homicide dispatch has arrived from The Scottish Highland Castle Mystery. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "T",
+          "A",
+          "R",
+          "T",
+          "A",
+          "N",
+          "L",
+          "K",
+          "W",
+          "G"
+        ],
+        [
+          "R",
+          "O",
+          "O",
+          "Z",
+          "A",
+          "H",
+          "O",
+          "R",
+          "N",
+          "N"
+        ],
+        [
+          "Y",
+          "A",
+          "Q",
+          "B",
+          "U",
+          "P",
+          "E",
+          "A",
+          "T",
+          "P"
+        ],
+        [
+          "E",
+          "R",
+          "G",
+          "R",
+          "B",
+          "N",
+          "J",
+          "D",
+          "J",
+          "B"
+        ],
+        [
+          "G",
+          "R",
+          "Z",
+          "F",
+          "D",
+          "A",
+          "H",
+          "D",
+          "K",
+          "R"
+        ],
+        [
+          "K",
+          "O",
+          "S",
+          "G",
+          "L",
+          "I",
+          "U",
+          "Q",
+          "E",
+          "O"
+        ],
+        [
+          "A",
+          "W",
+          "A",
+          "K",
+          "U",
+          "B",
+          "U",
+          "U",
+          "X",
+          "O"
+        ],
+        [
+          "I",
+          "W",
+          "B",
+          "R",
+          "F",
+          "S",
+          "T",
+          "L",
+          "S",
+          "C"
+        ],
+        [
+          "Z",
+          "E",
+          "W",
+          "C",
+          "C",
+          "Z",
+          "I",
+          "M",
+          "W",
+          "H"
+        ],
+        [
+          "H",
+          "K",
+          "C",
+          "D",
+          "D",
+          "V",
+          "S",
+          "I",
+          "M",
+          "Y"
+        ]
+      ],
+      "words_to_find": [
+        "ARROW",
+        "HORN",
+        "BROOCH",
+        "PEAT",
+        "TARTAN"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH KXQWHU FDUULHG WKH GDPDVFXV GLUN",
+      "plaintext": "THE HUNTER CARRIED THE DAMASCUS DIRK",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Bagpipe Piper",
+        "The Castle Archivist",
+        "The Clan Physician",
+        "The High Chieftain"
+      ],
+      "rooms": [
+        "The Heather Moors",
+        "The Dungeon Vaults",
+        "The Ancestral Armory",
+        "The Turret Lookout"
+      ],
+      "weapons": [
+        "Iron Fire Poker",
+        "Spiked Stag Antler",
+        "Damascus Dirk",
+        "Strychnine Dram"
+      ],
+      "clues": [
+        "The Castle Archivist was confirmed to be in The Turret Lookout.",
+        "The Clan Physician was discovered carrying the Damascus Dirk.",
+        "The investigator found the Iron Fire Poker inside The Heather Moors.",
+        "The Bagpipe Piper was never seen near The Heather Moors.",
+        "The Bagpipe Piper had no access to the Iron Fire Poker.",
+        "The weapon recovered from The Heather Moors was definitely not the Damascus Dirk.",
+        "Neither The Bagpipe Piper nor The High Chieftain had ever visited The Turret Lookout.",
+        "The lethal strike occurred in The Dungeon Vaults, leaving behind the deadly Spiked Stag Antler."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Bagpipe Piper",
+      "murder_room": "The Dungeon Vaults",
+      "murder_weapon": "Spiked Stag Antler",
+      "full_mapping": {
+        "The Bagpipe Piper": {
+          "room": "The Dungeon Vaults",
+          "weapon": "Spiked Stag Antler"
+        },
+        "The Castle Archivist": {
+          "room": "The Turret Lookout",
+          "weapon": "Strychnine Dram"
+        },
+        "The Clan Physician": {
+          "room": "The Ancestral Armory",
+          "weapon": "Damascus Dirk"
+        },
+        "The High Chieftain": {
+          "room": "The Heather Moors",
+          "weapon": "Iron Fire Poker"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 15,
+    "title": "Case #015: The Mystery of The Luggage Van",
+    "theme": "The Trans-Siberian Winter Express",
+    "briefing": "An urgent homicide dispatch has arrived from The Trans-Siberian Winter Express. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "Z",
+          "K",
+          "W",
+          "T",
+          "S",
+          "E",
+          "X",
+          "B",
+          "U",
+          "T"
+        ],
+        [
+          "K",
+          "D",
+          "L",
+          "I",
+          "D",
+          "V",
+          "G",
+          "Z",
+          "E",
+          "R"
+        ],
+        [
+          "P",
+          "S",
+          "A",
+          "S",
+          "F",
+          "R",
+          "O",
+          "S",
+          "T",
+          "A"
+        ],
+        [
+          "P",
+          "U",
+          "N",
+          "C",
+          "Z",
+          "T",
+          "C",
+          "R",
+          "C",
+          "C"
+        ],
+        [
+          "E",
+          "Q",
+          "T",
+          "M",
+          "C",
+          "M",
+          "O",
+          "D",
+          "O",
+          "K"
+        ],
+        [
+          "O",
+          "T",
+          "E",
+          "C",
+          "F",
+          "C",
+          "A",
+          "Y",
+          "M",
+          "S"
+        ],
+        [
+          "Q",
+          "A",
+          "R",
+          "D",
+          "K",
+          "A",
+          "L",
+          "Z",
+          "P",
+          "I"
+        ],
+        [
+          "W",
+          "O",
+          "N",
+          "M",
+          "M",
+          "M",
+          "U",
+          "N",
+          "A",
+          "F"
+        ],
+        [
+          "U",
+          "T",
+          "K",
+          "K",
+          "P",
+          "M",
+          "U",
+          "O",
+          "S",
+          "G"
+        ],
+        [
+          "C",
+          "Q",
+          "S",
+          "S",
+          "L",
+          "F",
+          "E",
+          "H",
+          "S",
+          "L"
+        ]
+      ],
+      "words_to_find": [
+        "LANTERN",
+        "TRACKS",
+        "COMPASS",
+        "FROST",
+        "COAL"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH HQYHORSH ZDV VWROHQ LQ FDELQ IRXU",
+      "plaintext": "THE ENVELOPE WAS STOLEN IN CABIN FOUR",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Siberian Trader",
+        "The Locomotive Stoker",
+        "The Grand Duchess",
+        "The Chess Master"
+      ],
+      "rooms": [
+        "The Engine Tender",
+        "The Luggage Van",
+        "First Class Cabin 4",
+        "The Observation Deck"
+      ],
+      "weapons": [
+        "Arsenic Caviar",
+        "Silver Ice Pick",
+        "Pocket Revolver",
+        "Steel Luggage Strap"
+      ],
+      "clues": [
+        "The Locomotive Stoker was confirmed to be in The Engine Tender.",
+        "The Grand Duchess was discovered carrying the Pocket Revolver.",
+        "The investigator found the Steel Luggage Strap inside First Class Cabin 4.",
+        "The Siberian Trader was never seen near The Engine Tender.",
+        "The Siberian Trader had no access to the Arsenic Caviar.",
+        "The weapon recovered from The Engine Tender was definitely not the Pocket Revolver.",
+        "Neither The Siberian Trader nor The Chess Master had ever visited The Engine Tender.",
+        "The lethal strike occurred in The Luggage Van, leaving behind the deadly Silver Ice Pick.",
+        "The Siberian Trader had no access to the Steel Luggage Strap."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Siberian Trader",
+      "murder_room": "The Luggage Van",
+      "murder_weapon": "Silver Ice Pick",
+      "full_mapping": {
+        "The Siberian Trader": {
+          "room": "The Luggage Van",
+          "weapon": "Silver Ice Pick"
+        },
+        "The Locomotive Stoker": {
+          "room": "The Engine Tender",
+          "weapon": "Arsenic Caviar"
+        },
+        "The Grand Duchess": {
+          "room": "The Observation Deck",
+          "weapon": "Pocket Revolver"
+        },
+        "The Chess Master": {
+          "room": "First Class Cabin 4",
+          "weapon": "Steel Luggage Strap"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 16,
+    "title": "Case #016: The Mystery of The Dean's Office",
+    "theme": "The Royal Observatory & Planetarium",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Observatory & Planetarium. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "K",
+          "S",
+          "J",
+          "O",
+          "G",
+          "S",
+          "Z",
+          "Q",
+          "E",
+          "G"
+        ],
+        [
+          "K",
+          "T",
+          "F",
+          "B",
+          "M",
+          "P",
+          "S",
+          "X",
+          "D",
+          "P"
+        ],
+        [
+          "V",
+          "A",
+          "K",
+          "F",
+          "J",
+          "I",
+          "W",
+          "T",
+          "C",
+          "R"
+        ],
+        [
+          "O",
+          "R",
+          "B",
+          "I",
+          "T",
+          "J",
+          "H",
+          "R",
+          "L",
+          "I"
+        ],
+        [
+          "T",
+          "M",
+          "D",
+          "E",
+          "D",
+          "F",
+          "T",
+          "F",
+          "O",
+          "S"
+        ],
+        [
+          "G",
+          "S",
+          "K",
+          "I",
+          "W",
+          "N",
+          "Y",
+          "C",
+          "C",
+          "M"
+        ],
+        [
+          "E",
+          "K",
+          "D",
+          "I",
+          "C",
+          "L",
+          "R",
+          "Q",
+          "K",
+          "H"
+        ],
+        [
+          "E",
+          "K",
+          "M",
+          "J",
+          "H",
+          "Y",
+          "F",
+          "W",
+          "W",
+          "I"
+        ],
+        [
+          "C",
+          "M",
+          "E",
+          "T",
+          "E",
+          "O",
+          "R",
+          "X",
+          "G",
+          "S"
+        ],
+        [
+          "Y",
+          "N",
+          "B",
+          "X",
+          "U",
+          "B",
+          "K",
+          "C",
+          "I",
+          "B"
+        ]
+      ],
+      "words_to_find": [
+        "STAR",
+        "PRISM",
+        "ORBIT",
+        "CLOCK",
+        "METEOR"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FBDQLGH ZDV PLAHG LQ GHDQV RIILFH",
+      "plaintext": "THE CYANIDE WAS MIXED IN DEANS OFFICE",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Master Clockmaker",
+        "The Star Cartographer",
+        "The Academy Dean",
+        "The Meteorite Hunter"
+      ],
+      "rooms": [
+        "Star Chart Archive",
+        "Pendulum Clock Vault",
+        "The Dean's Office",
+        "Observation Terrace"
+      ],
+      "weapons": [
+        "Weighted Pendulum Rod",
+        "Leyden Jar Shock",
+        "Cyanide Infusion",
+        "Brass Astrolabe"
+      ],
+      "clues": [
+        "The Star Cartographer was confirmed to be in Observation Terrace.",
+        "The Academy Dean was discovered carrying the Leyden Jar Shock.",
+        "The investigator found the Brass Astrolabe inside Pendulum Clock Vault.",
+        "The Master Clockmaker was never seen near Star Chart Archive.",
+        "The Master Clockmaker had no access to the Weighted Pendulum Rod.",
+        "The weapon recovered from Pendulum Clock Vault was definitely not the Leyden Jar Shock.",
+        "Neither The Master Clockmaker nor The Meteorite Hunter had ever visited Observation Terrace.",
+        "The lethal strike occurred in The Dean's Office, leaving behind the deadly Cyanide Infusion.",
+        "The Master Clockmaker had no access to the Brass Astrolabe."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Master Clockmaker",
+      "murder_room": "The Dean's Office",
+      "murder_weapon": "Cyanide Infusion",
+      "full_mapping": {
+        "The Master Clockmaker": {
+          "room": "The Dean's Office",
+          "weapon": "Cyanide Infusion"
+        },
+        "The Star Cartographer": {
+          "room": "Observation Terrace",
+          "weapon": "Weighted Pendulum Rod"
+        },
+        "The Academy Dean": {
+          "room": "Star Chart Archive",
+          "weapon": "Leyden Jar Shock"
+        },
+        "The Meteorite Hunter": {
+          "room": "Pendulum Clock Vault",
+          "weapon": "Brass Astrolabe"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 17,
+    "title": "Case #017: The Mystery of The Secret Alcove",
+    "theme": "The Venetian Masquerade Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Venetian Masquerade Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "H",
+          "P",
+          "X",
+          "M",
+          "K",
+          "H",
+          "Q",
+          "P",
+          "L",
+          "P"
+        ],
+        [
+          "F",
+          "V",
+          "R",
+          "H",
+          "A",
+          "W",
+          "I",
+          "F",
+          "P",
+          "M"
+        ],
+        [
+          "W",
+          "B",
+          "I",
+          "D",
+          "U",
+          "W",
+          "H",
+          "U",
+          "S",
+          "H"
+        ],
+        [
+          "R",
+          "Y",
+          "B",
+          "J",
+          "Q",
+          "S",
+          "Z",
+          "Z",
+          "Y",
+          "I"
+        ],
+        [
+          "V",
+          "Q",
+          "B",
+          "Q",
+          "G",
+          "C",
+          "H",
+          "N",
+          "O",
+          "L"
+        ],
+        [
+          "V",
+          "D",
+          "O",
+          "P",
+          "U",
+          "E",
+          "Y",
+          "R",
+          "G",
+          "M"
+        ],
+        [
+          "I",
+          "K",
+          "N",
+          "G",
+          "O",
+          "N",
+          "D",
+          "O",
+          "L",
+          "A"
+        ],
+        [
+          "A",
+          "S",
+          "M",
+          "A",
+          "S",
+          "K",
+          "J",
+          "P",
+          "A",
+          "I"
+        ],
+        [
+          "L",
+          "O",
+          "A",
+          "H",
+          "Z",
+          "V",
+          "D",
+          "G",
+          "S",
+          "K"
+        ],
+        [
+          "V",
+          "H",
+          "H",
+          "Q",
+          "H",
+          "M",
+          "J",
+          "J",
+          "S",
+          "Y"
+        ]
+      ],
+      "words_to_find": [
+        "GLASS",
+        "MASK",
+        "GONDOLA",
+        "VIAL",
+        "RIBBON"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FRQWHVVD OHIW KHU PDVN LQ VHFUHW DOFRYH",
+      "plaintext": "THE CONTESSA LEFT HER MASK IN SECRET ALCOVE",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "Contessa di Rialto",
+        "The Gondola Pilot",
+        "The Glass Maestro",
+        "The Silk Merchant"
+      ],
+      "rooms": [
+        "The Doge's Private Study",
+        "The Gondola Mooring",
+        "Bridge of Sighs Chamber",
+        "The Secret Alcove"
+      ],
+      "weapons": [
+        "Gilded Silk Garrote",
+        "Murano Glass Dagger",
+        "Venetian Belladonna",
+        "Poisoned Carnival Mask"
+      ],
+      "clues": [
+        "The Gondola Pilot was confirmed to be in The Gondola Mooring.",
+        "The Glass Maestro was discovered carrying the Venetian Belladonna.",
+        "The investigator found the Gilded Silk Garrote inside The Doge's Private Study.",
+        "Contessa di Rialto was never seen near The Doge's Private Study.",
+        "Contessa di Rialto had no access to the Gilded Silk Garrote.",
+        "The weapon recovered from The Doge's Private Study was definitely not the Venetian Belladonna.",
+        "Neither Contessa di Rialto nor The Silk Merchant had ever visited The Gondola Mooring.",
+        "The lethal strike occurred in The Secret Alcove, leaving behind the deadly Poisoned Carnival Mask."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "Contessa di Rialto",
+      "murder_room": "The Secret Alcove",
+      "murder_weapon": "Poisoned Carnival Mask",
+      "full_mapping": {
+        "Contessa di Rialto": {
+          "room": "The Secret Alcove",
+          "weapon": "Poisoned Carnival Mask"
+        },
+        "The Gondola Pilot": {
+          "room": "The Gondola Mooring",
+          "weapon": "Murano Glass Dagger"
+        },
+        "The Glass Maestro": {
+          "room": "Bridge of Sighs Chamber",
+          "weapon": "Venetian Belladonna"
+        },
+        "The Silk Merchant": {
+          "room": "The Doge's Private Study",
+          "weapon": "Gilded Silk Garrote"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 18,
+    "title": "Case #018: The Mystery of The Dungeon Vaults",
+    "theme": "The Scottish Highland Castle Mystery",
+    "briefing": "An urgent homicide dispatch has arrived from The Scottish Highland Castle Mystery. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "C",
+          "T",
+          "A",
+          "R",
+          "T",
+          "A",
+          "N",
+          "A",
+          "V",
+          "L"
+        ],
+        [
+          "J",
+          "E",
+          "Y",
+          "W",
+          "L",
+          "U",
+          "Y",
+          "R",
+          "F",
+          "S"
+        ],
+        [
+          "B",
+          "R",
+          "O",
+          "O",
+          "C",
+          "H",
+          "C",
+          "R",
+          "U",
+          "T"
+        ],
+        [
+          "C",
+          "Z",
+          "Z",
+          "V",
+          "J",
+          "A",
+          "E",
+          "O",
+          "K",
+          "O"
+        ],
+        [
+          "Q",
+          "T",
+          "T",
+          "I",
+          "R",
+          "U",
+          "X",
+          "W",
+          "T",
+          "N"
+        ],
+        [
+          "H",
+          "R",
+          "H",
+          "R",
+          "S",
+          "W",
+          "E",
+          "V",
+          "Z",
+          "E"
+        ],
+        [
+          "O",
+          "O",
+          "U",
+          "O",
+          "P",
+          "G",
+          "B",
+          "O",
+          "E",
+          "Q"
+        ],
+        [
+          "Q",
+          "F",
+          "B",
+          "M",
+          "K",
+          "S",
+          "W",
+          "O",
+          "C",
+          "A"
+        ],
+        [
+          "Y",
+          "J",
+          "U",
+          "A",
+          "X",
+          "D",
+          "H",
+          "N",
+          "B",
+          "C"
+        ],
+        [
+          "M",
+          "X",
+          "C",
+          "L",
+          "O",
+          "A",
+          "K",
+          "H",
+          "U",
+          "X"
+        ]
+      ],
+      "words_to_find": [
+        "STONE",
+        "BROOCH",
+        "TARTAN",
+        "CLOAK",
+        "ARROW"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH SLSHU ZDV VHHQ QHDU WKH WXUUHW WRZHU",
+      "plaintext": "THE PIPER WAS SEEN NEAR THE TURRET TOWER",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Ghillie Hunter",
+        "The Bagpipe Piper",
+        "The Clan Laird",
+        "The High Chieftain"
+      ],
+      "rooms": [
+        "The Ancestral Armory",
+        "The Turret Lookout",
+        "The Dungeon Vaults",
+        "The Clan Library"
+      ],
+      "weapons": [
+        "Damascus Dirk",
+        "Heavy Plaid Rope",
+        "Spiked Stag Antler",
+        "Antique Flintlock"
+      ],
+      "clues": [
+        "The Bagpipe Piper was confirmed to be in The Clan Library.",
+        "The Clan Laird was discovered carrying the Heavy Plaid Rope.",
+        "The investigator found the Damascus Dirk inside The Turret Lookout.",
+        "The Ghillie Hunter was never seen near The Ancestral Armory.",
+        "The Ghillie Hunter had no access to the Damascus Dirk.",
+        "The weapon recovered from The Turret Lookout was definitely not the Heavy Plaid Rope.",
+        "Neither The Ghillie Hunter nor The High Chieftain had ever visited The Clan Library.",
+        "The lethal strike occurred in The Dungeon Vaults, leaving behind the deadly Spiked Stag Antler."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Ghillie Hunter",
+      "murder_room": "The Dungeon Vaults",
+      "murder_weapon": "Spiked Stag Antler",
+      "full_mapping": {
+        "The Ghillie Hunter": {
+          "room": "The Dungeon Vaults",
+          "weapon": "Spiked Stag Antler"
+        },
+        "The Bagpipe Piper": {
+          "room": "The Clan Library",
+          "weapon": "Antique Flintlock"
+        },
+        "The Clan Laird": {
+          "room": "The Ancestral Armory",
+          "weapon": "Heavy Plaid Rope"
+        },
+        "The High Chieftain": {
+          "room": "The Turret Lookout",
+          "weapon": "Damascus Dirk"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 19,
+    "title": "Case #019: The Mystery of The Smoking Lounge",
+    "theme": "The Trans-Siberian Winter Express",
+    "briefing": "An urgent homicide dispatch has arrived from The Trans-Siberian Winter Express. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "T",
+          "W",
+          "T",
+          "W",
+          "W",
+          "R",
+          "R",
+          "E",
+          "S",
+          "X"
+        ],
+        [
+          "M",
+          "R",
+          "I",
+          "N",
+          "A",
+          "L",
+          "G",
+          "R",
+          "M",
+          "J"
+        ],
+        [
+          "P",
+          "P",
+          "C",
+          "R",
+          "T",
+          "B",
+          "L",
+          "L",
+          "J",
+          "F"
+        ],
+        [
+          "L",
+          "I",
+          "K",
+          "U",
+          "C",
+          "W",
+          "O",
+          "I",
+          "X",
+          "G"
+        ],
+        [
+          "A",
+          "Y",
+          "E",
+          "L",
+          "H",
+          "L",
+          "V",
+          "P",
+          "J",
+          "J"
+        ],
+        [
+          "N",
+          "Z",
+          "T",
+          "N",
+          "E",
+          "Z",
+          "E",
+          "W",
+          "U",
+          "V"
+        ],
+        [
+          "Q",
+          "F",
+          "S",
+          "S",
+          "C",
+          "W",
+          "S",
+          "A",
+          "N",
+          "T"
+        ],
+        [
+          "T",
+          "R",
+          "A",
+          "C",
+          "K",
+          "S",
+          "W",
+          "U",
+          "Z",
+          "H"
+        ],
+        [
+          "P",
+          "X",
+          "N",
+          "O",
+          "J",
+          "Q",
+          "L",
+          "N",
+          "H",
+          "S"
+        ],
+        [
+          "L",
+          "A",
+          "N",
+          "T",
+          "E",
+          "R",
+          "N",
+          "K",
+          "Q",
+          "W"
+        ]
+      ],
+      "words_to_find": [
+        "WATCH",
+        "LANTERN",
+        "TRACKS",
+        "TICKET",
+        "GLOVES"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FRQGXFWRU KLG LQ WKH OXJJDJH YDQ",
+      "plaintext": "THE CONDUCTOR HID IN THE LUGGAGE VAN",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Imperial Courier",
+        "The Train Conductor",
+        "The Locomotive Stoker",
+        "The Grand Duchess"
+      ],
+      "rooms": [
+        "First Class Cabin 4",
+        "The Dining Saloon",
+        "The Luggage Van",
+        "The Smoking Lounge"
+      ],
+      "weapons": [
+        "Silver Ice Pick",
+        "Pocket Revolver",
+        "Ether Handkerchief",
+        "Arsenic Caviar"
+      ],
+      "clues": [
+        "The Train Conductor was confirmed to be in The Luggage Van.",
+        "The Locomotive Stoker was discovered carrying the Arsenic Caviar.",
+        "The investigator found the Silver Ice Pick inside First Class Cabin 4.",
+        "The Imperial Courier was never seen near First Class Cabin 4.",
+        "The Imperial Courier had no access to the Silver Ice Pick.",
+        "The weapon recovered from First Class Cabin 4 was definitely not the Arsenic Caviar.",
+        "Neither The Imperial Courier nor The Grand Duchess had ever visited The Luggage Van.",
+        "The lethal strike occurred in The Smoking Lounge, leaving behind the deadly Ether Handkerchief."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Imperial Courier",
+      "murder_room": "The Smoking Lounge",
+      "murder_weapon": "Ether Handkerchief",
+      "full_mapping": {
+        "The Imperial Courier": {
+          "room": "The Smoking Lounge",
+          "weapon": "Ether Handkerchief"
+        },
+        "The Train Conductor": {
+          "room": "The Luggage Van",
+          "weapon": "Pocket Revolver"
+        },
+        "The Locomotive Stoker": {
+          "room": "The Dining Saloon",
+          "weapon": "Arsenic Caviar"
+        },
+        "The Grand Duchess": {
+          "room": "First Class Cabin 4",
+          "weapon": "Silver Ice Pick"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 20,
+    "title": "Case #020: The Mystery of The Dean's Office",
+    "theme": "The Royal Observatory & Planetarium",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Observatory & Planetarium. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "X",
+          "Q",
+          "Q",
+          "M",
+          "Q",
+          "O",
+          "R",
+          "Y",
+          "Z",
+          "Q"
+        ],
+        [
+          "Q",
+          "A",
+          "U",
+          "F",
+          "J",
+          "N",
+          "S",
+          "U",
+          "U",
+          "Q"
+        ],
+        [
+          "L",
+          "E",
+          "N",
+          "S",
+          "C",
+          "U",
+          "P",
+          "U",
+          "I",
+          "R"
+        ],
+        [
+          "H",
+          "Y",
+          "A",
+          "V",
+          "L",
+          "A",
+          "R",
+          "Y",
+          "U",
+          "X"
+        ],
+        [
+          "L",
+          "O",
+          "Y",
+          "P",
+          "O",
+          "O",
+          "I",
+          "V",
+          "R",
+          "Q"
+        ],
+        [
+          "I",
+          "W",
+          "T",
+          "C",
+          "C",
+          "V",
+          "S",
+          "U",
+          "Z",
+          "Y"
+        ],
+        [
+          "T",
+          "Q",
+          "W",
+          "O",
+          "K",
+          "M",
+          "M",
+          "O",
+          "M",
+          "O"
+        ],
+        [
+          "O",
+          "K",
+          "B",
+          "M",
+          "O",
+          "N",
+          "H",
+          "Z",
+          "E",
+          "J"
+        ],
+        [
+          "Z",
+          "R",
+          "R",
+          "E",
+          "M",
+          "S",
+          "T",
+          "A",
+          "R",
+          "Z"
+        ],
+        [
+          "G",
+          "A",
+          "M",
+          "T",
+          "U",
+          "C",
+          "S",
+          "V",
+          "A",
+          "J"
+        ]
+      ],
+      "words_to_find": [
+        "COMET",
+        "STAR",
+        "CLOCK",
+        "PRISM",
+        "LENS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FDUWRJUDSKHU EXUQW WKH VWDU FKDUWV",
+      "plaintext": "THE CARTOGRAPHER BURNT THE STAR CHARTS",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Academy Dean",
+        "The Star Cartographer",
+        "The Royal Astronomer",
+        "The Master Clockmaker"
+      ],
+      "rooms": [
+        "Meteorite Laboratory",
+        "The Great Dome",
+        "The Dean's Office",
+        "Pendulum Clock Vault"
+      ],
+      "weapons": [
+        "Iron Meteorite Core",
+        "Weighted Pendulum Rod",
+        "Brass Astrolabe",
+        "Cyanide Infusion"
+      ],
+      "clues": [
+        "The Star Cartographer was confirmed to be in Meteorite Laboratory.",
+        "The Royal Astronomer was discovered carrying the Weighted Pendulum Rod.",
+        "The investigator found the Cyanide Infusion inside The Great Dome.",
+        "The Academy Dean was never seen near Meteorite Laboratory.",
+        "The Academy Dean had no access to the Iron Meteorite Core.",
+        "The weapon recovered from Meteorite Laboratory was definitely not the Weighted Pendulum Rod.",
+        "Neither The Academy Dean nor The Master Clockmaker had ever visited Meteorite Laboratory.",
+        "The lethal strike occurred in The Dean's Office, leaving behind the deadly Brass Astrolabe.",
+        "The Academy Dean had no access to the Cyanide Infusion."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Academy Dean",
+      "murder_room": "The Dean's Office",
+      "murder_weapon": "Brass Astrolabe",
+      "full_mapping": {
+        "The Academy Dean": {
+          "room": "The Dean's Office",
+          "weapon": "Brass Astrolabe"
+        },
+        "The Star Cartographer": {
+          "room": "Meteorite Laboratory",
+          "weapon": "Iron Meteorite Core"
+        },
+        "The Royal Astronomer": {
+          "room": "Pendulum Clock Vault",
+          "weapon": "Weighted Pendulum Rod"
+        },
+        "The Master Clockmaker": {
+          "room": "The Great Dome",
+          "weapon": "Cyanide Infusion"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 21,
+    "title": "Case #021: The Mystery of The Doge's Private Study",
+    "theme": "The Venetian Masquerade Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Venetian Masquerade Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "O",
+          "I",
+          "R",
+          "L",
+          "Q",
+          "N",
+          "S",
+          "S",
+          "F",
+          "L"
+        ],
+        [
+          "G",
+          "O",
+          "N",
+          "D",
+          "O",
+          "L",
+          "A",
+          "D",
+          "B",
+          "H"
+        ],
+        [
+          "Z",
+          "H",
+          "Q",
+          "H",
+          "V",
+          "I",
+          "R",
+          "Y",
+          "U",
+          "Y"
+        ],
+        [
+          "X",
+          "G",
+          "L",
+          "A",
+          "S",
+          "S",
+          "S",
+          "C",
+          "O",
+          "L"
+        ],
+        [
+          "Z",
+          "P",
+          "Q",
+          "H",
+          "R",
+          "Q",
+          "V",
+          "N",
+          "L",
+          "I"
+        ],
+        [
+          "P",
+          "U",
+          "B",
+          "I",
+          "I",
+          "I",
+          "I",
+          "D",
+          "T",
+          "N"
+        ],
+        [
+          "O",
+          "C",
+          "J",
+          "I",
+          "B",
+          "H",
+          "A",
+          "D",
+          "V",
+          "E"
+        ],
+        [
+          "I",
+          "X",
+          "O",
+          "W",
+          "B",
+          "X",
+          "L",
+          "G",
+          "E",
+          "X"
+        ],
+        [
+          "M",
+          "B",
+          "P",
+          "H",
+          "O",
+          "L",
+          "Q",
+          "L",
+          "K",
+          "G"
+        ],
+        [
+          "M",
+          "A",
+          "S",
+          "K",
+          "N",
+          "T",
+          "R",
+          "O",
+          "D",
+          "O"
+        ]
+      ],
+      "words_to_find": [
+        "GLASS",
+        "MASK",
+        "GONDOLA",
+        "VIAL",
+        "RIBBON"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH VLON JDUURWH ZDV ERXJKW LQ IORUHQFH",
+      "plaintext": "THE SILK GARROTE WAS BOUGHT IN FLORENCE",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Gondola Pilot",
+        "The Harlequin Actor",
+        "The Glass Maestro",
+        "The Silk Merchant"
+      ],
+      "rooms": [
+        "The Doge's Private Study",
+        "The Secret Alcove",
+        "Bridge of Sighs Chamber",
+        "The Gondola Mooring"
+      ],
+      "weapons": [
+        "Gilded Silk Garrote",
+        "Venetian Belladonna",
+        "Poisoned Carnival Mask",
+        "Stiletto Rapier"
+      ],
+      "clues": [
+        "The Harlequin Actor was confirmed to be in The Secret Alcove.",
+        "The Glass Maestro was discovered carrying the Gilded Silk Garrote.",
+        "The investigator found the Stiletto Rapier inside The Gondola Mooring.",
+        "The Gondola Pilot was never seen near The Secret Alcove.",
+        "The Gondola Pilot had no access to the Gilded Silk Garrote.",
+        "The weapon recovered from The Doge's Private Study was definitely not the Gilded Silk Garrote.",
+        "Neither The Gondola Pilot nor The Silk Merchant had ever visited The Secret Alcove.",
+        "The lethal strike occurred in The Doge's Private Study, leaving behind the deadly Venetian Belladonna.",
+        "The Gondola Pilot had no access to the Stiletto Rapier."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Gondola Pilot",
+      "murder_room": "The Doge's Private Study",
+      "murder_weapon": "Venetian Belladonna",
+      "full_mapping": {
+        "The Gondola Pilot": {
+          "room": "The Doge's Private Study",
+          "weapon": "Venetian Belladonna"
+        },
+        "The Harlequin Actor": {
+          "room": "The Secret Alcove",
+          "weapon": "Poisoned Carnival Mask"
+        },
+        "The Glass Maestro": {
+          "room": "Bridge of Sighs Chamber",
+          "weapon": "Gilded Silk Garrote"
+        },
+        "The Silk Merchant": {
+          "room": "The Gondola Mooring",
+          "weapon": "Stiletto Rapier"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 22,
+    "title": "Case #022: The Mystery of The Turret Lookout",
+    "theme": "The Scottish Highland Castle Mystery",
+    "briefing": "An urgent homicide dispatch has arrived from The Scottish Highland Castle Mystery. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "H",
+          "Y",
+          "X",
+          "Y",
+          "G",
+          "Y",
+          "R",
+          "S",
+          "D",
+          "J"
+        ],
+        [
+          "J",
+          "L",
+          "J",
+          "M",
+          "D",
+          "I",
+          "P",
+          "E",
+          "A",
+          "T"
+        ],
+        [
+          "C",
+          "F",
+          "R",
+          "A",
+          "G",
+          "A",
+          "E",
+          "C",
+          "C",
+          "A"
+        ],
+        [
+          "M",
+          "W",
+          "W",
+          "J",
+          "T",
+          "N",
+          "L",
+          "Q",
+          "J",
+          "B"
+        ],
+        [
+          "D",
+          "A",
+          "B",
+          "S",
+          "T",
+          "O",
+          "N",
+          "E",
+          "I",
+          "R"
+        ],
+        [
+          "J",
+          "R",
+          "B",
+          "R",
+          "O",
+          "O",
+          "C",
+          "H",
+          "F",
+          "A"
+        ],
+        [
+          "E",
+          "R",
+          "U",
+          "J",
+          "E",
+          "P",
+          "K",
+          "K",
+          "B",
+          "K"
+        ],
+        [
+          "F",
+          "O",
+          "T",
+          "X",
+          "V",
+          "Z",
+          "Z",
+          "F",
+          "I",
+          "K"
+        ],
+        [
+          "C",
+          "W",
+          "L",
+          "H",
+          "H",
+          "I",
+          "Y",
+          "H",
+          "E",
+          "F"
+        ],
+        [
+          "Q",
+          "B",
+          "S",
+          "H",
+          "I",
+          "E",
+          "L",
+          "D",
+          "U",
+          "U"
+        ]
+      ],
+      "words_to_find": [
+        "SHIELD",
+        "BROOCH",
+        "PEAT",
+        "ARROW",
+        "STONE"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH DUFKLYLVW FRQFHDOHG WKH ZLOO LQ GXQJHRQ",
+      "plaintext": "THE ARCHIVIST CONCEALED THE WILL IN DUNGEON",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Bagpipe Piper",
+        "The High Chieftain",
+        "The Clan Laird",
+        "The Ghillie Hunter"
+      ],
+      "rooms": [
+        "The Dungeon Vaults",
+        "The Heather Moors",
+        "The Turret Lookout",
+        "The Ancestral Armory"
+      ],
+      "weapons": [
+        "Strychnine Dram",
+        "Spiked Stag Antler",
+        "Heavy Plaid Rope",
+        "Iron Fire Poker"
+      ],
+      "clues": [
+        "The High Chieftain was confirmed to be in The Ancestral Armory.",
+        "The Clan Laird was discovered carrying the Heavy Plaid Rope.",
+        "The investigator found the Strychnine Dram inside The Dungeon Vaults.",
+        "The Bagpipe Piper was never seen near The Dungeon Vaults.",
+        "The Bagpipe Piper had no access to the Strychnine Dram.",
+        "The weapon recovered from The Dungeon Vaults was definitely not the Heavy Plaid Rope.",
+        "Neither The Bagpipe Piper nor The Ghillie Hunter had ever visited The Ancestral Armory.",
+        "The lethal strike occurred in The Turret Lookout, leaving behind the deadly Iron Fire Poker."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Bagpipe Piper",
+      "murder_room": "The Turret Lookout",
+      "murder_weapon": "Iron Fire Poker",
+      "full_mapping": {
+        "The Bagpipe Piper": {
+          "room": "The Turret Lookout",
+          "weapon": "Iron Fire Poker"
+        },
+        "The High Chieftain": {
+          "room": "The Ancestral Armory",
+          "weapon": "Spiked Stag Antler"
+        },
+        "The Clan Laird": {
+          "room": "The Heather Moors",
+          "weapon": "Heavy Plaid Rope"
+        },
+        "The Ghillie Hunter": {
+          "room": "The Dungeon Vaults",
+          "weapon": "Strychnine Dram"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 23,
+    "title": "Case #023: The Mystery of The Dining Saloon",
+    "theme": "The Trans-Siberian Winter Express",
+    "briefing": "An urgent homicide dispatch has arrived from The Trans-Siberian Winter Express. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "S",
+          "V",
+          "A",
+          "X",
+          "W",
+          "E",
+          "K",
+          "Z",
+          "L",
+          "Q"
+        ],
+        [
+          "U",
+          "X",
+          "T",
+          "R",
+          "A",
+          "C",
+          "K",
+          "S",
+          "A",
+          "L"
+        ],
+        [
+          "S",
+          "W",
+          "K",
+          "K",
+          "T",
+          "D",
+          "J",
+          "J",
+          "N",
+          "O"
+        ],
+        [
+          "C",
+          "V",
+          "H",
+          "W",
+          "C",
+          "J",
+          "C",
+          "E",
+          "T",
+          "D"
+        ],
+        [
+          "N",
+          "C",
+          "Q",
+          "W",
+          "H",
+          "Q",
+          "S",
+          "S",
+          "E",
+          "F"
+        ],
+        [
+          "B",
+          "R",
+          "D",
+          "A",
+          "U",
+          "Y",
+          "F",
+          "L",
+          "R",
+          "N"
+        ],
+        [
+          "K",
+          "N",
+          "N",
+          "S",
+          "H",
+          "B",
+          "L",
+          "J",
+          "N",
+          "H"
+        ],
+        [
+          "R",
+          "Y",
+          "S",
+          "R",
+          "W",
+          "P",
+          "G",
+          "K",
+          "U",
+          "Y"
+        ],
+        [
+          "S",
+          "O",
+          "C",
+          "O",
+          "M",
+          "P",
+          "A",
+          "S",
+          "S",
+          "S"
+        ],
+        [
+          "A",
+          "I",
+          "I",
+          "G",
+          "L",
+          "O",
+          "V",
+          "E",
+          "S",
+          "T"
+        ]
+      ],
+      "words_to_find": [
+        "LANTERN",
+        "TRACKS",
+        "GLOVES",
+        "COMPASS",
+        "WATCH"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FRQGXFWRU KLG LQ WKH OXJJDJH YDQ",
+      "plaintext": "THE CONDUCTOR HID IN THE LUGGAGE VAN",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Imperial Courier",
+        "The Locomotive Stoker",
+        "The Grand Duchess",
+        "The Train Conductor"
+      ],
+      "rooms": [
+        "The Smoking Lounge",
+        "The Observation Deck",
+        "The Dining Saloon",
+        "The Luggage Van"
+      ],
+      "weapons": [
+        "Ether Handkerchief",
+        "Arsenic Caviar",
+        "Steel Luggage Strap",
+        "Brass Coal Shovel"
+      ],
+      "clues": [
+        "The Locomotive Stoker was confirmed to be in The Observation Deck.",
+        "The Grand Duchess was discovered carrying the Arsenic Caviar.",
+        "The investigator found the Ether Handkerchief inside The Smoking Lounge.",
+        "The Imperial Courier was never seen near The Smoking Lounge.",
+        "The Imperial Courier had no access to the Ether Handkerchief.",
+        "The weapon recovered from The Smoking Lounge was definitely not the Arsenic Caviar.",
+        "Neither The Imperial Courier nor The Train Conductor had ever visited The Observation Deck.",
+        "The lethal strike occurred in The Dining Saloon, leaving behind the deadly Brass Coal Shovel."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Imperial Courier",
+      "murder_room": "The Dining Saloon",
+      "murder_weapon": "Brass Coal Shovel",
+      "full_mapping": {
+        "The Imperial Courier": {
+          "room": "The Dining Saloon",
+          "weapon": "Brass Coal Shovel"
+        },
+        "The Locomotive Stoker": {
+          "room": "The Observation Deck",
+          "weapon": "Steel Luggage Strap"
+        },
+        "The Grand Duchess": {
+          "room": "The Luggage Van",
+          "weapon": "Arsenic Caviar"
+        },
+        "The Train Conductor": {
+          "room": "The Smoking Lounge",
+          "weapon": "Ether Handkerchief"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 24,
+    "title": "Case #024: The Mystery of The Great Dome",
+    "theme": "The Royal Observatory & Planetarium",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Observatory & Planetarium. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "S",
+          "W",
+          "T",
+          "X",
+          "O",
+          "O",
+          "B",
+          "S",
+          "O",
+          "L"
+        ],
+        [
+          "U",
+          "D",
+          "Q",
+          "R",
+          "C",
+          "E",
+          "U",
+          "A",
+          "O",
+          "H"
+        ],
+        [
+          "Q",
+          "T",
+          "U",
+          "C",
+          "Q",
+          "W",
+          "T",
+          "M",
+          "K",
+          "N"
+        ],
+        [
+          "F",
+          "S",
+          "Y",
+          "L",
+          "E",
+          "N",
+          "D",
+          "S",
+          "D",
+          "C"
+        ],
+        [
+          "M",
+          "N",
+          "Q",
+          "O",
+          "R",
+          "B",
+          "I",
+          "T",
+          "S",
+          "P"
+        ],
+        [
+          "M",
+          "H",
+          "V",
+          "C",
+          "M",
+          "E",
+          "T",
+          "E",
+          "O",
+          "R"
+        ],
+        [
+          "S",
+          "H",
+          "X",
+          "K",
+          "C",
+          "Q",
+          "A",
+          "T",
+          "N",
+          "K"
+        ],
+        [
+          "T",
+          "R",
+          "H",
+          "C",
+          "R",
+          "L",
+          "Z",
+          "L",
+          "F",
+          "U"
+        ],
+        [
+          "A",
+          "F",
+          "A",
+          "D",
+          "Y",
+          "F",
+          "A",
+          "U",
+          "X",
+          "S"
+        ],
+        [
+          "R",
+          "J",
+          "L",
+          "P",
+          "R",
+          "I",
+          "S",
+          "M",
+          "D",
+          "O"
+        ]
+      ],
+      "words_to_find": [
+        "METEOR",
+        "ORBIT",
+        "PRISM",
+        "STAR",
+        "CLOCK"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH OHQV PDNHU FRQFHDOHG WKH EUDVV FRPSDVV",
+      "plaintext": "THE LENS MAKER CONCEALED THE BRASS COMPASS",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Master Clockmaker",
+        "The Academy Dean",
+        "The Optical Artisan",
+        "The Meteorite Hunter"
+      ],
+      "rooms": [
+        "The Dean's Office",
+        "Meteorite Laboratory",
+        "The Great Dome",
+        "Pendulum Clock Vault"
+      ],
+      "weapons": [
+        "Weighted Pendulum Rod",
+        "Leyden Jar Shock",
+        "Brass Astrolabe",
+        "Cyanide Infusion"
+      ],
+      "clues": [
+        "The Academy Dean was confirmed to be in Meteorite Laboratory.",
+        "The Optical Artisan was discovered carrying the Cyanide Infusion.",
+        "The investigator found the Brass Astrolabe inside Pendulum Clock Vault.",
+        "The Master Clockmaker was never seen near The Dean's Office.",
+        "The Master Clockmaker had no access to the Weighted Pendulum Rod.",
+        "The weapon recovered from Meteorite Laboratory was definitely not the Cyanide Infusion.",
+        "Neither The Master Clockmaker nor The Meteorite Hunter had ever visited Meteorite Laboratory.",
+        "The lethal strike occurred in The Great Dome, leaving behind the deadly Leyden Jar Shock.",
+        "The Master Clockmaker had no access to the Brass Astrolabe."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Master Clockmaker",
+      "murder_room": "The Great Dome",
+      "murder_weapon": "Leyden Jar Shock",
+      "full_mapping": {
+        "The Master Clockmaker": {
+          "room": "The Great Dome",
+          "weapon": "Leyden Jar Shock"
+        },
+        "The Academy Dean": {
+          "room": "Meteorite Laboratory",
+          "weapon": "Weighted Pendulum Rod"
+        },
+        "The Optical Artisan": {
+          "room": "The Dean's Office",
+          "weapon": "Cyanide Infusion"
+        },
+        "The Meteorite Hunter": {
+          "room": "Pendulum Clock Vault",
+          "weapon": "Brass Astrolabe"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 25,
+    "title": "Case #025: The Mystery of Bridge of Sighs Chamber",
+    "theme": "The Venetian Masquerade Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Venetian Masquerade Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "A",
+          "P",
+          "E",
+          "E",
+          "V",
+          "E",
+          "G",
+          "W",
+          "A",
+          "R"
+        ],
+        [
+          "L",
+          "A",
+          "C",
+          "E",
+          "S",
+          "D",
+          "L",
+          "J",
+          "X",
+          "I"
+        ],
+        [
+          "Q",
+          "J",
+          "T",
+          "D",
+          "X",
+          "R",
+          "A",
+          "N",
+          "M",
+          "B"
+        ],
+        [
+          "M",
+          "D",
+          "O",
+          "G",
+          "I",
+          "P",
+          "S",
+          "G",
+          "Y",
+          "B"
+        ],
+        [
+          "A",
+          "F",
+          "U",
+          "Y",
+          "A",
+          "P",
+          "S",
+          "T",
+          "U",
+          "O"
+        ],
+        [
+          "S",
+          "T",
+          "B",
+          "D",
+          "L",
+          "C",
+          "W",
+          "A",
+          "A",
+          "N"
+        ],
+        [
+          "K",
+          "C",
+          "U",
+          "G",
+          "P",
+          "U",
+          "Q",
+          "X",
+          "R",
+          "Q"
+        ],
+        [
+          "Z",
+          "Y",
+          "O",
+          "F",
+          "Y",
+          "B",
+          "K",
+          "P",
+          "E",
+          "I"
+        ],
+        [
+          "U",
+          "L",
+          "X",
+          "J",
+          "C",
+          "Z",
+          "I",
+          "W",
+          "A",
+          "F"
+        ],
+        [
+          "Z",
+          "M",
+          "D",
+          "A",
+          "G",
+          "G",
+          "E",
+          "R",
+          "C",
+          "N"
+        ]
+      ],
+      "words_to_find": [
+        "RIBBON",
+        "GLASS",
+        "DAGGER",
+        "MASK",
+        "LACE"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "PHHW WKH PDVNHG GRJH DW ZDWHU JDWH PLGQLJKW",
+      "plaintext": "MEET THE MASKED DOGE AT WATER GATE MIDNIGHT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Silk Merchant",
+        "The Glass Maestro",
+        "The Gondola Pilot",
+        "Contessa di Rialto"
+      ],
+      "rooms": [
+        "Bridge of Sighs Chamber",
+        "The Secret Alcove",
+        "The Doge's Private Study",
+        "The Grand Ballroom"
+      ],
+      "weapons": [
+        "Heavy Bronze Torch",
+        "Poisoned Carnival Mask",
+        "Murano Glass Dagger",
+        "Gilded Silk Garrote"
+      ],
+      "clues": [
+        "The Glass Maestro was confirmed to be in The Grand Ballroom.",
+        "The Gondola Pilot was discovered carrying the Heavy Bronze Torch.",
+        "The investigator found the Murano Glass Dagger inside The Secret Alcove.",
+        "The Silk Merchant was never seen near The Secret Alcove.",
+        "The Silk Merchant had no access to the Heavy Bronze Torch.",
+        "The weapon recovered from Bridge of Sighs Chamber was definitely not the Heavy Bronze Torch.",
+        "Neither The Silk Merchant nor Contessa di Rialto had ever visited The Grand Ballroom.",
+        "The lethal strike occurred in Bridge of Sighs Chamber, leaving behind the deadly Gilded Silk Garrote."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Silk Merchant",
+      "murder_room": "Bridge of Sighs Chamber",
+      "murder_weapon": "Gilded Silk Garrote",
+      "full_mapping": {
+        "The Silk Merchant": {
+          "room": "Bridge of Sighs Chamber",
+          "weapon": "Gilded Silk Garrote"
+        },
+        "The Glass Maestro": {
+          "room": "The Grand Ballroom",
+          "weapon": "Poisoned Carnival Mask"
+        },
+        "The Gondola Pilot": {
+          "room": "The Doge's Private Study",
+          "weapon": "Heavy Bronze Torch"
+        },
+        "Contessa di Rialto": {
+          "room": "The Secret Alcove",
+          "weapon": "Murano Glass Dagger"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 26,
+    "title": "Case #026: The Mystery of The Heather Moors",
+    "theme": "The Scottish Highland Castle Mystery",
+    "briefing": "An urgent homicide dispatch has arrived from The Scottish Highland Castle Mystery. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "M",
+          "R",
+          "M",
+          "I",
+          "T",
+          "G",
+          "P",
+          "P",
+          "S",
+          "U"
+        ],
+        [
+          "P",
+          "E",
+          "A",
+          "B",
+          "N",
+          "L",
+          "A",
+          "T",
+          "X",
+          "A"
+        ],
+        [
+          "N",
+          "Z",
+          "K",
+          "X",
+          "X",
+          "Z",
+          "R",
+          "G",
+          "R",
+          "K"
+        ],
+        [
+          "R",
+          "B",
+          "M",
+          "H",
+          "K",
+          "G",
+          "R",
+          "T",
+          "B",
+          "B"
+        ],
+        [
+          "B",
+          "J",
+          "F",
+          "V",
+          "E",
+          "H",
+          "O",
+          "S",
+          "C",
+          "N"
+        ],
+        [
+          "G",
+          "O",
+          "F",
+          "E",
+          "M",
+          "S",
+          "W",
+          "A",
+          "R",
+          "H"
+        ],
+        [
+          "T",
+          "P",
+          "J",
+          "A",
+          "Q",
+          "C",
+          "F",
+          "I",
+          "Q",
+          "H"
+        ],
+        [
+          "H",
+          "X",
+          "K",
+          "F",
+          "C",
+          "L",
+          "O",
+          "A",
+          "K",
+          "O"
+        ],
+        [
+          "E",
+          "T",
+          "A",
+          "R",
+          "T",
+          "A",
+          "N",
+          "M",
+          "J",
+          "R"
+        ],
+        [
+          "W",
+          "S",
+          "H",
+          "I",
+          "E",
+          "L",
+          "D",
+          "B",
+          "N",
+          "N"
+        ]
+      ],
+      "words_to_find": [
+        "TARTAN",
+        "SHIELD",
+        "ARROW",
+        "CLOAK",
+        "HORN"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH KXQWHU FDUULHG WKH GDPDVFXV GLUN",
+      "plaintext": "THE HUNTER CARRIED THE DAMASCUS DIRK",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Clan Laird",
+        "The Ghillie Hunter",
+        "The Clan Physician",
+        "The Castle Archivist"
+      ],
+      "rooms": [
+        "The Dungeon Vaults",
+        "The Clan Library",
+        "The Ancestral Armory",
+        "The Heather Moors"
+      ],
+      "weapons": [
+        "Strychnine Dram",
+        "Spiked Stag Antler",
+        "Heavy Plaid Rope",
+        "Damascus Dirk"
+      ],
+      "clues": [
+        "The Ghillie Hunter was confirmed to be in The Ancestral Armory.",
+        "The Clan Physician was discovered carrying the Damascus Dirk.",
+        "The investigator found the Spiked Stag Antler inside The Dungeon Vaults.",
+        "The Clan Laird was never seen near The Dungeon Vaults.",
+        "The Clan Laird had no access to the Strychnine Dram.",
+        "The weapon recovered from The Dungeon Vaults was definitely not the Damascus Dirk.",
+        "Neither The Clan Laird nor The Castle Archivist had ever visited The Ancestral Armory.",
+        "The lethal strike occurred in The Heather Moors, leaving behind the deadly Heavy Plaid Rope."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Clan Laird",
+      "murder_room": "The Heather Moors",
+      "murder_weapon": "Heavy Plaid Rope",
+      "full_mapping": {
+        "The Clan Laird": {
+          "room": "The Heather Moors",
+          "weapon": "Heavy Plaid Rope"
+        },
+        "The Ghillie Hunter": {
+          "room": "The Ancestral Armory",
+          "weapon": "Strychnine Dram"
+        },
+        "The Clan Physician": {
+          "room": "The Clan Library",
+          "weapon": "Damascus Dirk"
+        },
+        "The Castle Archivist": {
+          "room": "The Dungeon Vaults",
+          "weapon": "Spiked Stag Antler"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 27,
+    "title": "Case #027: The Mystery of The Dining Saloon",
+    "theme": "The Trans-Siberian Winter Express",
+    "briefing": "An urgent homicide dispatch has arrived from The Trans-Siberian Winter Express. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "G",
+          "W",
+          "A",
+          "T",
+          "C",
+          "H",
+          "I",
+          "Z",
+          "A",
+          "P"
+        ],
+        [
+          "M",
+          "V",
+          "X",
+          "C",
+          "O",
+          "M",
+          "P",
+          "A",
+          "S",
+          "S"
+        ],
+        [
+          "B",
+          "V",
+          "Q",
+          "K",
+          "N",
+          "G",
+          "P",
+          "Z",
+          "Q",
+          "E"
+        ],
+        [
+          "I",
+          "G",
+          "R",
+          "V",
+          "A",
+          "C",
+          "M",
+          "G",
+          "O",
+          "P"
+        ],
+        [
+          "T",
+          "F",
+          "E",
+          "O",
+          "F",
+          "W",
+          "O",
+          "X",
+          "F",
+          "W"
+        ],
+        [
+          "R",
+          "R",
+          "P",
+          "E",
+          "S",
+          "B",
+          "F",
+          "F",
+          "U",
+          "D"
+        ],
+        [
+          "A",
+          "O",
+          "T",
+          "I",
+          "C",
+          "K",
+          "E",
+          "T",
+          "Y",
+          "U"
+        ],
+        [
+          "C",
+          "S",
+          "H",
+          "K",
+          "D",
+          "N",
+          "T",
+          "U",
+          "W",
+          "F"
+        ],
+        [
+          "K",
+          "T",
+          "U",
+          "B",
+          "Y",
+          "K",
+          "N",
+          "J",
+          "V",
+          "O"
+        ],
+        [
+          "S",
+          "T",
+          "Q",
+          "B",
+          "R",
+          "A",
+          "W",
+          "W",
+          "L",
+          "U"
+        ]
+      ],
+      "words_to_find": [
+        "WATCH",
+        "COMPASS",
+        "TICKET",
+        "TRACKS",
+        "FROST"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH LFH SLFN ZDV WDNHQ IURP GLQLQJ VDORRQ",
+      "plaintext": "THE ICE PICK WAS TAKEN FROM DINING SALOON",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Locomotive Stoker",
+        "The Imperial Courier",
+        "The Train Conductor",
+        "The Siberian Trader"
+      ],
+      "rooms": [
+        "The Observation Deck",
+        "The Luggage Van",
+        "The Dining Saloon",
+        "The Smoking Lounge"
+      ],
+      "weapons": [
+        "Arsenic Caviar",
+        "Silver Ice Pick",
+        "Brass Coal Shovel",
+        "Ether Handkerchief"
+      ],
+      "clues": [
+        "The Imperial Courier was confirmed to be in The Smoking Lounge.",
+        "The Train Conductor was discovered carrying the Ether Handkerchief.",
+        "The investigator found the Brass Coal Shovel inside The Observation Deck.",
+        "The Locomotive Stoker was never seen near The Observation Deck.",
+        "The Locomotive Stoker had no access to the Silver Ice Pick.",
+        "The weapon recovered from The Observation Deck was definitely not the Ether Handkerchief.",
+        "Neither The Locomotive Stoker nor The Siberian Trader had ever visited The Smoking Lounge.",
+        "The lethal strike occurred in The Dining Saloon, leaving behind the deadly Arsenic Caviar."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Locomotive Stoker",
+      "murder_room": "The Dining Saloon",
+      "murder_weapon": "Arsenic Caviar",
+      "full_mapping": {
+        "The Locomotive Stoker": {
+          "room": "The Dining Saloon",
+          "weapon": "Arsenic Caviar"
+        },
+        "The Imperial Courier": {
+          "room": "The Smoking Lounge",
+          "weapon": "Silver Ice Pick"
+        },
+        "The Train Conductor": {
+          "room": "The Luggage Van",
+          "weapon": "Ether Handkerchief"
+        },
+        "The Siberian Trader": {
+          "room": "The Observation Deck",
+          "weapon": "Brass Coal Shovel"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 28,
+    "title": "Case #028: The Mystery of Meteorite Laboratory",
+    "theme": "The Royal Observatory & Planetarium",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Observatory & Planetarium. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "P",
+          "C",
+          "O",
+          "M",
+          "E",
+          "T",
+          "B",
+          "M",
+          "C",
+          "J"
+        ],
+        [
+          "X",
+          "Q",
+          "Q",
+          "O",
+          "R",
+          "B",
+          "I",
+          "T",
+          "Q",
+          "B"
+        ],
+        [
+          "O",
+          "R",
+          "I",
+          "S",
+          "U",
+          "V",
+          "N",
+          "K",
+          "E",
+          "M"
+        ],
+        [
+          "P",
+          "H",
+          "T",
+          "V",
+          "R",
+          "J",
+          "S",
+          "A",
+          "R",
+          "E"
+        ],
+        [
+          "R",
+          "D",
+          "Z",
+          "V",
+          "L",
+          "C",
+          "L",
+          "O",
+          "C",
+          "K"
+        ],
+        [
+          "I",
+          "E",
+          "Z",
+          "P",
+          "H",
+          "H",
+          "O",
+          "Z",
+          "P",
+          "Y"
+        ],
+        [
+          "S",
+          "U",
+          "L",
+          "S",
+          "T",
+          "A",
+          "R",
+          "Y",
+          "O",
+          "L"
+        ],
+        [
+          "M",
+          "U",
+          "V",
+          "U",
+          "J",
+          "C",
+          "H",
+          "O",
+          "S",
+          "N"
+        ],
+        [
+          "N",
+          "H",
+          "A",
+          "M",
+          "A",
+          "R",
+          "V",
+          "L",
+          "P",
+          "M"
+        ],
+        [
+          "H",
+          "T",
+          "G",
+          "Y",
+          "V",
+          "V",
+          "A",
+          "D",
+          "B",
+          "X"
+        ]
+      ],
+      "words_to_find": [
+        "STAR",
+        "ORBIT",
+        "COMET",
+        "PRISM",
+        "CLOCK"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH OHQV PDNHU FRQFHDOHG WKH EUDVV FRPSDVV",
+      "plaintext": "THE LENS MAKER CONCEALED THE BRASS COMPASS",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Royal Astronomer",
+        "The Academy Dean",
+        "The Meteorite Hunter",
+        "The Master Clockmaker"
+      ],
+      "rooms": [
+        "The Dean's Office",
+        "Pendulum Clock Vault",
+        "The Great Dome",
+        "Meteorite Laboratory"
+      ],
+      "weapons": [
+        "Cyanide Infusion",
+        "Leyden Jar Shock",
+        "Heavy Brass Compass",
+        "Iron Meteorite Core"
+      ],
+      "clues": [
+        "The Academy Dean was confirmed to be in The Dean's Office.",
+        "The Meteorite Hunter was discovered carrying the Cyanide Infusion.",
+        "The investigator found the Iron Meteorite Core inside Pendulum Clock Vault.",
+        "The Royal Astronomer was never seen near The Dean's Office.",
+        "The Royal Astronomer had no access to the Cyanide Infusion.",
+        "The weapon recovered from The Dean's Office was definitely not the Cyanide Infusion.",
+        "Neither The Royal Astronomer nor The Master Clockmaker had ever visited The Dean's Office.",
+        "The lethal strike occurred in Meteorite Laboratory, leaving behind the deadly Heavy Brass Compass.",
+        "The Royal Astronomer had no access to the Iron Meteorite Core."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Royal Astronomer",
+      "murder_room": "Meteorite Laboratory",
+      "murder_weapon": "Heavy Brass Compass",
+      "full_mapping": {
+        "The Royal Astronomer": {
+          "room": "Meteorite Laboratory",
+          "weapon": "Heavy Brass Compass"
+        },
+        "The Academy Dean": {
+          "room": "The Dean's Office",
+          "weapon": "Leyden Jar Shock"
+        },
+        "The Meteorite Hunter": {
+          "room": "The Great Dome",
+          "weapon": "Cyanide Infusion"
+        },
+        "The Master Clockmaker": {
+          "room": "Pendulum Clock Vault",
+          "weapon": "Iron Meteorite Core"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 29,
+    "title": "Case #029: The Mystery of The Secret Alcove",
+    "theme": "The Venetian Masquerade Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Venetian Masquerade Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "Q",
+          "F",
+          "X",
+          "D",
+          "Y",
+          "S",
+          "S",
+          "N",
+          "I",
+          "V"
+        ],
+        [
+          "Y",
+          "R",
+          "I",
+          "B",
+          "B",
+          "O",
+          "N",
+          "J",
+          "K",
+          "S"
+        ],
+        [
+          "M",
+          "I",
+          "G",
+          "E",
+          "X",
+          "S",
+          "V",
+          "M",
+          "F",
+          "L"
+        ],
+        [
+          "A",
+          "Q",
+          "O",
+          "A",
+          "E",
+          "P",
+          "Y",
+          "K",
+          "E",
+          "R"
+        ],
+        [
+          "S",
+          "D",
+          "N",
+          "F",
+          "L",
+          "G",
+          "U",
+          "T",
+          "A",
+          "X"
+        ],
+        [
+          "K",
+          "F",
+          "D",
+          "M",
+          "E",
+          "L",
+          "P",
+          "A",
+          "T",
+          "Q"
+        ],
+        [
+          "Z",
+          "U",
+          "O",
+          "N",
+          "N",
+          "A",
+          "E",
+          "K",
+          "H",
+          "T"
+        ],
+        [
+          "K",
+          "U",
+          "L",
+          "Z",
+          "Z",
+          "S",
+          "D",
+          "Q",
+          "E",
+          "V"
+        ],
+        [
+          "V",
+          "Y",
+          "A",
+          "V",
+          "W",
+          "S",
+          "P",
+          "V",
+          "R",
+          "Y"
+        ],
+        [
+          "I",
+          "Y",
+          "R",
+          "C",
+          "B",
+          "E",
+          "E",
+          "S",
+          "Q",
+          "G"
+        ]
+      ],
+      "words_to_find": [
+        "GLASS",
+        "RIBBON",
+        "FEATHER",
+        "GONDOLA",
+        "MASK"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "PHHW WKH PDVNHG GRJH DW ZDWHU JDWH PLGQLJKW",
+      "plaintext": "MEET THE MASKED DOGE AT WATER GATE MIDNIGHT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Harlequin Actor",
+        "The Glass Maestro",
+        "The Masked Doge",
+        "The Gondola Pilot"
+      ],
+      "rooms": [
+        "The Gondola Mooring",
+        "The Grand Ballroom",
+        "The Canal Water Gate",
+        "The Secret Alcove"
+      ],
+      "weapons": [
+        "Poisoned Carnival Mask",
+        "Venetian Belladonna",
+        "Stiletto Rapier",
+        "Heavy Bronze Torch"
+      ],
+      "clues": [
+        "The Glass Maestro was confirmed to be in The Gondola Mooring.",
+        "The Masked Doge was discovered carrying the Stiletto Rapier.",
+        "The investigator found the Poisoned Carnival Mask inside The Grand Ballroom.",
+        "The Harlequin Actor was never seen near The Gondola Mooring.",
+        "The Harlequin Actor had no access to the Poisoned Carnival Mask.",
+        "The weapon recovered from The Gondola Mooring was definitely not the Stiletto Rapier.",
+        "Neither The Harlequin Actor nor The Gondola Pilot had ever visited The Gondola Mooring.",
+        "The lethal strike occurred in The Secret Alcove, leaving behind the deadly Venetian Belladonna."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Harlequin Actor",
+      "murder_room": "The Secret Alcove",
+      "murder_weapon": "Venetian Belladonna",
+      "full_mapping": {
+        "The Harlequin Actor": {
+          "room": "The Secret Alcove",
+          "weapon": "Venetian Belladonna"
+        },
+        "The Glass Maestro": {
+          "room": "The Gondola Mooring",
+          "weapon": "Heavy Bronze Torch"
+        },
+        "The Masked Doge": {
+          "room": "The Canal Water Gate",
+          "weapon": "Stiletto Rapier"
+        },
+        "The Gondola Pilot": {
+          "room": "The Grand Ballroom",
+          "weapon": "Poisoned Carnival Mask"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 30,
+    "title": "Case #030: The Mystery of The Turret Lookout",
+    "theme": "The Scottish Highland Castle Mystery",
+    "briefing": "An urgent homicide dispatch has arrived from The Scottish Highland Castle Mystery. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "F",
+          "X",
+          "Q",
+          "B",
+          "F",
+          "G",
+          "F",
+          "O",
+          "H",
+          "J"
+        ],
+        [
+          "T",
+          "A",
+          "R",
+          "T",
+          "A",
+          "N",
+          "J",
+          "G",
+          "U",
+          "T"
+        ],
+        [
+          "J",
+          "Y",
+          "H",
+          "G",
+          "D",
+          "S",
+          "F",
+          "T",
+          "D",
+          "H"
+        ],
+        [
+          "A",
+          "D",
+          "A",
+          "K",
+          "J",
+          "H",
+          "H",
+          "Q",
+          "B",
+          "O"
+        ],
+        [
+          "B",
+          "S",
+          "G",
+          "V",
+          "H",
+          "I",
+          "G",
+          "M",
+          "W",
+          "R"
+        ],
+        [
+          "H",
+          "C",
+          "K",
+          "O",
+          "U",
+          "E",
+          "S",
+          "S",
+          "S",
+          "N"
+        ],
+        [
+          "K",
+          "L",
+          "I",
+          "U",
+          "G",
+          "L",
+          "V",
+          "T",
+          "D",
+          "J"
+        ],
+        [
+          "G",
+          "O",
+          "V",
+          "N",
+          "U",
+          "D",
+          "R",
+          "O",
+          "B",
+          "E"
+        ],
+        [
+          "L",
+          "A",
+          "R",
+          "B",
+          "Q",
+          "Y",
+          "K",
+          "N",
+          "Y",
+          "V"
+        ],
+        [
+          "A",
+          "K",
+          "B",
+          "J",
+          "L",
+          "H",
+          "D",
+          "E",
+          "K",
+          "L"
+        ]
+      ],
+      "words_to_find": [
+        "SHIELD",
+        "CLOAK",
+        "TARTAN",
+        "STONE",
+        "HORN"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH SRLVRQ GUDP ZDV VHUYHG LQ WDUWDQ KDOO",
+      "plaintext": "THE POISON DRAM WAS SERVED IN TARTAN HALL",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Clan Physician",
+        "The High Chieftain",
+        "The Bagpipe Piper",
+        "The Castle Archivist"
+      ],
+      "rooms": [
+        "The Great Tartan Hall",
+        "The Turret Lookout",
+        "The Clan Library",
+        "The Ancestral Armory"
+      ],
+      "weapons": [
+        "Strychnine Dram",
+        "Antique Flintlock",
+        "Heavy Plaid Rope",
+        "Spiked Stag Antler"
+      ],
+      "clues": [
+        "The High Chieftain was confirmed to be in The Ancestral Armory.",
+        "The Bagpipe Piper was discovered carrying the Strychnine Dram.",
+        "The investigator found the Antique Flintlock inside The Great Tartan Hall.",
+        "The Clan Physician was never seen near The Great Tartan Hall.",
+        "The Clan Physician had no access to the Strychnine Dram.",
+        "The weapon recovered from The Great Tartan Hall was definitely not the Strychnine Dram.",
+        "Neither The Clan Physician nor The Castle Archivist had ever visited The Ancestral Armory.",
+        "The lethal strike occurred in The Turret Lookout, leaving behind the deadly Heavy Plaid Rope."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Clan Physician",
+      "murder_room": "The Turret Lookout",
+      "murder_weapon": "Heavy Plaid Rope",
+      "full_mapping": {
+        "The Clan Physician": {
+          "room": "The Turret Lookout",
+          "weapon": "Heavy Plaid Rope"
+        },
+        "The High Chieftain": {
+          "room": "The Ancestral Armory",
+          "weapon": "Spiked Stag Antler"
+        },
+        "The Bagpipe Piper": {
+          "room": "The Clan Library",
+          "weapon": "Strychnine Dram"
+        },
+        "The Castle Archivist": {
+          "room": "The Great Tartan Hall",
+          "weapon": "Antique Flintlock"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 31,
+    "title": "Case #031: The Mystery of The Smoking Lounge",
+    "theme": "The Trans-Siberian Winter Express",
+    "briefing": "An urgent homicide dispatch has arrived from The Trans-Siberian Winter Express. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "M",
+          "E",
+          "B",
+          "H",
+          "R",
+          "O",
+          "M",
+          "V",
+          "Y",
+          "X"
+        ],
+        [
+          "I",
+          "W",
+          "F",
+          "I",
+          "T",
+          "R",
+          "A",
+          "C",
+          "K",
+          "S"
+        ],
+        [
+          "U",
+          "O",
+          "Z",
+          "P",
+          "W",
+          "T",
+          "Y",
+          "M",
+          "I",
+          "J"
+        ],
+        [
+          "L",
+          "A",
+          "N",
+          "T",
+          "E",
+          "R",
+          "N",
+          "Y",
+          "O",
+          "F"
+        ],
+        [
+          "K",
+          "B",
+          "B",
+          "P",
+          "E",
+          "L",
+          "L",
+          "T",
+          "N",
+          "H"
+        ],
+        [
+          "E",
+          "U",
+          "F",
+          "R",
+          "O",
+          "S",
+          "T",
+          "I",
+          "W",
+          "E"
+        ],
+        [
+          "Z",
+          "A",
+          "M",
+          "Q",
+          "E",
+          "B",
+          "L",
+          "C",
+          "A",
+          "L"
+        ],
+        [
+          "L",
+          "T",
+          "W",
+          "S",
+          "W",
+          "X",
+          "J",
+          "K",
+          "T",
+          "G"
+        ],
+        [
+          "V",
+          "T",
+          "K",
+          "U",
+          "F",
+          "T",
+          "T",
+          "E",
+          "C",
+          "V"
+        ],
+        [
+          "V",
+          "O",
+          "Z",
+          "Q",
+          "U",
+          "P",
+          "O",
+          "T",
+          "H",
+          "D"
+        ]
+      ],
+      "words_to_find": [
+        "TRACKS",
+        "WATCH",
+        "FROST",
+        "LANTERN",
+        "TICKET"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FRQGXFWRU KLG LQ WKH OXJJDJH YDQ",
+      "plaintext": "THE CONDUCTOR HID IN THE LUGGAGE VAN",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Locomotive Stoker",
+        "The Chess Master",
+        "The Siberian Trader",
+        "The Grand Duchess"
+      ],
+      "rooms": [
+        "The Dining Saloon",
+        "First Class Cabin 4",
+        "The Engine Tender",
+        "The Smoking Lounge"
+      ],
+      "weapons": [
+        "Pocket Revolver",
+        "Brass Coal Shovel",
+        "Ether Handkerchief",
+        "Arsenic Caviar"
+      ],
+      "clues": [
+        "The Chess Master was confirmed to be in First Class Cabin 4.",
+        "The Siberian Trader was discovered carrying the Pocket Revolver.",
+        "The investigator found the Ether Handkerchief inside The Engine Tender.",
+        "The Locomotive Stoker was never seen near The Dining Saloon.",
+        "The Locomotive Stoker had no access to the Pocket Revolver.",
+        "The weapon recovered from First Class Cabin 4 was definitely not the Pocket Revolver.",
+        "Neither The Locomotive Stoker nor The Grand Duchess had ever visited First Class Cabin 4.",
+        "The lethal strike occurred in The Smoking Lounge, leaving behind the deadly Brass Coal Shovel.",
+        "The Locomotive Stoker had no access to the Ether Handkerchief."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Locomotive Stoker",
+      "murder_room": "The Smoking Lounge",
+      "murder_weapon": "Brass Coal Shovel",
+      "full_mapping": {
+        "The Locomotive Stoker": {
+          "room": "The Smoking Lounge",
+          "weapon": "Brass Coal Shovel"
+        },
+        "The Chess Master": {
+          "room": "First Class Cabin 4",
+          "weapon": "Arsenic Caviar"
+        },
+        "The Siberian Trader": {
+          "room": "The Dining Saloon",
+          "weapon": "Pocket Revolver"
+        },
+        "The Grand Duchess": {
+          "room": "The Engine Tender",
+          "weapon": "Ether Handkerchief"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 32,
+    "title": "Case #032: The Mystery of The Dean's Office",
+    "theme": "The Royal Observatory & Planetarium",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Observatory & Planetarium. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "S",
+          "R",
+          "C",
+          "S",
+          "M",
+          "J",
+          "Z",
+          "V",
+          "N",
+          "J"
+        ],
+        [
+          "T",
+          "L",
+          "L",
+          "F",
+          "Q",
+          "O",
+          "Z",
+          "L",
+          "X",
+          "A"
+        ],
+        [
+          "A",
+          "R",
+          "O",
+          "R",
+          "F",
+          "M",
+          "I",
+          "B",
+          "Y",
+          "S"
+        ],
+        [
+          "R",
+          "L",
+          "C",
+          "J",
+          "T",
+          "E",
+          "D",
+          "Z",
+          "S",
+          "S"
+        ],
+        [
+          "Q",
+          "W",
+          "K",
+          "S",
+          "B",
+          "T",
+          "E",
+          "K",
+          "B",
+          "F"
+        ],
+        [
+          "O",
+          "Y",
+          "O",
+          "U",
+          "O",
+          "E",
+          "X",
+          "B",
+          "R",
+          "L"
+        ],
+        [
+          "V",
+          "C",
+          "N",
+          "L",
+          "P",
+          "O",
+          "B",
+          "Y",
+          "A",
+          "E"
+        ],
+        [
+          "A",
+          "X",
+          "W",
+          "N",
+          "M",
+          "R",
+          "Z",
+          "V",
+          "S",
+          "N"
+        ],
+        [
+          "Q",
+          "A",
+          "W",
+          "O",
+          "X",
+          "Z",
+          "R",
+          "R",
+          "S",
+          "S"
+        ],
+        [
+          "Y",
+          "P",
+          "Q",
+          "R",
+          "E",
+          "X",
+          "M",
+          "R",
+          "U",
+          "V"
+        ]
+      ],
+      "words_to_find": [
+        "CLOCK",
+        "BRASS",
+        "METEOR",
+        "STAR",
+        "LENS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH PHWHRULWH VSHFLPHQ ZDV UHPRYHG DW QRRQ",
+      "plaintext": "THE METEORITE SPECIMEN WAS REMOVED AT NOON",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Academy Dean",
+        "The Star Cartographer",
+        "The Master Clockmaker",
+        "The Royal Astronomer"
+      ],
+      "rooms": [
+        "The Great Dome",
+        "Observation Terrace",
+        "The Dean's Office",
+        "Star Chart Archive"
+      ],
+      "weapons": [
+        "Iron Meteorite Core",
+        "Leyden Jar Shock",
+        "Heavy Brass Compass",
+        "Brass Astrolabe"
+      ],
+      "clues": [
+        "The Star Cartographer was confirmed to be in Observation Terrace.",
+        "The Master Clockmaker was discovered carrying the Brass Astrolabe.",
+        "The investigator found the Leyden Jar Shock inside The Great Dome.",
+        "The Academy Dean was never seen near The Great Dome.",
+        "The Academy Dean had no access to the Leyden Jar Shock.",
+        "The weapon recovered from The Great Dome was definitely not the Brass Astrolabe.",
+        "Neither The Academy Dean nor The Royal Astronomer had ever visited Observation Terrace.",
+        "The lethal strike occurred in The Dean's Office, leaving behind the deadly Iron Meteorite Core."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Academy Dean",
+      "murder_room": "The Dean's Office",
+      "murder_weapon": "Iron Meteorite Core",
+      "full_mapping": {
+        "The Academy Dean": {
+          "room": "The Dean's Office",
+          "weapon": "Iron Meteorite Core"
+        },
+        "The Star Cartographer": {
+          "room": "Observation Terrace",
+          "weapon": "Heavy Brass Compass"
+        },
+        "The Master Clockmaker": {
+          "room": "Star Chart Archive",
+          "weapon": "Brass Astrolabe"
+        },
+        "The Royal Astronomer": {
+          "room": "The Great Dome",
+          "weapon": "Leyden Jar Shock"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 33,
+    "title": "Case #033: The Mystery of The Gondola Mooring",
+    "theme": "The Venetian Masquerade Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Venetian Masquerade Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "I",
+          "U",
+          "E",
+          "P",
+          "I",
+          "N",
+          "B",
+          "E",
+          "K",
+          "J"
+        ],
+        [
+          "O",
+          "E",
+          "L",
+          "R",
+          "Y",
+          "F",
+          "C",
+          "H",
+          "Z",
+          "K"
+        ],
+        [
+          "R",
+          "O",
+          "O",
+          "T",
+          "N",
+          "M",
+          "V",
+          "O",
+          "N",
+          "C"
+        ],
+        [
+          "I",
+          "Y",
+          "S",
+          "C",
+          "N",
+          "R",
+          "Z",
+          "E",
+          "K",
+          "Q"
+        ],
+        [
+          "B",
+          "O",
+          "Z",
+          "J",
+          "G",
+          "R",
+          "Z",
+          "B",
+          "V",
+          "V"
+        ],
+        [
+          "B",
+          "M",
+          "G",
+          "O",
+          "N",
+          "D",
+          "O",
+          "L",
+          "A",
+          "I"
+        ],
+        [
+          "O",
+          "O",
+          "R",
+          "Q",
+          "G",
+          "W",
+          "F",
+          "P",
+          "Q",
+          "A"
+        ],
+        [
+          "N",
+          "M",
+          "F",
+          "U",
+          "G",
+          "H",
+          "W",
+          "R",
+          "O",
+          "L"
+        ],
+        [
+          "Q",
+          "G",
+          "L",
+          "A",
+          "S",
+          "S",
+          "G",
+          "H",
+          "B",
+          "I"
+        ],
+        [
+          "Y",
+          "Z",
+          "Z",
+          "M",
+          "A",
+          "S",
+          "K",
+          "J",
+          "P",
+          "Q"
+        ]
+      ],
+      "words_to_find": [
+        "GONDOLA",
+        "RIBBON",
+        "GLASS",
+        "MASK",
+        "VIAL"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "PHHW WKH PDVNHG GRJH DW ZDWHU JDWH PLGQLJKW",
+      "plaintext": "MEET THE MASKED DOGE AT WATER GATE MIDNIGHT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Masked Doge",
+        "Contessa di Rialto",
+        "The Harlequin Actor",
+        "The Gondola Pilot"
+      ],
+      "rooms": [
+        "The Gondola Mooring",
+        "The Secret Alcove",
+        "The Doge's Private Study",
+        "Bridge of Sighs Chamber"
+      ],
+      "weapons": [
+        "Murano Glass Dagger",
+        "Stiletto Rapier",
+        "Heavy Bronze Torch",
+        "Gilded Silk Garrote"
+      ],
+      "clues": [
+        "Contessa di Rialto was confirmed to be in The Doge's Private Study.",
+        "The Harlequin Actor was discovered carrying the Stiletto Rapier.",
+        "The investigator found the Murano Glass Dagger inside The Secret Alcove.",
+        "The Masked Doge was never seen near The Secret Alcove.",
+        "The Masked Doge had no access to the Murano Glass Dagger.",
+        "The weapon recovered from The Gondola Mooring was definitely not the Stiletto Rapier.",
+        "Neither The Masked Doge nor The Gondola Pilot had ever visited The Doge's Private Study.",
+        "The lethal strike occurred in The Gondola Mooring, leaving behind the deadly Heavy Bronze Torch."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Masked Doge",
+      "murder_room": "The Gondola Mooring",
+      "murder_weapon": "Heavy Bronze Torch",
+      "full_mapping": {
+        "The Masked Doge": {
+          "room": "The Gondola Mooring",
+          "weapon": "Heavy Bronze Torch"
+        },
+        "Contessa di Rialto": {
+          "room": "The Doge's Private Study",
+          "weapon": "Gilded Silk Garrote"
+        },
+        "The Harlequin Actor": {
+          "room": "Bridge of Sighs Chamber",
+          "weapon": "Stiletto Rapier"
+        },
+        "The Gondola Pilot": {
+          "room": "The Secret Alcove",
+          "weapon": "Murano Glass Dagger"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 34,
+    "title": "Case #034: The Mystery of The Great Tartan Hall",
+    "theme": "The Scottish Highland Castle Mystery",
+    "briefing": "An urgent homicide dispatch has arrived from The Scottish Highland Castle Mystery. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "O",
+          "S",
+          "D",
+          "U",
+          "V",
+          "P",
+          "S",
+          "R",
+          "I",
+          "O"
+        ],
+        [
+          "V",
+          "T",
+          "W",
+          "W",
+          "S",
+          "U",
+          "V",
+          "U",
+          "X",
+          "L"
+        ],
+        [
+          "H",
+          "O",
+          "R",
+          "N",
+          "P",
+          "E",
+          "A",
+          "T",
+          "U",
+          "S"
+        ],
+        [
+          "T",
+          "A",
+          "R",
+          "T",
+          "A",
+          "N",
+          "B",
+          "Z",
+          "K",
+          "H"
+        ],
+        [
+          "P",
+          "X",
+          "Y",
+          "F",
+          "K",
+          "Q",
+          "G",
+          "D",
+          "U",
+          "I"
+        ],
+        [
+          "S",
+          "C",
+          "L",
+          "O",
+          "A",
+          "K",
+          "L",
+          "N",
+          "Q",
+          "E"
+        ],
+        [
+          "G",
+          "H",
+          "N",
+          "H",
+          "U",
+          "S",
+          "B",
+          "H",
+          "B",
+          "L"
+        ],
+        [
+          "O",
+          "A",
+          "T",
+          "K",
+          "C",
+          "E",
+          "P",
+          "Q",
+          "F",
+          "D"
+        ],
+        [
+          "J",
+          "X",
+          "M",
+          "X",
+          "Q",
+          "T",
+          "D",
+          "R",
+          "D",
+          "Q"
+        ],
+        [
+          "A",
+          "E",
+          "X",
+          "Z",
+          "M",
+          "S",
+          "W",
+          "F",
+          "V",
+          "D"
+        ]
+      ],
+      "words_to_find": [
+        "PEAT",
+        "HORN",
+        "SHIELD",
+        "TARTAN",
+        "CLOAK"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "FKHFN WKH KHDWKHU PRRUV IRU WKH IOLQWORFN",
+      "plaintext": "CHECK THE HEATHER MOORS FOR THE FLINTLOCK",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Bagpipe Piper",
+        "The Clan Laird",
+        "The Clan Physician",
+        "The Castle Archivist"
+      ],
+      "rooms": [
+        "The Turret Lookout",
+        "The Ancestral Armory",
+        "The Great Tartan Hall",
+        "The Heather Moors"
+      ],
+      "weapons": [
+        "Iron Fire Poker",
+        "Damascus Dirk",
+        "Strychnine Dram",
+        "Heavy Plaid Rope"
+      ],
+      "clues": [
+        "The Clan Laird was confirmed to be in The Turret Lookout.",
+        "The Clan Physician was discovered carrying the Iron Fire Poker.",
+        "The investigator found the Strychnine Dram inside The Heather Moors.",
+        "The Bagpipe Piper was never seen near The Turret Lookout.",
+        "The Bagpipe Piper had no access to the Iron Fire Poker.",
+        "The weapon recovered from The Turret Lookout was definitely not the Iron Fire Poker.",
+        "Neither The Bagpipe Piper nor The Castle Archivist had ever visited The Turret Lookout.",
+        "The lethal strike occurred in The Great Tartan Hall, leaving behind the deadly Damascus Dirk.",
+        "The Bagpipe Piper had no access to the Strychnine Dram."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Bagpipe Piper",
+      "murder_room": "The Great Tartan Hall",
+      "murder_weapon": "Damascus Dirk",
+      "full_mapping": {
+        "The Bagpipe Piper": {
+          "room": "The Great Tartan Hall",
+          "weapon": "Damascus Dirk"
+        },
+        "The Clan Laird": {
+          "room": "The Turret Lookout",
+          "weapon": "Heavy Plaid Rope"
+        },
+        "The Clan Physician": {
+          "room": "The Ancestral Armory",
+          "weapon": "Iron Fire Poker"
+        },
+        "The Castle Archivist": {
+          "room": "The Heather Moors",
+          "weapon": "Strychnine Dram"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 35,
+    "title": "Case #035: The Mystery of The Luggage Van",
+    "theme": "The Trans-Siberian Winter Express",
+    "briefing": "An urgent homicide dispatch has arrived from The Trans-Siberian Winter Express. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "C",
+          "B",
+          "I",
+          "J",
+          "T",
+          "N",
+          "U",
+          "L",
+          "K",
+          "U"
+        ],
+        [
+          "J",
+          "V",
+          "S",
+          "X",
+          "T",
+          "R",
+          "A",
+          "C",
+          "K",
+          "S"
+        ],
+        [
+          "R",
+          "M",
+          "P",
+          "D",
+          "D",
+          "L",
+          "X",
+          "K",
+          "Y",
+          "Y"
+        ],
+        [
+          "G",
+          "H",
+          "Y",
+          "F",
+          "F",
+          "N",
+          "L",
+          "H",
+          "R",
+          "W"
+        ],
+        [
+          "X",
+          "G",
+          "D",
+          "R",
+          "B",
+          "U",
+          "G",
+          "T",
+          "F",
+          "A"
+        ],
+        [
+          "R",
+          "P",
+          "X",
+          "O",
+          "M",
+          "T",
+          "L",
+          "I",
+          "U",
+          "T"
+        ],
+        [
+          "N",
+          "J",
+          "I",
+          "S",
+          "B",
+          "M",
+          "O",
+          "C",
+          "Z",
+          "C"
+        ],
+        [
+          "E",
+          "V",
+          "D",
+          "T",
+          "Q",
+          "I",
+          "V",
+          "K",
+          "N",
+          "H"
+        ],
+        [
+          "A",
+          "F",
+          "Y",
+          "J",
+          "A",
+          "J",
+          "E",
+          "E",
+          "L",
+          "U"
+        ],
+        [
+          "V",
+          "U",
+          "I",
+          "D",
+          "H",
+          "M",
+          "S",
+          "T",
+          "O",
+          "O"
+        ]
+      ],
+      "words_to_find": [
+        "FROST",
+        "TRACKS",
+        "WATCH",
+        "TICKET",
+        "GLOVES"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH LFH SLFN ZDV WDNHQ IURP GLQLQJ VDORRQ",
+      "plaintext": "THE ICE PICK WAS TAKEN FROM DINING SALOON",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Imperial Courier",
+        "The Siberian Trader",
+        "The Grand Duchess",
+        "The Train Conductor"
+      ],
+      "rooms": [
+        "The Engine Tender",
+        "The Luggage Van",
+        "First Class Cabin 4",
+        "The Observation Deck"
+      ],
+      "weapons": [
+        "Pocket Revolver",
+        "Silver Ice Pick",
+        "Steel Luggage Strap",
+        "Brass Coal Shovel"
+      ],
+      "clues": [
+        "The Siberian Trader was confirmed to be in The Engine Tender.",
+        "The Grand Duchess was discovered carrying the Steel Luggage Strap.",
+        "The investigator found the Silver Ice Pick inside The Observation Deck.",
+        "The Imperial Courier was never seen near The Engine Tender.",
+        "The Imperial Courier had no access to the Silver Ice Pick.",
+        "The weapon recovered from The Engine Tender was definitely not the Steel Luggage Strap.",
+        "Neither The Imperial Courier nor The Train Conductor had ever visited The Engine Tender.",
+        "The lethal strike occurred in The Luggage Van, leaving behind the deadly Pocket Revolver."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Imperial Courier",
+      "murder_room": "The Luggage Van",
+      "murder_weapon": "Pocket Revolver",
+      "full_mapping": {
+        "The Imperial Courier": {
+          "room": "The Luggage Van",
+          "weapon": "Pocket Revolver"
+        },
+        "The Siberian Trader": {
+          "room": "The Engine Tender",
+          "weapon": "Brass Coal Shovel"
+        },
+        "The Grand Duchess": {
+          "room": "First Class Cabin 4",
+          "weapon": "Steel Luggage Strap"
+        },
+        "The Train Conductor": {
+          "room": "The Observation Deck",
+          "weapon": "Silver Ice Pick"
+        }
+      }
+    }
+  }
+]

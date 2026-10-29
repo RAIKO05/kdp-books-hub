@@ -1,0 +1,51 @@
+================================================================================
+KDP LISTING METADATA: VOLUME 3
+================================================================================
+
+[BOOK DETAILS]
+Title: Case Files & Clues: Volume 3
+Subtitle: 35 All-New Multi-Game Murder Mystery Dossiers: Venetian Masquerades, Highland Castles, Winter Express & Observatories
+Series Title: The Detective's Case Files
+Series Number: 3
+Edition: 1
+Author: (Your Author Name / Independent Publisher)
+
+[PRINT SPECIFICATIONS]
+Interior & Paper Type: Black & white interior with white paper
+Trim Size: 6 x 9 in
+Bleed Settings: No Bleed
+Paperback Cover Finish: Matte (or Glossy)
+Page Count: 176 pages
+Spine Width: 0.396 in (10.06 mm)
+
+[CATEGORIES (Choose 3)]
+1. Crafts, Hobbies & Home > Crafts & Hobbies > Activity Books
+2. Humor & Entertainment > Puzzles & Games > Logic & Brain Teasers
+3. Mystery, Thriller & Suspense > Mystery > Traditional Detective
+
+[7 BACKEND SEARCH KEYWORDS]
+1. murder mystery logic puzzle book for adults
+2. escape room game in a book cryptograms
+3. venetian masquerade and highland castle whodunit
+4. forensic crime scene activity book for adults
+5. trans-siberian express detective mystery game
+6. deductive reasoning logic grid puzzles
+7. cozy crime solving case files for seniors
+
+[PRICING & ROYALTY (US MARKET)]
+List Price: $12.99 USD
+Printing Cost: $3.11 USD
+Estimated Royalty (60%): $4.68 USD per copy sold
+
+[KDP DESCRIPTION HTML]
+<h2>Can you crack the case before the final curtain falls?</h2>
+<p>Welcome to <b>The Detective's Case Files: Volume 3</b>, the thrilling next chapter in the interactive crime-solving series engineered for true mystery buffs, logic enthusiasts, and armchair detectives.</p>
+<p>Journey into four brand new atmospheric settings spanning Venetian masked balls, mist-covered Scottish castle keeps, the luxury Trans-Siberian winter express, and Victorian star observatories.</p>
+<p>Every case is an authentic <b>4-stage crime file</b>:</p>
+<ul>
+  <li><b>Stage 1: Forensic Evidence Sweep:</b> Scour the 10x10 crime scene matrix to unearth physical clues.</li>
+  <li><b>Stage 2: The Encrypted Dispatch:</b> Crack the suspect's intercepted Caesar cipher to uncover secret testimony.</li>
+  <li><b>Stage 3: The Alibi Matrix:</b> Pure logic deduction grid mathematically proven to have exactly 1 unique solution.</li>
+  <li><b>Stage 4: The Official Arrest Warrant:</b> Synthesize your deductions, name the killer, and convict the true perpetrator!</li>
+</ul>
+<p><b>Gather your evidence, inspect the crime scene, and claim Volume 3 today!</b></p>
