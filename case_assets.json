@@ -1,0 +1,45 @@
+{
+  "project": "Case Files & Clues: 70 Crime Scene Deduction Grids for Adults",
+  "version": "1.0",
+  "themes": [
+    {
+      "id": "manor",
+      "name": "The English Manor Murders",
+      "suspects": ["Lord Harrington", "Duchess Eleanor", "The Antiquarian", "The Head Butler", "The Estranged Niece", "The Estate Gardener"],
+      "rooms": ["The Grand Library", "The Conservatory", "The Billiard Room", "The Wine Cellar", "The Clock Tower", "The Trophy Room"],
+      "weapons": ["Silver Letter Opener", "Arsenic Vial", "Heavy Brass Candlestick", "Vintage Hunting Rifle", "Silk Cravat", "Fountain Pen with Poison"],
+      "motives": ["Forged Last Will", "Blackmail Letters", "Stolen Family Ruby", "Hidden Debt Ledger", "Canceled Dowry", "Secret Adoption Papers"]
+    },
+    {
+      "id": "express_train",
+      "name": "The Midnight Express Mysteries",
+      "suspects": ["The French Diplomat", "The Opera Soprano", "The Card Sharp", "The Train Conductor", "The Jewel Merchant", "The Retired General"],
+      "rooms": ["Dining Car", "First-Class Sleeper A", "Observation Lounge", "Luggage Van", "Engine Cab", "Private Salon"],
+      "weapons": ["Engraved Pocket Pistol", "Dosed Champagne", "Steel Pocket Knife", "Luggage Strap", "Heavy Crystal Decanter", "Chloroform Rag"],
+      "motives": ["Diplomatic Pouch", "Insured Diamond Necklace", "Counterfeit Passports", "Rigged Poker Debt", "Stolen Blueprints", "Revenge for 1912"]
+    },
+    {
+      "id": "museum",
+      "name": "The Metropolitan Museum Crimes",
+      "suspects": ["The Chief Curator", "The Art Restorer", "The Wealthy Benefactor", "The Night Guard", "The Visiting Professor", "The Auctioneer"],
+      "rooms": ["Egyptian Antiquities", "Renaissance Gallery", "Basement Conservation Lab", "Curator's Office", "Roof Terrace", "Medieval Armory"],
+      "weapons": ["Ceremonial Dagger", "Restoration Solvent", "Iron Flanged Mace", "Broken Marble Shard", "Venomous Specimen", "Cast Bronze Statuette"],
+      "motives": ["Priceless Forgery Scheme", "Looted Artifact Scandal", "Defrauded Foundation", "Exposed Academic Fraud", "Smuggled Gold Mask", "Disputed Provenance"]
+    },
+    {
+      "id": "maritime",
+      "name": "The Coastal & Lighthouse Conspiracies",
+      "suspects": ["The Lighthouse Keeper", "The Harbor Master", "The Salvage Captain", "The Smuggler's Mate", "The Marine Biologist", "The Island Innkeeper"],
+      "rooms": ["Lantern Room", "Foghorn Shed", "Rocky Cove", "Tavern Cellar", "Dry Dock", "Radio Telegraph Shack"],
+      "weapons": ["Heavy Brass Flare Gun", "Nautical Rigging Line", "Iron Harpoon Tip", "Whale Oil Flask", "Divers' Knife", "Lead Sounding Weight"],
+      "motives": ["Sunken Galleon Map", "Contraband Tobacco", "Sabotaged Distress Beacon", "Bribed Customs Official", "Stolen Pearl Chest", "Broken Nautical Oath"]
+    }
+  ],
+  "clue_logic_templates": [
+    "Direct Match: {suspect} was confirmed to be in {room}.",
+    "Negative Match: The suspect who carried the {weapon} never entered {room}.",
+    "Comparative / Exclusion: Neither {suspect_1} nor {suspect_2} possessed the {weapon}.",
+    "Linked Attribute: The individual motivated by the {motive} was found with the {weapon}.",
+    "Spatial / Temporal: The crime in {room} occurred precisely when {suspect} was held in {room_2}."
+  ]
+}

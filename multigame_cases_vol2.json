@@ -1,0 +1,6877 @@
+[
+  {
+    "case_number": 1,
+    "title": "Case #001: The Mystery of The Cargo Bay",
+    "theme": "The Royal Airship Sabotage",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Airship Sabotage. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "Y",
+          "N",
+          "B",
+          "J",
+          "Z",
+          "N",
+          "S",
+          "O",
+          "D",
+          "G"
+        ],
+        [
+          "Z",
+          "Y",
+          "P",
+          "U",
+          "D",
+          "A",
+          "Z",
+          "Q",
+          "C",
+          "E"
+        ],
+        [
+          "V",
+          "Z",
+          "L",
+          "K",
+          "M",
+          "H",
+          "Q",
+          "J",
+          "V",
+          "X"
+        ],
+        [
+          "E",
+          "I",
+          "O",
+          "I",
+          "L",
+          "S",
+          "T",
+          "A",
+          "I",
+          "N"
+        ],
+        [
+          "D",
+          "N",
+          "N",
+          "Q",
+          "Y",
+          "N",
+          "F",
+          "U",
+          "X",
+          "V"
+        ],
+        [
+          "F",
+          "P",
+          "V",
+          "G",
+          "V",
+          "A",
+          "L",
+          "V",
+          "E",
+          "E"
+        ],
+        [
+          "G",
+          "F",
+          "H",
+          "C",
+          "O",
+          "M",
+          "P",
+          "A",
+          "S",
+          "S"
+        ],
+        [
+          "A",
+          "I",
+          "T",
+          "E",
+          "L",
+          "E",
+          "G",
+          "R",
+          "A",
+          "M"
+        ],
+        [
+          "P",
+          "G",
+          "G",
+          "O",
+          "G",
+          "G",
+          "L",
+          "E",
+          "S",
+          "L"
+        ],
+        [
+          "U",
+          "H",
+          "E",
+          "W",
+          "Z",
+          "B",
+          "E",
+          "V",
+          "D",
+          "Z"
+        ]
+      ],
+      "words_to_find": [
+        "COMPASS",
+        "OILSTAIN",
+        "TELEGRAM",
+        "VALVE",
+        "GOGGLES"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH YDOYH ZDV FXW EHIRUH GHSDUWXUH",
+      "plaintext": "THE VALVE WAS CUT BEFORE DEPARTURE",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "Captain Sterling",
+        "Countess Natalia",
+        "The Wealthy Aviator",
+        "The Stowaway"
+      ],
+      "rooms": [
+        "The Cargo Bay",
+        "Engine Gondola No. 1",
+        "The Navigation Bridge",
+        "The Wireless Shack"
+      ],
+      "weapons": [
+        "Severed Helium Valve",
+        "Heavy Spanner Wrench",
+        "Engraved Signal Dagger",
+        "Poisoned Cocktail"
+      ],
+      "clues": [
+        "Countess Natalia was confirmed to be in The Navigation Bridge.",
+        "The Wealthy Aviator was discovered carrying the Heavy Spanner Wrench.",
+        "The investigator found the Severed Helium Valve inside The Wireless Shack.",
+        "Captain Sterling was never seen near Engine Gondola No. 1.",
+        "Captain Sterling had no access to the Severed Helium Valve.",
+        "The weapon recovered from The Cargo Bay was definitely not the Heavy Spanner Wrench.",
+        "Neither Captain Sterling nor The Stowaway had ever visited The Navigation Bridge.",
+        "The lethal strike occurred in The Cargo Bay, leaving behind the deadly Poisoned Cocktail."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "Captain Sterling",
+      "murder_room": "The Cargo Bay",
+      "murder_weapon": "Poisoned Cocktail",
+      "full_mapping": {
+        "Captain Sterling": {
+          "room": "The Cargo Bay",
+          "weapon": "Poisoned Cocktail"
+        },
+        "Countess Natalia": {
+          "room": "The Navigation Bridge",
+          "weapon": "Engraved Signal Dagger"
+        },
+        "The Wealthy Aviator": {
+          "room": "Engine Gondola No. 1",
+          "weapon": "Heavy Spanner Wrench"
+        },
+        "The Stowaway": {
+          "room": "The Wireless Shack",
+          "weapon": "Severed Helium Valve"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 2,
+    "title": "Case #002: The Mystery of The Royal Box",
+    "theme": "The Grand Opera House Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Grand Opera House Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "F",
+          "C",
+          "O",
+          "P",
+          "E",
+          "R",
+          "A",
+          "G",
+          "Y",
+          "I"
+        ],
+        [
+          "Y",
+          "H",
+          "X",
+          "C",
+          "A",
+          "L",
+          "K",
+          "O",
+          "X",
+          "L"
+        ],
+        [
+          "A",
+          "R",
+          "S",
+          "B",
+          "B",
+          "W",
+          "O",
+          "B",
+          "P",
+          "O"
+        ],
+        [
+          "F",
+          "D",
+          "T",
+          "I",
+          "C",
+          "K",
+          "E",
+          "T",
+          "V",
+          "M"
+        ],
+        [
+          "B",
+          "A",
+          "Q",
+          "Q",
+          "Y",
+          "U",
+          "Y",
+          "Y",
+          "V",
+          "R"
+        ],
+        [
+          "D",
+          "K",
+          "P",
+          "L",
+          "S",
+          "C",
+          "O",
+          "R",
+          "E",
+          "O"
+        ],
+        [
+          "L",
+          "V",
+          "U",
+          "V",
+          "M",
+          "E",
+          "Z",
+          "G",
+          "L",
+          "W"
+        ],
+        [
+          "L",
+          "K",
+          "K",
+          "T",
+          "N",
+          "A",
+          "E",
+          "A",
+          "V",
+          "P"
+        ],
+        [
+          "P",
+          "O",
+          "W",
+          "D",
+          "E",
+          "R",
+          "T",
+          "D",
+          "E",
+          "E"
+        ],
+        [
+          "Q",
+          "B",
+          "I",
+          "R",
+          "J",
+          "I",
+          "C",
+          "F",
+          "T",
+          "F"
+        ]
+      ],
+      "words_to_find": [
+        "TICKET",
+        "SCORE",
+        "VELVET",
+        "OPERA",
+        "POWDER"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FULWLF UHFHLYHG EODFNPDLO LQ ERA",
+      "plaintext": "THE CRITIC RECEIVED BLACKMAIL IN BOX",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Stage Director",
+        "The Theater Critic",
+        "The Lead Tenor",
+        "The Costume Mistress"
+      ],
+      "rooms": [
+        "The Orchestra Pit",
+        "Costume Wardrobe",
+        "The Green Room",
+        "The Royal Box"
+      ],
+      "weapons": [
+        "Chandelier Cable",
+        "Poisoned Throat Spray",
+        "Silver Tuning Fork",
+        "Silk Dressing Gown Belt"
+      ],
+      "clues": [
+        "The Theater Critic was confirmed to be in The Green Room.",
+        "The Lead Tenor was discovered carrying the Silk Dressing Gown Belt.",
+        "The investigator found the Poisoned Throat Spray inside Costume Wardrobe.",
+        "The Stage Director was never seen near The Orchestra Pit.",
+        "The Stage Director had no access to the Poisoned Throat Spray.",
+        "The weapon recovered from Costume Wardrobe was definitely not the Silk Dressing Gown Belt.",
+        "Neither The Stage Director nor The Costume Mistress had ever visited The Green Room.",
+        "The lethal strike occurred in The Royal Box, leaving behind the deadly Chandelier Cable."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Stage Director",
+      "murder_room": "The Royal Box",
+      "murder_weapon": "Chandelier Cable",
+      "full_mapping": {
+        "The Stage Director": {
+          "room": "The Royal Box",
+          "weapon": "Chandelier Cable"
+        },
+        "The Theater Critic": {
+          "room": "The Green Room",
+          "weapon": "Silver Tuning Fork"
+        },
+        "The Lead Tenor": {
+          "room": "The Orchestra Pit",
+          "weapon": "Silk Dressing Gown Belt"
+        },
+        "The Costume Mistress": {
+          "room": "Costume Wardrobe",
+          "weapon": "Poisoned Throat Spray"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 3,
+    "title": "Case #003: The Mystery of The Director's Study",
+    "theme": "The Royal Botanical Gardens Conspiracy",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Botanical Gardens Conspiracy. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "C",
+          "X",
+          "V",
+          "F",
+          "W",
+          "Y",
+          "Z",
+          "Z",
+          "E",
+          "H"
+        ],
+        [
+          "B",
+          "U",
+          "D",
+          "E",
+          "H",
+          "R",
+          "F",
+          "C",
+          "G",
+          "K"
+        ],
+        [
+          "E",
+          "K",
+          "B",
+          "R",
+          "B",
+          "X",
+          "R",
+          "C",
+          "X",
+          "C"
+        ],
+        [
+          "G",
+          "T",
+          "U",
+          "T",
+          "C",
+          "R",
+          "G",
+          "R",
+          "D",
+          "O"
+        ],
+        [
+          "D",
+          "M",
+          "B",
+          "I",
+          "J",
+          "L",
+          "L",
+          "G",
+          "S",
+          "P"
+        ],
+        [
+          "M",
+          "I",
+          "U",
+          "L",
+          "B",
+          "V",
+          "O",
+          "F",
+          "P",
+          "E"
+        ],
+        [
+          "B",
+          "E",
+          "L",
+          "I",
+          "F",
+          "N",
+          "V",
+          "B",
+          "O",
+          "T"
+        ],
+        [
+          "K",
+          "B",
+          "B",
+          "Z",
+          "H",
+          "W",
+          "E",
+          "Z",
+          "R",
+          "A"
+        ],
+        [
+          "Q",
+          "A",
+          "A",
+          "E",
+          "P",
+          "W",
+          "S",
+          "Q",
+          "E",
+          "L"
+        ],
+        [
+          "Y",
+          "F",
+          "O",
+          "R",
+          "E",
+          "H",
+          "Q",
+          "U",
+          "S",
+          "W"
+        ]
+      ],
+      "words_to_find": [
+        "GLOVES",
+        "FERTILIZER",
+        "BULB",
+        "SPORES",
+        "PETAL"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH JURXQGVNHHSHU KLG WKH EORRGLHG VKHDUV",
+      "plaintext": "THE GROUNDSKEEPER HID THE BLOODIED SHEARS",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Herbalist",
+        "The Chief Botanist",
+        "The Visiting Diplomat",
+        "The Wealthy Patron"
+      ],
+      "rooms": [
+        "The Root Cellar Lab",
+        "The Herbarium",
+        "The Orchid Conservatory",
+        "The Director's Study"
+      ],
+      "weapons": [
+        "Fumigation Gas Canister",
+        "Serrated Grafting Knife",
+        "Deadly Nightshade Extract",
+        "Spiked Plant Stake"
+      ],
+      "clues": [
+        "The Chief Botanist was confirmed to be in The Orchid Conservatory.",
+        "The Visiting Diplomat was discovered carrying the Serrated Grafting Knife.",
+        "The investigator found the Spiked Plant Stake inside The Root Cellar Lab.",
+        "The Herbalist was never seen near The Root Cellar Lab.",
+        "The Herbalist had no access to the Fumigation Gas Canister.",
+        "The weapon recovered from The Root Cellar Lab was definitely not the Serrated Grafting Knife.",
+        "Neither The Herbalist nor The Wealthy Patron had ever visited The Orchid Conservatory.",
+        "The lethal strike occurred in The Director's Study, leaving behind the deadly Deadly Nightshade Extract."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Herbalist",
+      "murder_room": "The Director's Study",
+      "murder_weapon": "Deadly Nightshade Extract",
+      "full_mapping": {
+        "The Herbalist": {
+          "room": "The Director's Study",
+          "weapon": "Deadly Nightshade Extract"
+        },
+        "The Chief Botanist": {
+          "room": "The Orchid Conservatory",
+          "weapon": "Fumigation Gas Canister"
+        },
+        "The Visiting Diplomat": {
+          "room": "The Herbarium",
+          "weapon": "Serrated Grafting Knife"
+        },
+        "The Wealthy Patron": {
+          "room": "The Root Cellar Lab",
+          "weapon": "Spiked Plant Stake"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 4,
+    "title": "Case #004: The Mystery of The Burial Chamber",
+    "theme": "The Valley of the Kings Expedition",
+    "briefing": "An urgent homicide dispatch has arrived from The Valley of the Kings Expedition. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "I",
+          "I",
+          "Y",
+          "V",
+          "I",
+          "T",
+          "S",
+          "R",
+          "Q",
+          "T"
+        ],
+        [
+          "V",
+          "E",
+          "W",
+          "F",
+          "A",
+          "M",
+          "U",
+          "L",
+          "E",
+          "T"
+        ],
+        [
+          "E",
+          "K",
+          "W",
+          "V",
+          "F",
+          "R",
+          "L",
+          "R",
+          "M",
+          "H"
+        ],
+        [
+          "V",
+          "A",
+          "I",
+          "B",
+          "V",
+          "R",
+          "L",
+          "N",
+          "G",
+          "I"
+        ],
+        [
+          "G",
+          "S",
+          "Q",
+          "Q",
+          "Q",
+          "I",
+          "S",
+          "R",
+          "O",
+          "T"
+        ],
+        [
+          "B",
+          "O",
+          "A",
+          "V",
+          "S",
+          "M",
+          "C",
+          "H",
+          "L",
+          "O"
+        ],
+        [
+          "W",
+          "E",
+          "P",
+          "J",
+          "A",
+          "M",
+          "A",
+          "O",
+          "D",
+          "R"
+        ],
+        [
+          "R",
+          "C",
+          "O",
+          "I",
+          "N",
+          "I",
+          "R",
+          "W",
+          "M",
+          "C"
+        ],
+        [
+          "P",
+          "I",
+          "H",
+          "U",
+          "D",
+          "J",
+          "A",
+          "I",
+          "P",
+          "H"
+        ],
+        [
+          "E",
+          "J",
+          "T",
+          "D",
+          "O",
+          "A",
+          "B",
+          "Y",
+          "C",
+          "P"
+        ]
+      ],
+      "words_to_find": [
+        "TORCH",
+        "SCARAB",
+        "AMULET",
+        "GOLD",
+        "SAND"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH SLFNDAH ZDV EXULHG EHKLQG WKH WHQW",
+      "plaintext": "THE PICKAXE WAS BURIED BEHIND THE TENT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Expedition Doctor",
+        "The Head Excavator",
+        "The Antiquities Dealer",
+        "The Lead Archaeologist"
+      ],
+      "rooms": [
+        "The Antechamber",
+        "The Excavation Camp Tent",
+        "The Burial Chamber",
+        "The Darkroom"
+      ],
+      "weapons": [
+        "Surveyor's Heavy Hammer",
+        "Poison-Tipped Stylus",
+        "Excavator's Pickaxe",
+        "Arsenic Preservative"
+      ],
+      "clues": [
+        "The Head Excavator was confirmed to be in The Excavation Camp Tent.",
+        "The Antiquities Dealer was discovered carrying the Poison-Tipped Stylus.",
+        "The investigator found the Excavator's Pickaxe inside The Darkroom.",
+        "The Expedition Doctor was never seen near The Antechamber.",
+        "The Expedition Doctor had no access to the Poison-Tipped Stylus.",
+        "The weapon recovered from The Excavation Camp Tent was definitely not the Poison-Tipped Stylus.",
+        "Neither The Expedition Doctor nor The Lead Archaeologist had ever visited The Excavation Camp Tent.",
+        "The lethal strike occurred in The Burial Chamber, leaving behind the deadly Surveyor's Heavy Hammer.",
+        "The Expedition Doctor had no access to the Excavator's Pickaxe."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Expedition Doctor",
+      "murder_room": "The Burial Chamber",
+      "murder_weapon": "Surveyor's Heavy Hammer",
+      "full_mapping": {
+        "The Expedition Doctor": {
+          "room": "The Burial Chamber",
+          "weapon": "Surveyor's Heavy Hammer"
+        },
+        "The Head Excavator": {
+          "room": "The Excavation Camp Tent",
+          "weapon": "Arsenic Preservative"
+        },
+        "The Antiquities Dealer": {
+          "room": "The Antechamber",
+          "weapon": "Poison-Tipped Stylus"
+        },
+        "The Lead Archaeologist": {
+          "room": "The Darkroom",
+          "weapon": "Excavator's Pickaxe"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 5,
+    "title": "Case #005: The Mystery of The Wireless Shack",
+    "theme": "The Royal Airship Sabotage",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Airship Sabotage. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "G",
+          "H",
+          "M",
+          "A",
+          "H",
+          "D",
+          "G",
+          "N",
+          "Y",
+          "E"
+        ],
+        [
+          "J",
+          "F",
+          "T",
+          "J",
+          "H",
+          "P",
+          "O",
+          "S",
+          "N",
+          "K"
+        ],
+        [
+          "I",
+          "T",
+          "W",
+          "L",
+          "N",
+          "H",
+          "R",
+          "H",
+          "Z",
+          "P"
+        ],
+        [
+          "G",
+          "A",
+          "J",
+          "Q",
+          "Y",
+          "L",
+          "Q",
+          "C",
+          "C",
+          "H"
+        ],
+        [
+          "A",
+          "F",
+          "P",
+          "G",
+          "O",
+          "G",
+          "G",
+          "L",
+          "E",
+          "S"
+        ],
+        [
+          "U",
+          "S",
+          "P",
+          "A",
+          "R",
+          "K",
+          "H",
+          "T",
+          "L",
+          "E"
+        ],
+        [
+          "G",
+          "G",
+          "O",
+          "I",
+          "L",
+          "S",
+          "T",
+          "A",
+          "I",
+          "N"
+        ],
+        [
+          "E",
+          "Y",
+          "S",
+          "Y",
+          "P",
+          "A",
+          "T",
+          "C",
+          "H",
+          "J"
+        ],
+        [
+          "J",
+          "A",
+          "X",
+          "O",
+          "B",
+          "Q",
+          "L",
+          "Q",
+          "R",
+          "M"
+        ],
+        [
+          "C",
+          "U",
+          "K",
+          "A",
+          "F",
+          "V",
+          "E",
+          "M",
+          "P",
+          "O"
+        ]
+      ],
+      "words_to_find": [
+        "OILSTAIN",
+        "SPARK",
+        "PATCH",
+        "GAUGE",
+        "GOGGLES"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "FDSWDLQ VWHUOLQJ FRQFHDOHG WKH ORJERRN",
+      "plaintext": "CAPTAIN STERLING CONCEALED THE LOGBOOK",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "Countess Natalia",
+        "The Radio Officer",
+        "Captain Sterling",
+        "The Chief Engineer"
+      ],
+      "rooms": [
+        "The Navigation Bridge",
+        "The Cargo Bay",
+        "The Wireless Shack",
+        "The Promenade Deck"
+      ],
+      "weapons": [
+        "Heavy Spanner Wrench",
+        "Severed Helium Valve",
+        "Brass Flare Pistol",
+        "Engraved Signal Dagger"
+      ],
+      "clues": [
+        "The Radio Officer was confirmed to be in The Cargo Bay.",
+        "Captain Sterling was discovered carrying the Severed Helium Valve.",
+        "The investigator found the Brass Flare Pistol inside The Navigation Bridge.",
+        "Countess Natalia was never seen near The Navigation Bridge.",
+        "Countess Natalia had no access to the Heavy Spanner Wrench.",
+        "The weapon recovered from The Navigation Bridge was definitely not the Severed Helium Valve.",
+        "Neither Countess Natalia nor The Chief Engineer had ever visited The Cargo Bay.",
+        "The lethal strike occurred in The Wireless Shack, leaving behind the deadly Engraved Signal Dagger."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "Countess Natalia",
+      "murder_room": "The Wireless Shack",
+      "murder_weapon": "Engraved Signal Dagger",
+      "full_mapping": {
+        "Countess Natalia": {
+          "room": "The Wireless Shack",
+          "weapon": "Engraved Signal Dagger"
+        },
+        "The Radio Officer": {
+          "room": "The Cargo Bay",
+          "weapon": "Heavy Spanner Wrench"
+        },
+        "Captain Sterling": {
+          "room": "The Promenade Deck",
+          "weapon": "Severed Helium Valve"
+        },
+        "The Chief Engineer": {
+          "room": "The Navigation Bridge",
+          "weapon": "Brass Flare Pistol"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 6,
+    "title": "Case #006: The Mystery of The Maestro's Suite",
+    "theme": "The Grand Opera House Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Grand Opera House Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "P",
+          "O",
+          "W",
+          "D",
+          "E",
+          "R",
+          "R",
+          "O",
+          "P",
+          "E"
+        ],
+        [
+          "R",
+          "T",
+          "M",
+          "I",
+          "R",
+          "R",
+          "O",
+          "R",
+          "G",
+          "F"
+        ],
+        [
+          "H",
+          "Y",
+          "I",
+          "N",
+          "Q",
+          "J",
+          "F",
+          "U",
+          "S",
+          "E"
+        ],
+        [
+          "G",
+          "V",
+          "F",
+          "Z",
+          "H",
+          "P",
+          "C",
+          "Z",
+          "C",
+          "H"
+        ],
+        [
+          "L",
+          "Q",
+          "Y",
+          "F",
+          "F",
+          "I",
+          "M",
+          "S",
+          "O",
+          "F"
+        ],
+        [
+          "G",
+          "X",
+          "P",
+          "T",
+          "M",
+          "S",
+          "A",
+          "K",
+          "R",
+          "J"
+        ],
+        [
+          "G",
+          "F",
+          "O",
+          "I",
+          "J",
+          "L",
+          "K",
+          "P",
+          "E",
+          "S"
+        ],
+        [
+          "H",
+          "T",
+          "W",
+          "Y",
+          "V",
+          "I",
+          "E",
+          "A",
+          "Y",
+          "C"
+        ],
+        [
+          "P",
+          "Y",
+          "Q",
+          "B",
+          "E",
+          "M",
+          "U",
+          "W",
+          "A",
+          "L"
+        ],
+        [
+          "Q",
+          "T",
+          "C",
+          "D",
+          "W",
+          "N",
+          "P",
+          "T",
+          "P",
+          "N"
+        ]
+      ],
+      "words_to_find": [
+        "MAKEUP",
+        "SCORE",
+        "MIRROR",
+        "POWDER",
+        "ROPE"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH SURPSW ERRN KDV EHHQ WDPSHUHG",
+      "plaintext": "THE PROMPT BOOK HAS BEEN TAMPERED",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Prima Donna",
+        "The Costume Mistress",
+        "The Stage Director",
+        "The Theater Critic"
+      ],
+      "rooms": [
+        "The Royal Box",
+        "The Fly Loft Above Stage",
+        "The Maestro's Suite",
+        "The Green Room"
+      ],
+      "weapons": [
+        "Silver Tuning Fork",
+        "Chandelier Cable",
+        "Poisoned Throat Spray",
+        "Antique Prop Rapier"
+      ],
+      "clues": [
+        "The Costume Mistress was confirmed to be in The Fly Loft Above Stage.",
+        "The Stage Director was discovered carrying the Antique Prop Rapier.",
+        "The investigator found the Chandelier Cable inside The Green Room.",
+        "The Prima Donna was never seen near The Royal Box.",
+        "The Prima Donna had no access to the Chandelier Cable.",
+        "The weapon recovered from The Fly Loft Above Stage was definitely not the Antique Prop Rapier.",
+        "Neither The Prima Donna nor The Theater Critic had ever visited The Fly Loft Above Stage.",
+        "The lethal strike occurred in The Maestro's Suite, leaving behind the deadly Silver Tuning Fork."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Prima Donna",
+      "murder_room": "The Maestro's Suite",
+      "murder_weapon": "Silver Tuning Fork",
+      "full_mapping": {
+        "The Prima Donna": {
+          "room": "The Maestro's Suite",
+          "weapon": "Silver Tuning Fork"
+        },
+        "The Costume Mistress": {
+          "room": "The Fly Loft Above Stage",
+          "weapon": "Poisoned Throat Spray"
+        },
+        "The Stage Director": {
+          "room": "The Royal Box",
+          "weapon": "Antique Prop Rapier"
+        },
+        "The Theater Critic": {
+          "room": "The Green Room",
+          "weapon": "Chandelier Cable"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 7,
+    "title": "Case #007: The Mystery of The Root Cellar Lab",
+    "theme": "The Royal Botanical Gardens Conspiracy",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Botanical Gardens Conspiracy. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "N",
+          "C",
+          "I",
+          "E",
+          "T",
+          "Q",
+          "E",
+          "M",
+          "A",
+          "V"
+        ],
+        [
+          "D",
+          "Z",
+          "P",
+          "O",
+          "L",
+          "L",
+          "E",
+          "N",
+          "P",
+          "D"
+        ],
+        [
+          "F",
+          "E",
+          "R",
+          "T",
+          "I",
+          "L",
+          "I",
+          "Z",
+          "E",
+          "R"
+        ],
+        [
+          "Y",
+          "K",
+          "O",
+          "G",
+          "U",
+          "L",
+          "R",
+          "P",
+          "T",
+          "Y"
+        ],
+        [
+          "O",
+          "S",
+          "V",
+          "N",
+          "Z",
+          "X",
+          "N",
+          "D",
+          "A",
+          "U"
+        ],
+        [
+          "P",
+          "O",
+          "Q",
+          "V",
+          "S",
+          "Y",
+          "P",
+          "O",
+          "L",
+          "H"
+        ],
+        [
+          "D",
+          "I",
+          "G",
+          "L",
+          "O",
+          "V",
+          "E",
+          "S",
+          "O",
+          "L"
+        ],
+        [
+          "G",
+          "L",
+          "P",
+          "T",
+          "L",
+          "Y",
+          "P",
+          "T",
+          "R",
+          "N"
+        ],
+        [
+          "Z",
+          "C",
+          "G",
+          "E",
+          "I",
+          "X",
+          "P",
+          "K",
+          "X",
+          "J"
+        ],
+        [
+          "O",
+          "B",
+          "Y",
+          "U",
+          "H",
+          "U",
+          "A",
+          "K",
+          "D",
+          "W"
+        ]
+      ],
+      "words_to_find": [
+        "POLLEN",
+        "FERTILIZER",
+        "SOIL",
+        "GLOVES",
+        "PETAL"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH RUFKLG ZDV VWROHQ IURP FRQVHUYDWRUB",
+      "plaintext": "THE ORCHID WAS STOLEN FROM CONSERVATORY",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Wealthy Patron",
+        "The Chief Botanist",
+        "The Venom Researcher",
+        "The Visiting Diplomat"
+      ],
+      "rooms": [
+        "The Orchid Conservatory",
+        "The Root Cellar Lab",
+        "The Palm House",
+        "The Director's Study"
+      ],
+      "weapons": [
+        "Heavy Stone Mortar",
+        "Deadly Nightshade Extract",
+        "Fumigation Gas Canister",
+        "Serrated Grafting Knife"
+      ],
+      "clues": [
+        "The Chief Botanist was confirmed to be in The Palm House.",
+        "The Venom Researcher was discovered carrying the Fumigation Gas Canister.",
+        "The investigator found the Serrated Grafting Knife inside The Orchid Conservatory.",
+        "The Wealthy Patron was never seen near The Orchid Conservatory.",
+        "The Wealthy Patron had no access to the Heavy Stone Mortar.",
+        "The weapon recovered from The Orchid Conservatory was definitely not the Fumigation Gas Canister.",
+        "Neither The Wealthy Patron nor The Visiting Diplomat had ever visited The Palm House.",
+        "The lethal strike occurred in The Root Cellar Lab, leaving behind the deadly Deadly Nightshade Extract."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Wealthy Patron",
+      "murder_room": "The Root Cellar Lab",
+      "murder_weapon": "Deadly Nightshade Extract",
+      "full_mapping": {
+        "The Wealthy Patron": {
+          "room": "The Root Cellar Lab",
+          "weapon": "Deadly Nightshade Extract"
+        },
+        "The Chief Botanist": {
+          "room": "The Palm House",
+          "weapon": "Heavy Stone Mortar"
+        },
+        "The Venom Researcher": {
+          "room": "The Director's Study",
+          "weapon": "Fumigation Gas Canister"
+        },
+        "The Visiting Diplomat": {
+          "room": "The Orchid Conservatory",
+          "weapon": "Serrated Grafting Knife"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 8,
+    "title": "Case #008: The Mystery of The Antechamber",
+    "theme": "The Valley of the Kings Expedition",
+    "briefing": "An urgent homicide dispatch has arrived from The Valley of the Kings Expedition. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "G",
+          "O",
+          "L",
+          "D",
+          "W",
+          "K",
+          "G",
+          "P",
+          "R",
+          "V"
+        ],
+        [
+          "P",
+          "A",
+          "P",
+          "Y",
+          "R",
+          "U",
+          "S",
+          "M",
+          "Q",
+          "O"
+        ],
+        [
+          "S",
+          "S",
+          "C",
+          "U",
+          "A",
+          "I",
+          "N",
+          "W",
+          "C",
+          "S"
+        ],
+        [
+          "L",
+          "C",
+          "O",
+          "I",
+          "F",
+          "I",
+          "B",
+          "G",
+          "K",
+          "W"
+        ],
+        [
+          "S",
+          "A",
+          "A",
+          "M",
+          "U",
+          "L",
+          "E",
+          "T",
+          "T",
+          "R"
+        ],
+        [
+          "A",
+          "R",
+          "T",
+          "B",
+          "F",
+          "L",
+          "A",
+          "S",
+          "K",
+          "K"
+        ],
+        [
+          "N",
+          "A",
+          "Y",
+          "R",
+          "Y",
+          "C",
+          "H",
+          "N",
+          "E",
+          "N"
+        ],
+        [
+          "D",
+          "B",
+          "S",
+          "I",
+          "W",
+          "U",
+          "M",
+          "X",
+          "Z",
+          "V"
+        ],
+        [
+          "E",
+          "S",
+          "N",
+          "K",
+          "B",
+          "N",
+          "A",
+          "S",
+          "O",
+          "A"
+        ],
+        [
+          "H",
+          "S",
+          "Y",
+          "N",
+          "M",
+          "G",
+          "K",
+          "B",
+          "E",
+          "B"
+        ]
+      ],
+      "words_to_find": [
+        "PAPYRUS",
+        "SCARAB",
+        "AMULET",
+        "SAND",
+        "GOLD"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH VDUFRSKDJXV ZDV RSHQHG LQ VHFUHW",
+      "plaintext": "THE SARCOPHAGUS WAS OPENED IN SECRET",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Antiquities Dealer",
+        "The Expedition Doctor",
+        "The Head Excavator",
+        "The Epigrapher"
+      ],
+      "rooms": [
+        "The Antechamber",
+        "The Supply Depot",
+        "The Sarcophagus Hall",
+        "The Darkroom"
+      ],
+      "weapons": [
+        "Kerosene Lantern",
+        "Bronze Chisel",
+        "Surveyor's Heavy Hammer",
+        "Poison-Tipped Stylus"
+      ],
+      "clues": [
+        "The Expedition Doctor was confirmed to be in The Sarcophagus Hall.",
+        "The Head Excavator was discovered carrying the Kerosene Lantern.",
+        "The investigator found the Surveyor's Heavy Hammer inside The Darkroom.",
+        "The Antiquities Dealer was never seen near The Supply Depot.",
+        "The Antiquities Dealer had no access to the Kerosene Lantern.",
+        "The weapon recovered from The Antechamber was definitely not the Kerosene Lantern.",
+        "Neither The Antiquities Dealer nor The Epigrapher had ever visited The Sarcophagus Hall.",
+        "The lethal strike occurred in The Antechamber, leaving behind the deadly Poison-Tipped Stylus.",
+        "The Antiquities Dealer had no access to the Surveyor's Heavy Hammer."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Antiquities Dealer",
+      "murder_room": "The Antechamber",
+      "murder_weapon": "Poison-Tipped Stylus",
+      "full_mapping": {
+        "The Antiquities Dealer": {
+          "room": "The Antechamber",
+          "weapon": "Poison-Tipped Stylus"
+        },
+        "The Expedition Doctor": {
+          "room": "The Sarcophagus Hall",
+          "weapon": "Bronze Chisel"
+        },
+        "The Head Excavator": {
+          "room": "The Supply Depot",
+          "weapon": "Kerosene Lantern"
+        },
+        "The Epigrapher": {
+          "room": "The Darkroom",
+          "weapon": "Surveyor's Heavy Hammer"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 9,
+    "title": "Case #009: The Mystery of The Dining Saloon",
+    "theme": "The Royal Airship Sabotage",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Airship Sabotage. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "D",
+          "O",
+          "A",
+          "B",
+          "K",
+          "W",
+          "M",
+          "F",
+          "O",
+          "I"
+        ],
+        [
+          "K",
+          "S",
+          "T",
+          "E",
+          "L",
+          "E",
+          "G",
+          "R",
+          "A",
+          "M"
+        ],
+        [
+          "G",
+          "O",
+          "G",
+          "G",
+          "L",
+          "E",
+          "S",
+          "T",
+          "U",
+          "R"
+        ],
+        [
+          "C",
+          "L",
+          "A",
+          "P",
+          "R",
+          "B",
+          "D",
+          "N",
+          "C",
+          "I"
+        ],
+        [
+          "E",
+          "J",
+          "L",
+          "N",
+          "W",
+          "K",
+          "V",
+          "V",
+          "S",
+          "L"
+        ],
+        [
+          "J",
+          "L",
+          "C",
+          "S",
+          "Y",
+          "S",
+          "U",
+          "A",
+          "T",
+          "U"
+        ],
+        [
+          "W",
+          "U",
+          "G",
+          "A",
+          "U",
+          "G",
+          "E",
+          "L",
+          "Q",
+          "L"
+        ],
+        [
+          "G",
+          "D",
+          "E",
+          "B",
+          "Y",
+          "S",
+          "X",
+          "V",
+          "E",
+          "M"
+        ],
+        [
+          "P",
+          "S",
+          "P",
+          "A",
+          "R",
+          "K",
+          "X",
+          "E",
+          "Z",
+          "P"
+        ],
+        [
+          "F",
+          "X",
+          "Z",
+          "M",
+          "B",
+          "O",
+          "C",
+          "K",
+          "Z",
+          "F"
+        ]
+      ],
+      "words_to_find": [
+        "VALVE",
+        "GAUGE",
+        "TELEGRAM",
+        "SPARK",
+        "GOGGLES"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "PHHW PH RQ SURPHQDGH GHFN DW GXVN",
+      "plaintext": "MEET ME ON PROMENADE DECK AT DUSK",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "Countess Natalia",
+        "The Chief Engineer",
+        "The Radio Officer",
+        "The Stowaway"
+      ],
+      "rooms": [
+        "The Dining Saloon",
+        "The Promenade Deck",
+        "The Cargo Bay",
+        "Engine Gondola No. 1"
+      ],
+      "weapons": [
+        "Heavy Spanner Wrench",
+        "Engraved Signal Dagger",
+        "Nylon Parachute Cord",
+        "Brass Flare Pistol"
+      ],
+      "clues": [
+        "The Chief Engineer was confirmed to be in The Cargo Bay.",
+        "The Radio Officer was discovered carrying the Engraved Signal Dagger.",
+        "The investigator found the Heavy Spanner Wrench inside The Promenade Deck.",
+        "Countess Natalia was never seen near The Promenade Deck.",
+        "Countess Natalia had no access to the Heavy Spanner Wrench.",
+        "The weapon recovered from The Dining Saloon was definitely not the Engraved Signal Dagger.",
+        "Neither Countess Natalia nor The Stowaway had ever visited The Cargo Bay.",
+        "The lethal strike occurred in The Dining Saloon, leaving behind the deadly Nylon Parachute Cord."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "Countess Natalia",
+      "murder_room": "The Dining Saloon",
+      "murder_weapon": "Nylon Parachute Cord",
+      "full_mapping": {
+        "Countess Natalia": {
+          "room": "The Dining Saloon",
+          "weapon": "Nylon Parachute Cord"
+        },
+        "The Chief Engineer": {
+          "room": "The Cargo Bay",
+          "weapon": "Brass Flare Pistol"
+        },
+        "The Radio Officer": {
+          "room": "Engine Gondola No. 1",
+          "weapon": "Engraved Signal Dagger"
+        },
+        "The Stowaway": {
+          "room": "The Promenade Deck",
+          "weapon": "Heavy Spanner Wrench"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 10,
+    "title": "Case #010: The Mystery of The Royal Box",
+    "theme": "The Grand Opera House Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Grand Opera House Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "N",
+          "P",
+          "C",
+          "V",
+          "B",
+          "Z",
+          "W",
+          "L",
+          "D",
+          "L"
+        ],
+        [
+          "T",
+          "R",
+          "F",
+          "J",
+          "G",
+          "C",
+          "G",
+          "M",
+          "Y",
+          "Z"
+        ],
+        [
+          "I",
+          "T",
+          "Y",
+          "Y",
+          "Y",
+          "M",
+          "O",
+          "B",
+          "A",
+          "R"
+        ],
+        [
+          "L",
+          "N",
+          "M",
+          "I",
+          "R",
+          "R",
+          "O",
+          "R",
+          "T",
+          "I"
+        ],
+        [
+          "M",
+          "O",
+          "U",
+          "A",
+          "W",
+          "M",
+          "L",
+          "B",
+          "I",
+          "W"
+        ],
+        [
+          "R",
+          "P",
+          "O",
+          "W",
+          "D",
+          "E",
+          "R",
+          "O",
+          "C",
+          "S"
+        ],
+        [
+          "X",
+          "C",
+          "M",
+          "A",
+          "K",
+          "E",
+          "U",
+          "P",
+          "K",
+          "C"
+        ],
+        [
+          "C",
+          "Q",
+          "G",
+          "K",
+          "F",
+          "V",
+          "S",
+          "J",
+          "E",
+          "O"
+        ],
+        [
+          "L",
+          "B",
+          "X",
+          "P",
+          "J",
+          "A",
+          "G",
+          "J",
+          "T",
+          "R"
+        ],
+        [
+          "H",
+          "C",
+          "O",
+          "Q",
+          "T",
+          "M",
+          "Z",
+          "Q",
+          "R",
+          "E"
+        ]
+      ],
+      "words_to_find": [
+        "POWDER",
+        "TICKET",
+        "SCORE",
+        "MIRROR",
+        "MAKEUP"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "PDHVWUR SRXUHG WKH VSUDB EHIRUH DFW WZR",
+      "plaintext": "MAESTRO POURED THE SPRAY BEFORE ACT TWO",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Prima Donna",
+        "The Lead Tenor",
+        "The Orchestra Maestro",
+        "The Costume Mistress"
+      ],
+      "rooms": [
+        "The Maestro's Suite",
+        "The Royal Box",
+        "The Green Room",
+        "The Orchestra Pit"
+      ],
+      "weapons": [
+        "Chandelier Cable",
+        "Antique Prop Rapier",
+        "Poisoned Throat Spray",
+        "Weighted Sandbag"
+      ],
+      "clues": [
+        "The Lead Tenor was confirmed to be in The Maestro's Suite.",
+        "The Orchestra Maestro was discovered carrying the Chandelier Cable.",
+        "The investigator found the Weighted Sandbag inside The Orchestra Pit.",
+        "The Prima Donna was never seen near The Maestro's Suite.",
+        "The Prima Donna had no access to the Chandelier Cable.",
+        "The weapon recovered from The Maestro's Suite was definitely not the Chandelier Cable.",
+        "Neither The Prima Donna nor The Costume Mistress had ever visited The Maestro's Suite.",
+        "The lethal strike occurred in The Royal Box, leaving behind the deadly Antique Prop Rapier.",
+        "The Prima Donna had no access to the Weighted Sandbag."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Prima Donna",
+      "murder_room": "The Royal Box",
+      "murder_weapon": "Antique Prop Rapier",
+      "full_mapping": {
+        "The Prima Donna": {
+          "room": "The Royal Box",
+          "weapon": "Antique Prop Rapier"
+        },
+        "The Lead Tenor": {
+          "room": "The Maestro's Suite",
+          "weapon": "Poisoned Throat Spray"
+        },
+        "The Orchestra Maestro": {
+          "room": "The Green Room",
+          "weapon": "Chandelier Cable"
+        },
+        "The Costume Mistress": {
+          "room": "The Orchestra Pit",
+          "weapon": "Weighted Sandbag"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 11,
+    "title": "Case #011: The Mystery of The Herbarium",
+    "theme": "The Royal Botanical Gardens Conspiracy",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Botanical Gardens Conspiracy. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "D",
+          "B",
+          "U",
+          "A",
+          "O",
+          "G",
+          "B",
+          "U",
+          "L",
+          "B"
+        ],
+        [
+          "A",
+          "P",
+          "M",
+          "D",
+          "J",
+          "L",
+          "M",
+          "O",
+          "Z",
+          "R"
+        ],
+        [
+          "Y",
+          "G",
+          "H",
+          "G",
+          "L",
+          "O",
+          "V",
+          "E",
+          "S",
+          "L"
+        ],
+        [
+          "F",
+          "E",
+          "R",
+          "T",
+          "I",
+          "L",
+          "I",
+          "Z",
+          "E",
+          "R"
+        ],
+        [
+          "P",
+          "N",
+          "I",
+          "I",
+          "V",
+          "W",
+          "J",
+          "N",
+          "G",
+          "B"
+        ],
+        [
+          "X",
+          "I",
+          "I",
+          "X",
+          "P",
+          "J",
+          "V",
+          "P",
+          "W",
+          "D"
+        ],
+        [
+          "T",
+          "M",
+          "T",
+          "H",
+          "H",
+          "Y",
+          "K",
+          "X",
+          "O",
+          "K"
+        ],
+        [
+          "M",
+          "G",
+          "R",
+          "S",
+          "P",
+          "O",
+          "R",
+          "E",
+          "S",
+          "Z"
+        ],
+        [
+          "S",
+          "H",
+          "E",
+          "A",
+          "R",
+          "S",
+          "Q",
+          "G",
+          "U",
+          "A"
+        ],
+        [
+          "J",
+          "W",
+          "E",
+          "B",
+          "T",
+          "I",
+          "G",
+          "G",
+          "O",
+          "C"
+        ]
+      ],
+      "words_to_find": [
+        "FERTILIZER",
+        "SHEARS",
+        "SPORES",
+        "BULB",
+        "GLOVES"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH ERWDQLVW ORFNHG WKH KHUEDULXP",
+      "plaintext": "THE BOTANIST LOCKED THE HERBARIUM",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Herbalist",
+        "The Wealthy Patron",
+        "The Visiting Diplomat",
+        "The Venom Researcher"
+      ],
+      "rooms": [
+        "The Director's Study",
+        "The Poison Garden",
+        "The Palm House",
+        "The Herbarium"
+      ],
+      "weapons": [
+        "Serrated Grafting Knife",
+        "Fumigation Gas Canister",
+        "Heavy Stone Mortar",
+        "Deadly Nightshade Extract"
+      ],
+      "clues": [
+        "The Wealthy Patron was confirmed to be in The Director's Study.",
+        "The Visiting Diplomat was discovered carrying the Serrated Grafting Knife.",
+        "The investigator found the Deadly Nightshade Extract inside The Palm House.",
+        "The Herbalist was never seen near The Director's Study.",
+        "The Herbalist had no access to the Serrated Grafting Knife.",
+        "The weapon recovered from The Director's Study was definitely not the Serrated Grafting Knife.",
+        "Neither The Herbalist nor The Venom Researcher had ever visited The Director's Study.",
+        "The lethal strike occurred in The Herbarium, leaving behind the deadly Heavy Stone Mortar.",
+        "The Herbalist had no access to the Deadly Nightshade Extract."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Herbalist",
+      "murder_room": "The Herbarium",
+      "murder_weapon": "Heavy Stone Mortar",
+      "full_mapping": {
+        "The Herbalist": {
+          "room": "The Herbarium",
+          "weapon": "Heavy Stone Mortar"
+        },
+        "The Wealthy Patron": {
+          "room": "The Director's Study",
+          "weapon": "Fumigation Gas Canister"
+        },
+        "The Visiting Diplomat": {
+          "room": "The Poison Garden",
+          "weapon": "Serrated Grafting Knife"
+        },
+        "The Venom Researcher": {
+          "room": "The Palm House",
+          "weapon": "Deadly Nightshade Extract"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 12,
+    "title": "Case #012: The Mystery of The Excavation Camp Tent",
+    "theme": "The Valley of the Kings Expedition",
+    "briefing": "An urgent homicide dispatch has arrived from The Valley of the Kings Expedition. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "V",
+          "F",
+          "D",
+          "S",
+          "Z",
+          "D",
+          "J",
+          "G",
+          "Z",
+          "F"
+        ],
+        [
+          "B",
+          "P",
+          "A",
+          "P",
+          "Y",
+          "R",
+          "U",
+          "S",
+          "G",
+          "H"
+        ],
+        [
+          "G",
+          "A",
+          "M",
+          "U",
+          "L",
+          "E",
+          "T",
+          "G",
+          "A",
+          "N"
+        ],
+        [
+          "T",
+          "Z",
+          "G",
+          "H",
+          "W",
+          "W",
+          "K",
+          "B",
+          "Y",
+          "Q"
+        ],
+        [
+          "O",
+          "Z",
+          "I",
+          "E",
+          "C",
+          "H",
+          "I",
+          "S",
+          "E",
+          "L"
+        ],
+        [
+          "Y",
+          "Z",
+          "N",
+          "E",
+          "Y",
+          "G",
+          "X",
+          "W",
+          "A",
+          "Q"
+        ],
+        [
+          "T",
+          "W",
+          "W",
+          "K",
+          "F",
+          "X",
+          "Z",
+          "B",
+          "U",
+          "X"
+        ],
+        [
+          "A",
+          "U",
+          "S",
+          "A",
+          "N",
+          "D",
+          "T",
+          "Z",
+          "N",
+          "G"
+        ],
+        [
+          "S",
+          "C",
+          "A",
+          "R",
+          "A",
+          "B",
+          "S",
+          "W",
+          "F",
+          "D"
+        ],
+        [
+          "X",
+          "A",
+          "T",
+          "S",
+          "T",
+          "V",
+          "H",
+          "Y",
+          "O",
+          "N"
+        ]
+      ],
+      "words_to_find": [
+        "AMULET",
+        "SAND",
+        "CHISEL",
+        "PAPYRUS",
+        "SCARAB"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH GRFWRU JDYH D OHWKDO PRUSKLQH GRVH",
+      "plaintext": "THE DOCTOR GAVE A LETHAL MORPHINE DOSE",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Wealthy Sponsor",
+        "The Antiquities Dealer",
+        "The Head Excavator",
+        "The Epigrapher"
+      ],
+      "rooms": [
+        "The Antechamber",
+        "The Sarcophagus Hall",
+        "The Excavation Camp Tent",
+        "The Burial Chamber"
+      ],
+      "weapons": [
+        "Excavator's Pickaxe",
+        "Kerosene Lantern",
+        "Bronze Chisel",
+        "Arsenic Preservative"
+      ],
+      "clues": [
+        "The Antiquities Dealer was confirmed to be in The Antechamber.",
+        "The Head Excavator was discovered carrying the Excavator's Pickaxe.",
+        "The investigator found the Arsenic Preservative inside The Sarcophagus Hall.",
+        "The Wealthy Sponsor was never seen near The Antechamber.",
+        "The Wealthy Sponsor had no access to the Excavator's Pickaxe.",
+        "The weapon recovered from The Antechamber was definitely not the Excavator's Pickaxe.",
+        "Neither The Wealthy Sponsor nor The Epigrapher had ever visited The Antechamber.",
+        "The lethal strike occurred in The Excavation Camp Tent, leaving behind the deadly Kerosene Lantern.",
+        "The Wealthy Sponsor had no access to the Arsenic Preservative."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Wealthy Sponsor",
+      "murder_room": "The Excavation Camp Tent",
+      "murder_weapon": "Kerosene Lantern",
+      "full_mapping": {
+        "The Wealthy Sponsor": {
+          "room": "The Excavation Camp Tent",
+          "weapon": "Kerosene Lantern"
+        },
+        "The Antiquities Dealer": {
+          "room": "The Antechamber",
+          "weapon": "Bronze Chisel"
+        },
+        "The Head Excavator": {
+          "room": "The Burial Chamber",
+          "weapon": "Excavator's Pickaxe"
+        },
+        "The Epigrapher": {
+          "room": "The Sarcophagus Hall",
+          "weapon": "Arsenic Preservative"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 13,
+    "title": "Case #013: The Mystery of The Navigation Bridge",
+    "theme": "The Royal Airship Sabotage",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Airship Sabotage. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "I",
+          "L",
+          "G",
+          "O",
+          "G",
+          "G",
+          "L",
+          "E",
+          "S",
+          "K"
+        ],
+        [
+          "Y",
+          "Z",
+          "Z",
+          "F",
+          "M",
+          "X",
+          "Q",
+          "G",
+          "T",
+          "Z"
+        ],
+        [
+          "P",
+          "D",
+          "E",
+          "M",
+          "B",
+          "L",
+          "O",
+          "T",
+          "Z",
+          "W"
+        ],
+        [
+          "U",
+          "I",
+          "A",
+          "V",
+          "E",
+          "N",
+          "E",
+          "J",
+          "J",
+          "V"
+        ],
+        [
+          "S",
+          "P",
+          "A",
+          "R",
+          "K",
+          "G",
+          "U",
+          "P",
+          "Q",
+          "A"
+        ],
+        [
+          "M",
+          "C",
+          "O",
+          "M",
+          "P",
+          "A",
+          "S",
+          "S",
+          "C",
+          "L"
+        ],
+        [
+          "H",
+          "C",
+          "T",
+          "S",
+          "G",
+          "C",
+          "T",
+          "A",
+          "U",
+          "V"
+        ],
+        [
+          "T",
+          "E",
+          "L",
+          "E",
+          "G",
+          "R",
+          "A",
+          "M",
+          "K",
+          "E"
+        ],
+        [
+          "A",
+          "I",
+          "E",
+          "H",
+          "X",
+          "L",
+          "Q",
+          "M",
+          "B",
+          "V"
+        ],
+        [
+          "L",
+          "T",
+          "J",
+          "C",
+          "B",
+          "E",
+          "F",
+          "M",
+          "P",
+          "B"
+        ]
+      ],
+      "words_to_find": [
+        "COMPASS",
+        "TELEGRAM",
+        "GOGGLES",
+        "SPARK",
+        "VALVE"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FRXQWHVV KLG WKH GLDPRQG LQ VDORRQ",
+      "plaintext": "THE COUNTESS HID THE DIAMOND IN SALOON",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "Countess Natalia",
+        "The Stowaway",
+        "The Radio Officer",
+        "Captain Sterling"
+      ],
+      "rooms": [
+        "The Promenade Deck",
+        "The Navigation Bridge",
+        "Engine Gondola No. 1",
+        "The Wireless Shack"
+      ],
+      "weapons": [
+        "Poisoned Cocktail",
+        "Heavy Spanner Wrench",
+        "Nylon Parachute Cord",
+        "Brass Flare Pistol"
+      ],
+      "clues": [
+        "The Stowaway was confirmed to be in The Wireless Shack.",
+        "The Radio Officer was discovered carrying the Nylon Parachute Cord.",
+        "The investigator found the Brass Flare Pistol inside The Promenade Deck.",
+        "Countess Natalia was never seen near The Promenade Deck.",
+        "Countess Natalia had no access to the Heavy Spanner Wrench.",
+        "The weapon recovered from The Promenade Deck was definitely not the Nylon Parachute Cord.",
+        "Neither Countess Natalia nor Captain Sterling had ever visited The Wireless Shack.",
+        "The lethal strike occurred in The Navigation Bridge, leaving behind the deadly Poisoned Cocktail."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "Countess Natalia",
+      "murder_room": "The Navigation Bridge",
+      "murder_weapon": "Poisoned Cocktail",
+      "full_mapping": {
+        "Countess Natalia": {
+          "room": "The Navigation Bridge",
+          "weapon": "Poisoned Cocktail"
+        },
+        "The Stowaway": {
+          "room": "The Wireless Shack",
+          "weapon": "Heavy Spanner Wrench"
+        },
+        "The Radio Officer": {
+          "room": "Engine Gondola No. 1",
+          "weapon": "Nylon Parachute Cord"
+        },
+        "Captain Sterling": {
+          "room": "The Promenade Deck",
+          "weapon": "Brass Flare Pistol"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 14,
+    "title": "Case #014: The Mystery of The Green Room",
+    "theme": "The Grand Opera House Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Grand Opera House Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "O",
+          "C",
+          "I",
+          "L",
+          "B",
+          "T",
+          "X",
+          "T",
+          "P",
+          "N"
+        ],
+        [
+          "T",
+          "P",
+          "M",
+          "I",
+          "R",
+          "R",
+          "O",
+          "R",
+          "O",
+          "N"
+        ],
+        [
+          "R",
+          "T",
+          "M",
+          "A",
+          "K",
+          "E",
+          "U",
+          "P",
+          "W",
+          "N"
+        ],
+        [
+          "J",
+          "J",
+          "N",
+          "D",
+          "Z",
+          "R",
+          "H",
+          "T",
+          "D",
+          "C"
+        ],
+        [
+          "C",
+          "A",
+          "M",
+          "L",
+          "Q",
+          "G",
+          "A",
+          "V",
+          "E",
+          "Z"
+        ],
+        [
+          "F",
+          "M",
+          "S",
+          "M",
+          "C",
+          "G",
+          "H",
+          "W",
+          "R",
+          "W"
+        ],
+        [
+          "F",
+          "U",
+          "J",
+          "Y",
+          "H",
+          "G",
+          "T",
+          "Y",
+          "A",
+          "I"
+        ],
+        [
+          "V",
+          "E",
+          "L",
+          "V",
+          "E",
+          "T",
+          "M",
+          "V",
+          "E",
+          "B"
+        ],
+        [
+          "K",
+          "B",
+          "S",
+          "O",
+          "P",
+          "E",
+          "R",
+          "A",
+          "Y",
+          "A"
+        ],
+        [
+          "L",
+          "B",
+          "Z",
+          "N",
+          "J",
+          "O",
+          "Z",
+          "G",
+          "A",
+          "H"
+        ]
+      ],
+      "words_to_find": [
+        "MAKEUP",
+        "VELVET",
+        "MIRROR",
+        "POWDER",
+        "OPERA"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH UDSLHU ZDV VKDUSHQHG ZLWK UHDO VWHHO",
+      "plaintext": "THE RAPIER WAS SHARPENED WITH REAL STEEL",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Stage Director",
+        "The Costume Mistress",
+        "The Theater Critic",
+        "The Prima Donna"
+      ],
+      "rooms": [
+        "The Green Room",
+        "Costume Wardrobe",
+        "The Fly Loft Above Stage",
+        "The Maestro's Suite"
+      ],
+      "weapons": [
+        "Antique Prop Rapier",
+        "Chandelier Cable",
+        "Weighted Sandbag",
+        "Silk Dressing Gown Belt"
+      ],
+      "clues": [
+        "The Costume Mistress was confirmed to be in The Fly Loft Above Stage.",
+        "The Theater Critic was discovered carrying the Antique Prop Rapier.",
+        "The investigator found the Chandelier Cable inside Costume Wardrobe.",
+        "The Stage Director was never seen near Costume Wardrobe.",
+        "The Stage Director had no access to the Antique Prop Rapier.",
+        "The weapon recovered from The Green Room was definitely not the Antique Prop Rapier.",
+        "Neither The Stage Director nor The Prima Donna had ever visited The Fly Loft Above Stage.",
+        "The lethal strike occurred in The Green Room, leaving behind the deadly Silk Dressing Gown Belt."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Stage Director",
+      "murder_room": "The Green Room",
+      "murder_weapon": "Silk Dressing Gown Belt",
+      "full_mapping": {
+        "The Stage Director": {
+          "room": "The Green Room",
+          "weapon": "Silk Dressing Gown Belt"
+        },
+        "The Costume Mistress": {
+          "room": "The Fly Loft Above Stage",
+          "weapon": "Weighted Sandbag"
+        },
+        "The Theater Critic": {
+          "room": "The Maestro's Suite",
+          "weapon": "Antique Prop Rapier"
+        },
+        "The Prima Donna": {
+          "room": "Costume Wardrobe",
+          "weapon": "Chandelier Cable"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 15,
+    "title": "Case #015: The Mystery of The Root Cellar Lab",
+    "theme": "The Royal Botanical Gardens Conspiracy",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Botanical Gardens Conspiracy. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "M",
+          "P",
+          "E",
+          "T",
+          "A",
+          "L",
+          "W",
+          "U",
+          "X",
+          "Q"
+        ],
+        [
+          "K",
+          "Y",
+          "C",
+          "I",
+          "Q",
+          "D",
+          "U",
+          "S",
+          "F",
+          "K"
+        ],
+        [
+          "M",
+          "E",
+          "G",
+          "D",
+          "C",
+          "I",
+          "O",
+          "L",
+          "X",
+          "W"
+        ],
+        [
+          "F",
+          "E",
+          "R",
+          "T",
+          "I",
+          "L",
+          "I",
+          "Z",
+          "E",
+          "R"
+        ],
+        [
+          "S",
+          "O",
+          "S",
+          "H",
+          "E",
+          "A",
+          "R",
+          "S",
+          "W",
+          "R"
+        ],
+        [
+          "I",
+          "U",
+          "U",
+          "H",
+          "S",
+          "S",
+          "O",
+          "I",
+          "L",
+          "G"
+        ],
+        [
+          "C",
+          "T",
+          "A",
+          "B",
+          "Q",
+          "K",
+          "P",
+          "J",
+          "B",
+          "Y"
+        ],
+        [
+          "I",
+          "E",
+          "I",
+          "U",
+          "A",
+          "V",
+          "X",
+          "R",
+          "R",
+          "K"
+        ],
+        [
+          "V",
+          "W",
+          "H",
+          "L",
+          "L",
+          "S",
+          "T",
+          "S",
+          "M",
+          "U"
+        ],
+        [
+          "L",
+          "N",
+          "Y",
+          "B",
+          "E",
+          "T",
+          "Z",
+          "X",
+          "R",
+          "F"
+        ]
+      ],
+      "words_to_find": [
+        "FERTILIZER",
+        "BULB",
+        "PETAL",
+        "SOIL",
+        "SHEARS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH QLJKWVKDGH ZDV KDUYHVWHG DW PLGQLJKW",
+      "plaintext": "THE NIGHTSHADE WAS HARVESTED AT MIDNIGHT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Visiting Diplomat",
+        "The Chief Botanist",
+        "The Wealthy Patron",
+        "The Herbalist"
+      ],
+      "rooms": [
+        "The Root Cellar Lab",
+        "The Herbarium",
+        "The Palm House",
+        "The Director's Study"
+      ],
+      "weapons": [
+        "Serrated Grafting Knife",
+        "Heavy Stone Mortar",
+        "Pruning Shears",
+        "Deadly Nightshade Extract"
+      ],
+      "clues": [
+        "The Chief Botanist was confirmed to be in The Herbarium.",
+        "The Wealthy Patron was discovered carrying the Deadly Nightshade Extract.",
+        "The investigator found the Heavy Stone Mortar inside The Director's Study.",
+        "The Visiting Diplomat was never seen near The Herbarium.",
+        "The Visiting Diplomat had no access to the Heavy Stone Mortar.",
+        "The weapon recovered from The Root Cellar Lab was definitely not the Deadly Nightshade Extract.",
+        "Neither The Visiting Diplomat nor The Herbalist had ever visited The Herbarium.",
+        "The lethal strike occurred in The Root Cellar Lab, leaving behind the deadly Serrated Grafting Knife."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Visiting Diplomat",
+      "murder_room": "The Root Cellar Lab",
+      "murder_weapon": "Serrated Grafting Knife",
+      "full_mapping": {
+        "The Visiting Diplomat": {
+          "room": "The Root Cellar Lab",
+          "weapon": "Serrated Grafting Knife"
+        },
+        "The Chief Botanist": {
+          "room": "The Herbarium",
+          "weapon": "Pruning Shears"
+        },
+        "The Wealthy Patron": {
+          "room": "The Palm House",
+          "weapon": "Deadly Nightshade Extract"
+        },
+        "The Herbalist": {
+          "room": "The Director's Study",
+          "weapon": "Heavy Stone Mortar"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 16,
+    "title": "Case #016: The Mystery of The Burial Chamber",
+    "theme": "The Valley of the Kings Expedition",
+    "briefing": "An urgent homicide dispatch has arrived from The Valley of the Kings Expedition. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "V",
+          "M",
+          "C",
+          "R",
+          "C",
+          "O",
+          "C",
+          "B",
+          "D",
+          "U"
+        ],
+        [
+          "R",
+          "N",
+          "H",
+          "S",
+          "A",
+          "P",
+          "S",
+          "K",
+          "U",
+          "S"
+        ],
+        [
+          "J",
+          "I",
+          "Z",
+          "B",
+          "Z",
+          "E",
+          "A",
+          "T",
+          "S",
+          "U"
+        ],
+        [
+          "M",
+          "O",
+          "Q",
+          "L",
+          "R",
+          "J",
+          "N",
+          "O",
+          "T",
+          "H"
+        ],
+        [
+          "E",
+          "M",
+          "T",
+          "V",
+          "T",
+          "S",
+          "D",
+          "R",
+          "I",
+          "X"
+        ],
+        [
+          "T",
+          "C",
+          "P",
+          "V",
+          "G",
+          "O",
+          "S",
+          "C",
+          "B",
+          "K"
+        ],
+        [
+          "C",
+          "B",
+          "O",
+          "J",
+          "U",
+          "Y",
+          "F",
+          "H",
+          "H",
+          "H"
+        ],
+        [
+          "T",
+          "A",
+          "P",
+          "A",
+          "P",
+          "Y",
+          "R",
+          "U",
+          "S",
+          "X"
+        ],
+        [
+          "Z",
+          "W",
+          "C",
+          "B",
+          "M",
+          "I",
+          "L",
+          "A",
+          "A",
+          "P"
+        ],
+        [
+          "S",
+          "C",
+          "A",
+          "R",
+          "A",
+          "B",
+          "F",
+          "E",
+          "V",
+          "K"
+        ]
+      ],
+      "words_to_find": [
+        "TORCH",
+        "SAND",
+        "DUST",
+        "SCARAB",
+        "PAPYRUS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH HSLJUDSKHU KLG WKH JROGHQ VFDUDE",
+      "plaintext": "THE EPIGRAPHER HID THE GOLDEN SCARAB",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Expedition Doctor",
+        "The Epigrapher",
+        "The Wealthy Sponsor",
+        "The Head Excavator"
+      ],
+      "rooms": [
+        "The Sarcophagus Hall",
+        "The Darkroom",
+        "The Burial Chamber",
+        "The Excavation Camp Tent"
+      ],
+      "weapons": [
+        "Surveyor's Heavy Hammer",
+        "Arsenic Preservative",
+        "Kerosene Lantern",
+        "Excavator's Pickaxe"
+      ],
+      "clues": [
+        "The Epigrapher was confirmed to be in The Sarcophagus Hall.",
+        "The Wealthy Sponsor was discovered carrying the Kerosene Lantern.",
+        "The investigator found the Arsenic Preservative inside The Excavation Camp Tent.",
+        "The Expedition Doctor was never seen near The Sarcophagus Hall.",
+        "The Expedition Doctor had no access to the Arsenic Preservative.",
+        "The weapon recovered from The Sarcophagus Hall was definitely not the Kerosene Lantern.",
+        "Neither The Expedition Doctor nor The Head Excavator had ever visited The Sarcophagus Hall.",
+        "The lethal strike occurred in The Burial Chamber, leaving behind the deadly Surveyor's Heavy Hammer."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Expedition Doctor",
+      "murder_room": "The Burial Chamber",
+      "murder_weapon": "Surveyor's Heavy Hammer",
+      "full_mapping": {
+        "The Expedition Doctor": {
+          "room": "The Burial Chamber",
+          "weapon": "Surveyor's Heavy Hammer"
+        },
+        "The Epigrapher": {
+          "room": "The Sarcophagus Hall",
+          "weapon": "Excavator's Pickaxe"
+        },
+        "The Wealthy Sponsor": {
+          "room": "The Darkroom",
+          "weapon": "Kerosene Lantern"
+        },
+        "The Head Excavator": {
+          "room": "The Excavation Camp Tent",
+          "weapon": "Arsenic Preservative"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 17,
+    "title": "Case #017: The Mystery of The Cargo Bay",
+    "theme": "The Royal Airship Sabotage",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Airship Sabotage. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "P",
+          "U",
+          "B",
+          "F",
+          "Z",
+          "Y",
+          "B",
+          "V",
+          "E",
+          "P"
+        ],
+        [
+          "Q",
+          "W",
+          "C",
+          "P",
+          "I",
+          "H",
+          "G",
+          "Y",
+          "I",
+          "M"
+        ],
+        [
+          "I",
+          "J",
+          "E",
+          "X",
+          "G",
+          "D",
+          "A",
+          "G",
+          "S",
+          "Q"
+        ],
+        [
+          "D",
+          "Y",
+          "Z",
+          "D",
+          "B",
+          "P",
+          "U",
+          "E",
+          "C",
+          "X"
+        ],
+        [
+          "O",
+          "S",
+          "P",
+          "A",
+          "R",
+          "K",
+          "G",
+          "U",
+          "F",
+          "B"
+        ],
+        [
+          "B",
+          "C",
+          "I",
+          "F",
+          "D",
+          "G",
+          "E",
+          "B",
+          "Y",
+          "P"
+        ],
+        [
+          "C",
+          "O",
+          "M",
+          "P",
+          "A",
+          "S",
+          "S",
+          "D",
+          "Z",
+          "A"
+        ],
+        [
+          "F",
+          "E",
+          "H",
+          "T",
+          "E",
+          "N",
+          "K",
+          "Y",
+          "T",
+          "T"
+        ],
+        [
+          "O",
+          "I",
+          "L",
+          "S",
+          "T",
+          "A",
+          "I",
+          "N",
+          "G",
+          "C"
+        ],
+        [
+          "W",
+          "W",
+          "U",
+          "C",
+          "C",
+          "R",
+          "W",
+          "M",
+          "J",
+          "H"
+        ]
+      ],
+      "words_to_find": [
+        "SPARK",
+        "PATCH",
+        "GAUGE",
+        "COMPASS",
+        "OILSTAIN"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "FDSWDLQ VWHUOLQJ FRQFHDOHG WKH ORJERRN",
+      "plaintext": "CAPTAIN STERLING CONCEALED THE LOGBOOK",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Wealthy Aviator",
+        "The Stowaway",
+        "The Chief Engineer",
+        "The Radio Officer"
+      ],
+      "rooms": [
+        "The Wireless Shack",
+        "The Dining Saloon",
+        "The Cargo Bay",
+        "Engine Gondola No. 1"
+      ],
+      "weapons": [
+        "Nylon Parachute Cord",
+        "Engraved Signal Dagger",
+        "Severed Helium Valve",
+        "Brass Flare Pistol"
+      ],
+      "clues": [
+        "The Stowaway was confirmed to be in Engine Gondola No. 1.",
+        "The Chief Engineer was discovered carrying the Nylon Parachute Cord.",
+        "The investigator found the Engraved Signal Dagger inside The Dining Saloon.",
+        "The Wealthy Aviator was never seen near The Wireless Shack.",
+        "The Wealthy Aviator had no access to the Nylon Parachute Cord.",
+        "The weapon recovered from The Dining Saloon was definitely not the Nylon Parachute Cord.",
+        "Neither The Wealthy Aviator nor The Radio Officer had ever visited Engine Gondola No. 1.",
+        "The lethal strike occurred in The Cargo Bay, leaving behind the deadly Severed Helium Valve.",
+        "The Wealthy Aviator had no access to the Engraved Signal Dagger."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Wealthy Aviator",
+      "murder_room": "The Cargo Bay",
+      "murder_weapon": "Severed Helium Valve",
+      "full_mapping": {
+        "The Wealthy Aviator": {
+          "room": "The Cargo Bay",
+          "weapon": "Severed Helium Valve"
+        },
+        "The Stowaway": {
+          "room": "Engine Gondola No. 1",
+          "weapon": "Brass Flare Pistol"
+        },
+        "The Chief Engineer": {
+          "room": "The Wireless Shack",
+          "weapon": "Nylon Parachute Cord"
+        },
+        "The Radio Officer": {
+          "room": "The Dining Saloon",
+          "weapon": "Engraved Signal Dagger"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 18,
+    "title": "Case #018: The Mystery of The Orchestra Pit",
+    "theme": "The Grand Opera House Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Grand Opera House Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "I",
+          "O",
+          "P",
+          "K",
+          "J",
+          "Q",
+          "Y",
+          "J",
+          "X",
+          "P"
+        ],
+        [
+          "A",
+          "F",
+          "T",
+          "M",
+          "W",
+          "V",
+          "X",
+          "E",
+          "P",
+          "R"
+        ],
+        [
+          "M",
+          "I",
+          "R",
+          "R",
+          "O",
+          "R",
+          "O",
+          "P",
+          "E",
+          "H"
+        ],
+        [
+          "W",
+          "Z",
+          "B",
+          "V",
+          "E",
+          "M",
+          "O",
+          "H",
+          "V",
+          "Y"
+        ],
+        [
+          "Q",
+          "Y",
+          "H",
+          "L",
+          "W",
+          "T",
+          "D",
+          "T",
+          "E",
+          "P"
+        ],
+        [
+          "I",
+          "C",
+          "T",
+          "Q",
+          "W",
+          "T",
+          "N",
+          "D",
+          "L",
+          "O"
+        ],
+        [
+          "C",
+          "U",
+          "S",
+          "N",
+          "A",
+          "L",
+          "B",
+          "G",
+          "V",
+          "W"
+        ],
+        [
+          "U",
+          "C",
+          "G",
+          "M",
+          "Z",
+          "K",
+          "J",
+          "Z",
+          "E",
+          "D"
+        ],
+        [
+          "O",
+          "P",
+          "E",
+          "R",
+          "A",
+          "W",
+          "H",
+          "D",
+          "T",
+          "E"
+        ],
+        [
+          "R",
+          "N",
+          "A",
+          "C",
+          "T",
+          "Q",
+          "F",
+          "B",
+          "V",
+          "R"
+        ]
+      ],
+      "words_to_find": [
+        "ROPE",
+        "MIRROR",
+        "OPERA",
+        "VELVET",
+        "POWDER"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH FULWLF UHFHLYHG EODFNPDLO LQ ERA",
+      "plaintext": "THE CRITIC RECEIVED BLACKMAIL IN BOX",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Stage Director",
+        "The Costume Mistress",
+        "The Orchestra Maestro",
+        "The Prima Donna"
+      ],
+      "rooms": [
+        "The Orchestra Pit",
+        "The Green Room",
+        "The Royal Box",
+        "Costume Wardrobe"
+      ],
+      "weapons": [
+        "Silk Dressing Gown Belt",
+        "Poisoned Throat Spray",
+        "Antique Prop Rapier",
+        "Silver Tuning Fork"
+      ],
+      "clues": [
+        "The Costume Mistress was confirmed to be in The Green Room.",
+        "The Orchestra Maestro was discovered carrying the Silk Dressing Gown Belt.",
+        "The investigator found the Poisoned Throat Spray inside Costume Wardrobe.",
+        "The Stage Director was never seen near The Green Room.",
+        "The Stage Director had no access to the Silk Dressing Gown Belt.",
+        "The weapon recovered from The Orchestra Pit was definitely not the Silk Dressing Gown Belt.",
+        "Neither The Stage Director nor The Prima Donna had ever visited The Green Room.",
+        "The lethal strike occurred in The Orchestra Pit, leaving behind the deadly Antique Prop Rapier.",
+        "The Stage Director had no access to the Poisoned Throat Spray."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Stage Director",
+      "murder_room": "The Orchestra Pit",
+      "murder_weapon": "Antique Prop Rapier",
+      "full_mapping": {
+        "The Stage Director": {
+          "room": "The Orchestra Pit",
+          "weapon": "Antique Prop Rapier"
+        },
+        "The Costume Mistress": {
+          "room": "The Green Room",
+          "weapon": "Silver Tuning Fork"
+        },
+        "The Orchestra Maestro": {
+          "room": "The Royal Box",
+          "weapon": "Silk Dressing Gown Belt"
+        },
+        "The Prima Donna": {
+          "room": "Costume Wardrobe",
+          "weapon": "Poisoned Throat Spray"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 19,
+    "title": "Case #019: The Mystery of The Root Cellar Lab",
+    "theme": "The Royal Botanical Gardens Conspiracy",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Botanical Gardens Conspiracy. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "H",
+          "O",
+          "P",
+          "D",
+          "Z",
+          "F",
+          "D",
+          "A",
+          "H",
+          "F"
+        ],
+        [
+          "S",
+          "N",
+          "W",
+          "S",
+          "H",
+          "E",
+          "A",
+          "R",
+          "S",
+          "E"
+        ],
+        [
+          "O",
+          "J",
+          "S",
+          "P",
+          "O",
+          "R",
+          "E",
+          "S",
+          "H",
+          "R"
+        ],
+        [
+          "I",
+          "M",
+          "R",
+          "L",
+          "H",
+          "U",
+          "V",
+          "E",
+          "D",
+          "T"
+        ],
+        [
+          "L",
+          "A",
+          "L",
+          "T",
+          "X",
+          "B",
+          "X",
+          "C",
+          "W",
+          "I"
+        ],
+        [
+          "H",
+          "L",
+          "J",
+          "W",
+          "I",
+          "I",
+          "Y",
+          "K",
+          "T",
+          "L"
+        ],
+        [
+          "H",
+          "D",
+          "H",
+          "Z",
+          "W",
+          "S",
+          "X",
+          "X",
+          "B",
+          "I"
+        ],
+        [
+          "R",
+          "G",
+          "B",
+          "W",
+          "N",
+          "N",
+          "Q",
+          "C",
+          "U",
+          "Z"
+        ],
+        [
+          "V",
+          "B",
+          "U",
+          "L",
+          "F",
+          "V",
+          "E",
+          "D",
+          "L",
+          "E"
+        ],
+        [
+          "I",
+          "P",
+          "B",
+          "D",
+          "X",
+          "I",
+          "O",
+          "H",
+          "B",
+          "R"
+        ]
+      ],
+      "words_to_find": [
+        "BULB",
+        "FERTILIZER",
+        "SOIL",
+        "SHEARS",
+        "SPORES"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH ERWDQLVW ORFNHG WKH KHUEDULXP",
+      "plaintext": "THE BOTANIST LOCKED THE HERBARIUM",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Estate Groundskeeper",
+        "The Chief Botanist",
+        "The Venom Researcher",
+        "The Visiting Diplomat"
+      ],
+      "rooms": [
+        "The Herbarium",
+        "The Orchid Conservatory",
+        "The Root Cellar Lab",
+        "The Director's Study"
+      ],
+      "weapons": [
+        "Serrated Grafting Knife",
+        "Pruning Shears",
+        "Fumigation Gas Canister",
+        "Deadly Nightshade Extract"
+      ],
+      "clues": [
+        "The Chief Botanist was confirmed to be in The Orchid Conservatory.",
+        "The Venom Researcher was discovered carrying the Deadly Nightshade Extract.",
+        "The investigator found the Fumigation Gas Canister inside The Director's Study.",
+        "The Estate Groundskeeper was never seen near The Herbarium.",
+        "The Estate Groundskeeper had no access to the Serrated Grafting Knife.",
+        "The weapon recovered from The Orchid Conservatory was definitely not the Deadly Nightshade Extract.",
+        "Neither The Estate Groundskeeper nor The Visiting Diplomat had ever visited The Orchid Conservatory.",
+        "The lethal strike occurred in The Root Cellar Lab, leaving behind the deadly Pruning Shears.",
+        "The Estate Groundskeeper had no access to the Fumigation Gas Canister."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Estate Groundskeeper",
+      "murder_room": "The Root Cellar Lab",
+      "murder_weapon": "Pruning Shears",
+      "full_mapping": {
+        "The Estate Groundskeeper": {
+          "room": "The Root Cellar Lab",
+          "weapon": "Pruning Shears"
+        },
+        "The Chief Botanist": {
+          "room": "The Orchid Conservatory",
+          "weapon": "Serrated Grafting Knife"
+        },
+        "The Venom Researcher": {
+          "room": "The Herbarium",
+          "weapon": "Deadly Nightshade Extract"
+        },
+        "The Visiting Diplomat": {
+          "room": "The Director's Study",
+          "weapon": "Fumigation Gas Canister"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 20,
+    "title": "Case #020: The Mystery of The Antechamber",
+    "theme": "The Valley of the Kings Expedition",
+    "briefing": "An urgent homicide dispatch has arrived from The Valley of the Kings Expedition. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "U",
+          "A",
+          "M",
+          "U",
+          "L",
+          "E",
+          "T",
+          "H",
+          "B",
+          "C"
+        ],
+        [
+          "J",
+          "Y",
+          "T",
+          "R",
+          "A",
+          "M",
+          "N",
+          "O",
+          "C",
+          "S"
+        ],
+        [
+          "Z",
+          "A",
+          "Z",
+          "C",
+          "Q",
+          "O",
+          "Y",
+          "T",
+          "G",
+          "C"
+        ],
+        [
+          "T",
+          "F",
+          "D",
+          "U",
+          "S",
+          "T",
+          "Q",
+          "Q",
+          "C",
+          "A"
+        ],
+        [
+          "Z",
+          "W",
+          "T",
+          "W",
+          "Y",
+          "O",
+          "D",
+          "T",
+          "B",
+          "R"
+        ],
+        [
+          "V",
+          "Z",
+          "R",
+          "T",
+          "O",
+          "R",
+          "L",
+          "F",
+          "V",
+          "A"
+        ],
+        [
+          "G",
+          "I",
+          "F",
+          "Z",
+          "D",
+          "C",
+          "N",
+          "H",
+          "L",
+          "B"
+        ],
+        [
+          "C",
+          "D",
+          "Z",
+          "Z",
+          "A",
+          "H",
+          "P",
+          "X",
+          "N",
+          "A"
+        ],
+        [
+          "G",
+          "O",
+          "L",
+          "D",
+          "Y",
+          "J",
+          "H",
+          "P",
+          "Z",
+          "U"
+        ],
+        [
+          "F",
+          "K",
+          "T",
+          "T",
+          "R",
+          "N",
+          "V",
+          "N",
+          "Z",
+          "G"
+        ]
+      ],
+      "words_to_find": [
+        "GOLD",
+        "SCARAB",
+        "DUST",
+        "TORCH",
+        "AMULET"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH SLFNDAH ZDV EXULHG EHKLQG WKH WHQW",
+      "plaintext": "THE PICKAXE WAS BURIED BEHIND THE TENT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Antiquities Dealer",
+        "The Wealthy Sponsor",
+        "The Lead Archaeologist",
+        "The Head Excavator"
+      ],
+      "rooms": [
+        "The Excavation Camp Tent",
+        "The Sarcophagus Hall",
+        "The Antechamber",
+        "The Supply Depot"
+      ],
+      "weapons": [
+        "Excavator's Pickaxe",
+        "Poison-Tipped Stylus",
+        "Kerosene Lantern",
+        "Surveyor's Heavy Hammer"
+      ],
+      "clues": [
+        "The Wealthy Sponsor was confirmed to be in The Supply Depot.",
+        "The Lead Archaeologist was discovered carrying the Poison-Tipped Stylus.",
+        "The investigator found the Excavator's Pickaxe inside The Sarcophagus Hall.",
+        "The Antiquities Dealer was never seen near The Excavation Camp Tent.",
+        "The Antiquities Dealer had no access to the Excavator's Pickaxe.",
+        "The weapon recovered from The Sarcophagus Hall was definitely not the Poison-Tipped Stylus.",
+        "Neither The Antiquities Dealer nor The Head Excavator had ever visited The Supply Depot.",
+        "The lethal strike occurred in The Antechamber, leaving behind the deadly Kerosene Lantern."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Antiquities Dealer",
+      "murder_room": "The Antechamber",
+      "murder_weapon": "Kerosene Lantern",
+      "full_mapping": {
+        "The Antiquities Dealer": {
+          "room": "The Antechamber",
+          "weapon": "Kerosene Lantern"
+        },
+        "The Wealthy Sponsor": {
+          "room": "The Supply Depot",
+          "weapon": "Surveyor's Heavy Hammer"
+        },
+        "The Lead Archaeologist": {
+          "room": "The Excavation Camp Tent",
+          "weapon": "Poison-Tipped Stylus"
+        },
+        "The Head Excavator": {
+          "room": "The Sarcophagus Hall",
+          "weapon": "Excavator's Pickaxe"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 21,
+    "title": "Case #021: The Mystery of Engine Gondola No. 1",
+    "theme": "The Royal Airship Sabotage",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Airship Sabotage. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "E",
+          "K",
+          "O",
+          "T",
+          "W",
+          "E",
+          "U",
+          "D",
+          "K",
+          "R"
+        ],
+        [
+          "J",
+          "I",
+          "T",
+          "E",
+          "L",
+          "E",
+          "G",
+          "R",
+          "A",
+          "M"
+        ],
+        [
+          "R",
+          "V",
+          "R",
+          "V",
+          "A",
+          "L",
+          "V",
+          "E",
+          "R",
+          "O"
+        ],
+        [
+          "Q",
+          "P",
+          "V",
+          "S",
+          "L",
+          "T",
+          "V",
+          "N",
+          "M",
+          "I"
+        ],
+        [
+          "X",
+          "S",
+          "P",
+          "A",
+          "R",
+          "K",
+          "B",
+          "E",
+          "N",
+          "L"
+        ],
+        [
+          "M",
+          "K",
+          "G",
+          "G",
+          "L",
+          "S",
+          "L",
+          "U",
+          "D",
+          "S"
+        ],
+        [
+          "H",
+          "V",
+          "A",
+          "D",
+          "O",
+          "E",
+          "F",
+          "N",
+          "H",
+          "T"
+        ],
+        [
+          "Z",
+          "D",
+          "U",
+          "T",
+          "H",
+          "C",
+          "A",
+          "I",
+          "F",
+          "A"
+        ],
+        [
+          "S",
+          "A",
+          "G",
+          "N",
+          "X",
+          "T",
+          "K",
+          "D",
+          "Q",
+          "I"
+        ],
+        [
+          "T",
+          "Q",
+          "E",
+          "T",
+          "X",
+          "H",
+          "T",
+          "L",
+          "S",
+          "N"
+        ]
+      ],
+      "words_to_find": [
+        "GAUGE",
+        "OILSTAIN",
+        "TELEGRAM",
+        "VALVE",
+        "SPARK"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "FDSWDLQ VWHUOLQJ FRQFHDOHG WKH ORJERRN",
+      "plaintext": "CAPTAIN STERLING CONCEALED THE LOGBOOK",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "Captain Sterling",
+        "The Chief Engineer",
+        "The Radio Officer",
+        "The Wealthy Aviator"
+      ],
+      "rooms": [
+        "Engine Gondola No. 1",
+        "The Navigation Bridge",
+        "The Cargo Bay",
+        "The Dining Saloon"
+      ],
+      "weapons": [
+        "Engraved Signal Dagger",
+        "Heavy Spanner Wrench",
+        "Nylon Parachute Cord",
+        "Severed Helium Valve"
+      ],
+      "clues": [
+        "The Chief Engineer was confirmed to be in The Cargo Bay.",
+        "The Radio Officer was discovered carrying the Heavy Spanner Wrench.",
+        "The investigator found the Engraved Signal Dagger inside The Dining Saloon.",
+        "Captain Sterling was never seen near The Navigation Bridge.",
+        "Captain Sterling had no access to the Engraved Signal Dagger.",
+        "The weapon recovered from Engine Gondola No. 1 was definitely not the Heavy Spanner Wrench.",
+        "Neither Captain Sterling nor The Wealthy Aviator had ever visited The Cargo Bay.",
+        "The lethal strike occurred in Engine Gondola No. 1, leaving behind the deadly Severed Helium Valve."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "Captain Sterling",
+      "murder_room": "Engine Gondola No. 1",
+      "murder_weapon": "Severed Helium Valve",
+      "full_mapping": {
+        "Captain Sterling": {
+          "room": "Engine Gondola No. 1",
+          "weapon": "Severed Helium Valve"
+        },
+        "The Chief Engineer": {
+          "room": "The Cargo Bay",
+          "weapon": "Nylon Parachute Cord"
+        },
+        "The Radio Officer": {
+          "room": "The Navigation Bridge",
+          "weapon": "Heavy Spanner Wrench"
+        },
+        "The Wealthy Aviator": {
+          "room": "The Dining Saloon",
+          "weapon": "Engraved Signal Dagger"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 22,
+    "title": "Case #022: The Mystery of The Maestro's Suite",
+    "theme": "The Grand Opera House Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Grand Opera House Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "X",
+          "P",
+          "V",
+          "R",
+          "W",
+          "U",
+          "K",
+          "O",
+          "G",
+          "S"
+        ],
+        [
+          "Y",
+          "Z",
+          "T",
+          "W",
+          "W",
+          "R",
+          "O",
+          "W",
+          "J",
+          "U"
+        ],
+        [
+          "Z",
+          "C",
+          "I",
+          "K",
+          "D",
+          "V",
+          "H",
+          "E",
+          "H",
+          "Q"
+        ],
+        [
+          "V",
+          "I",
+          "C",
+          "N",
+          "W",
+          "V",
+          "Z",
+          "O",
+          "F",
+          "S"
+        ],
+        [
+          "O",
+          "P",
+          "K",
+          "L",
+          "P",
+          "O",
+          "I",
+          "L",
+          "M",
+          "Q"
+        ],
+        [
+          "Y",
+          "U",
+          "E",
+          "W",
+          "M",
+          "A",
+          "K",
+          "E",
+          "U",
+          "P"
+        ],
+        [
+          "G",
+          "F",
+          "T",
+          "J",
+          "O",
+          "O",
+          "P",
+          "E",
+          "R",
+          "A"
+        ],
+        [
+          "S",
+          "M",
+          "I",
+          "R",
+          "R",
+          "O",
+          "R",
+          "W",
+          "Y",
+          "L"
+        ],
+        [
+          "N",
+          "E",
+          "P",
+          "O",
+          "W",
+          "D",
+          "E",
+          "R",
+          "G",
+          "L"
+        ],
+        [
+          "O",
+          "K",
+          "B",
+          "G",
+          "C",
+          "B",
+          "A",
+          "C",
+          "L",
+          "B"
+        ]
+      ],
+      "words_to_find": [
+        "OPERA",
+        "MIRROR",
+        "MAKEUP",
+        "TICKET",
+        "POWDER"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH UDSLHU ZDV VKDUSHQHG ZLWK UHDO VWHHO",
+      "plaintext": "THE RAPIER WAS SHARPENED WITH REAL STEEL",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Lead Tenor",
+        "The Stage Director",
+        "The Orchestra Maestro",
+        "The Prima Donna"
+      ],
+      "rooms": [
+        "The Royal Box",
+        "The Fly Loft Above Stage",
+        "Costume Wardrobe",
+        "The Maestro's Suite"
+      ],
+      "weapons": [
+        "Weighted Sandbag",
+        "Silver Tuning Fork",
+        "Silk Dressing Gown Belt",
+        "Chandelier Cable"
+      ],
+      "clues": [
+        "The Stage Director was confirmed to be in The Fly Loft Above Stage.",
+        "The Orchestra Maestro was discovered carrying the Weighted Sandbag.",
+        "The investigator found the Chandelier Cable inside Costume Wardrobe.",
+        "The Lead Tenor was never seen near The Royal Box.",
+        "The Lead Tenor had no access to the Weighted Sandbag.",
+        "The weapon recovered from The Fly Loft Above Stage was definitely not the Weighted Sandbag.",
+        "Neither The Lead Tenor nor The Prima Donna had ever visited The Fly Loft Above Stage.",
+        "The lethal strike occurred in The Maestro's Suite, leaving behind the deadly Silver Tuning Fork.",
+        "The Lead Tenor had no access to the Chandelier Cable."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Lead Tenor",
+      "murder_room": "The Maestro's Suite",
+      "murder_weapon": "Silver Tuning Fork",
+      "full_mapping": {
+        "The Lead Tenor": {
+          "room": "The Maestro's Suite",
+          "weapon": "Silver Tuning Fork"
+        },
+        "The Stage Director": {
+          "room": "The Fly Loft Above Stage",
+          "weapon": "Silk Dressing Gown Belt"
+        },
+        "The Orchestra Maestro": {
+          "room": "The Royal Box",
+          "weapon": "Weighted Sandbag"
+        },
+        "The Prima Donna": {
+          "room": "Costume Wardrobe",
+          "weapon": "Chandelier Cable"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 23,
+    "title": "Case #023: The Mystery of The Herbarium",
+    "theme": "The Royal Botanical Gardens Conspiracy",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Botanical Gardens Conspiracy. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "B",
+          "M",
+          "E",
+          "Q",
+          "Q",
+          "S",
+          "K",
+          "D",
+          "G",
+          "F"
+        ],
+        [
+          "P",
+          "T",
+          "K",
+          "G",
+          "L",
+          "O",
+          "S",
+          "T",
+          "O",
+          "E"
+        ],
+        [
+          "E",
+          "E",
+          "L",
+          "L",
+          "I",
+          "I",
+          "S",
+          "P",
+          "E",
+          "R"
+        ],
+        [
+          "M",
+          "B",
+          "L",
+          "O",
+          "D",
+          "L",
+          "H",
+          "O",
+          "Y",
+          "T"
+        ],
+        [
+          "T",
+          "B",
+          "E",
+          "V",
+          "L",
+          "D",
+          "E",
+          "H",
+          "B",
+          "I"
+        ],
+        [
+          "M",
+          "P",
+          "R",
+          "E",
+          "L",
+          "H",
+          "A",
+          "M",
+          "D",
+          "L"
+        ],
+        [
+          "X",
+          "E",
+          "P",
+          "S",
+          "B",
+          "B",
+          "R",
+          "I",
+          "C",
+          "I"
+        ],
+        [
+          "D",
+          "T",
+          "J",
+          "Z",
+          "M",
+          "T",
+          "S",
+          "P",
+          "W",
+          "Z"
+        ],
+        [
+          "Z",
+          "A",
+          "Q",
+          "M",
+          "X",
+          "Q",
+          "V",
+          "N",
+          "W",
+          "E"
+        ],
+        [
+          "H",
+          "L",
+          "E",
+          "V",
+          "Y",
+          "C",
+          "L",
+          "B",
+          "X",
+          "R"
+        ]
+      ],
+      "words_to_find": [
+        "FERTILIZER",
+        "GLOVES",
+        "SHEARS",
+        "PETAL",
+        "SOIL"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "FKHFN WKH URRW FHOODU IRU WKH JDV",
+      "plaintext": "CHECK THE ROOT CELLAR FOR THE GAS",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Herbalist",
+        "The Chief Botanist",
+        "The Estate Groundskeeper",
+        "The Wealthy Patron"
+      ],
+      "rooms": [
+        "The Palm House",
+        "The Poison Garden",
+        "The Director's Study",
+        "The Herbarium"
+      ],
+      "weapons": [
+        "Spiked Plant Stake",
+        "Deadly Nightshade Extract",
+        "Pruning Shears",
+        "Fumigation Gas Canister"
+      ],
+      "clues": [
+        "The Chief Botanist was confirmed to be in The Director's Study.",
+        "The Estate Groundskeeper was discovered carrying the Pruning Shears.",
+        "The investigator found the Fumigation Gas Canister inside The Poison Garden.",
+        "The Herbalist was never seen near The Palm House.",
+        "The Herbalist had no access to the Spiked Plant Stake.",
+        "The weapon recovered from The Poison Garden was definitely not the Pruning Shears.",
+        "Neither The Herbalist nor The Wealthy Patron had ever visited The Director's Study.",
+        "The lethal strike occurred in The Herbarium, leaving behind the deadly Deadly Nightshade Extract.",
+        "The Herbalist had no access to the Fumigation Gas Canister."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Herbalist",
+      "murder_room": "The Herbarium",
+      "murder_weapon": "Deadly Nightshade Extract",
+      "full_mapping": {
+        "The Herbalist": {
+          "room": "The Herbarium",
+          "weapon": "Deadly Nightshade Extract"
+        },
+        "The Chief Botanist": {
+          "room": "The Director's Study",
+          "weapon": "Spiked Plant Stake"
+        },
+        "The Estate Groundskeeper": {
+          "room": "The Palm House",
+          "weapon": "Pruning Shears"
+        },
+        "The Wealthy Patron": {
+          "room": "The Poison Garden",
+          "weapon": "Fumigation Gas Canister"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 24,
+    "title": "Case #024: The Mystery of The Excavation Camp Tent",
+    "theme": "The Valley of the Kings Expedition",
+    "briefing": "An urgent homicide dispatch has arrived from The Valley of the Kings Expedition. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "C",
+          "X",
+          "O",
+          "P",
+          "Z",
+          "I",
+          "E",
+          "K",
+          "T",
+          "I"
+        ],
+        [
+          "H",
+          "Y",
+          "I",
+          "J",
+          "B",
+          "H",
+          "D",
+          "X",
+          "I",
+          "T"
+        ],
+        [
+          "I",
+          "N",
+          "S",
+          "I",
+          "D",
+          "S",
+          "I",
+          "D",
+          "O",
+          "R"
+        ],
+        [
+          "S",
+          "J",
+          "H",
+          "O",
+          "Y",
+          "F",
+          "E",
+          "C",
+          "G",
+          "L"
+        ],
+        [
+          "E",
+          "K",
+          "P",
+          "A",
+          "P",
+          "Y",
+          "R",
+          "U",
+          "S",
+          "W"
+        ],
+        [
+          "L",
+          "G",
+          "O",
+          "L",
+          "D",
+          "Q",
+          "C",
+          "H",
+          "Z",
+          "W"
+        ],
+        [
+          "S",
+          "C",
+          "A",
+          "R",
+          "A",
+          "B",
+          "S",
+          "C",
+          "J",
+          "U"
+        ],
+        [
+          "E",
+          "U",
+          "C",
+          "R",
+          "U",
+          "Y",
+          "L",
+          "K",
+          "H",
+          "S"
+        ],
+        [
+          "D",
+          "J",
+          "P",
+          "F",
+          "H",
+          "L",
+          "X",
+          "D",
+          "D",
+          "F"
+        ],
+        [
+          "A",
+          "M",
+          "U",
+          "L",
+          "E",
+          "T",
+          "X",
+          "L",
+          "I",
+          "B"
+        ]
+      ],
+      "words_to_find": [
+        "PAPYRUS",
+        "SCARAB",
+        "AMULET",
+        "GOLD",
+        "CHISEL"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH VSRQVRU IRUJHG WKH HAFDYDWLRQ SHUPLW",
+      "plaintext": "THE SPONSOR FORGED THE EXCAVATION PERMIT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Lead Archaeologist",
+        "The Antiquities Dealer",
+        "The Epigrapher",
+        "The Head Excavator"
+      ],
+      "rooms": [
+        "The Darkroom",
+        "The Antechamber",
+        "The Excavation Camp Tent",
+        "The Supply Depot"
+      ],
+      "weapons": [
+        "Poison-Tipped Stylus",
+        "Surveyor's Heavy Hammer",
+        "Arsenic Preservative",
+        "Excavator's Pickaxe"
+      ],
+      "clues": [
+        "The Antiquities Dealer was confirmed to be in The Supply Depot.",
+        "The Epigrapher was discovered carrying the Poison-Tipped Stylus.",
+        "The investigator found the Excavator's Pickaxe inside The Darkroom.",
+        "The Lead Archaeologist was never seen near The Darkroom.",
+        "The Lead Archaeologist had no access to the Poison-Tipped Stylus.",
+        "The weapon recovered from The Darkroom was definitely not the Poison-Tipped Stylus.",
+        "Neither The Lead Archaeologist nor The Head Excavator had ever visited The Supply Depot.",
+        "The lethal strike occurred in The Excavation Camp Tent, leaving behind the deadly Surveyor's Heavy Hammer."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Lead Archaeologist",
+      "murder_room": "The Excavation Camp Tent",
+      "murder_weapon": "Surveyor's Heavy Hammer",
+      "full_mapping": {
+        "The Lead Archaeologist": {
+          "room": "The Excavation Camp Tent",
+          "weapon": "Surveyor's Heavy Hammer"
+        },
+        "The Antiquities Dealer": {
+          "room": "The Supply Depot",
+          "weapon": "Arsenic Preservative"
+        },
+        "The Epigrapher": {
+          "room": "The Antechamber",
+          "weapon": "Poison-Tipped Stylus"
+        },
+        "The Head Excavator": {
+          "room": "The Darkroom",
+          "weapon": "Excavator's Pickaxe"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 25,
+    "title": "Case #025: The Mystery of The Promenade Deck",
+    "theme": "The Royal Airship Sabotage",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Airship Sabotage. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "M",
+          "M",
+          "R",
+          "W",
+          "K",
+          "E",
+          "Q",
+          "V",
+          "G",
+          "B"
+        ],
+        [
+          "Z",
+          "K",
+          "O",
+          "M",
+          "I",
+          "U",
+          "Q",
+          "B",
+          "N",
+          "O"
+        ],
+        [
+          "R",
+          "E",
+          "V",
+          "G",
+          "G",
+          "F",
+          "S",
+          "M",
+          "N",
+          "B"
+        ],
+        [
+          "K",
+          "O",
+          "I",
+          "L",
+          "S",
+          "T",
+          "A",
+          "I",
+          "N",
+          "G"
+        ],
+        [
+          "W",
+          "N",
+          "S",
+          "P",
+          "A",
+          "R",
+          "K",
+          "Y",
+          "H",
+          "E"
+        ],
+        [
+          "C",
+          "O",
+          "M",
+          "P",
+          "A",
+          "S",
+          "S",
+          "I",
+          "S",
+          "Q"
+        ],
+        [
+          "S",
+          "A",
+          "F",
+          "E",
+          "K",
+          "A",
+          "V",
+          "V",
+          "O",
+          "D"
+        ],
+        [
+          "Z",
+          "J",
+          "T",
+          "L",
+          "W",
+          "Y",
+          "K",
+          "E",
+          "L",
+          "U"
+        ],
+        [
+          "V",
+          "A",
+          "L",
+          "V",
+          "E",
+          "G",
+          "A",
+          "V",
+          "L",
+          "M"
+        ],
+        [
+          "G",
+          "O",
+          "G",
+          "G",
+          "L",
+          "E",
+          "S",
+          "G",
+          "Y",
+          "W"
+        ]
+      ],
+      "words_to_find": [
+        "GOGGLES",
+        "SPARK",
+        "OILSTAIN",
+        "VALVE",
+        "COMPASS"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH YDOYH ZDV FXW EHIRUH GHSDUWXUH",
+      "plaintext": "THE VALVE WAS CUT BEFORE DEPARTURE",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Chief Engineer",
+        "Captain Sterling",
+        "The Stowaway",
+        "The Wealthy Aviator"
+      ],
+      "rooms": [
+        "Engine Gondola No. 1",
+        "The Promenade Deck",
+        "The Cargo Bay",
+        "The Dining Saloon"
+      ],
+      "weapons": [
+        "Poisoned Cocktail",
+        "Engraved Signal Dagger",
+        "Nylon Parachute Cord",
+        "Severed Helium Valve"
+      ],
+      "clues": [
+        "Captain Sterling was confirmed to be in The Dining Saloon.",
+        "The Stowaway was discovered carrying the Poisoned Cocktail.",
+        "The investigator found the Severed Helium Valve inside The Cargo Bay.",
+        "The Chief Engineer was never seen near Engine Gondola No. 1.",
+        "The Chief Engineer had no access to the Poisoned Cocktail.",
+        "The weapon recovered from The Promenade Deck was definitely not the Poisoned Cocktail.",
+        "Neither The Chief Engineer nor The Wealthy Aviator had ever visited The Dining Saloon.",
+        "The lethal strike occurred in The Promenade Deck, leaving behind the deadly Nylon Parachute Cord.",
+        "The Chief Engineer had no access to the Severed Helium Valve."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Chief Engineer",
+      "murder_room": "The Promenade Deck",
+      "murder_weapon": "Nylon Parachute Cord",
+      "full_mapping": {
+        "The Chief Engineer": {
+          "room": "The Promenade Deck",
+          "weapon": "Nylon Parachute Cord"
+        },
+        "Captain Sterling": {
+          "room": "The Dining Saloon",
+          "weapon": "Engraved Signal Dagger"
+        },
+        "The Stowaway": {
+          "room": "Engine Gondola No. 1",
+          "weapon": "Poisoned Cocktail"
+        },
+        "The Wealthy Aviator": {
+          "room": "The Cargo Bay",
+          "weapon": "Severed Helium Valve"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 26,
+    "title": "Case #026: The Mystery of The Orchestra Pit",
+    "theme": "The Grand Opera House Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Grand Opera House Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "Y",
+          "X",
+          "D",
+          "K",
+          "L",
+          "R",
+          "K",
+          "V",
+          "W",
+          "J"
+        ],
+        [
+          "W",
+          "N",
+          "Y",
+          "O",
+          "S",
+          "E",
+          "I",
+          "O",
+          "Q",
+          "X"
+        ],
+        [
+          "O",
+          "T",
+          "H",
+          "Q",
+          "C",
+          "H",
+          "U",
+          "P",
+          "O",
+          "E"
+        ],
+        [
+          "Z",
+          "M",
+          "R",
+          "E",
+          "O",
+          "U",
+          "T",
+          "E",
+          "G",
+          "Q"
+        ],
+        [
+          "W",
+          "I",
+          "Y",
+          "Q",
+          "R",
+          "V",
+          "I",
+          "R",
+          "L",
+          "Y"
+        ],
+        [
+          "C",
+          "R",
+          "T",
+          "V",
+          "E",
+          "E",
+          "C",
+          "A",
+          "A",
+          "S"
+        ],
+        [
+          "M",
+          "R",
+          "V",
+          "C",
+          "P",
+          "L",
+          "K",
+          "S",
+          "O",
+          "V"
+        ],
+        [
+          "A",
+          "O",
+          "G",
+          "G",
+          "N",
+          "V",
+          "E",
+          "F",
+          "S",
+          "C"
+        ],
+        [
+          "J",
+          "R",
+          "S",
+          "N",
+          "E",
+          "E",
+          "T",
+          "T",
+          "U",
+          "Z"
+        ],
+        [
+          "F",
+          "M",
+          "K",
+          "S",
+          "R",
+          "T",
+          "J",
+          "A",
+          "P",
+          "W"
+        ]
+      ],
+      "words_to_find": [
+        "OPERA",
+        "VELVET",
+        "MIRROR",
+        "SCORE",
+        "TICKET"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "PDHVWUR SRXUHG WKH VSUDB EHIRUH DFW WZR",
+      "plaintext": "MAESTRO POURED THE SPRAY BEFORE ACT TWO",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Stage Director",
+        "The Theater Critic",
+        "The Orchestra Maestro",
+        "The Lead Tenor"
+      ],
+      "rooms": [
+        "The Maestro's Suite",
+        "The Green Room",
+        "The Fly Loft Above Stage",
+        "The Orchestra Pit"
+      ],
+      "weapons": [
+        "Poisoned Throat Spray",
+        "Antique Prop Rapier",
+        "Silver Tuning Fork",
+        "Chandelier Cable"
+      ],
+      "clues": [
+        "The Theater Critic was confirmed to be in The Green Room.",
+        "The Orchestra Maestro was discovered carrying the Poisoned Throat Spray.",
+        "The investigator found the Antique Prop Rapier inside The Maestro's Suite.",
+        "The Stage Director was never seen near The Maestro's Suite.",
+        "The Stage Director had no access to the Poisoned Throat Spray.",
+        "The weapon recovered from The Maestro's Suite was definitely not the Poisoned Throat Spray.",
+        "Neither The Stage Director nor The Lead Tenor had ever visited The Green Room.",
+        "The lethal strike occurred in The Orchestra Pit, leaving behind the deadly Chandelier Cable."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Stage Director",
+      "murder_room": "The Orchestra Pit",
+      "murder_weapon": "Chandelier Cable",
+      "full_mapping": {
+        "The Stage Director": {
+          "room": "The Orchestra Pit",
+          "weapon": "Chandelier Cable"
+        },
+        "The Theater Critic": {
+          "room": "The Green Room",
+          "weapon": "Silver Tuning Fork"
+        },
+        "The Orchestra Maestro": {
+          "room": "The Fly Loft Above Stage",
+          "weapon": "Poisoned Throat Spray"
+        },
+        "The Lead Tenor": {
+          "room": "The Maestro's Suite",
+          "weapon": "Antique Prop Rapier"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 27,
+    "title": "Case #027: The Mystery of The Palm House",
+    "theme": "The Royal Botanical Gardens Conspiracy",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Botanical Gardens Conspiracy. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "F",
+          "E",
+          "R",
+          "T",
+          "I",
+          "L",
+          "I",
+          "Z",
+          "E",
+          "R"
+        ],
+        [
+          "A",
+          "R",
+          "M",
+          "S",
+          "G",
+          "L",
+          "O",
+          "V",
+          "E",
+          "S"
+        ],
+        [
+          "F",
+          "U",
+          "N",
+          "A",
+          "N",
+          "Z",
+          "Z",
+          "P",
+          "Z",
+          "W"
+        ],
+        [
+          "S",
+          "K",
+          "J",
+          "P",
+          "O",
+          "L",
+          "L",
+          "E",
+          "N",
+          "P"
+        ],
+        [
+          "H",
+          "J",
+          "O",
+          "M",
+          "B",
+          "C",
+          "A",
+          "V",
+          "G",
+          "A"
+        ],
+        [
+          "E",
+          "M",
+          "Z",
+          "F",
+          "S",
+          "Y",
+          "V",
+          "C",
+          "A",
+          "C"
+        ],
+        [
+          "A",
+          "K",
+          "Y",
+          "E",
+          "O",
+          "H",
+          "X",
+          "D",
+          "W",
+          "M"
+        ],
+        [
+          "R",
+          "O",
+          "G",
+          "U",
+          "I",
+          "D",
+          "G",
+          "Z",
+          "K",
+          "G"
+        ],
+        [
+          "S",
+          "H",
+          "L",
+          "O",
+          "L",
+          "X",
+          "X",
+          "H",
+          "W",
+          "A"
+        ],
+        [
+          "X",
+          "U",
+          "B",
+          "B",
+          "T",
+          "T",
+          "H",
+          "Z",
+          "Y",
+          "M"
+        ]
+      ],
+      "words_to_find": [
+        "GLOVES",
+        "SHEARS",
+        "POLLEN",
+        "FERTILIZER",
+        "SOIL"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH QLJKWVKDGH ZDV KDUYHVWHG DW PLGQLJKW",
+      "plaintext": "THE NIGHTSHADE WAS HARVESTED AT MIDNIGHT",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Wealthy Patron",
+        "The Herbalist",
+        "The Estate Groundskeeper",
+        "The Chief Botanist"
+      ],
+      "rooms": [
+        "The Director's Study",
+        "The Palm House",
+        "The Root Cellar Lab",
+        "The Herbarium"
+      ],
+      "weapons": [
+        "Pruning Shears",
+        "Serrated Grafting Knife",
+        "Heavy Stone Mortar",
+        "Deadly Nightshade Extract"
+      ],
+      "clues": [
+        "The Herbalist was confirmed to be in The Director's Study.",
+        "The Estate Groundskeeper was discovered carrying the Deadly Nightshade Extract.",
+        "The investigator found the Pruning Shears inside The Herbarium.",
+        "The Wealthy Patron was never seen near The Director's Study.",
+        "The Wealthy Patron had no access to the Pruning Shears.",
+        "The weapon recovered from The Director's Study was definitely not the Deadly Nightshade Extract.",
+        "Neither The Wealthy Patron nor The Chief Botanist had ever visited The Director's Study.",
+        "The lethal strike occurred in The Palm House, leaving behind the deadly Serrated Grafting Knife."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Wealthy Patron",
+      "murder_room": "The Palm House",
+      "murder_weapon": "Serrated Grafting Knife",
+      "full_mapping": {
+        "The Wealthy Patron": {
+          "room": "The Palm House",
+          "weapon": "Serrated Grafting Knife"
+        },
+        "The Herbalist": {
+          "room": "The Director's Study",
+          "weapon": "Heavy Stone Mortar"
+        },
+        "The Estate Groundskeeper": {
+          "room": "The Root Cellar Lab",
+          "weapon": "Deadly Nightshade Extract"
+        },
+        "The Chief Botanist": {
+          "room": "The Herbarium",
+          "weapon": "Pruning Shears"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 28,
+    "title": "Case #028: The Mystery of The Darkroom",
+    "theme": "The Valley of the Kings Expedition",
+    "briefing": "An urgent homicide dispatch has arrived from The Valley of the Kings Expedition. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "S",
+          "B",
+          "O",
+          "O",
+          "M",
+          "H",
+          "G",
+          "Q",
+          "T",
+          "J"
+        ],
+        [
+          "V",
+          "R",
+          "P",
+          "A",
+          "P",
+          "Y",
+          "R",
+          "U",
+          "S",
+          "G"
+        ],
+        [
+          "J",
+          "X",
+          "V",
+          "P",
+          "X",
+          "D",
+          "W",
+          "C",
+          "G",
+          "N"
+        ],
+        [
+          "K",
+          "A",
+          "N",
+          "Z",
+          "H",
+          "G",
+          "G",
+          "Y",
+          "O",
+          "P"
+        ],
+        [
+          "U",
+          "D",
+          "N",
+          "D",
+          "G",
+          "Y",
+          "G",
+          "F",
+          "L",
+          "D"
+        ],
+        [
+          "Q",
+          "U",
+          "R",
+          "R",
+          "V",
+          "M",
+          "J",
+          "W",
+          "D",
+          "P"
+        ],
+        [
+          "N",
+          "S",
+          "D",
+          "L",
+          "W",
+          "K",
+          "Q",
+          "S",
+          "K",
+          "P"
+        ],
+        [
+          "U",
+          "T",
+          "I",
+          "S",
+          "C",
+          "A",
+          "R",
+          "A",
+          "B",
+          "B"
+        ],
+        [
+          "E",
+          "R",
+          "J",
+          "O",
+          "B",
+          "C",
+          "U",
+          "W",
+          "V",
+          "X"
+        ],
+        [
+          "S",
+          "M",
+          "T",
+          "O",
+          "R",
+          "C",
+          "H",
+          "R",
+          "P",
+          "F"
+        ]
+      ],
+      "words_to_find": [
+        "PAPYRUS",
+        "DUST",
+        "SCARAB",
+        "GOLD",
+        "TORCH"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH VDUFRSKDJXV ZDV RSHQHG LQ VHFUHW",
+      "plaintext": "THE SARCOPHAGUS WAS OPENED IN SECRET",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Expedition Doctor",
+        "The Antiquities Dealer",
+        "The Wealthy Sponsor",
+        "The Lead Archaeologist"
+      ],
+      "rooms": [
+        "The Darkroom",
+        "The Supply Depot",
+        "The Burial Chamber",
+        "The Antechamber"
+      ],
+      "weapons": [
+        "Excavator's Pickaxe",
+        "Bronze Chisel",
+        "Poison-Tipped Stylus",
+        "Kerosene Lantern"
+      ],
+      "clues": [
+        "The Antiquities Dealer was confirmed to be in The Burial Chamber.",
+        "The Wealthy Sponsor was discovered carrying the Bronze Chisel.",
+        "The investigator found the Excavator's Pickaxe inside The Antechamber.",
+        "The Expedition Doctor was never seen near The Supply Depot.",
+        "The Expedition Doctor had no access to the Excavator's Pickaxe.",
+        "The weapon recovered from The Darkroom was definitely not the Bronze Chisel.",
+        "Neither The Expedition Doctor nor The Lead Archaeologist had ever visited The Burial Chamber.",
+        "The lethal strike occurred in The Darkroom, leaving behind the deadly Poison-Tipped Stylus."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Expedition Doctor",
+      "murder_room": "The Darkroom",
+      "murder_weapon": "Poison-Tipped Stylus",
+      "full_mapping": {
+        "The Expedition Doctor": {
+          "room": "The Darkroom",
+          "weapon": "Poison-Tipped Stylus"
+        },
+        "The Antiquities Dealer": {
+          "room": "The Burial Chamber",
+          "weapon": "Kerosene Lantern"
+        },
+        "The Wealthy Sponsor": {
+          "room": "The Supply Depot",
+          "weapon": "Bronze Chisel"
+        },
+        "The Lead Archaeologist": {
+          "room": "The Antechamber",
+          "weapon": "Excavator's Pickaxe"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 29,
+    "title": "Case #029: The Mystery of The Wireless Shack",
+    "theme": "The Royal Airship Sabotage",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Airship Sabotage. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "R",
+          "O",
+          "C",
+          "M",
+          "H",
+          "S",
+          "V",
+          "J",
+          "G",
+          "O"
+        ],
+        [
+          "T",
+          "G",
+          "O",
+          "G",
+          "G",
+          "L",
+          "E",
+          "S",
+          "A",
+          "I"
+        ],
+        [
+          "P",
+          "N",
+          "X",
+          "L",
+          "Q",
+          "E",
+          "S",
+          "W",
+          "U",
+          "L"
+        ],
+        [
+          "V",
+          "P",
+          "O",
+          "G",
+          "J",
+          "I",
+          "R",
+          "S",
+          "G",
+          "S"
+        ],
+        [
+          "V",
+          "Y",
+          "N",
+          "R",
+          "E",
+          "Q",
+          "I",
+          "D",
+          "E",
+          "T"
+        ],
+        [
+          "L",
+          "D",
+          "P",
+          "Z",
+          "O",
+          "J",
+          "Y",
+          "Y",
+          "I",
+          "A"
+        ],
+        [
+          "R",
+          "P",
+          "A",
+          "T",
+          "C",
+          "H",
+          "F",
+          "I",
+          "V",
+          "I"
+        ],
+        [
+          "R",
+          "S",
+          "P",
+          "A",
+          "R",
+          "K",
+          "W",
+          "U",
+          "F",
+          "N"
+        ],
+        [
+          "Y",
+          "U",
+          "N",
+          "V",
+          "R",
+          "O",
+          "T",
+          "H",
+          "L",
+          "S"
+        ],
+        [
+          "A",
+          "S",
+          "H",
+          "K",
+          "H",
+          "V",
+          "O",
+          "B",
+          "U",
+          "N"
+        ]
+      ],
+      "words_to_find": [
+        "SPARK",
+        "GAUGE",
+        "PATCH",
+        "OILSTAIN",
+        "GOGGLES"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH VSDQQHU EHORQJV WR WKH HQJLQHHU",
+      "plaintext": "THE SPANNER BELONGS TO THE ENGINEER",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Radio Officer",
+        "The Stowaway",
+        "Countess Natalia",
+        "The Chief Engineer"
+      ],
+      "rooms": [
+        "The Cargo Bay",
+        "The Wireless Shack",
+        "Engine Gondola No. 1",
+        "The Promenade Deck"
+      ],
+      "weapons": [
+        "Nylon Parachute Cord",
+        "Heavy Spanner Wrench",
+        "Poisoned Cocktail",
+        "Brass Flare Pistol"
+      ],
+      "clues": [
+        "The Stowaway was confirmed to be in Engine Gondola No. 1.",
+        "Countess Natalia was discovered carrying the Nylon Parachute Cord.",
+        "The investigator found the Poisoned Cocktail inside The Promenade Deck.",
+        "The Radio Officer was never seen near The Cargo Bay.",
+        "The Radio Officer had no access to the Nylon Parachute Cord.",
+        "The weapon recovered from The Wireless Shack was definitely not the Nylon Parachute Cord.",
+        "Neither The Radio Officer nor The Chief Engineer had ever visited Engine Gondola No. 1.",
+        "The lethal strike occurred in The Wireless Shack, leaving behind the deadly Brass Flare Pistol.",
+        "The Radio Officer had no access to the Poisoned Cocktail."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Radio Officer",
+      "murder_room": "The Wireless Shack",
+      "murder_weapon": "Brass Flare Pistol",
+      "full_mapping": {
+        "The Radio Officer": {
+          "room": "The Wireless Shack",
+          "weapon": "Brass Flare Pistol"
+        },
+        "The Stowaway": {
+          "room": "Engine Gondola No. 1",
+          "weapon": "Heavy Spanner Wrench"
+        },
+        "Countess Natalia": {
+          "room": "The Cargo Bay",
+          "weapon": "Nylon Parachute Cord"
+        },
+        "The Chief Engineer": {
+          "room": "The Promenade Deck",
+          "weapon": "Poisoned Cocktail"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 30,
+    "title": "Case #030: The Mystery of The Maestro's Suite",
+    "theme": "The Grand Opera House Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Grand Opera House Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "X",
+          "S",
+          "O",
+          "A",
+          "X",
+          "X",
+          "L",
+          "S",
+          "T",
+          "W"
+        ],
+        [
+          "P",
+          "E",
+          "M",
+          "V",
+          "L",
+          "D",
+          "Z",
+          "X",
+          "B",
+          "O"
+        ],
+        [
+          "T",
+          "I",
+          "C",
+          "K",
+          "E",
+          "T",
+          "K",
+          "C",
+          "X",
+          "P"
+        ],
+        [
+          "N",
+          "L",
+          "I",
+          "N",
+          "W",
+          "L",
+          "G",
+          "Q",
+          "T",
+          "E"
+        ],
+        [
+          "O",
+          "M",
+          "V",
+          "S",
+          "M",
+          "U",
+          "B",
+          "K",
+          "A",
+          "R"
+        ],
+        [
+          "A",
+          "G",
+          "U",
+          "C",
+          "C",
+          "A",
+          "O",
+          "C",
+          "J",
+          "A"
+        ],
+        [
+          "P",
+          "A",
+          "P",
+          "O",
+          "D",
+          "S",
+          "R",
+          "O",
+          "P",
+          "E"
+        ],
+        [
+          "F",
+          "N",
+          "P",
+          "R",
+          "P",
+          "E",
+          "S",
+          "T",
+          "U",
+          "J"
+        ],
+        [
+          "U",
+          "C",
+          "R",
+          "E",
+          "Q",
+          "D",
+          "H",
+          "Y",
+          "K",
+          "W"
+        ],
+        [
+          "X",
+          "V",
+          "V",
+          "P",
+          "O",
+          "W",
+          "D",
+          "E",
+          "R",
+          "M"
+        ]
+      ],
+      "words_to_find": [
+        "ROPE",
+        "SCORE",
+        "TICKET",
+        "POWDER",
+        "OPERA"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH SURPSW ERRN KDV EHHQ WDPSHUHG",
+      "plaintext": "THE PROMPT BOOK HAS BEEN TAMPERED",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Stage Director",
+        "The Costume Mistress",
+        "The Theater Critic",
+        "The Lead Tenor"
+      ],
+      "rooms": [
+        "The Royal Box",
+        "The Maestro's Suite",
+        "The Green Room",
+        "The Fly Loft Above Stage"
+      ],
+      "weapons": [
+        "Poisoned Throat Spray",
+        "Chandelier Cable",
+        "Silk Dressing Gown Belt",
+        "Antique Prop Rapier"
+      ],
+      "clues": [
+        "The Costume Mistress was confirmed to be in The Green Room.",
+        "The Theater Critic was discovered carrying the Poisoned Throat Spray.",
+        "The investigator found the Chandelier Cable inside The Royal Box.",
+        "The Stage Director was never seen near The Royal Box.",
+        "The Stage Director had no access to the Poisoned Throat Spray.",
+        "The weapon recovered from The Royal Box was definitely not the Poisoned Throat Spray.",
+        "Neither The Stage Director nor The Lead Tenor had ever visited The Green Room.",
+        "The lethal strike occurred in The Maestro's Suite, leaving behind the deadly Antique Prop Rapier."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Stage Director",
+      "murder_room": "The Maestro's Suite",
+      "murder_weapon": "Antique Prop Rapier",
+      "full_mapping": {
+        "The Stage Director": {
+          "room": "The Maestro's Suite",
+          "weapon": "Antique Prop Rapier"
+        },
+        "The Costume Mistress": {
+          "room": "The Green Room",
+          "weapon": "Silk Dressing Gown Belt"
+        },
+        "The Theater Critic": {
+          "room": "The Fly Loft Above Stage",
+          "weapon": "Poisoned Throat Spray"
+        },
+        "The Lead Tenor": {
+          "room": "The Royal Box",
+          "weapon": "Chandelier Cable"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 31,
+    "title": "Case #031: The Mystery of The Palm House",
+    "theme": "The Royal Botanical Gardens Conspiracy",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Botanical Gardens Conspiracy. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "S",
+          "V",
+          "F",
+          "W",
+          "W",
+          "M",
+          "Y",
+          "Q",
+          "A",
+          "C"
+        ],
+        [
+          "M",
+          "N",
+          "E",
+          "X",
+          "O",
+          "U",
+          "Y",
+          "N",
+          "Y",
+          "P"
+        ],
+        [
+          "W",
+          "I",
+          "R",
+          "C",
+          "P",
+          "V",
+          "S",
+          "X",
+          "W",
+          "S"
+        ],
+        [
+          "J",
+          "Y",
+          "T",
+          "U",
+          "P",
+          "P",
+          "B",
+          "A",
+          "I",
+          "S"
+        ],
+        [
+          "G",
+          "U",
+          "I",
+          "W",
+          "O",
+          "S",
+          "U",
+          "H",
+          "L",
+          "P"
+        ],
+        [
+          "A",
+          "I",
+          "L",
+          "D",
+          "L",
+          "U",
+          "L",
+          "U",
+          "Q",
+          "O"
+        ],
+        [
+          "T",
+          "Y",
+          "I",
+          "Z",
+          "L",
+          "W",
+          "B",
+          "P",
+          "Q",
+          "R"
+        ],
+        [
+          "M",
+          "O",
+          "Z",
+          "W",
+          "E",
+          "Z",
+          "P",
+          "H",
+          "J",
+          "E"
+        ],
+        [
+          "D",
+          "L",
+          "E",
+          "T",
+          "N",
+          "M",
+          "U",
+          "T",
+          "G",
+          "S"
+        ],
+        [
+          "A",
+          "J",
+          "R",
+          "R",
+          "G",
+          "L",
+          "O",
+          "V",
+          "E",
+          "S"
+        ]
+      ],
+      "words_to_find": [
+        "FERTILIZER",
+        "POLLEN",
+        "BULB",
+        "GLOVES",
+        "SPORES"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH SDWURQ SDLG IRU D GHDGOB VSHFLPHQ",
+      "plaintext": "THE PATRON PAID FOR A DEADLY SPECIMEN",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Visiting Diplomat",
+        "The Wealthy Patron",
+        "The Estate Groundskeeper",
+        "The Chief Botanist"
+      ],
+      "rooms": [
+        "The Palm House",
+        "The Poison Garden",
+        "The Orchid Conservatory",
+        "The Root Cellar Lab"
+      ],
+      "weapons": [
+        "Serrated Grafting Knife",
+        "Fumigation Gas Canister",
+        "Heavy Stone Mortar",
+        "Pruning Shears"
+      ],
+      "clues": [
+        "The Wealthy Patron was confirmed to be in The Root Cellar Lab.",
+        "The Estate Groundskeeper was discovered carrying the Pruning Shears.",
+        "The investigator found the Fumigation Gas Canister inside The Poison Garden.",
+        "The Visiting Diplomat was never seen near The Poison Garden.",
+        "The Visiting Diplomat had no access to the Fumigation Gas Canister.",
+        "The weapon recovered from The Palm House was definitely not the Pruning Shears.",
+        "Neither The Visiting Diplomat nor The Chief Botanist had ever visited The Root Cellar Lab.",
+        "The lethal strike occurred in The Palm House, leaving behind the deadly Serrated Grafting Knife."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Visiting Diplomat",
+      "murder_room": "The Palm House",
+      "murder_weapon": "Serrated Grafting Knife",
+      "full_mapping": {
+        "The Visiting Diplomat": {
+          "room": "The Palm House",
+          "weapon": "Serrated Grafting Knife"
+        },
+        "The Wealthy Patron": {
+          "room": "The Root Cellar Lab",
+          "weapon": "Heavy Stone Mortar"
+        },
+        "The Estate Groundskeeper": {
+          "room": "The Orchid Conservatory",
+          "weapon": "Pruning Shears"
+        },
+        "The Chief Botanist": {
+          "room": "The Poison Garden",
+          "weapon": "Fumigation Gas Canister"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 32,
+    "title": "Case #032: The Mystery of The Antechamber",
+    "theme": "The Valley of the Kings Expedition",
+    "briefing": "An urgent homicide dispatch has arrived from The Valley of the Kings Expedition. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "L",
+          "K",
+          "Q",
+          "Q",
+          "O",
+          "R",
+          "K",
+          "C",
+          "N",
+          "U"
+        ],
+        [
+          "W",
+          "I",
+          "S",
+          "C",
+          "N",
+          "P",
+          "P",
+          "H",
+          "H",
+          "X"
+        ],
+        [
+          "W",
+          "A",
+          "A",
+          "I",
+          "J",
+          "L",
+          "Y",
+          "I",
+          "S",
+          "Z"
+        ],
+        [
+          "W",
+          "X",
+          "N",
+          "Q",
+          "Z",
+          "E",
+          "G",
+          "S",
+          "C",
+          "X"
+        ],
+        [
+          "J",
+          "M",
+          "D",
+          "J",
+          "Y",
+          "J",
+          "U",
+          "E",
+          "A",
+          "V"
+        ],
+        [
+          "H",
+          "C",
+          "F",
+          "T",
+          "B",
+          "P",
+          "Q",
+          "L",
+          "R",
+          "E"
+        ],
+        [
+          "A",
+          "F",
+          "A",
+          "M",
+          "U",
+          "L",
+          "E",
+          "T",
+          "A",
+          "L"
+        ],
+        [
+          "Q",
+          "T",
+          "O",
+          "R",
+          "C",
+          "H",
+          "R",
+          "J",
+          "B",
+          "R"
+        ],
+        [
+          "T",
+          "J",
+          "H",
+          "I",
+          "V",
+          "Y",
+          "Q",
+          "P",
+          "E",
+          "U"
+        ],
+        [
+          "L",
+          "X",
+          "N",
+          "Q",
+          "B",
+          "I",
+          "D",
+          "V",
+          "B",
+          "B"
+        ]
+      ],
+      "words_to_find": [
+        "TORCH",
+        "SAND",
+        "CHISEL",
+        "SCARAB",
+        "AMULET"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH VDUFRSKDJXV ZDV RSHQHG LQ VHFUHW",
+      "plaintext": "THE SARCOPHAGUS WAS OPENED IN SECRET",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Head Excavator",
+        "The Expedition Doctor",
+        "The Lead Archaeologist",
+        "The Wealthy Sponsor"
+      ],
+      "rooms": [
+        "The Excavation Camp Tent",
+        "The Burial Chamber",
+        "The Sarcophagus Hall",
+        "The Antechamber"
+      ],
+      "weapons": [
+        "Arsenic Preservative",
+        "Bronze Chisel",
+        "Surveyor's Heavy Hammer",
+        "Kerosene Lantern"
+      ],
+      "clues": [
+        "The Expedition Doctor was confirmed to be in The Excavation Camp Tent.",
+        "The Lead Archaeologist was discovered carrying the Bronze Chisel.",
+        "The investigator found the Surveyor's Heavy Hammer inside The Burial Chamber.",
+        "The Head Excavator was never seen near The Excavation Camp Tent.",
+        "The Head Excavator had no access to the Arsenic Preservative.",
+        "The weapon recovered from The Excavation Camp Tent was definitely not the Bronze Chisel.",
+        "Neither The Head Excavator nor The Wealthy Sponsor had ever visited The Excavation Camp Tent.",
+        "The lethal strike occurred in The Antechamber, leaving behind the deadly Kerosene Lantern.",
+        "The Head Excavator had no access to the Surveyor's Heavy Hammer."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Head Excavator",
+      "murder_room": "The Antechamber",
+      "murder_weapon": "Kerosene Lantern",
+      "full_mapping": {
+        "The Head Excavator": {
+          "room": "The Antechamber",
+          "weapon": "Kerosene Lantern"
+        },
+        "The Expedition Doctor": {
+          "room": "The Excavation Camp Tent",
+          "weapon": "Arsenic Preservative"
+        },
+        "The Lead Archaeologist": {
+          "room": "The Sarcophagus Hall",
+          "weapon": "Bronze Chisel"
+        },
+        "The Wealthy Sponsor": {
+          "room": "The Burial Chamber",
+          "weapon": "Surveyor's Heavy Hammer"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 33,
+    "title": "Case #033: The Mystery of The Dining Saloon",
+    "theme": "The Royal Airship Sabotage",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Airship Sabotage. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "K",
+          "L",
+          "D",
+          "S",
+          "R",
+          "Y",
+          "V",
+          "C",
+          "V",
+          "L"
+        ],
+        [
+          "T",
+          "E",
+          "L",
+          "E",
+          "G",
+          "R",
+          "A",
+          "M",
+          "A",
+          "V"
+        ],
+        [
+          "C",
+          "O",
+          "M",
+          "P",
+          "A",
+          "S",
+          "S",
+          "C",
+          "L",
+          "H"
+        ],
+        [
+          "K",
+          "C",
+          "U",
+          "L",
+          "K",
+          "J",
+          "Q",
+          "V",
+          "V",
+          "G"
+        ],
+        [
+          "V",
+          "O",
+          "D",
+          "H",
+          "F",
+          "R",
+          "A",
+          "L",
+          "E",
+          "A"
+        ],
+        [
+          "O",
+          "O",
+          "I",
+          "L",
+          "S",
+          "T",
+          "A",
+          "I",
+          "N",
+          "U"
+        ],
+        [
+          "P",
+          "W",
+          "I",
+          "O",
+          "G",
+          "C",
+          "T",
+          "Z",
+          "K",
+          "G"
+        ],
+        [
+          "K",
+          "P",
+          "C",
+          "B",
+          "A",
+          "H",
+          "P",
+          "T",
+          "H",
+          "E"
+        ],
+        [
+          "A",
+          "N",
+          "W",
+          "O",
+          "D",
+          "H",
+          "T",
+          "J",
+          "R",
+          "C"
+        ],
+        [
+          "A",
+          "W",
+          "J",
+          "I",
+          "Q",
+          "O",
+          "W",
+          "A",
+          "I",
+          "I"
+        ]
+      ],
+      "words_to_find": [
+        "COMPASS",
+        "OILSTAIN",
+        "TELEGRAM",
+        "VALVE",
+        "GAUGE"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "UDGLR RIILFHU UHFHLYHG D FRGHG ZDUQLQJ",
+      "plaintext": "RADIO OFFICER RECEIVED A CODED WARNING",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "Countess Natalia",
+        "The Chief Engineer",
+        "The Radio Officer",
+        "The Wealthy Aviator"
+      ],
+      "rooms": [
+        "The Dining Saloon",
+        "Engine Gondola No. 1",
+        "The Navigation Bridge",
+        "The Wireless Shack"
+      ],
+      "weapons": [
+        "Severed Helium Valve",
+        "Heavy Spanner Wrench",
+        "Engraved Signal Dagger",
+        "Poisoned Cocktail"
+      ],
+      "clues": [
+        "The Chief Engineer was confirmed to be in The Wireless Shack.",
+        "The Radio Officer was discovered carrying the Heavy Spanner Wrench.",
+        "The investigator found the Engraved Signal Dagger inside The Navigation Bridge.",
+        "Countess Natalia was never seen near Engine Gondola No. 1.",
+        "Countess Natalia had no access to the Heavy Spanner Wrench.",
+        "The weapon recovered from The Dining Saloon was definitely not the Heavy Spanner Wrench.",
+        "Neither Countess Natalia nor The Wealthy Aviator had ever visited The Wireless Shack.",
+        "The lethal strike occurred in The Dining Saloon, leaving behind the deadly Severed Helium Valve.",
+        "Countess Natalia had no access to the Engraved Signal Dagger."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "Countess Natalia",
+      "murder_room": "The Dining Saloon",
+      "murder_weapon": "Severed Helium Valve",
+      "full_mapping": {
+        "Countess Natalia": {
+          "room": "The Dining Saloon",
+          "weapon": "Severed Helium Valve"
+        },
+        "The Chief Engineer": {
+          "room": "The Wireless Shack",
+          "weapon": "Poisoned Cocktail"
+        },
+        "The Radio Officer": {
+          "room": "Engine Gondola No. 1",
+          "weapon": "Heavy Spanner Wrench"
+        },
+        "The Wealthy Aviator": {
+          "room": "The Navigation Bridge",
+          "weapon": "Engraved Signal Dagger"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 34,
+    "title": "Case #034: The Mystery of The Fly Loft Above Stage",
+    "theme": "The Grand Opera House Murders",
+    "briefing": "An urgent homicide dispatch has arrived from The Grand Opera House Murders. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "R",
+          "Z",
+          "H",
+          "R",
+          "T",
+          "O",
+          "O",
+          "S",
+          "T",
+          "C"
+        ],
+        [
+          "X",
+          "A",
+          "L",
+          "T",
+          "P",
+          "O",
+          "W",
+          "D",
+          "E",
+          "R"
+        ],
+        [
+          "R",
+          "D",
+          "D",
+          "A",
+          "U",
+          "B",
+          "J",
+          "J",
+          "M",
+          "X"
+        ],
+        [
+          "J",
+          "W",
+          "O",
+          "P",
+          "E",
+          "R",
+          "A",
+          "T",
+          "H",
+          "N"
+        ],
+        [
+          "M",
+          "O",
+          "Q",
+          "Z",
+          "S",
+          "C",
+          "O",
+          "R",
+          "E",
+          "T"
+        ],
+        [
+          "Q",
+          "N",
+          "I",
+          "B",
+          "N",
+          "K",
+          "F",
+          "A",
+          "Y",
+          "F"
+        ],
+        [
+          "G",
+          "M",
+          "A",
+          "K",
+          "E",
+          "U",
+          "P",
+          "M",
+          "A",
+          "W"
+        ],
+        [
+          "G",
+          "W",
+          "T",
+          "B",
+          "X",
+          "Y",
+          "C",
+          "X",
+          "R",
+          "A"
+        ],
+        [
+          "I",
+          "C",
+          "S",
+          "Y",
+          "G",
+          "C",
+          "R",
+          "O",
+          "P",
+          "E"
+        ],
+        [
+          "G",
+          "T",
+          "A",
+          "K",
+          "L",
+          "K",
+          "K",
+          "Y",
+          "F",
+          "T"
+        ]
+      ],
+      "words_to_find": [
+        "OPERA",
+        "MAKEUP",
+        "SCORE",
+        "ROPE",
+        "POWDER"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH SURPSW ERRN KDV EHHQ WDPSHUHG",
+      "plaintext": "THE PROMPT BOOK HAS BEEN TAMPERED",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Lead Tenor",
+        "The Prima Donna",
+        "The Costume Mistress",
+        "The Stage Director"
+      ],
+      "rooms": [
+        "The Royal Box",
+        "Costume Wardrobe",
+        "The Green Room",
+        "The Fly Loft Above Stage"
+      ],
+      "weapons": [
+        "Chandelier Cable",
+        "Silver Tuning Fork",
+        "Poisoned Throat Spray",
+        "Silk Dressing Gown Belt"
+      ],
+      "clues": [
+        "The Prima Donna was confirmed to be in The Green Room.",
+        "The Costume Mistress was discovered carrying the Chandelier Cable.",
+        "The investigator found the Silver Tuning Fork inside Costume Wardrobe.",
+        "The Lead Tenor was never seen near The Royal Box.",
+        "The Lead Tenor had no access to the Chandelier Cable.",
+        "The weapon recovered from Costume Wardrobe was definitely not the Chandelier Cable.",
+        "Neither The Lead Tenor nor The Stage Director had ever visited The Green Room.",
+        "The lethal strike occurred in The Fly Loft Above Stage, leaving behind the deadly Silk Dressing Gown Belt.",
+        "The Lead Tenor had no access to the Silver Tuning Fork."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Lead Tenor",
+      "murder_room": "The Fly Loft Above Stage",
+      "murder_weapon": "Silk Dressing Gown Belt",
+      "full_mapping": {
+        "The Lead Tenor": {
+          "room": "The Fly Loft Above Stage",
+          "weapon": "Silk Dressing Gown Belt"
+        },
+        "The Prima Donna": {
+          "room": "The Green Room",
+          "weapon": "Poisoned Throat Spray"
+        },
+        "The Costume Mistress": {
+          "room": "The Royal Box",
+          "weapon": "Chandelier Cable"
+        },
+        "The Stage Director": {
+          "room": "Costume Wardrobe",
+          "weapon": "Silver Tuning Fork"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 35,
+    "title": "Case #035: The Mystery of The Poison Garden",
+    "theme": "The Royal Botanical Gardens Conspiracy",
+    "briefing": "An urgent homicide dispatch has arrived from The Royal Botanical Gardens Conspiracy. The victim met foul play, and four suspects are detained. Examine the physical evidence, decode the intercepted cipher dispatch, cross-examine the witness alibis on the deduction matrix, and execute the arrest warrant.",
+    "game_1_word_search": {
+      "grid": [
+        [
+          "K",
+          "M",
+          "I",
+          "H",
+          "Y",
+          "D",
+          "P",
+          "Y",
+          "C",
+          "B"
+        ],
+        [
+          "M",
+          "A",
+          "V",
+          "I",
+          "Z",
+          "Y",
+          "U",
+          "I",
+          "S",
+          "Q"
+        ],
+        [
+          "Z",
+          "L",
+          "U",
+          "H",
+          "B",
+          "U",
+          "L",
+          "B",
+          "E",
+          "B"
+        ],
+        [
+          "F",
+          "E",
+          "R",
+          "T",
+          "I",
+          "L",
+          "I",
+          "Z",
+          "E",
+          "R"
+        ],
+        [
+          "S",
+          "P",
+          "O",
+          "R",
+          "E",
+          "S",
+          "H",
+          "Y",
+          "U",
+          "T"
+        ],
+        [
+          "S",
+          "D",
+          "R",
+          "G",
+          "L",
+          "O",
+          "V",
+          "E",
+          "S",
+          "F"
+        ],
+        [
+          "E",
+          "I",
+          "T",
+          "M",
+          "E",
+          "Q",
+          "F",
+          "Q",
+          "O",
+          "R"
+        ],
+        [
+          "B",
+          "L",
+          "G",
+          "Z",
+          "W",
+          "P",
+          "E",
+          "T",
+          "A",
+          "L"
+        ],
+        [
+          "I",
+          "O",
+          "F",
+          "C",
+          "D",
+          "R",
+          "C",
+          "B",
+          "O",
+          "U"
+        ],
+        [
+          "Y",
+          "Y",
+          "E",
+          "A",
+          "S",
+          "H",
+          "I",
+          "A",
+          "S",
+          "C"
+        ]
+      ],
+      "words_to_find": [
+        "GLOVES",
+        "PETAL",
+        "FERTILIZER",
+        "SPORES",
+        "BULB"
+      ]
+    },
+    "game_2_cipher": {
+      "ciphertext": "WKH JURXQGVNHHSHU KLG WKH EORRGLHG VKHDUV",
+      "plaintext": "THE GROUNDSKEEPER HID THE BLOODIED SHEARS",
+      "hint": "Caesar Shift (Key: +3). Shift each letter back 3 spots in the alphabet.",
+      "shift": 3
+    },
+    "game_3_logic_grid": {
+      "suspects": [
+        "The Wealthy Patron",
+        "The Herbalist",
+        "The Venom Researcher",
+        "The Estate Groundskeeper"
+      ],
+      "rooms": [
+        "The Root Cellar Lab",
+        "The Palm House",
+        "The Orchid Conservatory",
+        "The Poison Garden"
+      ],
+      "weapons": [
+        "Serrated Grafting Knife",
+        "Heavy Stone Mortar",
+        "Fumigation Gas Canister",
+        "Spiked Plant Stake"
+      ],
+      "clues": [
+        "The Herbalist was confirmed to be in The Root Cellar Lab.",
+        "The Venom Researcher was discovered carrying the Spiked Plant Stake.",
+        "The investigator found the Serrated Grafting Knife inside The Orchid Conservatory.",
+        "The Wealthy Patron was never seen near The Root Cellar Lab.",
+        "The Wealthy Patron had no access to the Serrated Grafting Knife.",
+        "The weapon recovered from The Root Cellar Lab was definitely not the Spiked Plant Stake.",
+        "Neither The Wealthy Patron nor The Estate Groundskeeper had ever visited The Root Cellar Lab.",
+        "The lethal strike occurred in The Poison Garden, leaving behind the deadly Fumigation Gas Canister."
+      ]
+    },
+    "game_4_solution": {
+      "culprit": "The Wealthy Patron",
+      "murder_room": "The Poison Garden",
+      "murder_weapon": "Fumigation Gas Canister",
+      "full_mapping": {
+        "The Wealthy Patron": {
+          "room": "The Poison Garden",
+          "weapon": "Fumigation Gas Canister"
+        },
+        "The Herbalist": {
+          "room": "The Root Cellar Lab",
+          "weapon": "Heavy Stone Mortar"
+        },
+        "The Venom Researcher": {
+          "room": "The Palm House",
+          "weapon": "Spiked Plant Stake"
+        },
+        "The Estate Groundskeeper": {
+          "room": "The Orchid Conservatory",
+          "weapon": "Serrated Grafting Knife"
+        }
+      }
+    }
+  }
+]

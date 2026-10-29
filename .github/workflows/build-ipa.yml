@@ -1,0 +1,68 @@
+name: Build iOS IPA Package
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build-ipa:
+    runs-on: macos-14
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Package iOS IPA
+        run: |
+          mkdir -p Payload/KDPBooksHub.app
+          cp The_Detectives_Case_Files_Series/kdp_books_hub.html Payload/KDPBooksHub.app/index.html
+          cp The_Detectives_Case_Files_Series/catalog.json Payload/KDPBooksHub.app/
+          cp The_Detectives_Case_Files_Series/cloud_config.json Payload/KDPBooksHub.app/
+          cat << 'EOF' > Payload/KDPBooksHub.app/Info.plist
+          <?xml version="1.0" encoding="UTF-8"?>
+          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+          <plist version="1.0">
+          <dict>
+              <key>CFBundleDevelopmentRegion</key>
+              <string>en</string>
+              <key>CFBundleDisplayName</key>
+              <string>KDP Hub</string>
+              <key>CFBundleExecutable</key>
+              <string>KDPBooksHub</string>
+              <key>CFBundleIdentifier</key>
+              <string>com.raiko05.kdphub</string>
+              <key>CFBundleInfoDictionaryVersion</key>
+              <string>6.0</string>
+              <key>CFBundleName</key>
+              <string>KDPBooksHub</string>
+              <key>CFBundlePackageType</key>
+              <string>APPL</string>
+              <key>CFBundleShortVersionString</key>
+              <string>1.0.0</string>
+              <key>CFBundleVersion</key>
+              <string>1</string>
+              <key>LSRequiresIPhoneOS</key>
+              <true/>
+              <key>UIRequiredDeviceCapabilities</key>
+              <array>
+                  <string>arm64</string>
+              </array>
+              <key>UISupportedInterfaceOrientations</key>
+              <array>
+                  <string>UIInterfaceOrientationPortrait</string>
+              </array>
+          </dict>
+          </plist>
+          EOF
+          zip -r KDP_Books_Hub.ipa Payload
+
+      - name: Upload IPA Artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: KDP_Books_Hub_iOS_App
+          path: KDP_Books_Hub.ipa

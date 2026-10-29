@@ -1,0 +1,134 @@
+{
+  "project": "Case Files & Clues: Volume 2 (The Detective's Case Files Series)",
+  "version": "1.0",
+  "themes": [
+    {
+      "id": "royal_airship",
+      "name": "The Royal Airship Sabotage",
+      "suspects": [
+        {"name": "Captain Sterling", "role": "The Decorated Commander"},
+        {"name": "The Chief Engineer", "role": "The Zealous Inventor"},
+        {"name": "Countess Natalia", "role": "The High-Society Emigre"},
+        {"name": "The Radio Officer", "role": "The Mysterious Telegrapher"},
+        {"name": "The Wealthy Aviator", "role": "The Daring Record-Breaker"},
+        {"name": "The Stowaway", "role": "The Fugitive"}
+      ],
+      "rooms": [
+        "The Navigation Bridge", "The Dining Saloon", "Engine Gondola No. 1", 
+        "The Promenade Deck", "The Cargo Bay", "The Wireless Shack"
+      ],
+      "weapons": [
+        "Brass Flare Pistol", "Poisoned Cocktail", "Heavy Spanner Wrench", 
+        "Nylon Parachute Cord", "Engraved Signal Dagger", "Severed Helium Valve"
+      ],
+      "forensic_evidence": [
+        "GAUGE", "TELEGRAM", "VALVE", "COMPASS", 
+        "SPARK", "GOGGLES", "PATCH", "OILSTAIN"
+      ],
+      "cipher_clues": [
+        "THE VALVE WAS CUT BEFORE DEPARTURE",
+        "THE COUNTESS HID THE DIAMOND IN SALOON",
+        "RADIO OFFICER RECEIVED A CODED WARNING",
+        "THE SPANNER BELONGS TO THE ENGINEER",
+        "MEET ME ON PROMENADE DECK AT DUSK",
+        "CAPTAIN STERLING CONCEALED THE LOGBOOK"
+      ]
+    },
+    {
+      "id": "grand_opera",
+      "name": "The Grand Opera House Murders",
+      "suspects": [
+        {"name": "The Prima Donna", "role": "The Jealous Soprano"},
+        {"name": "The Lead Tenor", "role": "The Vain Star"},
+        {"name": "The Stage Director", "role": "The Ruthless Perfectionist"},
+        {"name": "The Costume Mistress", "role": "The Quiet Observer"},
+        {"name": "The Orchestra Maestro", "role": "The Hot-Tempered Conductor"},
+        {"name": "The Theater Critic", "role": "The Venomous Columnist"}
+      ],
+      "rooms": [
+        "The Royal Box", "The Green Room", "The Orchestra Pit", 
+        "The Fly Loft Above Stage", "Costume Wardrobe", "The Maestro's Suite"
+      ],
+      "weapons": [
+        "Poisoned Throat Spray", "Weighted Sandbag", "Antique Prop Rapier", 
+        "Chandelier Cable", "Silver Tuning Fork", "Silk Dressing Gown Belt"
+      ],
+      "forensic_evidence": [
+        "OPERA", "SCORE", "VELVET", "POWDER", 
+        "ROPE", "MIRROR", "TICKET", "MAKEUP"
+      ],
+      "cipher_clues": [
+        "THE PROMPT BOOK HAS BEEN TAMPERED",
+        "THE SANDBAG WAS CUT FROM THE LOFT",
+        "MAESTRO POURED THE SPRAY BEFORE ACT TWO",
+        "THE CRITIC RECEIVED BLACKMAIL IN BOX",
+        "THE RAPIER WAS SHARPENED WITH REAL STEEL",
+        "THE COSTUME MISTRESS TOOK THE CABLE"
+      ]
+    },
+    {
+      "id": "botanical_gardens",
+      "name": "The Royal Botanical Gardens Conspiracy",
+      "suspects": [
+        {"name": "The Chief Botanist", "role": "The Obsessive Plant Hunter"},
+        {"name": "The Venom Researcher", "role": "The Toxicologist"},
+        {"name": "The Wealthy Patron", "role": "The Ruthless Orchid Collector"},
+        {"name": "The Estate Groundskeeper", "role": "The Secretive Laborer"},
+        {"name": "The Herbalist", "role": "The Apothecary Apprentice"},
+        {"name": "The Visiting Diplomat", "role": "The Foreign Envoy"}
+      ],
+      "rooms": [
+        "The Palm House", "The Orchid Conservatory", "The Root Cellar Lab", 
+        "The Poison Garden", "The Herbarium", "The Director's Study"
+      ],
+      "weapons": [
+        "Pruning Shears", "Deadly Nightshade Extract", "Heavy Stone Mortar", 
+        "Spiked Plant Stake", "Fumigation Gas Canister", "Serrated Grafting Knife"
+      ],
+      "forensic_evidence": [
+        "SPORES", "PETAL", "SHEARS", "POLLEN", 
+        "FERTILIZER", "GLOVES", "BULB", "SOIL"
+      ],
+      "cipher_clues": [
+        "THE NIGHTSHADE WAS HARVESTED AT MIDNIGHT",
+        "THE ORCHID WAS STOLEN FROM CONSERVATORY",
+        "THE BOTANIST LOCKED THE HERBARIUM",
+        "CHECK THE ROOT CELLAR FOR THE GAS",
+        "THE PATRON PAID FOR A DEADLY SPECIMEN",
+        "THE GROUNDSKEEPER HID THE BLOODIED SHEARS"
+      ]
+    },
+    {
+      "id": "desert_tomb",
+      "name": "The Valley of the Kings Expedition",
+      "suspects": [
+        {"name": "The Lead Archaeologist", "role": "The Ambitious Professor"},
+        {"name": "The Epigrapher", "role": "The Hieroglyph Translator"},
+        {"name": "The Wealthy Sponsor", "role": "The Impatient Aristocrat"},
+        {"name": "The Expedition Doctor", "role": "The Morphine Addict"},
+        {"name": "The Antiquities Dealer", "role": "The Black Market Middleman"},
+        {"name": "The Head Excavator", "role": "The Local Foreman"}
+      ],
+      "rooms": [
+        "The Burial Chamber", "The Sarcophagus Hall", "The Antechamber", 
+        "The Excavation Camp Tent", "The Darkroom", "The Supply Depot"
+      ],
+      "weapons": [
+        "Surveyor's Heavy Hammer", "Arsenic Preservative", "Bronze Chisel", 
+        "Kerosene Lantern", "Excavator's Pickaxe", "Poison-Tipped Stylus"
+      ],
+      "forensic_evidence": [
+        "SCARAB", "SAND", "CHISEL", "PAPYRUS", 
+        "AMULET", "TORCH", "DUST", "GOLD"
+      ],
+      "cipher_clues": [
+        "THE SARCOPHAGUS WAS OPENED IN SECRET",
+        "THE SPONSOR FORGED THE EXCAVATION PERMIT",
+        "ARSENIC WAS MISSING FROM THE DARKROOM",
+        "THE EPIGRAPHER HID THE GOLDEN SCARAB",
+        "THE PICKAXE WAS BURIED BEHIND THE TENT",
+        "THE DOCTOR GAVE A LETHAL MORPHINE DOSE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,262 @@
+{
+  "project": "Case Files & Clues: Volume 3 (The Detective's Case Files Series)",
+  "version": "1.0",
+  "themes": [
+    {
+      "id": "venetian_masquerade",
+      "name": "The Venetian Masquerade Murders",
+      "suspects": [
+        {
+          "name": "The Masked Doge",
+          "role": "The Patrician Nobleman"
+        },
+        {
+          "name": "The Harlequin Actor",
+          "role": "The Commedia Performer"
+        },
+        {
+          "name": "The Glass Maestro",
+          "role": "The Murano Artisan"
+        },
+        {
+          "name": "The Gondola Pilot",
+          "role": "The Canal Smuggler"
+        },
+        {
+          "name": "Contessa di Rialto",
+          "role": "The Disgraced Aristocrat"
+        },
+        {
+          "name": "The Silk Merchant",
+          "role": "The Wealthy Trader"
+        }
+      ],
+      "rooms": [
+        "The Grand Ballroom",
+        "The Canal Water Gate",
+        "The Secret Alcove",
+        "The Doge's Private Study",
+        "Bridge of Sighs Chamber",
+        "The Gondola Mooring"
+      ],
+      "weapons": [
+        "Murano Glass Dagger",
+        "Venetian Belladonna",
+        "Stiletto Rapier",
+        "Gilded Silk Garrote",
+        "Poisoned Carnival Mask",
+        "Heavy Bronze Torch"
+      ],
+      "forensic_evidence": [
+        "LACE",
+        "GLASS",
+        "MASK",
+        "RIBBON",
+        "VIAL",
+        "DAGGER",
+        "FEATHER",
+        "GONDOLA"
+      ],
+      "cipher_clues": [
+        "THE BELLADONNA VIAL WAS STOLEN FROM RIALTO",
+        "THE HARLEQUIN CONCEALED THE GLASS DAGGER",
+        "MEET THE MASKED DOGE AT WATER GATE MIDNIGHT",
+        "THE CONTESSA LEFT HER MASK IN SECRET ALCOVE",
+        "THE SILK GARROTE WAS BOUGHT IN FLORENCE",
+        "THE GONDOLIER SAW THE STRIKE ON THE BRIDGE"
+      ]
+    },
+    {
+      "id": "highland_castle",
+      "name": "The Scottish Highland Castle Mystery",
+      "suspects": [
+        {
+          "name": "The Clan Laird",
+          "role": "The Stern Patriarch"
+        },
+        {
+          "name": "The Bagpipe Piper",
+          "role": "The Wandering Bard"
+        },
+        {
+          "name": "The Castle Archivist",
+          "role": "The Ancient Genealogist"
+        },
+        {
+          "name": "The Ghillie Hunter",
+          "role": "The Highland Stalker"
+        },
+        {
+          "name": "The High Chieftain",
+          "role": "The Rival Heir"
+        },
+        {
+          "name": "The Clan Physician",
+          "role": "The Frontier Doctor"
+        }
+      ],
+      "rooms": [
+        "The Great Tartan Hall",
+        "The Ancestral Armory",
+        "The Turret Lookout",
+        "The Dungeon Vaults",
+        "The Heather Moors",
+        "The Clan Library"
+      ],
+      "weapons": [
+        "Damascus Dirk",
+        "Strychnine Dram",
+        "Antique Flintlock",
+        "Iron Fire Poker",
+        "Heavy Plaid Rope",
+        "Spiked Stag Antler"
+      ],
+      "forensic_evidence": [
+        "TARTAN",
+        "BROOCH",
+        "PEAT",
+        "STONE",
+        "ARROW",
+        "HORN",
+        "CLOAK",
+        "SHIELD"
+      ],
+      "cipher_clues": [
+        "THE LAIRD LOCKED THE ANCESTRAL ARMORY",
+        "CHECK THE HEATHER MOORS FOR THE FLINTLOCK",
+        "THE PIPER WAS SEEN NEAR THE TURRET TOWER",
+        "THE ARCHIVIST CONCEALED THE WILL IN DUNGEON",
+        "THE POISON DRAM WAS SERVED IN TARTAN HALL",
+        "THE HUNTER CARRIED THE DAMASCUS DIRK"
+      ]
+    },
+    {
+      "id": "winter_express",
+      "name": "The Trans-Siberian Winter Express",
+      "suspects": [
+        {
+          "name": "The Train Conductor",
+          "role": "The Veteran Railwayman"
+        },
+        {
+          "name": "The Imperial Courier",
+          "role": "The State Messenger"
+        },
+        {
+          "name": "The Siberian Trader",
+          "role": "The Wealthy Furrier"
+        },
+        {
+          "name": "The Locomotive Stoker",
+          "role": "The Rebellious Fireman"
+        },
+        {
+          "name": "The Grand Duchess",
+          "role": "The Exiled Royalty"
+        },
+        {
+          "name": "The Chess Master",
+          "role": "The Tactical Genius"
+        }
+      ],
+      "rooms": [
+        "First Class Cabin 4",
+        "The Dining Saloon",
+        "The Observation Deck",
+        "The Luggage Van",
+        "The Engine Tender",
+        "The Smoking Lounge"
+      ],
+      "weapons": [
+        "Silver Ice Pick",
+        "Arsenic Caviar",
+        "Brass Coal Shovel",
+        "Steel Luggage Strap",
+        "Pocket Revolver",
+        "Ether Handkerchief"
+      ],
+      "forensic_evidence": [
+        "TICKET",
+        "COAL",
+        "TRACKS",
+        "WATCH",
+        "COMPASS",
+        "FROST",
+        "LANTERN",
+        "GLOVES"
+      ],
+      "cipher_clues": [
+        "THE ENVELOPE WAS STOLEN IN CABIN FOUR",
+        "THE CONDUCTOR HID IN THE LUGGAGE VAN",
+        "THE ICE PICK WAS TAKEN FROM DINING SALOON",
+        "THE CHESS MASTER RECEIVED A TELEGRAM",
+        "THE COAL SHOVEL WAS LEFT IN ENGINE TENDER",
+        "THE GRAND DUCHESS SAW THE REVOLVER"
+      ]
+    },
+    {
+      "id": "royal_observatory",
+      "name": "The Royal Observatory & Planetarium",
+      "suspects": [
+        {
+          "name": "The Royal Astronomer",
+          "role": "The Celestial Observer"
+        },
+        {
+          "name": "The Master Clockmaker",
+          "role": "The Precision Horologist"
+        },
+        {
+          "name": "The Meteorite Hunter",
+          "role": "The Daring Field Collector"
+        },
+        {
+          "name": "The Star Cartographer",
+          "role": "The Chart Draughtsman"
+        },
+        {
+          "name": "The Optical Artisan",
+          "role": "The Precision Lens Grinder"
+        },
+        {
+          "name": "The Academy Dean",
+          "role": "The Ambitious Administrator"
+        }
+      ],
+      "rooms": [
+        "The Great Dome",
+        "Pendulum Clock Vault",
+        "Star Chart Archive",
+        "Meteorite Laboratory",
+        "Observation Terrace",
+        "The Dean's Office"
+      ],
+      "weapons": [
+        "Brass Astrolabe",
+        "Cyanide Infusion",
+        "Heavy Brass Compass",
+        "Iron Meteorite Core",
+        "Leyden Jar Shock",
+        "Weighted Pendulum Rod"
+      ],
+      "forensic_evidence": [
+        "COMET",
+        "LENS",
+        "CLOCK",
+        "STAR",
+        "ORBIT",
+        "METEOR",
+        "BRASS",
+        "PRISM"
+      ],
+      "cipher_clues": [
+        "THE ASTROLABE WAS DROPPED FROM THE DOME",
+        "THE ASTRONOMER HID IN THE PENDULUM VAULT",
+        "THE CYANIDE WAS MIXED IN DEANS OFFICE",
+        "THE METEORITE SPECIMEN WAS REMOVED AT NOON",
+        "THE CARTOGRAPHER BURNT THE STAR CHARTS",
+        "THE LENS MAKER CONCEALED THE BRASS COMPASS"
+      ]
+    }
+  ]
+}

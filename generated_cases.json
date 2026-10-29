@@ -1,0 +1,4174 @@
+[
+  {
+    "case_number": 1,
+    "title": "Case #001: The Mystery of The Billiard Room",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Estranged Niece",
+        "Lord Harrington",
+        "The Antiquarian",
+        "The Estate Gardener"
+      ],
+      "Rooms": [
+        "The Grand Library",
+        "The Clock Tower",
+        "The Trophy Room",
+        "The Billiard Room"
+      ],
+      "Weapons": [
+        "Fountain Pen with Poison",
+        "Arsenic Vial",
+        "Silver Letter Opener",
+        "Silk Cravat"
+      ]
+    },
+    "clues": [
+      "Lord Harrington was confirmed to be in The Grand Library.",
+      "The Antiquarian was discovered carrying the Silk Cravat.",
+      "The investigator found the Silver Letter Opener inside The Clock Tower.",
+      "The Estranged Niece was never seen near The Grand Library.",
+      "The Estranged Niece had no access to the Arsenic Vial.",
+      "The weapon recovered from The Grand Library was definitely not the Silk Cravat.",
+      "Neither The Estranged Niece nor The Estate Gardener had ever visited The Grand Library.",
+      "The lethal strike occurred in The Billiard Room, leaving behind the deadly Fountain Pen with Poison.",
+      "The Estranged Niece had no access to the Silver Letter Opener."
+    ],
+    "solution": {
+      "culprit": "The Estranged Niece",
+      "murder_room": "The Billiard Room",
+      "murder_weapon": "Fountain Pen with Poison",
+      "full_mapping": {
+        "The Estranged Niece": {
+          "room": "The Billiard Room",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "Lord Harrington": {
+          "room": "The Grand Library",
+          "weapon": "Arsenic Vial"
+        },
+        "The Antiquarian": {
+          "room": "The Trophy Room",
+          "weapon": "Silk Cravat"
+        },
+        "The Estate Gardener": {
+          "room": "The Clock Tower",
+          "weapon": "Silver Letter Opener"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 2,
+    "title": "Case #002: The Mystery of Observation Lounge",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Retired General",
+        "The French Diplomat",
+        "The Card Sharp",
+        "The Train Conductor"
+      ],
+      "Rooms": [
+        "Engine Cab",
+        "Dining Car",
+        "Observation Lounge",
+        "First-Class Sleeper A"
+      ],
+      "Weapons": [
+        "Heavy Crystal Decanter",
+        "Engraved Pocket Pistol",
+        "Chloroform Rag",
+        "Dosed Champagne"
+      ]
+    },
+    "clues": [
+      "The French Diplomat was confirmed to be in Engine Cab.",
+      "The Card Sharp was discovered carrying the Heavy Crystal Decanter.",
+      "The investigator found the Dosed Champagne inside Dining Car.",
+      "The Retired General was never seen near Engine Cab.",
+      "The Retired General had no access to the Heavy Crystal Decanter.",
+      "The weapon recovered from Engine Cab was definitely not the Heavy Crystal Decanter.",
+      "Neither The Retired General nor The Train Conductor had ever visited Engine Cab.",
+      "The lethal strike occurred in Observation Lounge, leaving behind the deadly Chloroform Rag.",
+      "The Retired General had no access to the Dosed Champagne."
+    ],
+    "solution": {
+      "culprit": "The Retired General",
+      "murder_room": "Observation Lounge",
+      "murder_weapon": "Chloroform Rag",
+      "full_mapping": {
+        "The Retired General": {
+          "room": "Observation Lounge",
+          "weapon": "Chloroform Rag"
+        },
+        "The French Diplomat": {
+          "room": "Engine Cab",
+          "weapon": "Engraved Pocket Pistol"
+        },
+        "The Card Sharp": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Heavy Crystal Decanter"
+        },
+        "The Train Conductor": {
+          "room": "Dining Car",
+          "weapon": "Dosed Champagne"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 3,
+    "title": "Case #003: The Mystery of Egyptian Antiquities",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Chief Curator",
+        "The Visiting Professor",
+        "The Art Restorer",
+        "The Night Guard"
+      ],
+      "Rooms": [
+        "Basement Conservation Lab",
+        "Curator's Office",
+        "Egyptian Antiquities",
+        "Medieval Armory"
+      ],
+      "Weapons": [
+        "Restoration Solvent",
+        "Iron Flanged Mace",
+        "Venomous Specimen",
+        "Ceremonial Dagger"
+      ]
+    },
+    "clues": [
+      "The Visiting Professor was confirmed to be in Curator's Office.",
+      "The Art Restorer was discovered carrying the Restoration Solvent.",
+      "The investigator found the Venomous Specimen inside Medieval Armory.",
+      "The Chief Curator was never seen near Basement Conservation Lab.",
+      "The Chief Curator had no access to the Restoration Solvent.",
+      "The weapon recovered from Curator's Office was definitely not the Restoration Solvent.",
+      "Neither The Chief Curator nor The Night Guard had ever visited Curator's Office.",
+      "The lethal strike occurred in Egyptian Antiquities, leaving behind the deadly Ceremonial Dagger.",
+      "The Chief Curator had no access to the Venomous Specimen."
+    ],
+    "solution": {
+      "culprit": "The Chief Curator",
+      "murder_room": "Egyptian Antiquities",
+      "murder_weapon": "Ceremonial Dagger",
+      "full_mapping": {
+        "The Chief Curator": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Ceremonial Dagger"
+        },
+        "The Visiting Professor": {
+          "room": "Curator's Office",
+          "weapon": "Iron Flanged Mace"
+        },
+        "The Art Restorer": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Restoration Solvent"
+        },
+        "The Night Guard": {
+          "room": "Medieval Armory",
+          "weapon": "Venomous Specimen"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 4,
+    "title": "Case #004: The Mystery of Foghorn Shed",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Marine Biologist",
+        "The Lighthouse Keeper",
+        "The Harbor Master",
+        "The Smuggler's Mate"
+      ],
+      "Rooms": [
+        "Lantern Room",
+        "Dry Dock",
+        "Foghorn Shed",
+        "Tavern Cellar"
+      ],
+      "Weapons": [
+        "Nautical Rigging Line",
+        "Lead Sounding Weight",
+        "Heavy Brass Flare Gun",
+        "Divers' Knife"
+      ]
+    },
+    "clues": [
+      "The Lighthouse Keeper was confirmed to be in Dry Dock.",
+      "The Harbor Master was discovered carrying the Heavy Brass Flare Gun.",
+      "The investigator found the Divers' Knife inside Tavern Cellar.",
+      "The Marine Biologist was never seen near Lantern Room.",
+      "The Marine Biologist had no access to the Lead Sounding Weight.",
+      "The weapon recovered from Dry Dock was definitely not the Heavy Brass Flare Gun.",
+      "Neither The Marine Biologist nor The Smuggler's Mate had ever visited Dry Dock.",
+      "The lethal strike occurred in Foghorn Shed, leaving behind the deadly Nautical Rigging Line.",
+      "The Marine Biologist had no access to the Divers' Knife."
+    ],
+    "solution": {
+      "culprit": "The Marine Biologist",
+      "murder_room": "Foghorn Shed",
+      "murder_weapon": "Nautical Rigging Line",
+      "full_mapping": {
+        "The Marine Biologist": {
+          "room": "Foghorn Shed",
+          "weapon": "Nautical Rigging Line"
+        },
+        "The Lighthouse Keeper": {
+          "room": "Dry Dock",
+          "weapon": "Lead Sounding Weight"
+        },
+        "The Harbor Master": {
+          "room": "Lantern Room",
+          "weapon": "Heavy Brass Flare Gun"
+        },
+        "The Smuggler's Mate": {
+          "room": "Tavern Cellar",
+          "weapon": "Divers' Knife"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 5,
+    "title": "Case #005: The Mystery of The Conservatory",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Head Butler",
+        "Lord Harrington",
+        "The Estranged Niece",
+        "Duchess Eleanor"
+      ],
+      "Rooms": [
+        "The Conservatory",
+        "The Wine Cellar",
+        "The Clock Tower",
+        "The Grand Library"
+      ],
+      "Weapons": [
+        "Arsenic Vial",
+        "Vintage Hunting Rifle",
+        "Heavy Brass Candlestick",
+        "Fountain Pen with Poison"
+      ]
+    },
+    "clues": [
+      "Lord Harrington was confirmed to be in The Wine Cellar.",
+      "The Estranged Niece was discovered carrying the Vintage Hunting Rifle.",
+      "The investigator found the Fountain Pen with Poison inside The Clock Tower.",
+      "The Head Butler was never seen near The Wine Cellar.",
+      "The Head Butler had no access to the Arsenic Vial.",
+      "The weapon recovered from The Conservatory was definitely not the Vintage Hunting Rifle.",
+      "Neither The Head Butler nor Duchess Eleanor had ever visited The Wine Cellar.",
+      "The lethal strike occurred in The Conservatory, leaving behind the deadly Heavy Brass Candlestick.",
+      "The Head Butler had no access to the Fountain Pen with Poison."
+    ],
+    "solution": {
+      "culprit": "The Head Butler",
+      "murder_room": "The Conservatory",
+      "murder_weapon": "Heavy Brass Candlestick",
+      "full_mapping": {
+        "The Head Butler": {
+          "room": "The Conservatory",
+          "weapon": "Heavy Brass Candlestick"
+        },
+        "Lord Harrington": {
+          "room": "The Wine Cellar",
+          "weapon": "Arsenic Vial"
+        },
+        "The Estranged Niece": {
+          "room": "The Grand Library",
+          "weapon": "Vintage Hunting Rifle"
+        },
+        "Duchess Eleanor": {
+          "room": "The Clock Tower",
+          "weapon": "Fountain Pen with Poison"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 6,
+    "title": "Case #006: The Mystery of Observation Lounge",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Jewel Merchant",
+        "The Train Conductor",
+        "The French Diplomat",
+        "The Card Sharp"
+      ],
+      "Rooms": [
+        "Dining Car",
+        "Observation Lounge",
+        "Private Salon",
+        "Engine Cab"
+      ],
+      "Weapons": [
+        "Dosed Champagne",
+        "Chloroform Rag",
+        "Luggage Strap",
+        "Heavy Crystal Decanter"
+      ]
+    },
+    "clues": [
+      "The Train Conductor was confirmed to be in Dining Car.",
+      "The French Diplomat was discovered carrying the Chloroform Rag.",
+      "The investigator found the Luggage Strap inside Private Salon.",
+      "The Jewel Merchant was never seen near Dining Car.",
+      "The Jewel Merchant had no access to the Chloroform Rag.",
+      "The weapon recovered from Dining Car was definitely not the Chloroform Rag.",
+      "Neither The Jewel Merchant nor The Card Sharp had ever visited Dining Car.",
+      "The lethal strike occurred in Observation Lounge, leaving behind the deadly Dosed Champagne.",
+      "The Jewel Merchant had no access to the Luggage Strap."
+    ],
+    "solution": {
+      "culprit": "The Jewel Merchant",
+      "murder_room": "Observation Lounge",
+      "murder_weapon": "Dosed Champagne",
+      "full_mapping": {
+        "The Jewel Merchant": {
+          "room": "Observation Lounge",
+          "weapon": "Dosed Champagne"
+        },
+        "The Train Conductor": {
+          "room": "Dining Car",
+          "weapon": "Heavy Crystal Decanter"
+        },
+        "The French Diplomat": {
+          "room": "Engine Cab",
+          "weapon": "Chloroform Rag"
+        },
+        "The Card Sharp": {
+          "room": "Private Salon",
+          "weapon": "Luggage Strap"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 7,
+    "title": "Case #007: The Mystery of Roof Terrace",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Art Restorer",
+        "The Chief Curator",
+        "The Night Guard",
+        "The Wealthy Benefactor"
+      ],
+      "Rooms": [
+        "Medieval Armory",
+        "Basement Conservation Lab",
+        "Renaissance Gallery",
+        "Roof Terrace"
+      ],
+      "Weapons": [
+        "Cast Bronze Statuette",
+        "Restoration Solvent",
+        "Ceremonial Dagger",
+        "Broken Marble Shard"
+      ]
+    },
+    "clues": [
+      "The Chief Curator was confirmed to be in Basement Conservation Lab.",
+      "The Night Guard was discovered carrying the Restoration Solvent.",
+      "The investigator found the Ceremonial Dagger inside Medieval Armory.",
+      "The Art Restorer was never seen near Medieval Armory.",
+      "The Art Restorer had no access to the Restoration Solvent.",
+      "The weapon recovered from Medieval Armory was definitely not the Restoration Solvent.",
+      "Neither The Art Restorer nor The Wealthy Benefactor had ever visited Basement Conservation Lab.",
+      "The lethal strike occurred in Roof Terrace, leaving behind the deadly Cast Bronze Statuette."
+    ],
+    "solution": {
+      "culprit": "The Art Restorer",
+      "murder_room": "Roof Terrace",
+      "murder_weapon": "Cast Bronze Statuette",
+      "full_mapping": {
+        "The Art Restorer": {
+          "room": "Roof Terrace",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Chief Curator": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Broken Marble Shard"
+        },
+        "The Night Guard": {
+          "room": "Renaissance Gallery",
+          "weapon": "Restoration Solvent"
+        },
+        "The Wealthy Benefactor": {
+          "room": "Medieval Armory",
+          "weapon": "Ceremonial Dagger"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 8,
+    "title": "Case #008: The Mystery of Tavern Cellar",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Harbor Master",
+        "The Marine Biologist",
+        "The Smuggler's Mate",
+        "The Lighthouse Keeper"
+      ],
+      "Rooms": [
+        "Lantern Room",
+        "Tavern Cellar",
+        "Dry Dock",
+        "Foghorn Shed"
+      ],
+      "Weapons": [
+        "Nautical Rigging Line",
+        "Iron Harpoon Tip",
+        "Whale Oil Flask",
+        "Heavy Brass Flare Gun"
+      ]
+    },
+    "clues": [
+      "The Marine Biologist was confirmed to be in Dry Dock.",
+      "The Smuggler's Mate was discovered carrying the Iron Harpoon Tip.",
+      "The investigator found the Heavy Brass Flare Gun inside Lantern Room.",
+      "The Harbor Master was never seen near Lantern Room.",
+      "The Harbor Master had no access to the Nautical Rigging Line.",
+      "The weapon recovered from Lantern Room was definitely not the Iron Harpoon Tip.",
+      "Neither The Harbor Master nor The Lighthouse Keeper had ever visited Dry Dock.",
+      "The lethal strike occurred in Tavern Cellar, leaving behind the deadly Whale Oil Flask."
+    ],
+    "solution": {
+      "culprit": "The Harbor Master",
+      "murder_room": "Tavern Cellar",
+      "murder_weapon": "Whale Oil Flask",
+      "full_mapping": {
+        "The Harbor Master": {
+          "room": "Tavern Cellar",
+          "weapon": "Whale Oil Flask"
+        },
+        "The Marine Biologist": {
+          "room": "Dry Dock",
+          "weapon": "Nautical Rigging Line"
+        },
+        "The Smuggler's Mate": {
+          "room": "Foghorn Shed",
+          "weapon": "Iron Harpoon Tip"
+        },
+        "The Lighthouse Keeper": {
+          "room": "Lantern Room",
+          "weapon": "Heavy Brass Flare Gun"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 9,
+    "title": "Case #009: The Mystery of The Billiard Room",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Antiquarian",
+        "The Estranged Niece",
+        "Duchess Eleanor",
+        "The Head Butler"
+      ],
+      "Rooms": [
+        "The Grand Library",
+        "The Billiard Room",
+        "The Conservatory",
+        "The Wine Cellar"
+      ],
+      "Weapons": [
+        "Silk Cravat",
+        "Silver Letter Opener",
+        "Arsenic Vial",
+        "Fountain Pen with Poison"
+      ]
+    },
+    "clues": [
+      "The Estranged Niece was confirmed to be in The Conservatory.",
+      "Duchess Eleanor was discovered carrying the Arsenic Vial.",
+      "The investigator found the Fountain Pen with Poison inside The Wine Cellar.",
+      "The Antiquarian was never seen near The Grand Library.",
+      "The Antiquarian had no access to the Silver Letter Opener.",
+      "The weapon recovered from The Billiard Room was definitely not the Arsenic Vial.",
+      "Neither The Antiquarian nor The Head Butler had ever visited The Conservatory.",
+      "The lethal strike occurred in The Billiard Room, leaving behind the deadly Silk Cravat.",
+      "The Antiquarian had no access to the Fountain Pen with Poison."
+    ],
+    "solution": {
+      "culprit": "The Antiquarian",
+      "murder_room": "The Billiard Room",
+      "murder_weapon": "Silk Cravat",
+      "full_mapping": {
+        "The Antiquarian": {
+          "room": "The Billiard Room",
+          "weapon": "Silk Cravat"
+        },
+        "The Estranged Niece": {
+          "room": "The Conservatory",
+          "weapon": "Silver Letter Opener"
+        },
+        "Duchess Eleanor": {
+          "room": "The Grand Library",
+          "weapon": "Arsenic Vial"
+        },
+        "The Head Butler": {
+          "room": "The Wine Cellar",
+          "weapon": "Fountain Pen with Poison"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 10,
+    "title": "Case #010: The Mystery of Engine Cab",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Opera Soprano",
+        "The Train Conductor",
+        "The Jewel Merchant",
+        "The French Diplomat"
+      ],
+      "Rooms": [
+        "Private Salon",
+        "Engine Cab",
+        "Luggage Van",
+        "First-Class Sleeper A"
+      ],
+      "Weapons": [
+        "Steel Pocket Knife",
+        "Dosed Champagne",
+        "Heavy Crystal Decanter",
+        "Chloroform Rag"
+      ]
+    },
+    "clues": [
+      "The Train Conductor was confirmed to be in First-Class Sleeper A.",
+      "The Jewel Merchant was discovered carrying the Chloroform Rag.",
+      "The investigator found the Steel Pocket Knife inside Private Salon.",
+      "The Opera Soprano was never seen near Private Salon.",
+      "The Opera Soprano had no access to the Steel Pocket Knife.",
+      "The weapon recovered from Private Salon was definitely not the Chloroform Rag.",
+      "Neither The Opera Soprano nor The French Diplomat had ever visited First-Class Sleeper A.",
+      "The lethal strike occurred in Engine Cab, leaving behind the deadly Dosed Champagne."
+    ],
+    "solution": {
+      "culprit": "The Opera Soprano",
+      "murder_room": "Engine Cab",
+      "murder_weapon": "Dosed Champagne",
+      "full_mapping": {
+        "The Opera Soprano": {
+          "room": "Engine Cab",
+          "weapon": "Dosed Champagne"
+        },
+        "The Train Conductor": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Heavy Crystal Decanter"
+        },
+        "The Jewel Merchant": {
+          "room": "Luggage Van",
+          "weapon": "Chloroform Rag"
+        },
+        "The French Diplomat": {
+          "room": "Private Salon",
+          "weapon": "Steel Pocket Knife"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 11,
+    "title": "Case #011: The Mystery of Basement Conservation Lab",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Visiting Professor",
+        "The Auctioneer",
+        "The Art Restorer",
+        "The Night Guard"
+      ],
+      "Rooms": [
+        "Renaissance Gallery",
+        "Basement Conservation Lab",
+        "Egyptian Antiquities",
+        "Roof Terrace"
+      ],
+      "Weapons": [
+        "Iron Flanged Mace",
+        "Ceremonial Dagger",
+        "Cast Bronze Statuette",
+        "Venomous Specimen"
+      ]
+    },
+    "clues": [
+      "The Auctioneer was confirmed to be in Egyptian Antiquities.",
+      "The Art Restorer was discovered carrying the Cast Bronze Statuette.",
+      "The investigator found the Iron Flanged Mace inside Roof Terrace.",
+      "The Visiting Professor was never seen near Renaissance Gallery.",
+      "The Visiting Professor had no access to the Iron Flanged Mace.",
+      "The weapon recovered from Basement Conservation Lab was definitely not the Cast Bronze Statuette.",
+      "Neither The Visiting Professor nor The Night Guard had ever visited Egyptian Antiquities.",
+      "The lethal strike occurred in Basement Conservation Lab, leaving behind the deadly Ceremonial Dagger."
+    ],
+    "solution": {
+      "culprit": "The Visiting Professor",
+      "murder_room": "Basement Conservation Lab",
+      "murder_weapon": "Ceremonial Dagger",
+      "full_mapping": {
+        "The Visiting Professor": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Ceremonial Dagger"
+        },
+        "The Auctioneer": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Venomous Specimen"
+        },
+        "The Art Restorer": {
+          "room": "Renaissance Gallery",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Night Guard": {
+          "room": "Roof Terrace",
+          "weapon": "Iron Flanged Mace"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 12,
+    "title": "Case #012: The Mystery of Rocky Cove",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Lighthouse Keeper",
+        "The Smuggler's Mate",
+        "The Salvage Captain",
+        "The Island Innkeeper"
+      ],
+      "Rooms": [
+        "Rocky Cove",
+        "Dry Dock",
+        "Lantern Room",
+        "Radio Telegraph Shack"
+      ],
+      "Weapons": [
+        "Divers' Knife",
+        "Iron Harpoon Tip",
+        "Lead Sounding Weight",
+        "Nautical Rigging Line"
+      ]
+    },
+    "clues": [
+      "The Smuggler's Mate was confirmed to be in Dry Dock.",
+      "The Salvage Captain was discovered carrying the Divers' Knife.",
+      "The investigator found the Lead Sounding Weight inside Radio Telegraph Shack.",
+      "The Lighthouse Keeper was never seen near Dry Dock.",
+      "The Lighthouse Keeper had no access to the Divers' Knife.",
+      "The weapon recovered from Rocky Cove was definitely not the Divers' Knife.",
+      "Neither The Lighthouse Keeper nor The Island Innkeeper had ever visited Dry Dock.",
+      "The lethal strike occurred in Rocky Cove, leaving behind the deadly Nautical Rigging Line.",
+      "The Lighthouse Keeper had no access to the Lead Sounding Weight."
+    ],
+    "solution": {
+      "culprit": "The Lighthouse Keeper",
+      "murder_room": "Rocky Cove",
+      "murder_weapon": "Nautical Rigging Line",
+      "full_mapping": {
+        "The Lighthouse Keeper": {
+          "room": "Rocky Cove",
+          "weapon": "Nautical Rigging Line"
+        },
+        "The Smuggler's Mate": {
+          "room": "Dry Dock",
+          "weapon": "Iron Harpoon Tip"
+        },
+        "The Salvage Captain": {
+          "room": "Lantern Room",
+          "weapon": "Divers' Knife"
+        },
+        "The Island Innkeeper": {
+          "room": "Radio Telegraph Shack",
+          "weapon": "Lead Sounding Weight"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 13,
+    "title": "Case #013: The Mystery of The Wine Cellar",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Head Butler",
+        "Lord Harrington",
+        "The Estate Gardener",
+        "Duchess Eleanor"
+      ],
+      "Rooms": [
+        "The Wine Cellar",
+        "The Clock Tower",
+        "The Trophy Room",
+        "The Conservatory"
+      ],
+      "Weapons": [
+        "Silk Cravat",
+        "Fountain Pen with Poison",
+        "Heavy Brass Candlestick",
+        "Vintage Hunting Rifle"
+      ]
+    },
+    "clues": [
+      "Lord Harrington was confirmed to be in The Conservatory.",
+      "The Estate Gardener was discovered carrying the Fountain Pen with Poison.",
+      "The investigator found the Heavy Brass Candlestick inside The Trophy Room.",
+      "The Head Butler was never seen near The Clock Tower.",
+      "The Head Butler had no access to the Fountain Pen with Poison.",
+      "The weapon recovered from The Wine Cellar was definitely not the Fountain Pen with Poison.",
+      "Neither The Head Butler nor Duchess Eleanor had ever visited The Conservatory.",
+      "The lethal strike occurred in The Wine Cellar, leaving behind the deadly Silk Cravat.",
+      "The Head Butler had no access to the Heavy Brass Candlestick."
+    ],
+    "solution": {
+      "culprit": "The Head Butler",
+      "murder_room": "The Wine Cellar",
+      "murder_weapon": "Silk Cravat",
+      "full_mapping": {
+        "The Head Butler": {
+          "room": "The Wine Cellar",
+          "weapon": "Silk Cravat"
+        },
+        "Lord Harrington": {
+          "room": "The Conservatory",
+          "weapon": "Vintage Hunting Rifle"
+        },
+        "The Estate Gardener": {
+          "room": "The Clock Tower",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "Duchess Eleanor": {
+          "room": "The Trophy Room",
+          "weapon": "Heavy Brass Candlestick"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 14,
+    "title": "Case #014: The Mystery of Engine Cab",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Card Sharp",
+        "The Jewel Merchant",
+        "The Train Conductor",
+        "The French Diplomat"
+      ],
+      "Rooms": [
+        "Observation Lounge",
+        "First-Class Sleeper A",
+        "Luggage Van",
+        "Engine Cab"
+      ],
+      "Weapons": [
+        "Chloroform Rag",
+        "Luggage Strap",
+        "Engraved Pocket Pistol",
+        "Steel Pocket Knife"
+      ]
+    },
+    "clues": [
+      "The Jewel Merchant was confirmed to be in First-Class Sleeper A.",
+      "The Train Conductor was discovered carrying the Chloroform Rag.",
+      "The investigator found the Engraved Pocket Pistol inside Luggage Van.",
+      "The Card Sharp was never seen near Observation Lounge.",
+      "The Card Sharp had no access to the Chloroform Rag.",
+      "The weapon recovered from First-Class Sleeper A was definitely not the Chloroform Rag.",
+      "Neither The Card Sharp nor The French Diplomat had ever visited First-Class Sleeper A.",
+      "The lethal strike occurred in Engine Cab, leaving behind the deadly Luggage Strap.",
+      "The Card Sharp had no access to the Engraved Pocket Pistol."
+    ],
+    "solution": {
+      "culprit": "The Card Sharp",
+      "murder_room": "Engine Cab",
+      "murder_weapon": "Luggage Strap",
+      "full_mapping": {
+        "The Card Sharp": {
+          "room": "Engine Cab",
+          "weapon": "Luggage Strap"
+        },
+        "The Jewel Merchant": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The Train Conductor": {
+          "room": "Observation Lounge",
+          "weapon": "Chloroform Rag"
+        },
+        "The French Diplomat": {
+          "room": "Luggage Van",
+          "weapon": "Engraved Pocket Pistol"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 15,
+    "title": "Case #015: The Mystery of Curator's Office",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Auctioneer",
+        "The Chief Curator",
+        "The Visiting Professor",
+        "The Night Guard"
+      ],
+      "Rooms": [
+        "Medieval Armory",
+        "Egyptian Antiquities",
+        "Curator's Office",
+        "Roof Terrace"
+      ],
+      "Weapons": [
+        "Cast Bronze Statuette",
+        "Venomous Specimen",
+        "Broken Marble Shard",
+        "Iron Flanged Mace"
+      ]
+    },
+    "clues": [
+      "The Chief Curator was confirmed to be in Medieval Armory.",
+      "The Visiting Professor was discovered carrying the Venomous Specimen.",
+      "The investigator found the Iron Flanged Mace inside Egyptian Antiquities.",
+      "The Auctioneer was never seen near Medieval Armory.",
+      "The Auctioneer had no access to the Venomous Specimen.",
+      "The weapon recovered from Medieval Armory was definitely not the Venomous Specimen.",
+      "Neither The Auctioneer nor The Night Guard had ever visited Medieval Armory.",
+      "The lethal strike occurred in Curator's Office, leaving behind the deadly Cast Bronze Statuette.",
+      "The Auctioneer had no access to the Iron Flanged Mace."
+    ],
+    "solution": {
+      "culprit": "The Auctioneer",
+      "murder_room": "Curator's Office",
+      "murder_weapon": "Cast Bronze Statuette",
+      "full_mapping": {
+        "The Auctioneer": {
+          "room": "Curator's Office",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Chief Curator": {
+          "room": "Medieval Armory",
+          "weapon": "Broken Marble Shard"
+        },
+        "The Visiting Professor": {
+          "room": "Roof Terrace",
+          "weapon": "Venomous Specimen"
+        },
+        "The Night Guard": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Iron Flanged Mace"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 16,
+    "title": "Case #016: The Mystery of Rocky Cove",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Island Innkeeper",
+        "The Smuggler's Mate",
+        "The Salvage Captain",
+        "The Marine Biologist"
+      ],
+      "Rooms": [
+        "Radio Telegraph Shack",
+        "Lantern Room",
+        "Rocky Cove",
+        "Dry Dock"
+      ],
+      "Weapons": [
+        "Heavy Brass Flare Gun",
+        "Whale Oil Flask",
+        "Divers' Knife",
+        "Lead Sounding Weight"
+      ]
+    },
+    "clues": [
+      "The Smuggler's Mate was confirmed to be in Radio Telegraph Shack.",
+      "The Salvage Captain was discovered carrying the Heavy Brass Flare Gun.",
+      "The investigator found the Divers' Knife inside Lantern Room.",
+      "The Island Innkeeper was never seen near Radio Telegraph Shack.",
+      "The Island Innkeeper had no access to the Heavy Brass Flare Gun.",
+      "The weapon recovered from Radio Telegraph Shack was definitely not the Heavy Brass Flare Gun.",
+      "Neither The Island Innkeeper nor The Marine Biologist had ever visited Radio Telegraph Shack.",
+      "The lethal strike occurred in Rocky Cove, leaving behind the deadly Whale Oil Flask.",
+      "The Island Innkeeper had no access to the Divers' Knife."
+    ],
+    "solution": {
+      "culprit": "The Island Innkeeper",
+      "murder_room": "Rocky Cove",
+      "murder_weapon": "Whale Oil Flask",
+      "full_mapping": {
+        "The Island Innkeeper": {
+          "room": "Rocky Cove",
+          "weapon": "Whale Oil Flask"
+        },
+        "The Smuggler's Mate": {
+          "room": "Radio Telegraph Shack",
+          "weapon": "Lead Sounding Weight"
+        },
+        "The Salvage Captain": {
+          "room": "Dry Dock",
+          "weapon": "Heavy Brass Flare Gun"
+        },
+        "The Marine Biologist": {
+          "room": "Lantern Room",
+          "weapon": "Divers' Knife"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 17,
+    "title": "Case #017: The Mystery of The Billiard Room",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "Duchess Eleanor",
+        "The Head Butler",
+        "The Antiquarian",
+        "The Estate Gardener"
+      ],
+      "Rooms": [
+        "The Clock Tower",
+        "The Conservatory",
+        "The Grand Library",
+        "The Billiard Room"
+      ],
+      "Weapons": [
+        "Vintage Hunting Rifle",
+        "Silk Cravat",
+        "Silver Letter Opener",
+        "Fountain Pen with Poison"
+      ]
+    },
+    "clues": [
+      "The Head Butler was confirmed to be in The Grand Library.",
+      "The Antiquarian was discovered carrying the Fountain Pen with Poison.",
+      "The investigator found the Silver Letter Opener inside The Conservatory.",
+      "Duchess Eleanor was never seen near The Clock Tower.",
+      "Duchess Eleanor had no access to the Silk Cravat.",
+      "The weapon recovered from The Conservatory was definitely not the Fountain Pen with Poison.",
+      "Neither Duchess Eleanor nor The Estate Gardener had ever visited The Grand Library.",
+      "The lethal strike occurred in The Billiard Room, leaving behind the deadly Vintage Hunting Rifle.",
+      "Duchess Eleanor had no access to the Silver Letter Opener."
+    ],
+    "solution": {
+      "culprit": "Duchess Eleanor",
+      "murder_room": "The Billiard Room",
+      "murder_weapon": "Vintage Hunting Rifle",
+      "full_mapping": {
+        "Duchess Eleanor": {
+          "room": "The Billiard Room",
+          "weapon": "Vintage Hunting Rifle"
+        },
+        "The Head Butler": {
+          "room": "The Grand Library",
+          "weapon": "Silk Cravat"
+        },
+        "The Antiquarian": {
+          "room": "The Clock Tower",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "The Estate Gardener": {
+          "room": "The Conservatory",
+          "weapon": "Silver Letter Opener"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 18,
+    "title": "Case #018: The Mystery of Private Salon",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Jewel Merchant",
+        "The Opera Soprano",
+        "The French Diplomat",
+        "The Retired General"
+      ],
+      "Rooms": [
+        "Private Salon",
+        "Engine Cab",
+        "Observation Lounge",
+        "Dining Car"
+      ],
+      "Weapons": [
+        "Luggage Strap",
+        "Heavy Crystal Decanter",
+        "Dosed Champagne",
+        "Engraved Pocket Pistol"
+      ]
+    },
+    "clues": [
+      "The Opera Soprano was confirmed to be in Dining Car.",
+      "The French Diplomat was discovered carrying the Engraved Pocket Pistol.",
+      "The investigator found the Dosed Champagne inside Engine Cab.",
+      "The Jewel Merchant was never seen near Engine Cab.",
+      "The Jewel Merchant had no access to the Heavy Crystal Decanter.",
+      "The weapon recovered from Private Salon was definitely not the Engraved Pocket Pistol.",
+      "Neither The Jewel Merchant nor The Retired General had ever visited Dining Car.",
+      "The lethal strike occurred in Private Salon, leaving behind the deadly Luggage Strap."
+    ],
+    "solution": {
+      "culprit": "The Jewel Merchant",
+      "murder_room": "Private Salon",
+      "murder_weapon": "Luggage Strap",
+      "full_mapping": {
+        "The Jewel Merchant": {
+          "room": "Private Salon",
+          "weapon": "Luggage Strap"
+        },
+        "The Opera Soprano": {
+          "room": "Dining Car",
+          "weapon": "Heavy Crystal Decanter"
+        },
+        "The French Diplomat": {
+          "room": "Observation Lounge",
+          "weapon": "Engraved Pocket Pistol"
+        },
+        "The Retired General": {
+          "room": "Engine Cab",
+          "weapon": "Dosed Champagne"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 19,
+    "title": "Case #019: The Mystery of Medieval Armory",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Art Restorer",
+        "The Auctioneer",
+        "The Night Guard",
+        "The Chief Curator"
+      ],
+      "Rooms": [
+        "Renaissance Gallery",
+        "Medieval Armory",
+        "Basement Conservation Lab",
+        "Curator's Office"
+      ],
+      "Weapons": [
+        "Venomous Specimen",
+        "Iron Flanged Mace",
+        "Broken Marble Shard",
+        "Cast Bronze Statuette"
+      ]
+    },
+    "clues": [
+      "The Auctioneer was confirmed to be in Basement Conservation Lab.",
+      "The Night Guard was discovered carrying the Iron Flanged Mace.",
+      "The investigator found the Cast Bronze Statuette inside Renaissance Gallery.",
+      "The Art Restorer was never seen near Renaissance Gallery.",
+      "The Art Restorer had no access to the Iron Flanged Mace.",
+      "The weapon recovered from Renaissance Gallery was definitely not the Iron Flanged Mace.",
+      "Neither The Art Restorer nor The Chief Curator had ever visited Basement Conservation Lab.",
+      "The lethal strike occurred in Medieval Armory, leaving behind the deadly Venomous Specimen."
+    ],
+    "solution": {
+      "culprit": "The Art Restorer",
+      "murder_room": "Medieval Armory",
+      "murder_weapon": "Venomous Specimen",
+      "full_mapping": {
+        "The Art Restorer": {
+          "room": "Medieval Armory",
+          "weapon": "Venomous Specimen"
+        },
+        "The Auctioneer": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Broken Marble Shard"
+        },
+        "The Night Guard": {
+          "room": "Curator's Office",
+          "weapon": "Iron Flanged Mace"
+        },
+        "The Chief Curator": {
+          "room": "Renaissance Gallery",
+          "weapon": "Cast Bronze Statuette"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 20,
+    "title": "Case #020: The Mystery of Tavern Cellar",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Marine Biologist",
+        "The Island Innkeeper",
+        "The Harbor Master",
+        "The Salvage Captain"
+      ],
+      "Rooms": [
+        "Tavern Cellar",
+        "Radio Telegraph Shack",
+        "Dry Dock",
+        "Foghorn Shed"
+      ],
+      "Weapons": [
+        "Whale Oil Flask",
+        "Divers' Knife",
+        "Nautical Rigging Line",
+        "Iron Harpoon Tip"
+      ]
+    },
+    "clues": [
+      "The Island Innkeeper was confirmed to be in Radio Telegraph Shack.",
+      "The Harbor Master was discovered carrying the Whale Oil Flask.",
+      "The investigator found the Divers' Knife inside Dry Dock.",
+      "The Marine Biologist was never seen near Radio Telegraph Shack.",
+      "The Marine Biologist had no access to the Whale Oil Flask.",
+      "The weapon recovered from Tavern Cellar was definitely not the Whale Oil Flask.",
+      "Neither The Marine Biologist nor The Salvage Captain had ever visited Radio Telegraph Shack.",
+      "The lethal strike occurred in Tavern Cellar, leaving behind the deadly Iron Harpoon Tip.",
+      "The Marine Biologist had no access to the Divers' Knife."
+    ],
+    "solution": {
+      "culprit": "The Marine Biologist",
+      "murder_room": "Tavern Cellar",
+      "murder_weapon": "Iron Harpoon Tip",
+      "full_mapping": {
+        "The Marine Biologist": {
+          "room": "Tavern Cellar",
+          "weapon": "Iron Harpoon Tip"
+        },
+        "The Island Innkeeper": {
+          "room": "Radio Telegraph Shack",
+          "weapon": "Nautical Rigging Line"
+        },
+        "The Harbor Master": {
+          "room": "Foghorn Shed",
+          "weapon": "Whale Oil Flask"
+        },
+        "The Salvage Captain": {
+          "room": "Dry Dock",
+          "weapon": "Divers' Knife"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 21,
+    "title": "Case #021: The Mystery of The Wine Cellar",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Head Butler",
+        "The Estranged Niece",
+        "The Antiquarian",
+        "Lord Harrington"
+      ],
+      "Rooms": [
+        "The Trophy Room",
+        "The Grand Library",
+        "The Wine Cellar",
+        "The Conservatory"
+      ],
+      "Weapons": [
+        "Silk Cravat",
+        "Silver Letter Opener",
+        "Heavy Brass Candlestick",
+        "Arsenic Vial"
+      ]
+    },
+    "clues": [
+      "The Estranged Niece was confirmed to be in The Grand Library.",
+      "The Antiquarian was discovered carrying the Heavy Brass Candlestick.",
+      "The investigator found the Arsenic Vial inside The Conservatory.",
+      "The Head Butler was never seen near The Trophy Room.",
+      "The Head Butler had no access to the Silk Cravat.",
+      "The weapon recovered from The Grand Library was definitely not the Heavy Brass Candlestick.",
+      "Neither The Head Butler nor Lord Harrington had ever visited The Grand Library.",
+      "The lethal strike occurred in The Wine Cellar, leaving behind the deadly Silver Letter Opener.",
+      "The Head Butler had no access to the Arsenic Vial."
+    ],
+    "solution": {
+      "culprit": "The Head Butler",
+      "murder_room": "The Wine Cellar",
+      "murder_weapon": "Silver Letter Opener",
+      "full_mapping": {
+        "The Head Butler": {
+          "room": "The Wine Cellar",
+          "weapon": "Silver Letter Opener"
+        },
+        "The Estranged Niece": {
+          "room": "The Grand Library",
+          "weapon": "Silk Cravat"
+        },
+        "The Antiquarian": {
+          "room": "The Trophy Room",
+          "weapon": "Heavy Brass Candlestick"
+        },
+        "Lord Harrington": {
+          "room": "The Conservatory",
+          "weapon": "Arsenic Vial"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 22,
+    "title": "Case #022: The Mystery of Private Salon",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Jewel Merchant",
+        "The Card Sharp",
+        "The Train Conductor",
+        "The Retired General"
+      ],
+      "Rooms": [
+        "Observation Lounge",
+        "Engine Cab",
+        "Dining Car",
+        "Private Salon"
+      ],
+      "Weapons": [
+        "Chloroform Rag",
+        "Luggage Strap",
+        "Steel Pocket Knife",
+        "Engraved Pocket Pistol"
+      ]
+    },
+    "clues": [
+      "The Card Sharp was confirmed to be in Engine Cab.",
+      "The Train Conductor was discovered carrying the Luggage Strap.",
+      "The investigator found the Engraved Pocket Pistol inside Observation Lounge.",
+      "The Jewel Merchant was never seen near Observation Lounge.",
+      "The Jewel Merchant had no access to the Chloroform Rag.",
+      "The weapon recovered from Observation Lounge was definitely not the Luggage Strap.",
+      "Neither The Jewel Merchant nor The Retired General had ever visited Engine Cab.",
+      "The lethal strike occurred in Private Salon, leaving behind the deadly Steel Pocket Knife."
+    ],
+    "solution": {
+      "culprit": "The Jewel Merchant",
+      "murder_room": "Private Salon",
+      "murder_weapon": "Steel Pocket Knife",
+      "full_mapping": {
+        "The Jewel Merchant": {
+          "room": "Private Salon",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The Card Sharp": {
+          "room": "Engine Cab",
+          "weapon": "Chloroform Rag"
+        },
+        "The Train Conductor": {
+          "room": "Dining Car",
+          "weapon": "Luggage Strap"
+        },
+        "The Retired General": {
+          "room": "Observation Lounge",
+          "weapon": "Engraved Pocket Pistol"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 23,
+    "title": "Case #023: The Mystery of Basement Conservation Lab",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Night Guard",
+        "The Auctioneer",
+        "The Visiting Professor",
+        "The Art Restorer"
+      ],
+      "Rooms": [
+        "Roof Terrace",
+        "Medieval Armory",
+        "Basement Conservation Lab",
+        "Curator's Office"
+      ],
+      "Weapons": [
+        "Ceremonial Dagger",
+        "Cast Bronze Statuette",
+        "Iron Flanged Mace",
+        "Broken Marble Shard"
+      ]
+    },
+    "clues": [
+      "The Auctioneer was confirmed to be in Roof Terrace.",
+      "The Visiting Professor was discovered carrying the Cast Bronze Statuette.",
+      "The investigator found the Iron Flanged Mace inside Medieval Armory.",
+      "The Night Guard was never seen near Roof Terrace.",
+      "The Night Guard had no access to the Cast Bronze Statuette.",
+      "The weapon recovered from Roof Terrace was definitely not the Cast Bronze Statuette.",
+      "Neither The Night Guard nor The Art Restorer had ever visited Roof Terrace.",
+      "The lethal strike occurred in Basement Conservation Lab, leaving behind the deadly Ceremonial Dagger.",
+      "The Night Guard had no access to the Iron Flanged Mace."
+    ],
+    "solution": {
+      "culprit": "The Night Guard",
+      "murder_room": "Basement Conservation Lab",
+      "murder_weapon": "Ceremonial Dagger",
+      "full_mapping": {
+        "The Night Guard": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Ceremonial Dagger"
+        },
+        "The Auctioneer": {
+          "room": "Roof Terrace",
+          "weapon": "Broken Marble Shard"
+        },
+        "The Visiting Professor": {
+          "room": "Curator's Office",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Art Restorer": {
+          "room": "Medieval Armory",
+          "weapon": "Iron Flanged Mace"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 24,
+    "title": "Case #024: The Mystery of Tavern Cellar",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Smuggler's Mate",
+        "The Harbor Master",
+        "The Salvage Captain",
+        "The Lighthouse Keeper"
+      ],
+      "Rooms": [
+        "Radio Telegraph Shack",
+        "Tavern Cellar",
+        "Rocky Cove",
+        "Dry Dock"
+      ],
+      "Weapons": [
+        "Nautical Rigging Line",
+        "Whale Oil Flask",
+        "Iron Harpoon Tip",
+        "Lead Sounding Weight"
+      ]
+    },
+    "clues": [
+      "The Harbor Master was confirmed to be in Dry Dock.",
+      "The Salvage Captain was discovered carrying the Lead Sounding Weight.",
+      "The investigator found the Nautical Rigging Line inside Radio Telegraph Shack.",
+      "The Smuggler's Mate was never seen near Radio Telegraph Shack.",
+      "The Smuggler's Mate had no access to the Nautical Rigging Line.",
+      "The weapon recovered from Radio Telegraph Shack was definitely not the Lead Sounding Weight.",
+      "Neither The Smuggler's Mate nor The Lighthouse Keeper had ever visited Dry Dock.",
+      "The lethal strike occurred in Tavern Cellar, leaving behind the deadly Whale Oil Flask."
+    ],
+    "solution": {
+      "culprit": "The Smuggler's Mate",
+      "murder_room": "Tavern Cellar",
+      "murder_weapon": "Whale Oil Flask",
+      "full_mapping": {
+        "The Smuggler's Mate": {
+          "room": "Tavern Cellar",
+          "weapon": "Whale Oil Flask"
+        },
+        "The Harbor Master": {
+          "room": "Dry Dock",
+          "weapon": "Iron Harpoon Tip"
+        },
+        "The Salvage Captain": {
+          "room": "Rocky Cove",
+          "weapon": "Lead Sounding Weight"
+        },
+        "The Lighthouse Keeper": {
+          "room": "Radio Telegraph Shack",
+          "weapon": "Nautical Rigging Line"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 25,
+    "title": "Case #025: The Mystery of The Conservatory",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Estranged Niece",
+        "Lord Harrington",
+        "The Head Butler",
+        "The Estate Gardener"
+      ],
+      "Rooms": [
+        "The Clock Tower",
+        "The Grand Library",
+        "The Billiard Room",
+        "The Conservatory"
+      ],
+      "Weapons": [
+        "Silk Cravat",
+        "Arsenic Vial",
+        "Silver Letter Opener",
+        "Fountain Pen with Poison"
+      ]
+    },
+    "clues": [
+      "Lord Harrington was confirmed to be in The Clock Tower.",
+      "The Head Butler was discovered carrying the Silk Cravat.",
+      "The investigator found the Silver Letter Opener inside The Grand Library.",
+      "The Estranged Niece was never seen near The Clock Tower.",
+      "The Estranged Niece had no access to the Silk Cravat.",
+      "The weapon recovered from The Clock Tower was definitely not the Silk Cravat.",
+      "Neither The Estranged Niece nor The Estate Gardener had ever visited The Clock Tower.",
+      "The lethal strike occurred in The Conservatory, leaving behind the deadly Arsenic Vial.",
+      "The Estranged Niece had no access to the Silver Letter Opener."
+    ],
+    "solution": {
+      "culprit": "The Estranged Niece",
+      "murder_room": "The Conservatory",
+      "murder_weapon": "Arsenic Vial",
+      "full_mapping": {
+        "The Estranged Niece": {
+          "room": "The Conservatory",
+          "weapon": "Arsenic Vial"
+        },
+        "Lord Harrington": {
+          "room": "The Clock Tower",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "The Head Butler": {
+          "room": "The Billiard Room",
+          "weapon": "Silk Cravat"
+        },
+        "The Estate Gardener": {
+          "room": "The Grand Library",
+          "weapon": "Silver Letter Opener"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 26,
+    "title": "Case #026: The Mystery of Engine Cab",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The French Diplomat",
+        "The Card Sharp",
+        "The Retired General",
+        "The Train Conductor"
+      ],
+      "Rooms": [
+        "Engine Cab",
+        "Private Salon",
+        "Luggage Van",
+        "Observation Lounge"
+      ],
+      "Weapons": [
+        "Heavy Crystal Decanter",
+        "Luggage Strap",
+        "Chloroform Rag",
+        "Engraved Pocket Pistol"
+      ]
+    },
+    "clues": [
+      "The Card Sharp was confirmed to be in Luggage Van.",
+      "The Retired General was discovered carrying the Luggage Strap.",
+      "The investigator found the Engraved Pocket Pistol inside Private Salon.",
+      "The French Diplomat was never seen near Private Salon.",
+      "The French Diplomat had no access to the Heavy Crystal Decanter.",
+      "The weapon recovered from Engine Cab was definitely not the Luggage Strap.",
+      "Neither The French Diplomat nor The Train Conductor had ever visited Luggage Van.",
+      "The lethal strike occurred in Engine Cab, leaving behind the deadly Chloroform Rag."
+    ],
+    "solution": {
+      "culprit": "The French Diplomat",
+      "murder_room": "Engine Cab",
+      "murder_weapon": "Chloroform Rag",
+      "full_mapping": {
+        "The French Diplomat": {
+          "room": "Engine Cab",
+          "weapon": "Chloroform Rag"
+        },
+        "The Card Sharp": {
+          "room": "Luggage Van",
+          "weapon": "Heavy Crystal Decanter"
+        },
+        "The Retired General": {
+          "room": "Observation Lounge",
+          "weapon": "Luggage Strap"
+        },
+        "The Train Conductor": {
+          "room": "Private Salon",
+          "weapon": "Engraved Pocket Pistol"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 27,
+    "title": "Case #027: The Mystery of Basement Conservation Lab",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Chief Curator",
+        "The Night Guard",
+        "The Auctioneer",
+        "The Visiting Professor"
+      ],
+      "Rooms": [
+        "Medieval Armory",
+        "Basement Conservation Lab",
+        "Curator's Office",
+        "Roof Terrace"
+      ],
+      "Weapons": [
+        "Restoration Solvent",
+        "Broken Marble Shard",
+        "Cast Bronze Statuette",
+        "Venomous Specimen"
+      ]
+    },
+    "clues": [
+      "The Night Guard was confirmed to be in Roof Terrace.",
+      "The Auctioneer was discovered carrying the Restoration Solvent.",
+      "The investigator found the Venomous Specimen inside Medieval Armory.",
+      "The Chief Curator was never seen near Medieval Armory.",
+      "The Chief Curator had no access to the Restoration Solvent.",
+      "The weapon recovered from Medieval Armory was definitely not the Restoration Solvent.",
+      "Neither The Chief Curator nor The Visiting Professor had ever visited Roof Terrace.",
+      "The lethal strike occurred in Basement Conservation Lab, leaving behind the deadly Cast Bronze Statuette."
+    ],
+    "solution": {
+      "culprit": "The Chief Curator",
+      "murder_room": "Basement Conservation Lab",
+      "murder_weapon": "Cast Bronze Statuette",
+      "full_mapping": {
+        "The Chief Curator": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Night Guard": {
+          "room": "Roof Terrace",
+          "weapon": "Broken Marble Shard"
+        },
+        "The Auctioneer": {
+          "room": "Curator's Office",
+          "weapon": "Restoration Solvent"
+        },
+        "The Visiting Professor": {
+          "room": "Medieval Armory",
+          "weapon": "Venomous Specimen"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 28,
+    "title": "Case #028: The Mystery of Foghorn Shed",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Salvage Captain",
+        "The Harbor Master",
+        "The Lighthouse Keeper",
+        "The Marine Biologist"
+      ],
+      "Rooms": [
+        "Rocky Cove",
+        "Radio Telegraph Shack",
+        "Foghorn Shed",
+        "Dry Dock"
+      ],
+      "Weapons": [
+        "Heavy Brass Flare Gun",
+        "Nautical Rigging Line",
+        "Iron Harpoon Tip",
+        "Whale Oil Flask"
+      ]
+    },
+    "clues": [
+      "The Harbor Master was confirmed to be in Dry Dock.",
+      "The Lighthouse Keeper was discovered carrying the Iron Harpoon Tip.",
+      "The investigator found the Whale Oil Flask inside Radio Telegraph Shack.",
+      "The Salvage Captain was never seen near Rocky Cove.",
+      "The Salvage Captain had no access to the Heavy Brass Flare Gun.",
+      "The weapon recovered from Radio Telegraph Shack was definitely not the Iron Harpoon Tip.",
+      "Neither The Salvage Captain nor The Marine Biologist had ever visited Dry Dock.",
+      "The lethal strike occurred in Foghorn Shed, leaving behind the deadly Nautical Rigging Line.",
+      "The Salvage Captain had no access to the Whale Oil Flask."
+    ],
+    "solution": {
+      "culprit": "The Salvage Captain",
+      "murder_room": "Foghorn Shed",
+      "murder_weapon": "Nautical Rigging Line",
+      "full_mapping": {
+        "The Salvage Captain": {
+          "room": "Foghorn Shed",
+          "weapon": "Nautical Rigging Line"
+        },
+        "The Harbor Master": {
+          "room": "Dry Dock",
+          "weapon": "Heavy Brass Flare Gun"
+        },
+        "The Lighthouse Keeper": {
+          "room": "Rocky Cove",
+          "weapon": "Iron Harpoon Tip"
+        },
+        "The Marine Biologist": {
+          "room": "Radio Telegraph Shack",
+          "weapon": "Whale Oil Flask"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 29,
+    "title": "Case #029: The Mystery of The Billiard Room",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Estate Gardener",
+        "The Head Butler",
+        "The Estranged Niece",
+        "Lord Harrington"
+      ],
+      "Rooms": [
+        "The Trophy Room",
+        "The Conservatory",
+        "The Wine Cellar",
+        "The Billiard Room"
+      ],
+      "Weapons": [
+        "Silk Cravat",
+        "Arsenic Vial",
+        "Heavy Brass Candlestick",
+        "Fountain Pen with Poison"
+      ]
+    },
+    "clues": [
+      "The Head Butler was confirmed to be in The Conservatory.",
+      "The Estranged Niece was discovered carrying the Silk Cravat.",
+      "The investigator found the Heavy Brass Candlestick inside The Trophy Room.",
+      "The Estate Gardener was never seen near The Trophy Room.",
+      "The Estate Gardener had no access to the Silk Cravat.",
+      "The weapon recovered from The Trophy Room was definitely not the Silk Cravat.",
+      "Neither The Estate Gardener nor Lord Harrington had ever visited The Conservatory.",
+      "The lethal strike occurred in The Billiard Room, leaving behind the deadly Arsenic Vial."
+    ],
+    "solution": {
+      "culprit": "The Estate Gardener",
+      "murder_room": "The Billiard Room",
+      "murder_weapon": "Arsenic Vial",
+      "full_mapping": {
+        "The Estate Gardener": {
+          "room": "The Billiard Room",
+          "weapon": "Arsenic Vial"
+        },
+        "The Head Butler": {
+          "room": "The Conservatory",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "The Estranged Niece": {
+          "room": "The Wine Cellar",
+          "weapon": "Silk Cravat"
+        },
+        "Lord Harrington": {
+          "room": "The Trophy Room",
+          "weapon": "Heavy Brass Candlestick"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 30,
+    "title": "Case #030: The Mystery of First-Class Sleeper A",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Card Sharp",
+        "The Train Conductor",
+        "The Retired General",
+        "The Jewel Merchant"
+      ],
+      "Rooms": [
+        "Dining Car",
+        "Luggage Van",
+        "Engine Cab",
+        "First-Class Sleeper A"
+      ],
+      "Weapons": [
+        "Luggage Strap",
+        "Dosed Champagne",
+        "Steel Pocket Knife",
+        "Engraved Pocket Pistol"
+      ]
+    },
+    "clues": [
+      "The Train Conductor was confirmed to be in Dining Car.",
+      "The Retired General was discovered carrying the Luggage Strap.",
+      "The investigator found the Steel Pocket Knife inside Luggage Van.",
+      "The Card Sharp was never seen near Dining Car.",
+      "The Card Sharp had no access to the Luggage Strap.",
+      "The weapon recovered from Dining Car was definitely not the Luggage Strap.",
+      "Neither The Card Sharp nor The Jewel Merchant had ever visited Dining Car.",
+      "The lethal strike occurred in First-Class Sleeper A, leaving behind the deadly Engraved Pocket Pistol.",
+      "The Card Sharp had no access to the Steel Pocket Knife."
+    ],
+    "solution": {
+      "culprit": "The Card Sharp",
+      "murder_room": "First-Class Sleeper A",
+      "murder_weapon": "Engraved Pocket Pistol",
+      "full_mapping": {
+        "The Card Sharp": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Engraved Pocket Pistol"
+        },
+        "The Train Conductor": {
+          "room": "Dining Car",
+          "weapon": "Dosed Champagne"
+        },
+        "The Retired General": {
+          "room": "Engine Cab",
+          "weapon": "Luggage Strap"
+        },
+        "The Jewel Merchant": {
+          "room": "Luggage Van",
+          "weapon": "Steel Pocket Knife"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 31,
+    "title": "Case #031: The Mystery of Medieval Armory",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Auctioneer",
+        "The Art Restorer",
+        "The Wealthy Benefactor",
+        "The Visiting Professor"
+      ],
+      "Rooms": [
+        "Basement Conservation Lab",
+        "Curator's Office",
+        "Roof Terrace",
+        "Medieval Armory"
+      ],
+      "Weapons": [
+        "Restoration Solvent",
+        "Cast Bronze Statuette",
+        "Broken Marble Shard",
+        "Venomous Specimen"
+      ]
+    },
+    "clues": [
+      "The Art Restorer was confirmed to be in Basement Conservation Lab.",
+      "The Wealthy Benefactor was discovered carrying the Cast Bronze Statuette.",
+      "The investigator found the Broken Marble Shard inside Curator's Office.",
+      "The Auctioneer was never seen near Basement Conservation Lab.",
+      "The Auctioneer had no access to the Restoration Solvent.",
+      "The weapon recovered from Basement Conservation Lab was definitely not the Cast Bronze Statuette.",
+      "Neither The Auctioneer nor The Visiting Professor had ever visited Basement Conservation Lab.",
+      "The lethal strike occurred in Medieval Armory, leaving behind the deadly Venomous Specimen.",
+      "The Auctioneer had no access to the Broken Marble Shard."
+    ],
+    "solution": {
+      "culprit": "The Auctioneer",
+      "murder_room": "Medieval Armory",
+      "murder_weapon": "Venomous Specimen",
+      "full_mapping": {
+        "The Auctioneer": {
+          "room": "Medieval Armory",
+          "weapon": "Venomous Specimen"
+        },
+        "The Art Restorer": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Restoration Solvent"
+        },
+        "The Wealthy Benefactor": {
+          "room": "Roof Terrace",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Visiting Professor": {
+          "room": "Curator's Office",
+          "weapon": "Broken Marble Shard"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 32,
+    "title": "Case #032: The Mystery of Foghorn Shed",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Lighthouse Keeper",
+        "The Marine Biologist",
+        "The Smuggler's Mate",
+        "The Island Innkeeper"
+      ],
+      "Rooms": [
+        "Tavern Cellar",
+        "Foghorn Shed",
+        "Dry Dock",
+        "Rocky Cove"
+      ],
+      "Weapons": [
+        "Nautical Rigging Line",
+        "Divers' Knife",
+        "Iron Harpoon Tip",
+        "Heavy Brass Flare Gun"
+      ]
+    },
+    "clues": [
+      "The Marine Biologist was confirmed to be in Rocky Cove.",
+      "The Smuggler's Mate was discovered carrying the Divers' Knife.",
+      "The investigator found the Heavy Brass Flare Gun inside Dry Dock.",
+      "The Lighthouse Keeper was never seen near Tavern Cellar.",
+      "The Lighthouse Keeper had no access to the Nautical Rigging Line.",
+      "The weapon recovered from Foghorn Shed was definitely not the Divers' Knife.",
+      "Neither The Lighthouse Keeper nor The Island Innkeeper had ever visited Rocky Cove.",
+      "The lethal strike occurred in Foghorn Shed, leaving behind the deadly Iron Harpoon Tip.",
+      "The Lighthouse Keeper had no access to the Heavy Brass Flare Gun."
+    ],
+    "solution": {
+      "culprit": "The Lighthouse Keeper",
+      "murder_room": "Foghorn Shed",
+      "murder_weapon": "Iron Harpoon Tip",
+      "full_mapping": {
+        "The Lighthouse Keeper": {
+          "room": "Foghorn Shed",
+          "weapon": "Iron Harpoon Tip"
+        },
+        "The Marine Biologist": {
+          "room": "Rocky Cove",
+          "weapon": "Nautical Rigging Line"
+        },
+        "The Smuggler's Mate": {
+          "room": "Tavern Cellar",
+          "weapon": "Divers' Knife"
+        },
+        "The Island Innkeeper": {
+          "room": "Dry Dock",
+          "weapon": "Heavy Brass Flare Gun"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 33,
+    "title": "Case #033: The Mystery of The Wine Cellar",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Head Butler",
+        "Duchess Eleanor",
+        "Lord Harrington",
+        "The Estranged Niece"
+      ],
+      "Rooms": [
+        "The Clock Tower",
+        "The Trophy Room",
+        "The Conservatory",
+        "The Wine Cellar"
+      ],
+      "Weapons": [
+        "Fountain Pen with Poison",
+        "Heavy Brass Candlestick",
+        "Vintage Hunting Rifle",
+        "Silver Letter Opener"
+      ]
+    },
+    "clues": [
+      "Duchess Eleanor was confirmed to be in The Conservatory.",
+      "Lord Harrington was discovered carrying the Heavy Brass Candlestick.",
+      "The investigator found the Vintage Hunting Rifle inside The Trophy Room.",
+      "The Head Butler was never seen near The Clock Tower.",
+      "The Head Butler had no access to the Fountain Pen with Poison.",
+      "The weapon recovered from The Trophy Room was definitely not the Heavy Brass Candlestick.",
+      "Neither The Head Butler nor The Estranged Niece had ever visited The Conservatory.",
+      "The lethal strike occurred in The Wine Cellar, leaving behind the deadly Silver Letter Opener.",
+      "The Head Butler had no access to the Vintage Hunting Rifle."
+    ],
+    "solution": {
+      "culprit": "The Head Butler",
+      "murder_room": "The Wine Cellar",
+      "murder_weapon": "Silver Letter Opener",
+      "full_mapping": {
+        "The Head Butler": {
+          "room": "The Wine Cellar",
+          "weapon": "Silver Letter Opener"
+        },
+        "Duchess Eleanor": {
+          "room": "The Conservatory",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "Lord Harrington": {
+          "room": "The Clock Tower",
+          "weapon": "Heavy Brass Candlestick"
+        },
+        "The Estranged Niece": {
+          "room": "The Trophy Room",
+          "weapon": "Vintage Hunting Rifle"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 34,
+    "title": "Case #034: The Mystery of Dining Car",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The French Diplomat",
+        "The Card Sharp",
+        "The Jewel Merchant",
+        "The Train Conductor"
+      ],
+      "Rooms": [
+        "Engine Cab",
+        "Dining Car",
+        "Private Salon",
+        "First-Class Sleeper A"
+      ],
+      "Weapons": [
+        "Engraved Pocket Pistol",
+        "Dosed Champagne",
+        "Chloroform Rag",
+        "Heavy Crystal Decanter"
+      ]
+    },
+    "clues": [
+      "The Card Sharp was confirmed to be in First-Class Sleeper A.",
+      "The Jewel Merchant was discovered carrying the Engraved Pocket Pistol.",
+      "The investigator found the Chloroform Rag inside Private Salon.",
+      "The French Diplomat was never seen near Engine Cab.",
+      "The French Diplomat had no access to the Engraved Pocket Pistol.",
+      "The weapon recovered from Dining Car was definitely not the Engraved Pocket Pistol.",
+      "Neither The French Diplomat nor The Train Conductor had ever visited First-Class Sleeper A.",
+      "The lethal strike occurred in Dining Car, leaving behind the deadly Dosed Champagne.",
+      "The French Diplomat had no access to the Chloroform Rag."
+    ],
+    "solution": {
+      "culprit": "The French Diplomat",
+      "murder_room": "Dining Car",
+      "murder_weapon": "Dosed Champagne",
+      "full_mapping": {
+        "The French Diplomat": {
+          "room": "Dining Car",
+          "weapon": "Dosed Champagne"
+        },
+        "The Card Sharp": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Heavy Crystal Decanter"
+        },
+        "The Jewel Merchant": {
+          "room": "Engine Cab",
+          "weapon": "Engraved Pocket Pistol"
+        },
+        "The Train Conductor": {
+          "room": "Private Salon",
+          "weapon": "Chloroform Rag"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 35,
+    "title": "Case #035: The Mystery of Renaissance Gallery",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Wealthy Benefactor",
+        "The Art Restorer",
+        "The Chief Curator",
+        "The Night Guard"
+      ],
+      "Rooms": [
+        "Curator's Office",
+        "Basement Conservation Lab",
+        "Egyptian Antiquities",
+        "Renaissance Gallery"
+      ],
+      "Weapons": [
+        "Cast Bronze Statuette",
+        "Ceremonial Dagger",
+        "Restoration Solvent",
+        "Broken Marble Shard"
+      ]
+    },
+    "clues": [
+      "The Art Restorer was confirmed to be in Curator's Office.",
+      "The Chief Curator was discovered carrying the Broken Marble Shard.",
+      "The investigator found the Ceremonial Dagger inside Egyptian Antiquities.",
+      "The Wealthy Benefactor was never seen near Curator's Office.",
+      "The Wealthy Benefactor had no access to the Cast Bronze Statuette.",
+      "The weapon recovered from Curator's Office was definitely not the Broken Marble Shard.",
+      "Neither The Wealthy Benefactor nor The Night Guard had ever visited Curator's Office.",
+      "The lethal strike occurred in Renaissance Gallery, leaving behind the deadly Restoration Solvent.",
+      "The Wealthy Benefactor had no access to the Ceremonial Dagger."
+    ],
+    "solution": {
+      "culprit": "The Wealthy Benefactor",
+      "murder_room": "Renaissance Gallery",
+      "murder_weapon": "Restoration Solvent",
+      "full_mapping": {
+        "The Wealthy Benefactor": {
+          "room": "Renaissance Gallery",
+          "weapon": "Restoration Solvent"
+        },
+        "The Art Restorer": {
+          "room": "Curator's Office",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Chief Curator": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Broken Marble Shard"
+        },
+        "The Night Guard": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Ceremonial Dagger"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 36,
+    "title": "Case #036: The Mystery of Radio Telegraph Shack",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Lighthouse Keeper",
+        "The Marine Biologist",
+        "The Smuggler's Mate",
+        "The Island Innkeeper"
+      ],
+      "Rooms": [
+        "Foghorn Shed",
+        "Dry Dock",
+        "Lantern Room",
+        "Radio Telegraph Shack"
+      ],
+      "Weapons": [
+        "Whale Oil Flask",
+        "Heavy Brass Flare Gun",
+        "Divers' Knife",
+        "Iron Harpoon Tip"
+      ]
+    },
+    "clues": [
+      "The Marine Biologist was confirmed to be in Lantern Room.",
+      "The Smuggler's Mate was discovered carrying the Iron Harpoon Tip.",
+      "The investigator found the Divers' Knife inside Dry Dock.",
+      "The Lighthouse Keeper was never seen near Foghorn Shed.",
+      "The Lighthouse Keeper had no access to the Heavy Brass Flare Gun.",
+      "The weapon recovered from Dry Dock was definitely not the Iron Harpoon Tip.",
+      "Neither The Lighthouse Keeper nor The Island Innkeeper had ever visited Lantern Room.",
+      "The lethal strike occurred in Radio Telegraph Shack, leaving behind the deadly Whale Oil Flask.",
+      "The Lighthouse Keeper had no access to the Divers' Knife."
+    ],
+    "solution": {
+      "culprit": "The Lighthouse Keeper",
+      "murder_room": "Radio Telegraph Shack",
+      "murder_weapon": "Whale Oil Flask",
+      "full_mapping": {
+        "The Lighthouse Keeper": {
+          "room": "Radio Telegraph Shack",
+          "weapon": "Whale Oil Flask"
+        },
+        "The Marine Biologist": {
+          "room": "Lantern Room",
+          "weapon": "Heavy Brass Flare Gun"
+        },
+        "The Smuggler's Mate": {
+          "room": "Foghorn Shed",
+          "weapon": "Iron Harpoon Tip"
+        },
+        "The Island Innkeeper": {
+          "room": "Dry Dock",
+          "weapon": "Divers' Knife"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 37,
+    "title": "Case #037: The Mystery of The Grand Library",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Antiquarian",
+        "The Estranged Niece",
+        "Lord Harrington",
+        "Duchess Eleanor"
+      ],
+      "Rooms": [
+        "The Wine Cellar",
+        "The Conservatory",
+        "The Grand Library",
+        "The Clock Tower"
+      ],
+      "Weapons": [
+        "Silver Letter Opener",
+        "Heavy Brass Candlestick",
+        "Silk Cravat",
+        "Arsenic Vial"
+      ]
+    },
+    "clues": [
+      "The Estranged Niece was confirmed to be in The Wine Cellar.",
+      "Lord Harrington was discovered carrying the Silver Letter Opener.",
+      "The investigator found the Heavy Brass Candlestick inside The Clock Tower.",
+      "The Antiquarian was never seen near The Wine Cellar.",
+      "The Antiquarian had no access to the Silver Letter Opener.",
+      "The weapon recovered from The Wine Cellar was definitely not the Silver Letter Opener.",
+      "Neither The Antiquarian nor Duchess Eleanor had ever visited The Wine Cellar.",
+      "The lethal strike occurred in The Grand Library, leaving behind the deadly Arsenic Vial.",
+      "The Antiquarian had no access to the Heavy Brass Candlestick."
+    ],
+    "solution": {
+      "culprit": "The Antiquarian",
+      "murder_room": "The Grand Library",
+      "murder_weapon": "Arsenic Vial",
+      "full_mapping": {
+        "The Antiquarian": {
+          "room": "The Grand Library",
+          "weapon": "Arsenic Vial"
+        },
+        "The Estranged Niece": {
+          "room": "The Wine Cellar",
+          "weapon": "Silk Cravat"
+        },
+        "Lord Harrington": {
+          "room": "The Conservatory",
+          "weapon": "Silver Letter Opener"
+        },
+        "Duchess Eleanor": {
+          "room": "The Clock Tower",
+          "weapon": "Heavy Brass Candlestick"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 38,
+    "title": "Case #038: The Mystery of Engine Cab",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The French Diplomat",
+        "The Train Conductor",
+        "The Retired General",
+        "The Jewel Merchant"
+      ],
+      "Rooms": [
+        "Engine Cab",
+        "Private Salon",
+        "Dining Car",
+        "Luggage Van"
+      ],
+      "Weapons": [
+        "Dosed Champagne",
+        "Steel Pocket Knife",
+        "Engraved Pocket Pistol",
+        "Chloroform Rag"
+      ]
+    },
+    "clues": [
+      "The Train Conductor was confirmed to be in Private Salon.",
+      "The Retired General was discovered carrying the Engraved Pocket Pistol.",
+      "The investigator found the Chloroform Rag inside Luggage Van.",
+      "The French Diplomat was never seen near Private Salon.",
+      "The French Diplomat had no access to the Steel Pocket Knife.",
+      "The weapon recovered from Engine Cab was definitely not the Engraved Pocket Pistol.",
+      "Neither The French Diplomat nor The Jewel Merchant had ever visited Private Salon.",
+      "The lethal strike occurred in Engine Cab, leaving behind the deadly Dosed Champagne.",
+      "The French Diplomat had no access to the Chloroform Rag."
+    ],
+    "solution": {
+      "culprit": "The French Diplomat",
+      "murder_room": "Engine Cab",
+      "murder_weapon": "Dosed Champagne",
+      "full_mapping": {
+        "The French Diplomat": {
+          "room": "Engine Cab",
+          "weapon": "Dosed Champagne"
+        },
+        "The Train Conductor": {
+          "room": "Private Salon",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The Retired General": {
+          "room": "Dining Car",
+          "weapon": "Engraved Pocket Pistol"
+        },
+        "The Jewel Merchant": {
+          "room": "Luggage Van",
+          "weapon": "Chloroform Rag"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 39,
+    "title": "Case #039: The Mystery of Roof Terrace",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Auctioneer",
+        "The Visiting Professor",
+        "The Night Guard",
+        "The Wealthy Benefactor"
+      ],
+      "Rooms": [
+        "Egyptian Antiquities",
+        "Roof Terrace",
+        "Basement Conservation Lab",
+        "Renaissance Gallery"
+      ],
+      "Weapons": [
+        "Venomous Specimen",
+        "Iron Flanged Mace",
+        "Ceremonial Dagger",
+        "Restoration Solvent"
+      ]
+    },
+    "clues": [
+      "The Visiting Professor was confirmed to be in Renaissance Gallery.",
+      "The Night Guard was discovered carrying the Iron Flanged Mace.",
+      "The investigator found the Restoration Solvent inside Basement Conservation Lab.",
+      "The Auctioneer was never seen near Egyptian Antiquities.",
+      "The Auctioneer had no access to the Venomous Specimen.",
+      "The weapon recovered from Roof Terrace was definitely not the Iron Flanged Mace.",
+      "Neither The Auctioneer nor The Wealthy Benefactor had ever visited Renaissance Gallery.",
+      "The lethal strike occurred in Roof Terrace, leaving behind the deadly Ceremonial Dagger.",
+      "The Auctioneer had no access to the Restoration Solvent."
+    ],
+    "solution": {
+      "culprit": "The Auctioneer",
+      "murder_room": "Roof Terrace",
+      "murder_weapon": "Ceremonial Dagger",
+      "full_mapping": {
+        "The Auctioneer": {
+          "room": "Roof Terrace",
+          "weapon": "Ceremonial Dagger"
+        },
+        "The Visiting Professor": {
+          "room": "Renaissance Gallery",
+          "weapon": "Venomous Specimen"
+        },
+        "The Night Guard": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Iron Flanged Mace"
+        },
+        "The Wealthy Benefactor": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Restoration Solvent"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 40,
+    "title": "Case #040: The Mystery of Tavern Cellar",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Smuggler's Mate",
+        "The Marine Biologist",
+        "The Salvage Captain",
+        "The Island Innkeeper"
+      ],
+      "Rooms": [
+        "Tavern Cellar",
+        "Radio Telegraph Shack",
+        "Dry Dock",
+        "Rocky Cove"
+      ],
+      "Weapons": [
+        "Iron Harpoon Tip",
+        "Nautical Rigging Line",
+        "Divers' Knife",
+        "Heavy Brass Flare Gun"
+      ]
+    },
+    "clues": [
+      "The Marine Biologist was confirmed to be in Dry Dock.",
+      "The Salvage Captain was discovered carrying the Nautical Rigging Line.",
+      "The investigator found the Heavy Brass Flare Gun inside Radio Telegraph Shack.",
+      "The Smuggler's Mate was never seen near Radio Telegraph Shack.",
+      "The Smuggler's Mate had no access to the Nautical Rigging Line.",
+      "The weapon recovered from Tavern Cellar was definitely not the Nautical Rigging Line.",
+      "Neither The Smuggler's Mate nor The Island Innkeeper had ever visited Dry Dock.",
+      "The lethal strike occurred in Tavern Cellar, leaving behind the deadly Iron Harpoon Tip."
+    ],
+    "solution": {
+      "culprit": "The Smuggler's Mate",
+      "murder_room": "Tavern Cellar",
+      "murder_weapon": "Iron Harpoon Tip",
+      "full_mapping": {
+        "The Smuggler's Mate": {
+          "room": "Tavern Cellar",
+          "weapon": "Iron Harpoon Tip"
+        },
+        "The Marine Biologist": {
+          "room": "Dry Dock",
+          "weapon": "Divers' Knife"
+        },
+        "The Salvage Captain": {
+          "room": "Rocky Cove",
+          "weapon": "Nautical Rigging Line"
+        },
+        "The Island Innkeeper": {
+          "room": "Radio Telegraph Shack",
+          "weapon": "Heavy Brass Flare Gun"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 41,
+    "title": "Case #041: The Mystery of The Grand Library",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "Lord Harrington",
+        "The Head Butler",
+        "The Antiquarian",
+        "The Estate Gardener"
+      ],
+      "Rooms": [
+        "The Wine Cellar",
+        "The Conservatory",
+        "The Grand Library",
+        "The Billiard Room"
+      ],
+      "Weapons": [
+        "Arsenic Vial",
+        "Heavy Brass Candlestick",
+        "Vintage Hunting Rifle",
+        "Fountain Pen with Poison"
+      ]
+    },
+    "clues": [
+      "The Head Butler was confirmed to be in The Wine Cellar.",
+      "The Antiquarian was discovered carrying the Vintage Hunting Rifle.",
+      "The investigator found the Arsenic Vial inside The Billiard Room.",
+      "Lord Harrington was never seen near The Wine Cellar.",
+      "Lord Harrington had no access to the Arsenic Vial.",
+      "The weapon recovered from The Wine Cellar was definitely not the Vintage Hunting Rifle.",
+      "Neither Lord Harrington nor The Estate Gardener had ever visited The Wine Cellar.",
+      "The lethal strike occurred in The Grand Library, leaving behind the deadly Fountain Pen with Poison."
+    ],
+    "solution": {
+      "culprit": "Lord Harrington",
+      "murder_room": "The Grand Library",
+      "murder_weapon": "Fountain Pen with Poison",
+      "full_mapping": {
+        "Lord Harrington": {
+          "room": "The Grand Library",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "The Head Butler": {
+          "room": "The Wine Cellar",
+          "weapon": "Heavy Brass Candlestick"
+        },
+        "The Antiquarian": {
+          "room": "The Conservatory",
+          "weapon": "Vintage Hunting Rifle"
+        },
+        "The Estate Gardener": {
+          "room": "The Billiard Room",
+          "weapon": "Arsenic Vial"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 42,
+    "title": "Case #042: The Mystery of Engine Cab",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Card Sharp",
+        "The Jewel Merchant",
+        "The Opera Soprano",
+        "The Retired General"
+      ],
+      "Rooms": [
+        "First-Class Sleeper A",
+        "Observation Lounge",
+        "Dining Car",
+        "Engine Cab"
+      ],
+      "Weapons": [
+        "Luggage Strap",
+        "Engraved Pocket Pistol",
+        "Heavy Crystal Decanter",
+        "Chloroform Rag"
+      ]
+    },
+    "clues": [
+      "The Jewel Merchant was confirmed to be in Observation Lounge.",
+      "The Opera Soprano was discovered carrying the Engraved Pocket Pistol.",
+      "The investigator found the Luggage Strap inside First-Class Sleeper A.",
+      "The Card Sharp was never seen near First-Class Sleeper A.",
+      "The Card Sharp had no access to the Luggage Strap.",
+      "The weapon recovered from First-Class Sleeper A was definitely not the Engraved Pocket Pistol.",
+      "Neither The Card Sharp nor The Retired General had ever visited Observation Lounge.",
+      "The lethal strike occurred in Engine Cab, leaving behind the deadly Chloroform Rag."
+    ],
+    "solution": {
+      "culprit": "The Card Sharp",
+      "murder_room": "Engine Cab",
+      "murder_weapon": "Chloroform Rag",
+      "full_mapping": {
+        "The Card Sharp": {
+          "room": "Engine Cab",
+          "weapon": "Chloroform Rag"
+        },
+        "The Jewel Merchant": {
+          "room": "Observation Lounge",
+          "weapon": "Heavy Crystal Decanter"
+        },
+        "The Opera Soprano": {
+          "room": "Dining Car",
+          "weapon": "Engraved Pocket Pistol"
+        },
+        "The Retired General": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Luggage Strap"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 43,
+    "title": "Case #043: The Mystery of Roof Terrace",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Night Guard",
+        "The Visiting Professor",
+        "The Art Restorer",
+        "The Wealthy Benefactor"
+      ],
+      "Rooms": [
+        "Medieval Armory",
+        "Roof Terrace",
+        "Curator's Office",
+        "Egyptian Antiquities"
+      ],
+      "Weapons": [
+        "Cast Bronze Statuette",
+        "Broken Marble Shard",
+        "Iron Flanged Mace",
+        "Venomous Specimen"
+      ]
+    },
+    "clues": [
+      "The Visiting Professor was confirmed to be in Curator's Office.",
+      "The Art Restorer was discovered carrying the Broken Marble Shard.",
+      "The investigator found the Cast Bronze Statuette inside Medieval Armory.",
+      "The Night Guard was never seen near Medieval Armory.",
+      "The Night Guard had no access to the Cast Bronze Statuette.",
+      "The weapon recovered from Medieval Armory was definitely not the Broken Marble Shard.",
+      "Neither The Night Guard nor The Wealthy Benefactor had ever visited Curator's Office.",
+      "The lethal strike occurred in Roof Terrace, leaving behind the deadly Venomous Specimen."
+    ],
+    "solution": {
+      "culprit": "The Night Guard",
+      "murder_room": "Roof Terrace",
+      "murder_weapon": "Venomous Specimen",
+      "full_mapping": {
+        "The Night Guard": {
+          "room": "Roof Terrace",
+          "weapon": "Venomous Specimen"
+        },
+        "The Visiting Professor": {
+          "room": "Curator's Office",
+          "weapon": "Iron Flanged Mace"
+        },
+        "The Art Restorer": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Broken Marble Shard"
+        },
+        "The Wealthy Benefactor": {
+          "room": "Medieval Armory",
+          "weapon": "Cast Bronze Statuette"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 44,
+    "title": "Case #044: The Mystery of Dry Dock",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Lighthouse Keeper",
+        "The Salvage Captain",
+        "The Island Innkeeper",
+        "The Marine Biologist"
+      ],
+      "Rooms": [
+        "Radio Telegraph Shack",
+        "Rocky Cove",
+        "Tavern Cellar",
+        "Dry Dock"
+      ],
+      "Weapons": [
+        "Heavy Brass Flare Gun",
+        "Lead Sounding Weight",
+        "Whale Oil Flask",
+        "Divers' Knife"
+      ]
+    },
+    "clues": [
+      "The Salvage Captain was confirmed to be in Rocky Cove.",
+      "The Island Innkeeper was discovered carrying the Whale Oil Flask.",
+      "The investigator found the Heavy Brass Flare Gun inside Tavern Cellar.",
+      "The Lighthouse Keeper was never seen near Radio Telegraph Shack.",
+      "The Lighthouse Keeper had no access to the Heavy Brass Flare Gun.",
+      "The weapon recovered from Rocky Cove was definitely not the Whale Oil Flask.",
+      "Neither The Lighthouse Keeper nor The Marine Biologist had ever visited Rocky Cove.",
+      "The lethal strike occurred in Dry Dock, leaving behind the deadly Divers' Knife."
+    ],
+    "solution": {
+      "culprit": "The Lighthouse Keeper",
+      "murder_room": "Dry Dock",
+      "murder_weapon": "Divers' Knife",
+      "full_mapping": {
+        "The Lighthouse Keeper": {
+          "room": "Dry Dock",
+          "weapon": "Divers' Knife"
+        },
+        "The Salvage Captain": {
+          "room": "Rocky Cove",
+          "weapon": "Lead Sounding Weight"
+        },
+        "The Island Innkeeper": {
+          "room": "Radio Telegraph Shack",
+          "weapon": "Whale Oil Flask"
+        },
+        "The Marine Biologist": {
+          "room": "Tavern Cellar",
+          "weapon": "Heavy Brass Flare Gun"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 45,
+    "title": "Case #045: The Mystery of The Clock Tower",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "Duchess Eleanor",
+        "The Head Butler",
+        "Lord Harrington",
+        "The Antiquarian"
+      ],
+      "Rooms": [
+        "The Trophy Room",
+        "The Conservatory",
+        "The Grand Library",
+        "The Clock Tower"
+      ],
+      "Weapons": [
+        "Vintage Hunting Rifle",
+        "Arsenic Vial",
+        "Silk Cravat",
+        "Heavy Brass Candlestick"
+      ]
+    },
+    "clues": [
+      "The Head Butler was confirmed to be in The Grand Library.",
+      "Lord Harrington was discovered carrying the Vintage Hunting Rifle.",
+      "The investigator found the Arsenic Vial inside The Conservatory.",
+      "Duchess Eleanor was never seen near The Trophy Room.",
+      "Duchess Eleanor had no access to the Vintage Hunting Rifle.",
+      "The weapon recovered from The Conservatory was definitely not the Vintage Hunting Rifle.",
+      "Neither Duchess Eleanor nor The Antiquarian had ever visited The Grand Library.",
+      "The lethal strike occurred in The Clock Tower, leaving behind the deadly Silk Cravat.",
+      "Duchess Eleanor had no access to the Arsenic Vial."
+    ],
+    "solution": {
+      "culprit": "Duchess Eleanor",
+      "murder_room": "The Clock Tower",
+      "murder_weapon": "Silk Cravat",
+      "full_mapping": {
+        "Duchess Eleanor": {
+          "room": "The Clock Tower",
+          "weapon": "Silk Cravat"
+        },
+        "The Head Butler": {
+          "room": "The Grand Library",
+          "weapon": "Heavy Brass Candlestick"
+        },
+        "Lord Harrington": {
+          "room": "The Trophy Room",
+          "weapon": "Vintage Hunting Rifle"
+        },
+        "The Antiquarian": {
+          "room": "The Conservatory",
+          "weapon": "Arsenic Vial"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 46,
+    "title": "Case #046: The Mystery of Observation Lounge",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Jewel Merchant",
+        "The Train Conductor",
+        "The Card Sharp",
+        "The Opera Soprano"
+      ],
+      "Rooms": [
+        "Observation Lounge",
+        "First-Class Sleeper A",
+        "Dining Car",
+        "Engine Cab"
+      ],
+      "Weapons": [
+        "Dosed Champagne",
+        "Steel Pocket Knife",
+        "Luggage Strap",
+        "Chloroform Rag"
+      ]
+    },
+    "clues": [
+      "The Train Conductor was confirmed to be in First-Class Sleeper A.",
+      "The Card Sharp was discovered carrying the Steel Pocket Knife.",
+      "The investigator found the Dosed Champagne inside Dining Car.",
+      "The Jewel Merchant was never seen near First-Class Sleeper A.",
+      "The Jewel Merchant had no access to the Dosed Champagne.",
+      "The weapon recovered from Observation Lounge was definitely not the Steel Pocket Knife.",
+      "Neither The Jewel Merchant nor The Opera Soprano had ever visited First-Class Sleeper A.",
+      "The lethal strike occurred in Observation Lounge, leaving behind the deadly Chloroform Rag."
+    ],
+    "solution": {
+      "culprit": "The Jewel Merchant",
+      "murder_room": "Observation Lounge",
+      "murder_weapon": "Chloroform Rag",
+      "full_mapping": {
+        "The Jewel Merchant": {
+          "room": "Observation Lounge",
+          "weapon": "Chloroform Rag"
+        },
+        "The Train Conductor": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Luggage Strap"
+        },
+        "The Card Sharp": {
+          "room": "Engine Cab",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The Opera Soprano": {
+          "room": "Dining Car",
+          "weapon": "Dosed Champagne"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 47,
+    "title": "Case #047: The Mystery of Egyptian Antiquities",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Auctioneer",
+        "The Art Restorer",
+        "The Night Guard",
+        "The Chief Curator"
+      ],
+      "Rooms": [
+        "Curator's Office",
+        "Egyptian Antiquities",
+        "Medieval Armory",
+        "Renaissance Gallery"
+      ],
+      "Weapons": [
+        "Ceremonial Dagger",
+        "Cast Bronze Statuette",
+        "Iron Flanged Mace",
+        "Venomous Specimen"
+      ]
+    },
+    "clues": [
+      "The Art Restorer was confirmed to be in Renaissance Gallery.",
+      "The Night Guard was discovered carrying the Cast Bronze Statuette.",
+      "The investigator found the Iron Flanged Mace inside Medieval Armory.",
+      "The Auctioneer was never seen near Curator's Office.",
+      "The Auctioneer had no access to the Ceremonial Dagger.",
+      "The weapon recovered from Egyptian Antiquities was definitely not the Cast Bronze Statuette.",
+      "Neither The Auctioneer nor The Chief Curator had ever visited Renaissance Gallery.",
+      "The lethal strike occurred in Egyptian Antiquities, leaving behind the deadly Venomous Specimen.",
+      "The Auctioneer had no access to the Iron Flanged Mace."
+    ],
+    "solution": {
+      "culprit": "The Auctioneer",
+      "murder_room": "Egyptian Antiquities",
+      "murder_weapon": "Venomous Specimen",
+      "full_mapping": {
+        "The Auctioneer": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Venomous Specimen"
+        },
+        "The Art Restorer": {
+          "room": "Renaissance Gallery",
+          "weapon": "Ceremonial Dagger"
+        },
+        "The Night Guard": {
+          "room": "Curator's Office",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Chief Curator": {
+          "room": "Medieval Armory",
+          "weapon": "Iron Flanged Mace"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 48,
+    "title": "Case #048: The Mystery of Dry Dock",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Salvage Captain",
+        "The Smuggler's Mate",
+        "The Marine Biologist",
+        "The Island Innkeeper"
+      ],
+      "Rooms": [
+        "Dry Dock",
+        "Rocky Cove",
+        "Foghorn Shed",
+        "Tavern Cellar"
+      ],
+      "Weapons": [
+        "Heavy Brass Flare Gun",
+        "Lead Sounding Weight",
+        "Divers' Knife",
+        "Whale Oil Flask"
+      ]
+    },
+    "clues": [
+      "The Smuggler's Mate was confirmed to be in Foghorn Shed.",
+      "The Marine Biologist was discovered carrying the Whale Oil Flask.",
+      "The investigator found the Heavy Brass Flare Gun inside Rocky Cove.",
+      "The Salvage Captain was never seen near Rocky Cove.",
+      "The Salvage Captain had no access to the Heavy Brass Flare Gun.",
+      "The weapon recovered from Dry Dock was definitely not the Whale Oil Flask.",
+      "Neither The Salvage Captain nor The Island Innkeeper had ever visited Foghorn Shed.",
+      "The lethal strike occurred in Dry Dock, leaving behind the deadly Lead Sounding Weight."
+    ],
+    "solution": {
+      "culprit": "The Salvage Captain",
+      "murder_room": "Dry Dock",
+      "murder_weapon": "Lead Sounding Weight",
+      "full_mapping": {
+        "The Salvage Captain": {
+          "room": "Dry Dock",
+          "weapon": "Lead Sounding Weight"
+        },
+        "The Smuggler's Mate": {
+          "room": "Foghorn Shed",
+          "weapon": "Divers' Knife"
+        },
+        "The Marine Biologist": {
+          "room": "Tavern Cellar",
+          "weapon": "Whale Oil Flask"
+        },
+        "The Island Innkeeper": {
+          "room": "Rocky Cove",
+          "weapon": "Heavy Brass Flare Gun"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 49,
+    "title": "Case #049: The Mystery of The Billiard Room",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Estranged Niece",
+        "The Antiquarian",
+        "Lord Harrington",
+        "The Estate Gardener"
+      ],
+      "Rooms": [
+        "The Clock Tower",
+        "The Wine Cellar",
+        "The Trophy Room",
+        "The Billiard Room"
+      ],
+      "Weapons": [
+        "Silver Letter Opener",
+        "Fountain Pen with Poison",
+        "Vintage Hunting Rifle",
+        "Arsenic Vial"
+      ]
+    },
+    "clues": [
+      "The Antiquarian was confirmed to be in The Clock Tower.",
+      "Lord Harrington was discovered carrying the Fountain Pen with Poison.",
+      "The investigator found the Silver Letter Opener inside The Trophy Room.",
+      "The Estranged Niece was never seen near The Clock Tower.",
+      "The Estranged Niece had no access to the Silver Letter Opener.",
+      "The weapon recovered from The Clock Tower was definitely not the Fountain Pen with Poison.",
+      "Neither The Estranged Niece nor The Estate Gardener had ever visited The Clock Tower.",
+      "The lethal strike occurred in The Billiard Room, leaving behind the deadly Arsenic Vial."
+    ],
+    "solution": {
+      "culprit": "The Estranged Niece",
+      "murder_room": "The Billiard Room",
+      "murder_weapon": "Arsenic Vial",
+      "full_mapping": {
+        "The Estranged Niece": {
+          "room": "The Billiard Room",
+          "weapon": "Arsenic Vial"
+        },
+        "The Antiquarian": {
+          "room": "The Clock Tower",
+          "weapon": "Vintage Hunting Rifle"
+        },
+        "Lord Harrington": {
+          "room": "The Wine Cellar",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "The Estate Gardener": {
+          "room": "The Trophy Room",
+          "weapon": "Silver Letter Opener"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 50,
+    "title": "Case #050: The Mystery of First-Class Sleeper A",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Jewel Merchant",
+        "The Card Sharp",
+        "The Opera Soprano",
+        "The Train Conductor"
+      ],
+      "Rooms": [
+        "Observation Lounge",
+        "Private Salon",
+        "Luggage Van",
+        "First-Class Sleeper A"
+      ],
+      "Weapons": [
+        "Chloroform Rag",
+        "Heavy Crystal Decanter",
+        "Steel Pocket Knife",
+        "Dosed Champagne"
+      ]
+    },
+    "clues": [
+      "The Card Sharp was confirmed to be in Observation Lounge.",
+      "The Opera Soprano was discovered carrying the Heavy Crystal Decanter.",
+      "The investigator found the Dosed Champagne inside Private Salon.",
+      "The Jewel Merchant was never seen near Observation Lounge.",
+      "The Jewel Merchant had no access to the Heavy Crystal Decanter.",
+      "The weapon recovered from Observation Lounge was definitely not the Heavy Crystal Decanter.",
+      "Neither The Jewel Merchant nor The Train Conductor had ever visited Observation Lounge.",
+      "The lethal strike occurred in First-Class Sleeper A, leaving behind the deadly Chloroform Rag.",
+      "The Jewel Merchant had no access to the Dosed Champagne."
+    ],
+    "solution": {
+      "culprit": "The Jewel Merchant",
+      "murder_room": "First-Class Sleeper A",
+      "murder_weapon": "Chloroform Rag",
+      "full_mapping": {
+        "The Jewel Merchant": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Chloroform Rag"
+        },
+        "The Card Sharp": {
+          "room": "Observation Lounge",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The Opera Soprano": {
+          "room": "Luggage Van",
+          "weapon": "Heavy Crystal Decanter"
+        },
+        "The Train Conductor": {
+          "room": "Private Salon",
+          "weapon": "Dosed Champagne"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 51,
+    "title": "Case #051: The Mystery of Egyptian Antiquities",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Art Restorer",
+        "The Night Guard",
+        "The Visiting Professor",
+        "The Auctioneer"
+      ],
+      "Rooms": [
+        "Egyptian Antiquities",
+        "Medieval Armory",
+        "Renaissance Gallery",
+        "Basement Conservation Lab"
+      ],
+      "Weapons": [
+        "Broken Marble Shard",
+        "Restoration Solvent",
+        "Venomous Specimen",
+        "Cast Bronze Statuette"
+      ]
+    },
+    "clues": [
+      "The Night Guard was confirmed to be in Medieval Armory.",
+      "The Visiting Professor was discovered carrying the Venomous Specimen.",
+      "The investigator found the Broken Marble Shard inside Renaissance Gallery.",
+      "The Art Restorer was never seen near Medieval Armory.",
+      "The Art Restorer had no access to the Broken Marble Shard.",
+      "The weapon recovered from Egyptian Antiquities was definitely not the Venomous Specimen.",
+      "Neither The Art Restorer nor The Auctioneer had ever visited Medieval Armory.",
+      "The lethal strike occurred in Egyptian Antiquities, leaving behind the deadly Cast Bronze Statuette."
+    ],
+    "solution": {
+      "culprit": "The Art Restorer",
+      "murder_room": "Egyptian Antiquities",
+      "murder_weapon": "Cast Bronze Statuette",
+      "full_mapping": {
+        "The Art Restorer": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Cast Bronze Statuette"
+        },
+        "The Night Guard": {
+          "room": "Medieval Armory",
+          "weapon": "Restoration Solvent"
+        },
+        "The Visiting Professor": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Venomous Specimen"
+        },
+        "The Auctioneer": {
+          "room": "Renaissance Gallery",
+          "weapon": "Broken Marble Shard"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 52,
+    "title": "Case #052: The Mystery of Lantern Room",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Island Innkeeper",
+        "The Salvage Captain",
+        "The Smuggler's Mate",
+        "The Marine Biologist"
+      ],
+      "Rooms": [
+        "Dry Dock",
+        "Lantern Room",
+        "Foghorn Shed",
+        "Radio Telegraph Shack"
+      ],
+      "Weapons": [
+        "Whale Oil Flask",
+        "Divers' Knife",
+        "Heavy Brass Flare Gun",
+        "Iron Harpoon Tip"
+      ]
+    },
+    "clues": [
+      "The Salvage Captain was confirmed to be in Foghorn Shed.",
+      "The Smuggler's Mate was discovered carrying the Heavy Brass Flare Gun.",
+      "The investigator found the Divers' Knife inside Dry Dock.",
+      "The Island Innkeeper was never seen near Dry Dock.",
+      "The Island Innkeeper had no access to the Divers' Knife.",
+      "The weapon recovered from Dry Dock was definitely not the Heavy Brass Flare Gun.",
+      "Neither The Island Innkeeper nor The Marine Biologist had ever visited Foghorn Shed.",
+      "The lethal strike occurred in Lantern Room, leaving behind the deadly Whale Oil Flask."
+    ],
+    "solution": {
+      "culprit": "The Island Innkeeper",
+      "murder_room": "Lantern Room",
+      "murder_weapon": "Whale Oil Flask",
+      "full_mapping": {
+        "The Island Innkeeper": {
+          "room": "Lantern Room",
+          "weapon": "Whale Oil Flask"
+        },
+        "The Salvage Captain": {
+          "room": "Foghorn Shed",
+          "weapon": "Iron Harpoon Tip"
+        },
+        "The Smuggler's Mate": {
+          "room": "Radio Telegraph Shack",
+          "weapon": "Heavy Brass Flare Gun"
+        },
+        "The Marine Biologist": {
+          "room": "Dry Dock",
+          "weapon": "Divers' Knife"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 53,
+    "title": "Case #053: The Mystery of The Conservatory",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Antiquarian",
+        "The Estranged Niece",
+        "The Estate Gardener",
+        "Lord Harrington"
+      ],
+      "Rooms": [
+        "The Conservatory",
+        "The Trophy Room",
+        "The Wine Cellar",
+        "The Billiard Room"
+      ],
+      "Weapons": [
+        "Silk Cravat",
+        "Silver Letter Opener",
+        "Heavy Brass Candlestick",
+        "Arsenic Vial"
+      ]
+    },
+    "clues": [
+      "The Estranged Niece was confirmed to be in The Billiard Room.",
+      "The Estate Gardener was discovered carrying the Silk Cravat.",
+      "The investigator found the Arsenic Vial inside The Wine Cellar.",
+      "The Antiquarian was never seen near The Trophy Room.",
+      "The Antiquarian had no access to the Silk Cravat.",
+      "The weapon recovered from The Conservatory was definitely not the Silk Cravat.",
+      "Neither The Antiquarian nor Lord Harrington had ever visited The Billiard Room.",
+      "The lethal strike occurred in The Conservatory, leaving behind the deadly Silver Letter Opener.",
+      "The Antiquarian had no access to the Arsenic Vial."
+    ],
+    "solution": {
+      "culprit": "The Antiquarian",
+      "murder_room": "The Conservatory",
+      "murder_weapon": "Silver Letter Opener",
+      "full_mapping": {
+        "The Antiquarian": {
+          "room": "The Conservatory",
+          "weapon": "Silver Letter Opener"
+        },
+        "The Estranged Niece": {
+          "room": "The Billiard Room",
+          "weapon": "Heavy Brass Candlestick"
+        },
+        "The Estate Gardener": {
+          "room": "The Trophy Room",
+          "weapon": "Silk Cravat"
+        },
+        "Lord Harrington": {
+          "room": "The Wine Cellar",
+          "weapon": "Arsenic Vial"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 54,
+    "title": "Case #054: The Mystery of Private Salon",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Opera Soprano",
+        "The Jewel Merchant",
+        "The French Diplomat",
+        "The Retired General"
+      ],
+      "Rooms": [
+        "Private Salon",
+        "Observation Lounge",
+        "First-Class Sleeper A",
+        "Dining Car"
+      ],
+      "Weapons": [
+        "Steel Pocket Knife",
+        "Dosed Champagne",
+        "Heavy Crystal Decanter",
+        "Luggage Strap"
+      ]
+    },
+    "clues": [
+      "The Jewel Merchant was confirmed to be in First-Class Sleeper A.",
+      "The French Diplomat was discovered carrying the Steel Pocket Knife.",
+      "The investigator found the Heavy Crystal Decanter inside Observation Lounge.",
+      "The Opera Soprano was never seen near Observation Lounge.",
+      "The Opera Soprano had no access to the Steel Pocket Knife.",
+      "The weapon recovered from Private Salon was definitely not the Steel Pocket Knife.",
+      "Neither The Opera Soprano nor The Retired General had ever visited First-Class Sleeper A.",
+      "The lethal strike occurred in Private Salon, leaving behind the deadly Luggage Strap."
+    ],
+    "solution": {
+      "culprit": "The Opera Soprano",
+      "murder_room": "Private Salon",
+      "murder_weapon": "Luggage Strap",
+      "full_mapping": {
+        "The Opera Soprano": {
+          "room": "Private Salon",
+          "weapon": "Luggage Strap"
+        },
+        "The Jewel Merchant": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Dosed Champagne"
+        },
+        "The French Diplomat": {
+          "room": "Dining Car",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The Retired General": {
+          "room": "Observation Lounge",
+          "weapon": "Heavy Crystal Decanter"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 55,
+    "title": "Case #055: The Mystery of Egyptian Antiquities",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Art Restorer",
+        "The Wealthy Benefactor",
+        "The Auctioneer",
+        "The Night Guard"
+      ],
+      "Rooms": [
+        "Egyptian Antiquities",
+        "Medieval Armory",
+        "Renaissance Gallery",
+        "Roof Terrace"
+      ],
+      "Weapons": [
+        "Iron Flanged Mace",
+        "Venomous Specimen",
+        "Broken Marble Shard",
+        "Ceremonial Dagger"
+      ]
+    },
+    "clues": [
+      "The Wealthy Benefactor was confirmed to be in Roof Terrace.",
+      "The Auctioneer was discovered carrying the Iron Flanged Mace.",
+      "The investigator found the Ceremonial Dagger inside Renaissance Gallery.",
+      "The Art Restorer was never seen near Medieval Armory.",
+      "The Art Restorer had no access to the Iron Flanged Mace.",
+      "The weapon recovered from Egyptian Antiquities was definitely not the Iron Flanged Mace.",
+      "Neither The Art Restorer nor The Night Guard had ever visited Roof Terrace.",
+      "The lethal strike occurred in Egyptian Antiquities, leaving behind the deadly Venomous Specimen.",
+      "The Art Restorer had no access to the Ceremonial Dagger."
+    ],
+    "solution": {
+      "culprit": "The Art Restorer",
+      "murder_room": "Egyptian Antiquities",
+      "murder_weapon": "Venomous Specimen",
+      "full_mapping": {
+        "The Art Restorer": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Venomous Specimen"
+        },
+        "The Wealthy Benefactor": {
+          "room": "Roof Terrace",
+          "weapon": "Broken Marble Shard"
+        },
+        "The Auctioneer": {
+          "room": "Medieval Armory",
+          "weapon": "Iron Flanged Mace"
+        },
+        "The Night Guard": {
+          "room": "Renaissance Gallery",
+          "weapon": "Ceremonial Dagger"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 56,
+    "title": "Case #056: The Mystery of Tavern Cellar",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Marine Biologist",
+        "The Island Innkeeper",
+        "The Salvage Captain",
+        "The Smuggler's Mate"
+      ],
+      "Rooms": [
+        "Dry Dock",
+        "Tavern Cellar",
+        "Foghorn Shed",
+        "Lantern Room"
+      ],
+      "Weapons": [
+        "Lead Sounding Weight",
+        "Heavy Brass Flare Gun",
+        "Divers' Knife",
+        "Nautical Rigging Line"
+      ]
+    },
+    "clues": [
+      "The Island Innkeeper was confirmed to be in Dry Dock.",
+      "The Salvage Captain was discovered carrying the Divers' Knife.",
+      "The investigator found the Heavy Brass Flare Gun inside Lantern Room.",
+      "The Marine Biologist was never seen near Dry Dock.",
+      "The Marine Biologist had no access to the Lead Sounding Weight.",
+      "The weapon recovered from Dry Dock was definitely not the Divers' Knife.",
+      "Neither The Marine Biologist nor The Smuggler's Mate had ever visited Dry Dock.",
+      "The lethal strike occurred in Tavern Cellar, leaving behind the deadly Nautical Rigging Line.",
+      "The Marine Biologist had no access to the Heavy Brass Flare Gun."
+    ],
+    "solution": {
+      "culprit": "The Marine Biologist",
+      "murder_room": "Tavern Cellar",
+      "murder_weapon": "Nautical Rigging Line",
+      "full_mapping": {
+        "The Marine Biologist": {
+          "room": "Tavern Cellar",
+          "weapon": "Nautical Rigging Line"
+        },
+        "The Island Innkeeper": {
+          "room": "Dry Dock",
+          "weapon": "Lead Sounding Weight"
+        },
+        "The Salvage Captain": {
+          "room": "Foghorn Shed",
+          "weapon": "Divers' Knife"
+        },
+        "The Smuggler's Mate": {
+          "room": "Lantern Room",
+          "weapon": "Heavy Brass Flare Gun"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 57,
+    "title": "Case #057: The Mystery of The Trophy Room",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Estate Gardener",
+        "The Head Butler",
+        "The Antiquarian",
+        "The Estranged Niece"
+      ],
+      "Rooms": [
+        "The Grand Library",
+        "The Conservatory",
+        "The Trophy Room",
+        "The Billiard Room"
+      ],
+      "Weapons": [
+        "Vintage Hunting Rifle",
+        "Arsenic Vial",
+        "Silver Letter Opener",
+        "Silk Cravat"
+      ]
+    },
+    "clues": [
+      "The Head Butler was confirmed to be in The Conservatory.",
+      "The Antiquarian was discovered carrying the Arsenic Vial.",
+      "The investigator found the Silk Cravat inside The Grand Library.",
+      "The Estate Gardener was never seen near The Grand Library.",
+      "The Estate Gardener had no access to the Vintage Hunting Rifle.",
+      "The weapon recovered from The Grand Library was definitely not the Arsenic Vial.",
+      "Neither The Estate Gardener nor The Estranged Niece had ever visited The Conservatory.",
+      "The lethal strike occurred in The Trophy Room, leaving behind the deadly Silver Letter Opener."
+    ],
+    "solution": {
+      "culprit": "The Estate Gardener",
+      "murder_room": "The Trophy Room",
+      "murder_weapon": "Silver Letter Opener",
+      "full_mapping": {
+        "The Estate Gardener": {
+          "room": "The Trophy Room",
+          "weapon": "Silver Letter Opener"
+        },
+        "The Head Butler": {
+          "room": "The Conservatory",
+          "weapon": "Vintage Hunting Rifle"
+        },
+        "The Antiquarian": {
+          "room": "The Billiard Room",
+          "weapon": "Arsenic Vial"
+        },
+        "The Estranged Niece": {
+          "room": "The Grand Library",
+          "weapon": "Silk Cravat"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 58,
+    "title": "Case #058: The Mystery of Engine Cab",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Opera Soprano",
+        "The French Diplomat",
+        "The Jewel Merchant",
+        "The Card Sharp"
+      ],
+      "Rooms": [
+        "Private Salon",
+        "Luggage Van",
+        "First-Class Sleeper A",
+        "Engine Cab"
+      ],
+      "Weapons": [
+        "Dosed Champagne",
+        "Chloroform Rag",
+        "Luggage Strap",
+        "Heavy Crystal Decanter"
+      ]
+    },
+    "clues": [
+      "The French Diplomat was confirmed to be in Luggage Van.",
+      "The Jewel Merchant was discovered carrying the Chloroform Rag.",
+      "The investigator found the Heavy Crystal Decanter inside First-Class Sleeper A.",
+      "The Opera Soprano was never seen near Private Salon.",
+      "The Opera Soprano had no access to the Chloroform Rag.",
+      "The weapon recovered from Luggage Van was definitely not the Chloroform Rag.",
+      "Neither The Opera Soprano nor The Card Sharp had ever visited Luggage Van.",
+      "The lethal strike occurred in Engine Cab, leaving behind the deadly Dosed Champagne.",
+      "The Opera Soprano had no access to the Heavy Crystal Decanter."
+    ],
+    "solution": {
+      "culprit": "The Opera Soprano",
+      "murder_room": "Engine Cab",
+      "murder_weapon": "Dosed Champagne",
+      "full_mapping": {
+        "The Opera Soprano": {
+          "room": "Engine Cab",
+          "weapon": "Dosed Champagne"
+        },
+        "The French Diplomat": {
+          "room": "Luggage Van",
+          "weapon": "Luggage Strap"
+        },
+        "The Jewel Merchant": {
+          "room": "Private Salon",
+          "weapon": "Chloroform Rag"
+        },
+        "The Card Sharp": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Heavy Crystal Decanter"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 59,
+    "title": "Case #059: The Mystery of Basement Conservation Lab",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Night Guard",
+        "The Chief Curator",
+        "The Auctioneer",
+        "The Art Restorer"
+      ],
+      "Rooms": [
+        "Basement Conservation Lab",
+        "Roof Terrace",
+        "Curator's Office",
+        "Egyptian Antiquities"
+      ],
+      "Weapons": [
+        "Restoration Solvent",
+        "Broken Marble Shard",
+        "Venomous Specimen",
+        "Iron Flanged Mace"
+      ]
+    },
+    "clues": [
+      "The Chief Curator was confirmed to be in Egyptian Antiquities.",
+      "The Auctioneer was discovered carrying the Iron Flanged Mace.",
+      "The investigator found the Venomous Specimen inside Roof Terrace.",
+      "The Night Guard was never seen near Roof Terrace.",
+      "The Night Guard had no access to the Restoration Solvent.",
+      "The weapon recovered from Basement Conservation Lab was definitely not the Iron Flanged Mace.",
+      "Neither The Night Guard nor The Art Restorer had ever visited Egyptian Antiquities.",
+      "The lethal strike occurred in Basement Conservation Lab, leaving behind the deadly Broken Marble Shard."
+    ],
+    "solution": {
+      "culprit": "The Night Guard",
+      "murder_room": "Basement Conservation Lab",
+      "murder_weapon": "Broken Marble Shard",
+      "full_mapping": {
+        "The Night Guard": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Broken Marble Shard"
+        },
+        "The Chief Curator": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Restoration Solvent"
+        },
+        "The Auctioneer": {
+          "room": "Curator's Office",
+          "weapon": "Iron Flanged Mace"
+        },
+        "The Art Restorer": {
+          "room": "Roof Terrace",
+          "weapon": "Venomous Specimen"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 60,
+    "title": "Case #060: The Mystery of Radio Telegraph Shack",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Marine Biologist",
+        "The Salvage Captain",
+        "The Island Innkeeper",
+        "The Lighthouse Keeper"
+      ],
+      "Rooms": [
+        "Tavern Cellar",
+        "Lantern Room",
+        "Dry Dock",
+        "Radio Telegraph Shack"
+      ],
+      "Weapons": [
+        "Lead Sounding Weight",
+        "Whale Oil Flask",
+        "Divers' Knife",
+        "Heavy Brass Flare Gun"
+      ]
+    },
+    "clues": [
+      "The Salvage Captain was confirmed to be in Dry Dock.",
+      "The Island Innkeeper was discovered carrying the Lead Sounding Weight.",
+      "The investigator found the Whale Oil Flask inside Tavern Cellar.",
+      "The Marine Biologist was never seen near Tavern Cellar.",
+      "The Marine Biologist had no access to the Lead Sounding Weight.",
+      "The weapon recovered from Tavern Cellar was definitely not the Lead Sounding Weight.",
+      "Neither The Marine Biologist nor The Lighthouse Keeper had ever visited Dry Dock.",
+      "The lethal strike occurred in Radio Telegraph Shack, leaving behind the deadly Divers' Knife."
+    ],
+    "solution": {
+      "culprit": "The Marine Biologist",
+      "murder_room": "Radio Telegraph Shack",
+      "murder_weapon": "Divers' Knife",
+      "full_mapping": {
+        "The Marine Biologist": {
+          "room": "Radio Telegraph Shack",
+          "weapon": "Divers' Knife"
+        },
+        "The Salvage Captain": {
+          "room": "Dry Dock",
+          "weapon": "Heavy Brass Flare Gun"
+        },
+        "The Island Innkeeper": {
+          "room": "Lantern Room",
+          "weapon": "Lead Sounding Weight"
+        },
+        "The Lighthouse Keeper": {
+          "room": "Tavern Cellar",
+          "weapon": "Whale Oil Flask"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 61,
+    "title": "Case #061: The Mystery of The Trophy Room",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Antiquarian",
+        "The Estate Gardener",
+        "The Head Butler",
+        "Lord Harrington"
+      ],
+      "Rooms": [
+        "The Billiard Room",
+        "The Grand Library",
+        "The Wine Cellar",
+        "The Trophy Room"
+      ],
+      "Weapons": [
+        "Silver Letter Opener",
+        "Vintage Hunting Rifle",
+        "Arsenic Vial",
+        "Fountain Pen with Poison"
+      ]
+    },
+    "clues": [
+      "The Estate Gardener was confirmed to be in The Billiard Room.",
+      "The Head Butler was discovered carrying the Vintage Hunting Rifle.",
+      "The investigator found the Arsenic Vial inside The Grand Library.",
+      "The Antiquarian was never seen near The Billiard Room.",
+      "The Antiquarian had no access to the Vintage Hunting Rifle.",
+      "The weapon recovered from The Billiard Room was definitely not the Vintage Hunting Rifle.",
+      "Neither The Antiquarian nor Lord Harrington had ever visited The Billiard Room.",
+      "The lethal strike occurred in The Trophy Room, leaving behind the deadly Silver Letter Opener.",
+      "The Antiquarian had no access to the Arsenic Vial."
+    ],
+    "solution": {
+      "culprit": "The Antiquarian",
+      "murder_room": "The Trophy Room",
+      "murder_weapon": "Silver Letter Opener",
+      "full_mapping": {
+        "The Antiquarian": {
+          "room": "The Trophy Room",
+          "weapon": "Silver Letter Opener"
+        },
+        "The Estate Gardener": {
+          "room": "The Billiard Room",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "The Head Butler": {
+          "room": "The Wine Cellar",
+          "weapon": "Vintage Hunting Rifle"
+        },
+        "Lord Harrington": {
+          "room": "The Grand Library",
+          "weapon": "Arsenic Vial"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 62,
+    "title": "Case #062: The Mystery of First-Class Sleeper A",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Card Sharp",
+        "The Jewel Merchant",
+        "The Train Conductor",
+        "The Retired General"
+      ],
+      "Rooms": [
+        "Private Salon",
+        "First-Class Sleeper A",
+        "Luggage Van",
+        "Dining Car"
+      ],
+      "Weapons": [
+        "Heavy Crystal Decanter",
+        "Chloroform Rag",
+        "Steel Pocket Knife",
+        "Dosed Champagne"
+      ]
+    },
+    "clues": [
+      "The Jewel Merchant was confirmed to be in Dining Car.",
+      "The Train Conductor was discovered carrying the Chloroform Rag.",
+      "The investigator found the Heavy Crystal Decanter inside Luggage Van.",
+      "The Card Sharp was never seen near Private Salon.",
+      "The Card Sharp had no access to the Heavy Crystal Decanter.",
+      "The weapon recovered from First-Class Sleeper A was definitely not the Chloroform Rag.",
+      "Neither The Card Sharp nor The Retired General had ever visited Dining Car.",
+      "The lethal strike occurred in First-Class Sleeper A, leaving behind the deadly Steel Pocket Knife."
+    ],
+    "solution": {
+      "culprit": "The Card Sharp",
+      "murder_room": "First-Class Sleeper A",
+      "murder_weapon": "Steel Pocket Knife",
+      "full_mapping": {
+        "The Card Sharp": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The Jewel Merchant": {
+          "room": "Dining Car",
+          "weapon": "Dosed Champagne"
+        },
+        "The Train Conductor": {
+          "room": "Private Salon",
+          "weapon": "Chloroform Rag"
+        },
+        "The Retired General": {
+          "room": "Luggage Van",
+          "weapon": "Heavy Crystal Decanter"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 63,
+    "title": "Case #063: The Mystery of Curator's Office",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Art Restorer",
+        "The Auctioneer",
+        "The Wealthy Benefactor",
+        "The Chief Curator"
+      ],
+      "Rooms": [
+        "Renaissance Gallery",
+        "Egyptian Antiquities",
+        "Medieval Armory",
+        "Curator's Office"
+      ],
+      "Weapons": [
+        "Iron Flanged Mace",
+        "Restoration Solvent",
+        "Venomous Specimen",
+        "Cast Bronze Statuette"
+      ]
+    },
+    "clues": [
+      "The Auctioneer was confirmed to be in Medieval Armory.",
+      "The Wealthy Benefactor was discovered carrying the Venomous Specimen.",
+      "The investigator found the Cast Bronze Statuette inside Renaissance Gallery.",
+      "The Art Restorer was never seen near Renaissance Gallery.",
+      "The Art Restorer had no access to the Restoration Solvent.",
+      "The weapon recovered from Renaissance Gallery was definitely not the Venomous Specimen.",
+      "Neither The Art Restorer nor The Chief Curator had ever visited Medieval Armory.",
+      "The lethal strike occurred in Curator's Office, leaving behind the deadly Iron Flanged Mace."
+    ],
+    "solution": {
+      "culprit": "The Art Restorer",
+      "murder_room": "Curator's Office",
+      "murder_weapon": "Iron Flanged Mace",
+      "full_mapping": {
+        "The Art Restorer": {
+          "room": "Curator's Office",
+          "weapon": "Iron Flanged Mace"
+        },
+        "The Auctioneer": {
+          "room": "Medieval Armory",
+          "weapon": "Restoration Solvent"
+        },
+        "The Wealthy Benefactor": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Venomous Specimen"
+        },
+        "The Chief Curator": {
+          "room": "Renaissance Gallery",
+          "weapon": "Cast Bronze Statuette"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 64,
+    "title": "Case #064: The Mystery of Rocky Cove",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Island Innkeeper",
+        "The Salvage Captain",
+        "The Lighthouse Keeper",
+        "The Harbor Master"
+      ],
+      "Rooms": [
+        "Tavern Cellar",
+        "Dry Dock",
+        "Rocky Cove",
+        "Foghorn Shed"
+      ],
+      "Weapons": [
+        "Whale Oil Flask",
+        "Heavy Brass Flare Gun",
+        "Nautical Rigging Line",
+        "Lead Sounding Weight"
+      ]
+    },
+    "clues": [
+      "The Salvage Captain was confirmed to be in Foghorn Shed.",
+      "The Lighthouse Keeper was discovered carrying the Lead Sounding Weight.",
+      "The investigator found the Heavy Brass Flare Gun inside Dry Dock.",
+      "The Island Innkeeper was never seen near Tavern Cellar.",
+      "The Island Innkeeper had no access to the Whale Oil Flask.",
+      "The weapon recovered from Dry Dock was definitely not the Lead Sounding Weight.",
+      "Neither The Island Innkeeper nor The Harbor Master had ever visited Foghorn Shed.",
+      "The lethal strike occurred in Rocky Cove, leaving behind the deadly Nautical Rigging Line.",
+      "The Island Innkeeper had no access to the Heavy Brass Flare Gun."
+    ],
+    "solution": {
+      "culprit": "The Island Innkeeper",
+      "murder_room": "Rocky Cove",
+      "murder_weapon": "Nautical Rigging Line",
+      "full_mapping": {
+        "The Island Innkeeper": {
+          "room": "Rocky Cove",
+          "weapon": "Nautical Rigging Line"
+        },
+        "The Salvage Captain": {
+          "room": "Foghorn Shed",
+          "weapon": "Whale Oil Flask"
+        },
+        "The Lighthouse Keeper": {
+          "room": "Tavern Cellar",
+          "weapon": "Lead Sounding Weight"
+        },
+        "The Harbor Master": {
+          "room": "Dry Dock",
+          "weapon": "Heavy Brass Flare Gun"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 65,
+    "title": "Case #065: The Mystery of The Grand Library",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Estate Gardener",
+        "The Estranged Niece",
+        "The Antiquarian",
+        "Lord Harrington"
+      ],
+      "Rooms": [
+        "The Conservatory",
+        "The Trophy Room",
+        "The Grand Library",
+        "The Wine Cellar"
+      ],
+      "Weapons": [
+        "Silver Letter Opener",
+        "Vintage Hunting Rifle",
+        "Arsenic Vial",
+        "Silk Cravat"
+      ]
+    },
+    "clues": [
+      "The Estranged Niece was confirmed to be in The Wine Cellar.",
+      "The Antiquarian was discovered carrying the Vintage Hunting Rifle.",
+      "The investigator found the Arsenic Vial inside The Trophy Room.",
+      "The Estate Gardener was never seen near The Conservatory.",
+      "The Estate Gardener had no access to the Vintage Hunting Rifle.",
+      "The weapon recovered from The Trophy Room was definitely not the Vintage Hunting Rifle.",
+      "Neither The Estate Gardener nor Lord Harrington had ever visited The Wine Cellar.",
+      "The lethal strike occurred in The Grand Library, leaving behind the deadly Silver Letter Opener.",
+      "The Estate Gardener had no access to the Arsenic Vial."
+    ],
+    "solution": {
+      "culprit": "The Estate Gardener",
+      "murder_room": "The Grand Library",
+      "murder_weapon": "Silver Letter Opener",
+      "full_mapping": {
+        "The Estate Gardener": {
+          "room": "The Grand Library",
+          "weapon": "Silver Letter Opener"
+        },
+        "The Estranged Niece": {
+          "room": "The Wine Cellar",
+          "weapon": "Silk Cravat"
+        },
+        "The Antiquarian": {
+          "room": "The Conservatory",
+          "weapon": "Vintage Hunting Rifle"
+        },
+        "Lord Harrington": {
+          "room": "The Trophy Room",
+          "weapon": "Arsenic Vial"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 66,
+    "title": "Case #066: The Mystery of First-Class Sleeper A",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Retired General",
+        "The French Diplomat",
+        "The Card Sharp",
+        "The Jewel Merchant"
+      ],
+      "Rooms": [
+        "Luggage Van",
+        "Dining Car",
+        "Private Salon",
+        "First-Class Sleeper A"
+      ],
+      "Weapons": [
+        "Steel Pocket Knife",
+        "Heavy Crystal Decanter",
+        "Engraved Pocket Pistol",
+        "Chloroform Rag"
+      ]
+    },
+    "clues": [
+      "The French Diplomat was confirmed to be in Luggage Van.",
+      "The Card Sharp was discovered carrying the Chloroform Rag.",
+      "The investigator found the Engraved Pocket Pistol inside Private Salon.",
+      "The Retired General was never seen near Luggage Van.",
+      "The Retired General had no access to the Steel Pocket Knife.",
+      "The weapon recovered from Luggage Van was definitely not the Chloroform Rag.",
+      "Neither The Retired General nor The Jewel Merchant had ever visited Luggage Van.",
+      "The lethal strike occurred in First-Class Sleeper A, leaving behind the deadly Heavy Crystal Decanter.",
+      "The Retired General had no access to the Engraved Pocket Pistol."
+    ],
+    "solution": {
+      "culprit": "The Retired General",
+      "murder_room": "First-Class Sleeper A",
+      "murder_weapon": "Heavy Crystal Decanter",
+      "full_mapping": {
+        "The Retired General": {
+          "room": "First-Class Sleeper A",
+          "weapon": "Heavy Crystal Decanter"
+        },
+        "The French Diplomat": {
+          "room": "Luggage Van",
+          "weapon": "Steel Pocket Knife"
+        },
+        "The Card Sharp": {
+          "room": "Dining Car",
+          "weapon": "Chloroform Rag"
+        },
+        "The Jewel Merchant": {
+          "room": "Private Salon",
+          "weapon": "Engraved Pocket Pistol"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 67,
+    "title": "Case #067: The Mystery of Roof Terrace",
+    "theme": "The Metropolitan Museum Crimes",
+    "briefing": "A ghastly crime has disturbed The Metropolitan Museum Crimes. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Chief Curator",
+        "The Visiting Professor",
+        "The Art Restorer",
+        "The Wealthy Benefactor"
+      ],
+      "Rooms": [
+        "Egyptian Antiquities",
+        "Roof Terrace",
+        "Curator's Office",
+        "Basement Conservation Lab"
+      ],
+      "Weapons": [
+        "Restoration Solvent",
+        "Venomous Specimen",
+        "Broken Marble Shard",
+        "Ceremonial Dagger"
+      ]
+    },
+    "clues": [
+      "The Visiting Professor was confirmed to be in Egyptian Antiquities.",
+      "The Art Restorer was discovered carrying the Ceremonial Dagger.",
+      "The investigator found the Broken Marble Shard inside Curator's Office.",
+      "The Chief Curator was never seen near Egyptian Antiquities.",
+      "The Chief Curator had no access to the Venomous Specimen.",
+      "The weapon recovered from Egyptian Antiquities was definitely not the Ceremonial Dagger.",
+      "Neither The Chief Curator nor The Wealthy Benefactor had ever visited Egyptian Antiquities.",
+      "The lethal strike occurred in Roof Terrace, leaving behind the deadly Restoration Solvent.",
+      "The Chief Curator had no access to the Broken Marble Shard."
+    ],
+    "solution": {
+      "culprit": "The Chief Curator",
+      "murder_room": "Roof Terrace",
+      "murder_weapon": "Restoration Solvent",
+      "full_mapping": {
+        "The Chief Curator": {
+          "room": "Roof Terrace",
+          "weapon": "Restoration Solvent"
+        },
+        "The Visiting Professor": {
+          "room": "Egyptian Antiquities",
+          "weapon": "Venomous Specimen"
+        },
+        "The Art Restorer": {
+          "room": "Basement Conservation Lab",
+          "weapon": "Ceremonial Dagger"
+        },
+        "The Wealthy Benefactor": {
+          "room": "Curator's Office",
+          "weapon": "Broken Marble Shard"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 68,
+    "title": "Case #068: The Mystery of Dry Dock",
+    "theme": "The Coastal & Lighthouse Conspiracies",
+    "briefing": "A ghastly crime has disturbed The Coastal & Lighthouse Conspiracies. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Island Innkeeper",
+        "The Lighthouse Keeper",
+        "The Smuggler's Mate",
+        "The Harbor Master"
+      ],
+      "Rooms": [
+        "Lantern Room",
+        "Dry Dock",
+        "Tavern Cellar",
+        "Foghorn Shed"
+      ],
+      "Weapons": [
+        "Heavy Brass Flare Gun",
+        "Lead Sounding Weight",
+        "Nautical Rigging Line",
+        "Iron Harpoon Tip"
+      ]
+    },
+    "clues": [
+      "The Lighthouse Keeper was confirmed to be in Lantern Room.",
+      "The Smuggler's Mate was discovered carrying the Nautical Rigging Line.",
+      "The investigator found the Lead Sounding Weight inside Foghorn Shed.",
+      "The Island Innkeeper was never seen near Lantern Room.",
+      "The Island Innkeeper had no access to the Heavy Brass Flare Gun.",
+      "The weapon recovered from Lantern Room was definitely not the Nautical Rigging Line.",
+      "Neither The Island Innkeeper nor The Harbor Master had ever visited Lantern Room.",
+      "The lethal strike occurred in Dry Dock, leaving behind the deadly Iron Harpoon Tip.",
+      "The Island Innkeeper had no access to the Lead Sounding Weight."
+    ],
+    "solution": {
+      "culprit": "The Island Innkeeper",
+      "murder_room": "Dry Dock",
+      "murder_weapon": "Iron Harpoon Tip",
+      "full_mapping": {
+        "The Island Innkeeper": {
+          "room": "Dry Dock",
+          "weapon": "Iron Harpoon Tip"
+        },
+        "The Lighthouse Keeper": {
+          "room": "Lantern Room",
+          "weapon": "Heavy Brass Flare Gun"
+        },
+        "The Smuggler's Mate": {
+          "room": "Tavern Cellar",
+          "weapon": "Nautical Rigging Line"
+        },
+        "The Harbor Master": {
+          "room": "Foghorn Shed",
+          "weapon": "Lead Sounding Weight"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 69,
+    "title": "Case #069: The Mystery of The Grand Library",
+    "theme": "The English Manor Murders",
+    "briefing": "A ghastly crime has disturbed The English Manor Murders. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Antiquarian",
+        "The Estate Gardener",
+        "The Estranged Niece",
+        "Duchess Eleanor"
+      ],
+      "Rooms": [
+        "The Grand Library",
+        "The Clock Tower",
+        "The Conservatory",
+        "The Wine Cellar"
+      ],
+      "Weapons": [
+        "Silk Cravat",
+        "Arsenic Vial",
+        "Fountain Pen with Poison",
+        "Vintage Hunting Rifle"
+      ]
+    },
+    "clues": [
+      "The Estate Gardener was confirmed to be in The Wine Cellar.",
+      "The Estranged Niece was discovered carrying the Fountain Pen with Poison.",
+      "The investigator found the Arsenic Vial inside The Conservatory.",
+      "The Antiquarian was never seen near The Clock Tower.",
+      "The Antiquarian had no access to the Silk Cravat.",
+      "The weapon recovered from The Grand Library was definitely not the Fountain Pen with Poison.",
+      "Neither The Antiquarian nor Duchess Eleanor had ever visited The Wine Cellar.",
+      "The lethal strike occurred in The Grand Library, leaving behind the deadly Vintage Hunting Rifle.",
+      "The Antiquarian had no access to the Arsenic Vial."
+    ],
+    "solution": {
+      "culprit": "The Antiquarian",
+      "murder_room": "The Grand Library",
+      "murder_weapon": "Vintage Hunting Rifle",
+      "full_mapping": {
+        "The Antiquarian": {
+          "room": "The Grand Library",
+          "weapon": "Vintage Hunting Rifle"
+        },
+        "The Estate Gardener": {
+          "room": "The Wine Cellar",
+          "weapon": "Silk Cravat"
+        },
+        "The Estranged Niece": {
+          "room": "The Clock Tower",
+          "weapon": "Fountain Pen with Poison"
+        },
+        "Duchess Eleanor": {
+          "room": "The Conservatory",
+          "weapon": "Arsenic Vial"
+        }
+      }
+    }
+  },
+  {
+    "case_number": 70,
+    "title": "Case #070: The Mystery of Observation Lounge",
+    "theme": "The Midnight Express Mysteries",
+    "briefing": "A ghastly crime has disturbed The Midnight Express Mysteries. The victim was discovered lifeless, and four key persons of interest were found across the grounds. Examine the physical evidence, analyze witness statements, and complete the deduction matrix to unmask the true culprit and recover the murder weapon.",
+    "categories": {
+      "Suspects": [
+        "The Train Conductor",
+        "The French Diplomat",
+        "The Jewel Merchant",
+        "The Retired General"
+      ],
+      "Rooms": [
+        "Observation Lounge",
+        "Engine Cab",
+        "Dining Car",
+        "Private Salon"
+      ],
+      "Weapons": [
+        "Engraved Pocket Pistol",
+        "Dosed Champagne",
+        "Chloroform Rag",
+        "Luggage Strap"
+      ]
+    },
+    "clues": [
+      "The French Diplomat was confirmed to be in Private Salon.",
+      "The Jewel Merchant was discovered carrying the Dosed Champagne.",
+      "The investigator found the Luggage Strap inside Engine Cab.",
+      "The Train Conductor was never seen near Engine Cab.",
+      "The Train Conductor had no access to the Dosed Champagne.",
+      "The weapon recovered from Observation Lounge was definitely not the Dosed Champagne.",
+      "Neither The Train Conductor nor The Retired General had ever visited Private Salon.",
+      "The lethal strike occurred in Observation Lounge, leaving behind the deadly Engraved Pocket Pistol."
+    ],
+    "solution": {
+      "culprit": "The Train Conductor",
+      "murder_room": "Observation Lounge",
+      "murder_weapon": "Engraved Pocket Pistol",
+      "full_mapping": {
+        "The Train Conductor": {
+          "room": "Observation Lounge",
+          "weapon": "Engraved Pocket Pistol"
+        },
+        "The French Diplomat": {
+          "room": "Private Salon",
+          "weapon": "Chloroform Rag"
+        },
+        "The Jewel Merchant": {
+          "room": "Dining Car",
+          "weapon": "Dosed Champagne"
+        },
+        "The Retired General": {
+          "room": "Engine Cab",
+          "weapon": "Luggage Strap"
+        }
+      }
+    }
+  }
+]

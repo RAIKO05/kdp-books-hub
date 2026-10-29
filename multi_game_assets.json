@@ -1,0 +1,134 @@
+{
+  "project": "Case Files & Clues: Volume 1 (Enhanced Multi-Game Series)",
+  "version": "2.0",
+  "themes": [
+    {
+      "id": "victorian_manor",
+      "name": "The Blackwood Manor Murders",
+      "suspects": [
+        {"name": "Lord Harrington", "role": "The Wealthy Patriarch"},
+        {"name": "Duchess Eleanor", "role": "The Disowned Heiress"},
+        {"name": "The Head Butler", "role": "The Loyal Servant with Secrets"},
+        {"name": "The Antiquarian", "role": "The Shady Art Appraiser"},
+        {"name": "The Estate Gardener", "role": "The Secretive Outsider"},
+        {"name": "Dr. Sterling", "role": "The Family Physician"}
+      ],
+      "rooms": [
+        "The Grand Library", "The Conservatory", "The Billiard Room", 
+        "The Wine Cellar", "The Clock Tower", "The Trophy Room"
+      ],
+      "weapons": [
+        "Silver Letter Opener", "Arsenic Vial", "Heavy Brass Candlestick", 
+        "Vintage Hunting Rifle", "Silk Cravat", "Fountain Pen with Poison"
+      ],
+      "forensic_evidence": [
+        "PRINTS", "BLOOD", "TRACKS", "FIBER", 
+        "HAIRS", "ASHES", "SCRATCH", "WAXSEAL"
+      ],
+      "cipher_clues": [
+        "THE WILL WAS FORGED BY THE BUTLER",
+        "MEET ME IN THE WINE CELLAR AT MIDNIGHT",
+        "THE CANDLESTICK WAS MOVED BEFORE NOON",
+        "BEWARE OF THE DOCTOR AND HIS BOTTLE",
+        "THE RUBY WAS HIDDEN IN THE CONSERVATORY",
+        "HELENA KNEW WHO BROUGHT THE POISON"
+      ]
+    },
+    {
+      "id": "midnight_express",
+      "name": "The Midnight Express Mysteries",
+      "suspects": [
+        {"name": "The French Diplomat", "role": "The Covert Courier"},
+        {"name": "The Opera Soprano", "role": "The Jealous Diva"},
+        {"name": "The Card Sharp", "role": "The High-Stakes Gambler"},
+        {"name": "The Train Conductor", "role": "The Railroad Veteran"},
+        {"name": "The Jewel Merchant", "role": "The Smuggler"},
+        {"name": "The Retired General", "role": "The Decorated Veteran"}
+      ],
+      "rooms": [
+        "Dining Car", "First-Class Sleeper A", "Observation Lounge", 
+        "Luggage Van", "Engine Cab", "Private Salon"
+      ],
+      "weapons": [
+        "Engraved Pocket Pistol", "Dosed Champagne", "Steel Pocket Knife", 
+        "Luggage Strap", "Heavy Crystal Decanter", "Chloroform Rag"
+      ],
+      "forensic_evidence": [
+        "TICKET", "LOCKPICK", "POWDER", "CIGAR", 
+        "SHARD", "DIAMOND", "LETTER", "BUTTON"
+      ],
+      "cipher_clues": [
+        "THE POUCH IS IN THE LUGGAGE VAN",
+        "CHAMPAGNE WAS POISONED AT DAWN",
+        "THE DIPLOMAT BOARDED UNDER A FALSE NAME",
+        "CHECK THE ENGINE CAB FOR THE KNIFE",
+        "THE CARDS WERE RIGGED BY THE MERCHANT",
+        "THE CONDUCTOR HEARD THE SHOT FIRED"
+      ]
+    },
+    {
+      "id": "metropolitan_museum",
+      "name": "The Metropolitan Museum Heists & Murders",
+      "suspects": [
+        {"name": "The Chief Curator", "role": "The Scholarly Director"},
+        {"name": "The Art Restorer", "role": "The Master Forger"},
+        {"name": "The Wealthy Benefactor", "role": "The Ruthless Collector"},
+        {"name": "The Night Guard", "role": "The Night Watchman"},
+        {"name": "The Visiting Professor", "role": "The Antiquities Expert"},
+        {"name": "The Auctioneer", "role": "The Discredited Dealer"}
+      ],
+      "rooms": [
+        "Egyptian Antiquities", "Renaissance Gallery", "Basement Conservation Lab", 
+        "Curator's Office", "Roof Terrace", "Medieval Armory"
+      ],
+      "weapons": [
+        "Ceremonial Dagger", "Restoration Solvent", "Iron Flanged Mace", 
+        "Broken Marble Shard", "Venomous Specimen", "Cast Bronze Statuette"
+      ],
+      "forensic_evidence": [
+        "KEYCARD", "PIGMENT", "CANVAS", "SOLVENT", 
+        "PLASTER", "STATUE", "GLOVES", "CHISEL"
+      ],
+      "cipher_clues": [
+        "THE STATUETTE IS A FORGERY",
+        "THE GUARD DISABLED THE ROOF ALARM",
+        "SOLVENT WAS TAKEN FROM THE BASEMENT",
+        "THE PROFESSOR CONCEALED THE DAGGER",
+        "MEET IN THE MEDIEVAL ARMORY TONIGHT",
+        "THE RENAISSANCE PAINTING WAS CUT OUT"
+      ]
+    },
+    {
+      "id": "coastal_lighthouse",
+      "name": "The Coastal & Lighthouse Conspiracies",
+      "suspects": [
+        {"name": "The Lighthouse Keeper", "role": "The Recluse Watcher"},
+        {"name": "The Harbor Master", "role": "The Port Authority Officer"},
+        {"name": "The Salvage Captain", "role": "The Deep Sea Diver"},
+        {"name": "The Smuggler's Mate", "role": "The Outlaw Deckhand"},
+        {"name": "The Marine Biologist", "role": "The Field Researcher"},
+        {"name": "The Island Innkeeper", "role": "The Village Informant"}
+      ],
+      "rooms": [
+        "Lantern Room", "Foghorn Shed", "Rocky Cove", 
+        "Tavern Cellar", "Dry Dock", "Radio Telegraph Shack"
+      ],
+      "weapons": [
+        "Heavy Brass Flare Gun", "Nautical Rigging Line", "Iron Harpoon Tip", 
+        "Whale Oil Flask", "Divers' Knife", "Lead Sounding Weight"
+      ],
+      "forensic_evidence": [
+        "SEAWEED", "BRASSKEY", "OILFLASK", "COMPASS", 
+        "ROPE", "HARPOON", "CABLE", "SAND"
+      ],
+      "cipher_clues": [
+        "THE BEACON WAS CUT AT ELEVEN PM",
+        "THE HARPOON CAME FROM THE DRY DOCK",
+        "CONTRABAND IS HIDDEN IN THE CAVE",
+        "THE SALVAGE CAPTAIN LIED ABOUT THE STORM",
+        "LOOK INSIDE THE FOGHORN SHED FOR BLOOD",
+        "THE RADIO TELEGRAPH WIRE WAS SEVERED"
+      ]
+    }
+  ]
+}
