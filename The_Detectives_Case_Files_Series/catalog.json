@@ -92,22 +92,31 @@
   {
     "bleed": "No Bleed",
     "categories": [
-      "Crafts, Hobbies & Home > Crafts & Hobbies > Activity Books",
       "Humor & Entertainment > Puzzles & Games > Logic & Brain Teasers",
-      "Mystery, Thriller & Suspense > Mystery > Traditional Detective"
+      "Science Fiction & Fantasy > Science Fiction > Space Exploration",
+      "Mystery, Thriller & Suspense > Mystery > Hard-Boiled / Detective"
     ],
-    "cover_palette": "Royal Sapphire & Gold",
-    "description_html": "<p></p>",
+    "cover_palette": "Cosmic Void & Martian Red Oxide",
+    "description_html": "<h2>Can you expose the corporate conspiracy before life support runs out?</h2>\n<p>Welcome to <b>Project X: The Terminal (Volume 1)</b>, an electrifying interactive sci-fi deduction experience engineered for mystery fans, puzzle solvers, and cyberpunk sleuths.</p>\n<p>Deep beneath the surface of Mars, the <i>Ares Terminal</i> research outpost has suffered a catastrophic containment breach. Vanguard Orbital Dynamics blamed a routine gas explosion, but your investigation uncovers a far darker reality: an illegal extraction lab, a murdered whistleblower, and a corporate cover-up.</p>\n<p>Every investigation is an authentic <b>4-stage crime file</b>:</p>\n<ul>\n  <li><b>Stage 1: Spectrometer Sensor Sweep:</b> Scan the 10x10 crime scene matrix for 5 critical forensic isotope markers.</li>\n  <li><b>Stage 2: Corrupted Black Box Dispatch:</b> Decrypt intercepted saboteur communications shifted across frequency bands.</li>\n  <li><b>Stage 3: Biometric Airlock Matrix:</b> Pure logic deduction grid mathematically proven to have exactly 1 unique solution.</li>\n  <li><b>Stage 4: Emergency Court-Martial Warrant:</b> Synthesize your evidence, name the saboteur, identify the breach point, and secure the indictment!</li>\n</ul>\n<p><b>Inspect the airlocks, decode the black box, and crack the Mars conspiracy today!</b></p>",
     "id": "vol_1793322672626",
     "pages": 176,
     "price_usd": "12.99",
     "print_cost_usd": "3.11",
     "royalty_usd": "4.68",
     "series": "Project X",
-    "subtitle": "",
-    "tab_name": "Vol 1",
-    "title": "THE TERMINAL",
+    "subtitle": "35 Sci-Fi Murder Mystery Logic Puzzles: Corporate Sabotage, Lab Accidents & Orbital Crime Dossiers for Adults",
+    "tab_name": "Vol 1: The Terminal",
+    "title": "Project X: The Terminal",
     "trim": "6\" x 9\"",
-    "vol_number": 1
+    "vol_number": 1,
+    "keywords": [
+      "sci fi murder mystery logic puzzle book",
+      "space station detective puzzle book for adults",
+      "corporate sabotage logic grid puzzles",
+      "mars lab accident escape room in a book",
+      "forensic science fiction crime dossiers",
+      "adult deductive reasoning puzzle book",
+      "cyberpunk cryptograms and brain teasers"
+    ]
   }
 ]

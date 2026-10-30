@@ -1,0 +1,51 @@
+================================================================================
+KDP LISTING METADATA: PROJECT X - THE TERMINAL (VOLUME 1)
+================================================================================
+
+[BOOK DETAILS]
+Title: Project X: The Terminal
+Subtitle: 35 Sci-Fi Murder Mystery Logic Puzzles: Corporate Sabotage, Lab Accidents & Orbital Crime Dossiers for Adults
+Series Title: Project X
+Series Number: 1
+Edition: 1
+Author: (Your Author Name / Independent Publisher)
+
+[PRINT SPECIFICATIONS]
+Interior & Paper Type: Black & white interior with white paper
+Trim Size: 6 x 9 in
+Bleed Settings: No Bleed
+Paperback Cover Finish: Matte
+Page Count: 176 pages
+Spine Width: 0.396 in (10.06 mm)
+
+[CATEGORIES (Choose 3)]
+1. Humor & Entertainment > Puzzles & Games > Logic & Brain Teasers
+2. Science Fiction & Fantasy > Science Fiction > Space Exploration
+3. Mystery, Thriller & Suspense > Mystery > Hard-Boiled / Detective
+
+[7 BACKEND SEARCH KEYWORDS]
+1. sci fi murder mystery logic puzzle book
+2. space station detective puzzle book for adults
+3. corporate sabotage logic grid puzzles
+4. mars lab accident escape room in a book
+5. forensic science fiction crime dossiers
+6. adult deductive reasoning puzzle book
+7. cyberpunk cryptograms and brain teasers
+
+[PRICING & ROYALTY (US MARKET)]
+List Price: $12.99 USD
+Printing Cost: $3.11 USD
+Estimated Royalty (60%): $4.68 USD per copy sold
+
+[KDP DESCRIPTION HTML]
+<h2>Can you expose the corporate conspiracy before life support runs out?</h2>
+<p>Welcome to <b>Project X: The Terminal (Volume 1)</b>, an electrifying interactive sci-fi deduction experience engineered for mystery fans, puzzle solvers, and cyberpunk sleuths.</p>
+<p>Deep beneath the surface of Mars, the <i>Ares Terminal</i> research outpost has suffered a catastrophic containment breach. Vanguard Orbital Dynamics blamed a routine gas explosion, but your investigation uncovers a far darker reality: an illegal extraction lab, a murdered whistleblower, and a corporate cover-up.</p>
+<p>Every investigation is an authentic <b>4-stage crime file</b>:</p>
+<ul>
+  <li><b>Stage 1: Spectrometer Sensor Sweep:</b> Scan the 10x10 crime scene matrix for 5 critical forensic isotope markers.</li>
+  <li><b>Stage 2: Corrupted Black Box Dispatch:</b> Decrypt intercepted saboteur communications shifted across frequency bands.</li>
+  <li><b>Stage 3: Biometric Airlock Matrix:</b> Pure logic deduction grid mathematically proven to have exactly 1 unique solution.</li>
+  <li><b>Stage 4: Emergency Court-Martial Warrant:</b> Synthesize your evidence, name the saboteur, identify the breach point, and secure the indictment!</li>
+</ul>
+<p><b>Inspect the airlocks, decode the black box, and crack the Mars conspiracy today!</b></p>
