@@ -1,68 +1,66 @@
-name: Build iOS IPA Package
+name: Build Native iOS IPA
 
 on:
   push:
     branches: [ main ]
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build-ipa:
+  build-native-ipa:
     runs-on: macos-14
     steps:
       - name: Checkout Code
         uses: actions/checkout@v4
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
+      - name: Select Xcode
+        run: sudo xcode-select -s /Applications/Xcode.app
 
-      - name: Package iOS IPA
+      - name: Compile Native Mach-O ARM64 Binary
         run: |
-          mkdir -p Payload/KDPBooksHub.app
-          cp The_Detectives_Case_Files_Series/kdp_books_hub.html Payload/KDPBooksHub.app/index.html
-          cp The_Detectives_Case_Files_Series/catalog.json Payload/KDPBooksHub.app/
-          cp The_Detectives_Case_Files_Series/cloud_config.json Payload/KDPBooksHub.app/
-          cat << 'EOF' > Payload/KDPBooksHub.app/Info.plist
-          <?xml version="1.0" encoding="UTF-8"?>
-          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
-          <plist version="1.0">
-          <dict>
-              <key>CFBundleDevelopmentRegion</key>
-              <string>en</string>
-              <key>CFBundleDisplayName</key>
-              <string>KDP Hub</string>
-              <key>CFBundleExecutable</key>
-              <string>KDPBooksHub</string>
-              <key>CFBundleIdentifier</key>
-              <string>com.raiko05.kdphub</string>
-              <key>CFBundleInfoDictionaryVersion</key>
-              <string>6.0</string>
-              <key>CFBundleName</key>
-              <string>KDPBooksHub</string>
-              <key>CFBundlePackageType</key>
-              <string>APPL</string>
-              <key>CFBundleShortVersionString</key>
-              <string>1.0.0</string>
-              <key>CFBundleVersion</key>
-              <string>1</string>
-              <key>LSRequiresIPhoneOS</key>
-              <true/>
-              <key>UIRequiredDeviceCapabilities</key>
-              <array>
-                  <string>arm64</string>
-              </array>
-              <key>UISupportedInterfaceOrientations</key>
-              <array>
-                  <string>UIInterfaceOrientationPortrait</string>
-              </array>
-          </dict>
-          </plist>
-          EOF
-          zip -r KDP_Books_Hub.ipa Payload
+          mkdir -p build/Payload/KDPBooksHub.app
+          
+          # Compile Swift native code into real ARM64 Mach-O binary
+          xcrun -sdk iphoneos swiftc \
+            -target arm64-apple-ios15.0 \
+            -O \
+            -framework UIKit \
+            -framework WebKit \
+            -framework Foundation \
+            ios_src/AppDelegate.swift \
+            ios_src/ViewController.swift \
+            -o build/Payload/KDPBooksHub.app/KDPBooksHub
+            
+          # Verify binary architecture
+          file build/Payload/KDPBooksHub.app/KDPBooksHub
+          
+          # Copy Info.plist and web assets
+          cp ios_src/Info.plist build/Payload/KDPBooksHub.app/Info.plist
+          cp The_Detectives_Case_Files_Series/kdp_books_hub.html build/Payload/KDPBooksHub.app/index.html
+          cp The_Detectives_Case_Files_Series/catalog.json build/Payload/KDPBooksHub.app/catalog.json
+          cp The_Detectives_Case_Files_Series/cloud_config.json build/Payload/KDPBooksHub.app/cloud_config.json
+
+      - name: Package IPA
+        run: |
+          cd build
+          zip -r ../KDP_Books_Hub.ipa Payload
+          cd ..
+          ls -lh KDP_Books_Hub.ipa
 
       - name: Upload IPA Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: KDP_Books_Hub_iOS_App
+          name: KDP_Books_Hub_iOS_Native_App
           path: KDP_Books_Hub.ipa
+
+      - name: Create or Update GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest-ipa
+          name: "KDP Books Hub (Native iOS IPA)"
+          body: "Official compiled Native iOS App (.ipa) with real ARM64 Mach-O binary. Ready to sideload with Sideloadly or AltStore."
+          files: KDP_Books_Hub.ipa
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
