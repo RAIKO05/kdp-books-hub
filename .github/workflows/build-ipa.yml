@@ -41,6 +41,8 @@ jobs:
           cp The_Detectives_Case_Files_Series/kdp_books_hub.html build/Payload/KDPBooksHub.app/index.html
           cp The_Detectives_Case_Files_Series/catalog.json build/Payload/KDPBooksHub.app/catalog.json
           cp The_Detectives_Case_Files_Series/cloud_config.json build/Payload/KDPBooksHub.app/cloud_config.json
+          cp The_Detectives_Case_Files_Series/*.png build/Payload/KDPBooksHub.app/ || true
+          cp The_Detectives_Case_Files_Series/manifest.json build/Payload/KDPBooksHub.app/ || true
 
       - name: Package IPA
         run: |

@@ -78,11 +78,15 @@ def build_ipa():
     with open(os.path.join(payload_app_dir, "Info.plist"), "w", encoding="utf-8") as f:
         f.write(INFO_PLIST_CONTENT)
 
-    # 2. Main HTML entry point
+    # 2. Main HTML entry point & App Icons
     shutil.copy(HUB_HTML, os.path.join(payload_app_dir, "index.html"))
     shutil.copy(HUB_HTML, os.path.join(payload_app_dir, "kdp_books_hub.html"))
     shutil.copy(CATALOG, os.path.join(payload_app_dir, "catalog.json"))
     shutil.copy(CONFIG, os.path.join(payload_app_dir, "cloud_config.json"))
+
+    for f in os.listdir(SERIES_DIR):
+        if f.endswith(".png") or f == "manifest.json":
+            shutil.copy(os.path.join(SERIES_DIR, f), os.path.join(payload_app_dir, f))
 
     # 3. Create dummy executable marker if needed
     with open(os.path.join(payload_app_dir, "KDPBooksHub"), "wb") as f:

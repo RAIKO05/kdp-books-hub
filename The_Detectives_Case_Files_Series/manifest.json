@@ -1,0 +1,29 @@
+{
+  "name": "KDP Books Hub",
+  "short_name": "KDP Hub",
+  "description": "Multi-Book and Multi-Volume KDP Manager with Real-Time Cloud Sync",
+  "start_url": "kdp_books_hub.html",
+  "display": "standalone",
+  "background_color": "#0D1117",
+  "theme_color": "#0D1117",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

@@ -7,6 +7,10 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="apple-mobile-web-app-title" content="KDP Hub">
+  <link rel="apple-touch-icon" href="apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="192x192" href="icon-192.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+  <link rel="manifest" href="manifest.json">
   <style>
     :root {
       --bg: #0D1117;
@@ -307,9 +311,12 @@
 </head>
 <body>
   <header>
-    <div>
-      <h1>KDP Books Hub</h1>
-      <span id="series-subtitle" style="font-size:11px; color:var(--text-muted);">Multi-Book & Multi-Volume Organizer</span>
+    <div style="display:flex; align-items:center; gap:10px;">
+      <img src="logo_header.png" alt="KDP Hub Logo" style="height:32px; width:auto; border-radius:6px;">
+      <div>
+        <h1 style="font-size:18px; margin:0; line-height:1.2;">KDP Books Hub</h1>
+        <span id="series-subtitle" style="font-size:11px; color:var(--text-muted);">Multi-Book & Multi-Volume Organizer</span>
+      </div>
     </div>
     <div class="cloud-status" onclick="promptCloudSettings()">
       <div class="cloud-dot"></div>
