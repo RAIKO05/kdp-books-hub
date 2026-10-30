@@ -118,5 +118,65 @@
       "adult deductive reasoning puzzle book",
       "cyberpunk cryptograms and brain teasers"
     ]
+  },
+  {
+    "id": "px_vol2",
+    "vol_number": 2,
+    "tab_name": "Vol 2: Sub-Terra Core",
+    "title": "Project X: The Sub-Terra Core",
+    "subtitle": "35 Interlocking Sci-Fi Murder Mystery Logic Puzzles & Sudoku Key Solvers",
+    "series": "Project X",
+    "price_usd": "12.99",
+    "print_cost_usd": "3.11",
+    "royalty_usd": "4.68",
+    "trim": "6\" x 9\"",
+    "pages": 176,
+    "bleed": "No Bleed",
+    "cover_palette": "Cosmic Obsidian & Neon Amber",
+    "keywords": [
+      "interlocking sudoku logic puzzle book",
+      "sci fi murder mystery mind games for adults",
+      "space station corporate sabotage logic grid",
+      "challenging hard logic puzzle book",
+      "forensic crime escape room in a book",
+      "adult brain teasers cryptograms",
+      "cyberpunk detective mystery book"
+    ],
+    "categories": [
+      "Humor & Entertainment > Puzzles & Games > Logic & Brain Teasers",
+      "Science Fiction & Fantasy > Science Fiction > Space Exploration",
+      "Crafts, Hobbies & Home > Crafts & Hobbies > Activity Books"
+    ],
+    "description_html": "<h2>Can you unlock the Sub-Terra Core before emergency oxygen expires?</h2>\n<p>Welcome to <b>Project X: Volume 2 - The Sub-Terra Core</b>, the next-generation interactive sci-fi deduction experience built with the revolutionary <b>Interlocking Evidence Key System</b>.</p>\n<p>Unlike repetitive puzzle books, every single investigation in this volume is a connected chain of forensic deduction:</p>\n<ul>\n  <li><b>Stage 1: Forensic Sudoku:</b> Solve the 9x9 grid to unmask the 4 shaded Key Cells.</li>\n  <li><b>Stage 2: Passkey-Shifted Cipher:</b> Use the extracted 4-digit code to decode the saboteur's dying transmission.</li>\n  <li><b>Stage 3: Alibi Logic Grid:</b> Use the decrypted message as proof to eliminate innocent crew on the deduction matrix.</li>\n  <li><b>Stage 4: State Arrest Warrant:</b> Indict the true corporate saboteur and convict the culprit!</li>\n</ul>\n<p><b>100% mathematically verified unique solutions. Claim Volume 2 today!</b></p>"
+  },
+  {
+    "id": "rc_vol1",
+    "vol_number": 1,
+    "tab_name": "Vol 1: Blackwood Curse",
+    "title": "The Ravencrest Chronicles: The Blackwood Curse",
+    "subtitle": "35 Gothic Murder Mystery Dossiers: Sudoku Keys, Ciphers & Deduction Grids",
+    "series": "The Ravencrest Chronicles",
+    "price_usd": "12.99",
+    "print_cost_usd": "3.11",
+    "royalty_usd": "4.68",
+    "trim": "6\" x 9\"",
+    "pages": 176,
+    "bleed": "No Bleed",
+    "cover_palette": "Midnight Gothic & Amethyst Purple",
+    "keywords": [
+      "gothic murder mystery puzzle book for adults",
+      "sudoku escape room in a book whodunit",
+      "victorian haunted manor logic grid puzzles",
+      "dark academia deduction mystery book",
+      "interlocking evidence key puzzle book",
+      "cozy horror mind games for adults",
+      "crime scene cold case files activity book"
+    ],
+    "categories": [
+      "Humor & Entertainment > Puzzles & Games > Logic & Brain Teasers",
+      "Mystery, Thriller & Suspense > Mystery > Hard-Boiled / Traditional Detective",
+      "Crafts, Hobbies & Home > Crafts & Hobbies > Activity Books"
+    ],
+    "description_html": "<h2>Dark secrets lurk within the Ravencrest catacombs...</h2>\n<p>Welcome to <b>The Ravencrest Chronicles: Volume 1 - The Blackwood Curse</b>, an atmospheric gothic whodunit experience designed for true mystery lovers and serious puzzle solvers.</p>\n<p>Every case is an authentic <b>4-stage interlocking investigation</b>:</p>\n<ul>\n  <li><b>Stage 1: Forensic Sudoku:</b> Solve the grid to extract the 4 sacred Key Cells from the ancestral crypt.</li>\n  <li><b>Stage 2: Cryptic Cipher:</b> Decrypt the medium's intercepted seance message using the Sudoku key sum.</li>\n  <li><b>Stage 3: Alibi Deduction Matrix:</b> Pure logic grid mathematically proven to have 1 unique solution.</li>\n  <li><b>Stage 4: State Arrest Warrant:</b> Name the killer, expose the poisoned inheritance, and close the case!</li>\n</ul>\n<p><b>Step into the shadows of Ravencrest Manor\u2014claim your dossier today!</b></p>"
   }
 ]
