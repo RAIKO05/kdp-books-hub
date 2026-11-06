@@ -36,3 +36,18 @@ Spine Width: 0.396 in (10.06 mm)
 List Price: $12.99 USD
 Printing Cost: $3.11 USD
 Estimated Royalty (60%): $4.68 USD per copy sold
+
+================================================================================
+[AMAZON KDP DESCRIPTION (PASTE DIRECTLY INTO KDP HTML EDITOR)]
+================================================================================
+<h2>Dark secrets lurk within the Ravencrest catacombs...</h2>
+<p>Welcome to <b>The Ravencrest Chronicles: Volume 1 - The Blackwood Curse</b>, an atmospheric gothic whodunit experience designed for true mystery lovers and serious puzzle solvers.</p>
+<p>Every case is an authentic <b>4-stage interlocking investigation</b>:</p>
+<ul>
+  <li><b>Stage 1: Forensic Sudoku:</b> Solve the grid to extract the 4 sacred Key Cells from the ancestral crypt.</li>
+  <li><b>Stage 2: Cryptic Cipher:</b> Decrypt the medium's intercepted seance message using the Sudoku key sum.</li>
+  <li><b>Stage 3: Alibi Deduction Matrix:</b> Pure logic grid mathematically proven to have 1 unique solution.</li>
+  <li><b>Stage 4: State Arrest Warrant:</b> Name the killer, expose the poisoned inheritance, and close the case!</li>
+</ul>
+<p><b>Step into the shadows of Ravencrest Manor—claim your dossier today!</b></p>
+================================================================================

@@ -1,0 +1,71 @@
+================================================================================
+AMAZON KDP A+ CONTENT COPY GUIDE: THE BLACKWOOD ASYLUM FILES
+================================================================================
+
+MODULE 1: Standard Image Header with Text (970 x 600 px)
+--------------------------------------------------------------------------------
+Image File: Module_1_Hero_Showcase_970x600.png
+Image Alt-Text: The Blackwood Asylum Files Volume 1 3D Book Mockup with Forensic Sudoku and Ciphers
+Headline: Not Just a Puzzle Book. An Interlocking Crime Scene Investigation.
+Body Text:
+Step into The Blackwood Asylum Files, where every investigation is an authentic 4-stage forensic case file. 
+Unlike ordinary puzzle books that repeat the same isolated grids, every single deduction here 
+is mathematically linked: solve the Sudoku grid to unlock the cipher passkey, decode the dying 
+suspect dispatch, eliminate innocent alibis on the logic matrix, and indict the true perpetrator!
+
+================================================================================
+MODULE 2: Inside the Investigation (970 x 600 px)
+--------------------------------------------------------------------------------
+Image File: Module_2_Investigation_Flow_970x600.png
+Image Alt-Text: The 4-Stage Interlocking Evidence System Diagram
+Headline: The 4-Stage Interlocking Evidence Architecture
+Body Text:
+- Stage 1 (Forensic Sudoku): Solve the 9x9 grid to unmask 4 shaded Key Cells.
+- Stage 2 (Passkey Cipher): Sum the key digits to unlock the Caesar shift and decode secret words.
+- Stage 3 (Alibi Logic Matrix): 100% mathematically proven unique solution. Zero guessing.
+- Stage 4 (State Arrest Warrant): Synthesize the physical evidence and sign the warrant!
+
+================================================================================
+MODULE 3: Four Image & Text Modules (4 x 300 x 300 px)
+--------------------------------------------------------------------------------
+Tile 1: Module_3_Feature_1_Sudoku_300x300.png
+Alt-Text: Stage 1 Forensic Sudoku Key Cells
+Headline: Stage 1: Forensic Sudoku Keys
+Text: 9x9 grid concealing 4 shaded passkey cells (Alpha, Beta, Gamma, Delta).
+
+Tile 2: Module_3_Feature_2_Cipher_300x300.png
+Alt-Text: Stage 2 Passkey Cryptogram
+Headline: Stage 2: Encrypted Dispatches
+Text: Decrypt intercepted transmissions using the mathematical Sudoku key sum.
+
+Tile 3: Module_3_Feature_3_LogicGrid_300x300.png
+Alt-Text: Stage 3 Airtight Deduction Grid
+Headline: Stage 3: Airtight Alibi Matrix
+Text: Pure deductive logic mathematically verified to yield exactly 1 unique solution.
+
+Tile 4: Module_3_Feature_4_ArrestWarrant_300x300.png
+Alt-Text: Stage 4 Official State Arrest Warrant
+Headline: Stage 4: Official Arrest Warrant
+Text: Close the case file by naming the true culprit, murder weapon, and motive.
+
+================================================================================
+MODULE 4: Standard Technical Specifications Banner (970 x 300 px)
+--------------------------------------------------------------------------------
+Image File: Module_4_Quality_Specs_Banner_970x300.png
+Image Alt-Text: Premium Quality Print Specifications 6x9 Trade Paperback 176 Pages
+Headline: Engineered for Serious Puzzle Solvers & Mystery Buffs
+Body Text:
+Printed on 176 large-format, high-opacity cream pages inside a 6" x 9" trade paperback. 
+Designed with generous gutter margins for flat-lay solving. Complete solutions and 
+investigator debriefs included in the back of every volume.
+
+================================================================================
+MODULE 5: Collectible Series Lineup Banner (970 x 600 px)
+--------------------------------------------------------------------------------
+Image File: Module_5_Series_Lineup_970x600.png
+Image Alt-Text: Complete The Blackwood Asylum Files Multi-Volume Library Collection
+Headline: Collect the Entire The Blackwood Asylum Files Series
+Body Text:
+Continue your detective journey across all 15 collectible volumes. Each book contains 
+35 brand-new, standalone crime investigations totaling 140 multi-game puzzles.
+================================================================================

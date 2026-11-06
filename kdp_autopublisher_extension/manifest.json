@@ -1,0 +1,31 @@
+{
+  "manifest_version": 3,
+  "name": "KDP 100-Book Fast Auto-Publisher",
+  "version": "1.0.0",
+  "description": "1-Click Auto-Fill for Amazon KDP Paperback setup across all 100 books. Auto-fills Title, Subtitle, Series, HTML Description, 7 Keywords, Categories, Trim Specs, and $12.99 Pricing.",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://kdp.amazon.com/*"
+      ],
+      "js": [
+        "catalog_data.js",
+        "content.js"
+      ],
+      "run_at": "document_end"
+    }
+  ]
+}

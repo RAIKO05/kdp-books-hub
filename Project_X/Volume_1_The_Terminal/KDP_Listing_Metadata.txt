@@ -1,14 +1,14 @@
 ================================================================================
-KDP LISTING METADATA: PROJECT X - THE TERMINAL (VOLUME 1)
+KDP LISTING METADATA: PROJECT X - VOLUME 1
 ================================================================================
 
 [BOOK DETAILS]
-Title: Project X: The Terminal
-Subtitle: 35 Sci-Fi Murder Mystery Logic Puzzles: Corporate Sabotage, Lab Accidents & Orbital Crime Dossiers for Adults
+Title: Project X: Project X: The Terminal (Volume 1)
+Subtitle: 35 Multi-Game Murder Mystery Dossiers: Sudoku Keys, Ciphers, Alibi Logic Grids & State Arrest Warrants
 Series Title: Project X
 Series Number: 1
 Edition: 1
-Author: (Your Author Name / Independent Publisher)
+Author: (Independent Publisher / Special Investigator)
 
 [PRINT SPECIFICATIONS]
 Interior & Paper Type: Black & white interior with white paper
@@ -20,24 +20,26 @@ Spine Width: 0.396 in (10.06 mm)
 
 [CATEGORIES (Choose 3)]
 1. Humor & Entertainment > Puzzles & Games > Logic & Brain Teasers
-2. Science Fiction & Fantasy > Science Fiction > Space Exploration
-3. Mystery, Thriller & Suspense > Mystery > Hard-Boiled / Detective
+2. Mystery, Thriller & Suspense > Mystery > Hard-Boiled / Traditional Detective
+3. Crafts, Hobbies & Home > Crafts & Hobbies > Activity Books
 
 [7 BACKEND SEARCH KEYWORDS]
-1. sci fi murder mystery logic puzzle book
-2. space station detective puzzle book for adults
-3. corporate sabotage logic grid puzzles
-4. mars lab accident escape room in a book
-5. forensic science fiction crime dossiers
-6. adult deductive reasoning puzzle book
-7. cyberpunk cryptograms and brain teasers
+1. murder mystery logic puzzle book for adults
+2. sudoku whodunit escape room in a book
+3. deductive reasoning brain games cryptograms
+4. forensic crime scene activity book for adults
+5. interlocking evidence key puzzle book
+6. adult mind games logic grid mystery book
+7. cozy crime solving cold case files book
 
 [PRICING & ROYALTY (US MARKET)]
 List Price: $12.99 USD
 Printing Cost: $3.11 USD
 Estimated Royalty (60%): $4.68 USD per copy sold
 
-[KDP DESCRIPTION HTML]
+================================================================================
+[AMAZON KDP DESCRIPTION (PASTE DIRECTLY INTO KDP HTML EDITOR)]
+================================================================================
 <h2>Can you expose the corporate conspiracy before life support runs out?</h2>
 <p>Welcome to <b>Project X: The Terminal (Volume 1)</b>, an electrifying interactive sci-fi deduction experience engineered for mystery fans, puzzle solvers, and cyberpunk sleuths.</p>
 <p>Deep beneath the surface of Mars, the <i>Ares Terminal</i> research outpost has suffered a catastrophic containment breach. Vanguard Orbital Dynamics blamed a routine gas explosion, but your investigation uncovers a far darker reality: an illegal extraction lab, a murdered whistleblower, and a corporate cover-up.</p>
@@ -49,3 +51,4 @@ Estimated Royalty (60%): $4.68 USD per copy sold
   <li><b>Stage 4: Emergency Court-Martial Warrant:</b> Synthesize your evidence, name the saboteur, identify the breach point, and secure the indictment!</li>
 </ul>
 <p><b>Inspect the airlocks, decode the black box, and crack the Mars conspiracy today!</b></p>
+================================================================================

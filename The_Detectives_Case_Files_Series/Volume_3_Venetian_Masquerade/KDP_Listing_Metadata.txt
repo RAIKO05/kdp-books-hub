@@ -1,43 +1,45 @@
 ================================================================================
-KDP LISTING METADATA: VOLUME 3
+KDP LISTING METADATA: THE DETECTIVE'S CASE FILES - VOLUME 3
 ================================================================================
 
 [BOOK DETAILS]
-Title: Case Files & Clues: Volume 3
-Subtitle: 35 All-New Multi-Game Murder Mystery Dossiers: Venetian Masquerades, Highland Castles, Winter Express & Observatories
+Title: The Detective's Case Files: The Venetian Masquerade (Volume 3)
+Subtitle: 35 Multi-Game Murder Mystery Dossiers: Sudoku Keys, Ciphers, Alibi Logic Grids & State Arrest Warrants
 Series Title: The Detective's Case Files
 Series Number: 3
 Edition: 1
-Author: (Your Author Name / Independent Publisher)
+Author: (Independent Publisher / Special Investigator)
 
 [PRINT SPECIFICATIONS]
 Interior & Paper Type: Black & white interior with white paper
 Trim Size: 6 x 9 in
 Bleed Settings: No Bleed
-Paperback Cover Finish: Matte (or Glossy)
+Paperback Cover Finish: Matte
 Page Count: 176 pages
 Spine Width: 0.396 in (10.06 mm)
 
 [CATEGORIES (Choose 3)]
-1. Crafts, Hobbies & Home > Crafts & Hobbies > Activity Books
-2. Humor & Entertainment > Puzzles & Games > Logic & Brain Teasers
-3. Mystery, Thriller & Suspense > Mystery > Traditional Detective
+1. Humor & Entertainment > Puzzles & Games > Logic & Brain Teasers
+2. Mystery, Thriller & Suspense > Mystery > Hard-Boiled / Traditional Detective
+3. Crafts, Hobbies & Home > Crafts & Hobbies > Activity Books
 
 [7 BACKEND SEARCH KEYWORDS]
 1. murder mystery logic puzzle book for adults
-2. escape room game in a book cryptograms
-3. venetian masquerade and highland castle whodunit
+2. sudoku whodunit escape room in a book
+3. deductive reasoning brain games cryptograms
 4. forensic crime scene activity book for adults
-5. trans-siberian express detective mystery game
-6. deductive reasoning logic grid puzzles
-7. cozy crime solving case files for seniors
+5. interlocking evidence key puzzle book
+6. adult mind games logic grid mystery book
+7. cozy crime solving cold case files book
 
 [PRICING & ROYALTY (US MARKET)]
 List Price: $12.99 USD
 Printing Cost: $3.11 USD
 Estimated Royalty (60%): $4.68 USD per copy sold
 
-[KDP DESCRIPTION HTML]
+================================================================================
+[AMAZON KDP DESCRIPTION (PASTE DIRECTLY INTO KDP HTML EDITOR)]
+================================================================================
 <h2>Can you crack the case before the final curtain falls?</h2>
 <p>Welcome to <b>The Detective's Case Files: Volume 3</b>, the thrilling next chapter in the interactive crime-solving series engineered for true mystery buffs, logic enthusiasts, and armchair detectives.</p>
 <p>Journey into four brand new atmospheric settings spanning Venetian masked balls, mist-covered Scottish castle keeps, the luxury Trans-Siberian winter express, and Victorian star observatories.</p>
@@ -49,3 +51,4 @@ Estimated Royalty (60%): $4.68 USD per copy sold
   <li><b>Stage 4: The Official Arrest Warrant:</b> Synthesize your deductions, name the killer, and convict the true perpetrator!</li>
 </ul>
 <p><b>Gather your evidence, inspect the crime scene, and claim Volume 3 today!</b></p>
+================================================================================

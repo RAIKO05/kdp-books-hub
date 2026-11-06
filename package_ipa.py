@@ -1,13 +1,7 @@
 """
 package_ipa.py
-Builds an iOS Native App Package (KDP_Books_Hub.ipa) ready for sideloading on iPhone via Sideloadly or AltStore.
-Structure:
-  Payload/
-    KDPBooksHub.app/
-      Info.plist
-      index.html
-      catalog.json
-      cloud_config.json
+Builds an updated iOS Native App Package (KDP_Books_Hub.ipa) ready for sideloading on iPhone via Sideloadly or AltStore.
+Embeds the complete 100-book catalog, fast-publisher, trimmed icons, and Amazon A+ content suite.
 """
 
 import os
@@ -15,11 +9,14 @@ import zipfile
 import json
 import shutil
 
-SERIES_DIR = "The_Detectives_Case_Files_Series"
-HUB_HTML = os.path.join(SERIES_DIR, "kdp_books_hub.html")
-CATALOG = os.path.join(SERIES_DIR, "catalog.json")
-CONFIG = os.path.join(SERIES_DIR, "cloud_config.json")
-OUTPUT_IPA = os.path.join(SERIES_DIR, "KDP_Books_Hub.ipa")
+HUB_HTML = "index.html"
+CATALOG = "catalog.json"
+CONFIG = "The_Detectives_Case_Files_Series/cloud_config.json"
+OUTPUT_IPAS = [
+    "KDP_Books_Hub.ipa",
+    "KDP_Production_Packages/KDP_Books_Hub.ipa",
+    "The_Detectives_Case_Files_Series/KDP_Books_Hub.ipa"
+]
 
 INFO_PLIST_CONTENT = """<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
@@ -40,9 +37,9 @@ INFO_PLIST_CONTENT = """<?xml version="1.0" encoding="UTF-8"?>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
-    <string>1.0.0</string>
+    <string>2.0.0</string>
     <key>CFBundleVersion</key>
-    <string>1</string>
+    <string>2</string>
     <key>LSRequiresIPhoneOS</key>
     <true/>
     <key>UIRequiredDeviceCapabilities</key>
@@ -82,21 +79,24 @@ def build_ipa():
     shutil.copy(HUB_HTML, os.path.join(payload_app_dir, "index.html"))
     shutil.copy(HUB_HTML, os.path.join(payload_app_dir, "kdp_books_hub.html"))
     shutil.copy(CATALOG, os.path.join(payload_app_dir, "catalog.json"))
-    shutil.copy(CONFIG, os.path.join(payload_app_dir, "cloud_config.json"))
+    if os.path.exists(CONFIG):
+        shutil.copy(CONFIG, os.path.join(payload_app_dir, "cloud_config.json"))
 
-    for f in os.listdir(SERIES_DIR):
-        if f.endswith(".png") or f == "manifest.json":
-            shutil.copy(os.path.join(SERIES_DIR, f), os.path.join(payload_app_dir, f))
+    # Copy icons and manifest
+    for f in os.listdir("."):
+        if f.endswith(".png") or f.endswith(".ico") or f == "manifest.json":
+            shutil.copy(f, os.path.join(payload_app_dir, f))
 
-    # 3. Create dummy executable marker if needed
+    # 3. Create dummy executable marker
     with open(os.path.join(payload_app_dir, "KDPBooksHub"), "wb") as f:
         f.write(b"#!/bin/sh\nexit 0\n")
 
     # 4. Zip into .ipa
-    if os.path.exists(OUTPUT_IPA):
-        os.remove(OUTPUT_IPA)
+    first_ipa = OUTPUT_IPAS[0]
+    if os.path.exists(first_ipa):
+        os.remove(first_ipa)
 
-    with zipfile.ZipFile(OUTPUT_IPA, "w", zipfile.ZIP_DEFLATED) as zipf:
+    with zipfile.ZipFile(first_ipa, "w", zipfile.ZIP_DEFLATED) as zipf:
         for root, dirs, files in os.walk(temp_dir):
             for file in files:
                 abs_path = os.path.join(root, file)
@@ -104,8 +104,15 @@ def build_ipa():
                 zipf.write(abs_path, rel_path)
 
     shutil.rmtree(temp_dir)
-    print(f"[✓] Successfully generated iOS native package: {OUTPUT_IPA}")
-    print(f"    File size: {os.path.getsize(OUTPUT_IPA)} bytes")
+    
+    # Copy to destination paths
+    for target in OUTPUT_IPAS[1:]:
+        os.makedirs(os.path.dirname(target), exist_ok=True)
+        shutil.copy(first_ipa, target)
+
+    print(f"[✓] Successfully generated iOS native package across all targets:")
+    for target in OUTPUT_IPAS:
+        print(f"    -> {target} ({os.path.getsize(target)/1024:.1f} KB)")
 
 if __name__ == "__main__":
     build_ipa()

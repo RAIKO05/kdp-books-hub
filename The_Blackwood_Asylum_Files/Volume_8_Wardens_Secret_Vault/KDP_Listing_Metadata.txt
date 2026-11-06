@@ -1,0 +1,53 @@
+================================================================================
+KDP LISTING METADATA: THE BLACKWOOD ASYLUM FILES - VOLUME 8
+================================================================================
+
+[BOOK DETAILS]
+Title: The Blackwood Asylum Files: The Asylum Warden’s Secret Vault (Volume 8)
+Subtitle: 35 Multi-Game Murder Mystery Dossiers: Sudoku Keys, Ciphers, Alibi Logic Grids & State Arrest Warrants
+Series Title: The Blackwood Asylum Files
+Series Number: 8
+Edition: 1
+Author: (Independent Publisher / Special Investigator)
+
+[PRINT SPECIFICATIONS]
+Interior & Paper Type: Black & white interior with white paper
+Trim Size: 6 x 9 in
+Bleed Settings: No Bleed
+Paperback Cover Finish: Matte
+Page Count: 176 pages
+Spine Width: 0.396 in (10.06 mm)
+
+[CATEGORIES (Choose 3)]
+1. Humor & Entertainment > Puzzles & Games > Logic & Brain Teasers
+2. Mystery, Thriller & Suspense > Mystery > Hard-Boiled / Traditional Detective
+3. Crafts, Hobbies & Home > Crafts & Hobbies > Activity Books
+
+[7 BACKEND SEARCH KEYWORDS]
+1. murder mystery logic puzzle book for adults
+2. sudoku whodunit escape room in a book
+3. deductive reasoning brain games cryptograms
+4. forensic crime scene activity book for adults
+5. interlocking evidence key puzzle book
+6. adult mind games logic grid mystery book
+7. cozy crime solving cold case files book
+
+[PRICING & ROYALTY (US MARKET)]
+List Price: $12.99 USD
+Printing Cost: $3.11 USD
+Estimated Royalty (60%): $4.68 USD per copy sold
+
+================================================================================
+[AMAZON KDP DESCRIPTION (PASTE DIRECTLY INTO KDP HTML EDITOR)]
+================================================================================
+<h2>Can you crack the case before the final curtain falls?</h2>
+<p>Welcome to <b>The Asylum Warden’s Secret Vault (Volume 8)</b>, an enhanced interactive crime-solving experience engineered for true mystery buffs, logic enthusiasts, and armchair detectives.</p>
+<p>Unlike ordinary puzzle books that repeat the same isolated grids, every single investigation in this volume is an authentic <b>4-stage interlocking crime file</b>:</p>
+<ul>
+  <li><b>Stage 1: Forensic Sudoku:</b> Solve the 9x9 grid to unmask the 4 shaded Key Cells (Alpha, Beta, Gamma, Delta).</li>
+  <li><b>Stage 2: Passkey-Shifted Cipher:</b> Sum the extracted digits to decrypt the victim's coded dying dispatch.</li>
+  <li><b>Stage 3: Alibi Logic Grid:</b> Use the decrypted clue as elimination proof on the 4x4 deduction matrix (100% mathematically proven unique solution).</li>
+  <li><b>Stage 4: Official State Arrest Warrant:</b> Name the perpetrator, certify the weapon, and secure the indictment!</li>
+</ul>
+<p><b>Gather your pencils, inspect the evidence, and crack the mystery today!</b></p>
+================================================================================
