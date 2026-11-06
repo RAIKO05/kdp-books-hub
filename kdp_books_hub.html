@@ -1773,7 +1773,7 @@
       const rooms = CASE_1_GAME.logic_grid.rooms;
 
       let html = '<tr><th>Suspect</th>';
-      rooms.forEach(r => html += `<th>${r[:6]}..</th>`);
+      rooms.forEach(r => html += '<th>' + r.substring(0, 6) + '..</th>');
       html += '</tr>';
 
       suspects.forEach((s, rIdx) => {
