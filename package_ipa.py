@@ -87,9 +87,13 @@ def build_ipa():
         if f.endswith(".png") or f.endswith(".ico") or f == "manifest.json":
             shutil.copy(f, os.path.join(payload_app_dir, f))
 
-    # 3. Create dummy executable marker
-    with open(os.path.join(payload_app_dir, "KDPBooksHub"), "wb") as f:
-        f.write(b"#!/bin/sh\nexit 0\n")
+    # 3. Embed real compiled ARM64 Mach-O native executable
+    native_bin = os.path.join("ios_src", "KDPBooksHub_arm64")
+    if os.path.exists(native_bin):
+        shutil.copy(native_bin, os.path.join(payload_app_dir, "KDPBooksHub"))
+        print(f"[✓] Embedded native ARM64 Mach-O binary ({os.path.getsize(native_bin)} bytes)")
+    else:
+        raise FileNotFoundError("Native ARM64 Mach-O binary not found at ios_src/KDPBooksHub_arm64")
 
     # 4. Zip into .ipa
     first_ipa = OUTPUT_IPAS[0]
